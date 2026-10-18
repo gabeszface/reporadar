@@ -1,0 +1,43 @@
+name: RepoRadar szkennelés
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # minden nap 04:00 UTC (nyáron 06:00, télen 05:00 német idő)
+  workflow_dispatch:       # kézi indítás az Actions fülről
+
+permissions:
+  contents: write
+
+concurrency:
+  group: reporadar-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Csomagok
+        run: pip install requests
+
+      - name: Szkennelés
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scanner.py
+
+      - name: Eredmény mentése
+        run: |
+          git config user.name "reporadar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/repos.json data/history.json
+          if git diff --cached --quiet; then echo "Nincs változás"; exit 0; fi
+          git commit -m "Szkennelés $(date -u +%F)"
+          git pull --rebase
+          git push

@@ -1,0 +1,24 @@
+{
+  "about": "Többnyire számítógépen fejlesztek, néha telefonról; Android appokat is építek, GitHub Actionsszel. Érdekelnek az AI-ügynökök és AI-eszközök, a kamerás kéz- és arcfelismerés, a hasznos hétköznapi appok és minden, amit ki tudok próbálni vagy be tudok építeni a saját projektjeimbe.",
+  "max_items": 25,
+  "new_repo_days": 7,
+  "min_stars_new": 40,
+  "topics": [
+    "android",
+    "ai-agents",
+    "llm",
+    "computer-vision",
+    "self-hosted"
+  ],
+  "min_stars_topic": 150,
+  "trending_languages": [
+    "",
+    "kotlin",
+    "python",
+    "typescript"
+  ],
+  "hn_min_points": 25,
+  "reshow_after_days": 30,
+  "keep_unrated_days": 3,
+  "gemini_model": "gemini-flash-latest"
+}

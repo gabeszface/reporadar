@@ -1,0 +1,370 @@
+<!doctype html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>RepoRadar</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📡</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#E7ECEF; --surface:#F7F9FA; --ink:#1B2B34; --muted:#5B6B74; --line:#CBD5DA;
+  --accent:#0E7C86; --accent-ink:#fff; --buzz:#A86F00;
+  --use:#2F7D4E; --dev:#4C55B0; --later:#A86F00; --no:#7B868C;
+  --ring-bg:#D5DEE2;
+  color-scheme:light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --bg:#0E1A20; --surface:#15252D; --ink:#E3ECEF; --muted:#93A4AC; --line:#26414D;
+    --accent:#3DB5BF; --accent-ink:#06262A; --buzz:#E3B34C;
+    --use:#5CC28A; --dev:#8E95F0; --later:#E3B34C; --no:#8C989E;
+    --ring-bg:#22363F;
+    color-scheme:dark;
+  }
+}
+*,*::before,*::after{box-sizing:inherit}
+html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 110px)}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:16px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);
+  z-index:10;background:var(--bg)}
+h1,h2,.ring b{font-family:"Bricolage Grotesque",system-ui,sans-serif}
+a{color:var(--accent)}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+header{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);
+  padding:14px 16px 0;border-bottom:1px solid var(--line)}
+.head{display:flex;align-items:center;gap:12px;max-width:720px;margin:0 auto}
+h1{font-size:1.6rem;line-height:1;margin:0;letter-spacing:-.02em;font-weight:700}
+.sub{color:var(--muted);font-size:.85rem;margin-top:4px}
+.gear{margin-left:auto;background:none;border:1px solid var(--line);border-radius:10px;
+  width:42px;height:42px;font-size:1.2rem}
+.progress{max-width:720px;margin:12px auto 0;height:4px;background:var(--ring-bg);border-radius:2px;overflow:hidden}
+.progress i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s}
+nav{display:flex;gap:4px;max-width:720px;margin:8px auto 0;overflow-x:auto}
+nav button{background:none;border:0;border-bottom:3px solid transparent;padding:10px 10px 8px;
+  color:var(--muted);white-space:nowrap;font-size:.95rem}
+nav button[aria-selected="true"]{color:var(--ink);border-color:var(--accent);font-weight:600}
+nav small{color:var(--muted);font-weight:400}
+
+main{max-width:720px;margin:0 auto;padding:16px 16px 40px}
+.status{font-size:.85rem;color:var(--muted);min-height:1.3em;margin:0 0 10px}
+.status.err{color:#C0392B}
+
+.card{background:var(--surface);border:1px solid var(--line);border-radius:18px;
+  padding:16px;margin-bottom:14px}
+.card.old{border-style:dashed}
+.top{display:flex;gap:14px;align-items:flex-start}
+.ring{--p:0;flex:none;width:58px;height:58px;border-radius:50%;display:grid;place-items:center;
+  background:conic-gradient(var(--accent) calc(var(--p)*1%),var(--ring-bg) 0)}
+.ring b{display:grid;place-items:center;width:46px;height:46px;border-radius:50%;
+  background:var(--surface);font-size:1rem;font-weight:700}
+.ring.none{background:var(--ring-bg)}
+.title{min-width:0}
+h2{font-size:1.25rem;line-height:1.2;margin:2px 0 4px;font-weight:700;letter-spacing:-.01em}
+.repo{font-size:.85rem;word-break:break-all}
+.what{margin:12px 0 6px}
+.fit{margin:0 0 6px}
+.why{margin:0;color:var(--muted);font-size:.9rem}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 0;padding:0;list-style:none}
+.chips li{font-size:.8rem;padding:3px 9px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+.chips li.hot{color:var(--buzz);border-color:currentColor}
+.chips li.phone{color:var(--use);border-color:currentColor}
+.acts{display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-top:14px}
+.acts button{border:1.5px solid var(--line);background:none;border-radius:12px;padding:10px 4px;
+  font-size:.85rem;line-height:1.2;display:flex;flex-direction:column;align-items:center;gap:2px}
+.acts button span{font-size:1.2rem}
+.acts .use{color:var(--use)} .acts .dev{color:var(--dev)} .acts .later{color:var(--later)} .acts .no{color:var(--no)}
+.acts button[aria-pressed="true"]{background:currentColor}
+.acts button[aria-pressed="true"] em,.acts button[aria-pressed="true"] span{color:var(--surface)}
+.acts em{font-style:normal}
+@media (max-width:380px){.acts{grid-template-columns:repeat(2,1fr)}}
+
+.done{display:flex;align-items:center;gap:10px;background:var(--surface);border:1px solid var(--line);
+  border-radius:12px;padding:10px 12px;margin-bottom:8px;font-size:.92rem}
+.done .tag{font-weight:600;white-space:nowrap}
+.done .nm{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex:1}
+.done button{background:none;border:0;color:var(--accent);padding:6px;white-space:nowrap}
+.sep{color:var(--muted);font-size:.9rem;margin:22px 0 10px}
+.empty{text-align:center;color:var(--muted);padding:40px 10px}
+.empty b{display:block;color:var(--ink);font-size:1.1rem;margin-bottom:6px}
+
+dialog{border:1px solid var(--line);border-radius:18px;background:var(--surface);color:var(--ink);
+  width:min(560px,calc(100% - 24px));padding:20px}
+dialog::backdrop{background:rgba(5,15,20,.5)}
+dialog h2{margin-top:0}
+label{display:block;font-weight:600;margin:14px 0 4px}
+input{width:100%;font:inherit;padding:10px 12px;border-radius:10px;border:1px solid var(--line);
+  background:var(--bg);color:var(--ink)}
+.help{color:var(--muted);font-size:.88rem}
+.help ol{padding-left:20px;margin:6px 0}
+.row{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+.btn{border:0;border-radius:12px;padding:11px 16px;background:var(--accent);color:var(--accent-ink);font-weight:600}
+.btn.ghost{background:none;border:1px solid var(--line);color:var(--ink)}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header>
+  <div class="head">
+    <div>
+      <h1>RepoRadar</h1>
+      <div class="sub" id="sub">Betöltés…</div>
+    </div>
+    <button class="gear" id="gear" aria-label="Beállítások">⚙︎</button>
+  </div>
+  <div class="progress" aria-hidden="true"><i id="bar"></i></div>
+  <nav role="tablist" id="tabs"></nav>
+</header>
+
+<main>
+  <p class="status" id="status" role="status"></p>
+  <div id="list"></div>
+</main>
+
+<dialog id="settings">
+  <h2>Beállítások</h2>
+  <p class="help">A döntéseid a repód <code>data/feedback.json</code> fájljába mentődnek, ebből tanul a szkenner. Ehhez egy GitHub-token kell, ami csak ezen a telefonon tárolódik.</p>
+  <div class="help"><ol>
+    <li>Nyisd meg: github.com/settings/personal-access-tokens/new</li>
+    <li>Repository access: Only select repositories, és válaszd ezt a repót</li>
+    <li>Permissions → Contents: Read and write</li>
+    <li>Generate token, majd másold be ide</li>
+  </ol></div>
+  <label for="tok">GitHub-token</label>
+  <input id="tok" type="password" autocomplete="off" placeholder="github_pat_…">
+  <label for="own">Tulajdonos / repó</label>
+  <input id="own" placeholder="felhasznalonev/reporadar" autocomplete="off">
+  <div class="row">
+    <button class="btn" id="saveSet">Beállítások mentése</button>
+    <button class="btn ghost" id="delTok">Token törlése</button>
+    <button class="btn ghost" id="closeSet">Bezárás</button>
+  </div>
+</dialog>
+
+<script>
+"use strict";
+const LABELS = {use:["👍","Használnám"], dev:["🛠","Fejleszteném"], later:["⏳","Később"], no:["✕","Nem érdekel"]};
+const TABS = [["today","Mai"],["use","Használnám"],["dev","Fejleszteném"],["later","Később"]];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const fmt = n => n >= 1e6 ? (n/1e6).toFixed(1)+"M" : n >= 1e3 ? (n/1e3).toFixed(1).replace(/\.0$/,"")+"k" : String(Math.round(n));
+const store = {
+  get(k, d){ try { const v = localStorage.getItem(k); return v === null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} }
+};
+
+// tulajdonos/repó: a GitHub Pages címéből, vagy a beállításokból
+function repoPath(){
+  const saved = store.get("rr_repo", "");
+  if (saved) return saved;
+  const h = location.hostname;
+  if (h.endsWith(".github.io")){
+    const owner = h.split(".")[0];
+    const seg = location.pathname.split("/").filter(Boolean)[0];
+    return owner + "/" + (seg || h);
+  }
+  return "";
+}
+const token = () => store.get("rr_token", "");
+
+async function api(path, opts = {}){
+  const headers = {"Accept":"application/vnd.github+json", ...(opts.headers || {})};
+  if (token()) headers.Authorization = "Bearer " + token();
+  return fetch("https://api.github.com/repos/" + repoPath() + path, {...opts, headers, cache:"no-store"});
+}
+const b64dec = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\s/g,"")), c => c.charCodeAt(0)));
+function b64enc(str){
+  const b = new TextEncoder().encode(str); let bin = "";
+  for (let i = 0; i < b.length; i += 0x8000) bin += String.fromCharCode(...b.subarray(i, i + 0x8000));
+  return btoa(bin);
+}
+
+async function readJson(file){
+  if (repoPath()){
+    try {
+      const r = await api("/contents/" + file, {headers:{Accept:"application/vnd.github.raw+json"}});
+      if (r.ok) return await r.json();
+      if (r.status === 404) return null;
+    } catch {}
+  }
+  const r = await fetch(file + "?t=" + Date.now(), {cache:"no-store"});
+  return r.ok ? r.json() : null;
+}
+
+let data = {items:[]}, remote = {}, tab = "today", syncing = false, timer = null;
+const pending = () => store.get("rr_pending", {});
+function merged(){
+  const m = {...remote};
+  for (const [k, v] of Object.entries(pending())) { if (v === null) delete m[k]; else m[k] = v; }
+  return m;
+}
+const keyOf = full => full.toLowerCase();
+
+function decide(item, d){
+  const k = keyOf(item.full), p = pending(), cur = merged()[k];
+  if (cur && cur.d === d) p[k] = null;        // ugyanarra nyomva: visszavonás
+  else {
+    const a = item.ai || {};
+    p[k] = {d, t:new Date().toISOString().slice(0,10), c:a.cim || "", s:a.mit_csinal || item.desc || "",
+            u:item.url, n:item.full, l:item.lang || "", k:a.kategoria || ""};
+  }
+  store.set("rr_pending", p);
+  render();
+  clearTimeout(timer); timer = setTimeout(sync, 6000);
+}
+
+function setStatus(t, err){ const s = $("status"); s.textContent = t; s.classList.toggle("err", !!err); }
+
+async function sync(){
+  const snap = pending();
+  if (syncing || !Object.keys(snap).length) return;
+  if (!token()){ setStatus("Nincs token: a döntések egyelőre csak ezen a telefonon vannak meg. Add meg a ⚙︎ alatt."); return; }
+  syncing = true; setStatus("Mentés…");
+  try {
+    for (let attempt = 0; attempt < 3; attempt++){
+      const g = await api("/contents/data/feedback.json");
+      let sha, cur = {};
+      if (g.ok){ const j = await g.json(); sha = j.sha; cur = JSON.parse(b64dec(j.content) || "{}"); }
+      else if (g.status !== 404) throw new Error("olvasás " + g.status);
+      for (const [k, v] of Object.entries(snap)) { if (v === null) delete cur[k]; else cur[k] = v; }
+      const body = {message:"Visszajelzés: " + Object.keys(snap).length + " repó",
+                    content:b64enc(JSON.stringify(cur, null, 1)), ...(sha ? {sha} : {})};
+      const p = await api("/contents/data/feedback.json",
+        {method:"PUT", headers:{"Content-Type":"application/json"}, body:JSON.stringify(body)});
+      if (p.ok){
+        remote = cur;
+        const now = pending();
+        for (const k of Object.keys(snap)) if (JSON.stringify(now[k]) === JSON.stringify(snap[k])) delete now[k];
+        store.set("rr_pending", now);
+        setStatus("Mentve ✓");
+        if (Object.keys(now).length){ clearTimeout(timer); timer = setTimeout(sync, 3000); }
+        return;
+      }
+      if (p.status === 401 || p.status === 403) throw new Error("a token nem jó, vagy nincs írási joga");
+      if (p.status !== 409 && p.status !== 422) throw new Error("írás " + p.status);
+    }
+    throw new Error("ütközés, később újrapróbálom");
+  } catch (e){ setStatus("Nem sikerült menteni: " + e.message, true); }
+  finally { syncing = false; render(); }
+}
+
+function chips(it){
+  const a = it.ai || {}, out = [];
+  out.push(`<li>⭐ ${fmt(it.stars)}</li>`);
+  if (it.growth >= 1) out.push(`<li class="hot">+${fmt(it.growth)} csillag/nap</li>`);
+  if (it.hn_points) out.push(`<li class="hot"><a href="${esc(it.hn_url)}" target="_blank" rel="noopener" style="color:inherit">HN: ${it.hn_points} pont, ${it.hn_comments} hozzászólás</a></li>`);
+  if (it.downloads) out.push(`<li>⬇ ${fmt(it.downloads)} letöltés</li>`);
+  if (it.lang) out.push(`<li>${esc(it.lang)}</li>`);
+  if (a.kategoria) out.push(`<li>${esc(a.kategoria)}</li>`);
+  if (a.telefonrol === "igen") out.push(`<li class="phone">📱 telefonról is</li>`);
+  else if (a.telefonrol === "részben") out.push(`<li>📱 részben telefonról</li>`);
+  if (it.license) out.push(`<li>${esc(it.license)}</li>`);
+  return `<ul class="chips">${out.join("")}</ul>`;
+}
+
+function card(it, d){
+  const a = it.ai || {}, m = a.egyezes;
+  const ring = typeof m === "number"
+    ? `<div class="ring" style="--p:${m}" title="Mennyire illik hozzád"><b>${m}%</b></div>`
+    : `<div class="ring none"><b>?</b></div>`;
+  const acts = Object.entries(LABELS).map(([k,[ic,lb]]) =>
+    `<button class="${k}" data-d="${k}" aria-pressed="${d === k}"><span>${ic}</span><em>${lb}</em></button>`).join("");
+  return `<article class="card${it.old ? " old" : ""}" data-k="${esc(keyOf(it.full))}">
+    <div class="top">${ring}<div class="title">
+      <h2>${esc(a.cim || it.full.split("/")[1])}</h2>
+      <a class="repo" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.full)}</a>
+    </div></div>
+    <p class="what">${esc(a.mit_csinal || it.desc || "Nincs leírás.")}</p>
+    ${a.mire_jo ? `<p class="fit"><b>Neked:</b> ${esc(a.mire_jo)}</p>` : ""}
+    ${a.miert ? `<p class="why">${esc(a.miert)}</p>` : ""}
+    ${it.old ? `<p class="why">Korábbi szkennelésből, még nem döntöttél róla.</p>` : ""}
+    ${chips(it)}
+    <div class="acts">${acts}</div>
+  </article>`;
+}
+
+function render(){
+  const fb = merged(), items = data.items || [];
+  const rated = items.filter(it => fb[keyOf(it.full)]);
+  const counts = {use:0, dev:0, later:0};
+  for (const v of Object.values(fb)) if (v.d in counts) counts[v.d]++;
+
+  $("tabs").innerHTML = TABS.map(([k, lb]) => {
+    const n = k === "today" ? items.length - rated.length : counts[k];
+    return `<button role="tab" data-tab="${k}" aria-selected="${tab === k}">${lb} <small>${n}</small></button>`;
+  }).join("");
+  $("bar").style.width = items.length ? (100 * rated.length / items.length) + "%" : "0";
+  $("sub").textContent = data.date
+    ? `${data.date} szkennelés, ${rated.length}/${items.length} eldöntve` + (Object.keys(pending()).length ? ", mentésre vár" : "")
+    : "Még nincs szkennelés";
+
+  let html = "";
+  if (tab === "today"){
+    const open = items.filter(it => !fb[keyOf(it.full)]);
+    if (!items.length) html = `<div class="empty"><b>Még nincs adat</b>Indítsd el a szkennelést: a repóban Actions → RepoRadar szkennelés → Run workflow.</div>`;
+    else if (!open.length) html = `<div class="empty"><b>Mára mindet eldöntötted</b>A következő szkennelés holnap reggel jön.</div>`;
+    html += open.map(it => card(it, null)).join("");
+    if (rated.length){
+      html += `<p class="sep">Ma már eldöntötted</p>` + rated.map(it => {
+        const d = fb[keyOf(it.full)].d;
+        return `<div class="done" data-k="${esc(keyOf(it.full))}"><span class="tag" style="color:var(--${d})">${LABELS[d][0]} ${LABELS[d][1]}</span>
+          <span class="nm">${esc((it.ai && it.ai.cim) || it.full)}</span><button data-undo>Visszavonás</button></div>`;
+      }).join("");
+    }
+  } else {
+    const list = Object.entries(fb).filter(([, v]) => v.d === tab).sort((a, b) => (b[1].t || "").localeCompare(a[1].t || ""));
+    if (!list.length) html = `<div class="empty"><b>Itt még nincs semmi</b>A Mai fülön a gombokkal tudsz ide repókat tenni.</div>`;
+    html += list.map(([k, v]) => card({full:v.n || k, url:v.u || ("https://github.com/" + k), desc:v.s, lang:v.l,
+      stars:0, ai:{cim:v.c, mit_csinal:v.s, kategoria:v.k}}, v.d)
+      .replace(/<ul class="chips">[\s\S]*?<\/ul>/, `<ul class="chips"><li>Eldöntve: ${esc(v.t || "")}</li>${v.l ? `<li>${esc(v.l)}</li>` : ""}</ul>`)
+      .replace(/<div class="ring[^"]*"[\s\S]*?<\/div>/, "")).join("");
+  }
+  $("list").innerHTML = html;
+}
+
+// események
+$("tabs").addEventListener("click", e => {
+  const b = e.target.closest("[data-tab]"); if (!b) return;
+  tab = b.dataset.tab; render(); window.scrollTo({top:0});
+});
+$("list").addEventListener("click", e => {
+  const host = e.target.closest("[data-k]"); if (!host) return;
+  const k = host.dataset.k;
+  const item = (data.items || []).find(it => keyOf(it.full) === k)
+    || (() => { const v = merged()[k] || {}; return {full:v.n || k, url:v.u, desc:v.s, lang:v.l, ai:{cim:v.c, mit_csinal:v.s, kategoria:v.k}}; })();
+  if (e.target.closest("[data-undo]")){ const cur = merged()[k]; if (cur) decide(item, cur.d); return; }
+  const b = e.target.closest("button[data-d]"); if (b) decide(item, b.dataset.d);
+});
+document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") sync(); });
+
+$("gear").onclick = () => { $("tok").value = token(); $("own").value = repoPath(); $("settings").showModal(); };
+$("closeSet").onclick = () => $("settings").close();
+$("delTok").onclick = () => { store.set("rr_token", ""); $("tok").value = ""; setStatus("Token törölve."); };
+$("saveSet").onclick = () => {
+  store.set("rr_token", $("tok").value.trim());
+  const own = $("own").value.trim().replace(/^https?:\/\/github\.com\//, "").replace(/\/$/, "");
+  store.set("rr_repo", own === repoPath() && !store.get("rr_repo", "") ? "" : own);
+  $("settings").close(); load();
+};
+
+async function load(){
+  setStatus("Betöltés…");
+  try {
+    const [d, f] = await Promise.all([readJson("data/repos.json"), readJson("data/feedback.json")]);
+    data = d || {items:[]}; remote = f || {};
+    setStatus(token() ? "" : "Tipp: add meg a GitHub-tokent a ⚙︎ alatt, hogy a döntéseid elmentődjenek.");
+  } catch (e){ setStatus("Nem sikerült betölteni az adatokat: " + e.message, true); }
+  render(); sync();
+}
+load();
+</script>
+</body>
+</html>
