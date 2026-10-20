@@ -1,8 +1,926 @@
 {
- "date": "2026-10-19",
- "generated": "2026-10-19T10:05+00:00",
+ "date": "2026-10-20",
+ "generated": "2026-10-20T09:29+00:00",
  "model": "gemini-flash-latest",
  "items": [
+  {
+   "full": "anomalyco/opencode",
+   "url": "https://github.com/anomalyco/opencode",
+   "desc": "The open source coding agent.",
+   "lang": "TypeScript",
+   "stars": 218253,
+   "forks": 29154,
+   "growth": 1311.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2025-04-30",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "https://opencode.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 9.638,
+   "first_seen": "2026-10-20",
+   "downloads": 21400164,
+   "ai": {
+    "cim": "Nyílt forráskódú fejlesztő AI-ügynök",
+    "mit_csinal": "Egy terminálban vagy asztali alkalmazásként futtatható mesterséges intelligencia ügynök, amely kódolási feladatokat végez el önállóan. Külön módot biztosít a közvetlen kódmódosításra, valamint a biztonságos, csak olvasási jogosultságú elemzésre és tervezésre. Különböző külső nyelvi modelleket képes meghívni a szoftverkészítés felgyorsítására.",
+    "mire_jo": "Számítógépes fejlesztés közben rábízhatsz teljes kódolási feladatokat, hibajavításokat vagy új funkciók megírását.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 92,
+    "miert": "Közvetlenül az AI-ügynökök témakörébe vág, és azonnal használható PC-s fejlesztői környezetben."
+   },
+   "score": 95.1
+  },
+  {
+   "full": "akitaonrails/ai-memory",
+   "url": "https://github.com/akitaonrails/ai-memory",
+   "desc": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+   "lang": "Rust",
+   "stars": 11661,
+   "forks": 826,
+   "growth": 666.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-05-21",
+   "pushed": "2026-10-19",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.376,
+   "first_seen": "2026-10-20",
+   "downloads": 28208,
+   "ai": {
+    "cim": "Közös hosszú távú memória kódolóügynököknek",
+    "mit_csinal": "Lehetővé teszi, hogy a különböző programozási AI-ügynökök és asszisztensek megosszák egymással a projektekkel kapcsolatos memóriát. Ha munka közben átváltasz egy másik AI-eszközre, az azonnal látja a korábbi döntéseket, kudarcba fulladt kísérleteket és a nyitott kérdéseket. A felhalmozott tudást projektek és eszközök között is képes szinkronizálni.",
+    "mire_jo": "Összekötheted vele az általad használt fejlesztői AI-eszközöket, így nem kell minden váltáskor újra elmagyaráznod a kód felépítését.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 86,
+    "miert": "Pontosan az AI-ügynökökre épülő fejlesztési munkafolyamatokat teszi hatékonyabbá a folytonos kontextus megőrzésével."
+   },
+   "score": 86.3
+  },
+  {
+   "full": "Genymobile/scrcpy",
+   "url": "https://github.com/Genymobile/scrcpy",
+   "desc": "Display and control your Android device",
+   "lang": "C",
+   "stars": 152598,
+   "forks": 13988,
+   "growth": 89.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "c",
+    "ffmpeg",
+    "genyteam-system",
+    "libav",
+    "mirroring"
+   ],
+   "created": "2017-11-21",
+   "pushed": "2026-10-17",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [],
+   "buzz": 6.887,
+   "first_seen": "2026-10-20",
+   "downloads": 9460309,
+   "ai": {
+    "cim": "Android képernyőtükrözés és vezérlés PC-ről",
+    "mit_csinal": "Közvetlenül megjeleníti és vezérelhetővé teszi az Android eszközök képernyőjét a számítógépen USB-n vagy Wi-Fi-n keresztül. Lehetővé teszi a telefon irányítását a gép egerével és billentyűzetével anélkül, hogy bármit telepíteni kellene a mobilra. Rendkívül gyors, alacsony késleltetéssel és kitűnő képminőséggel működik.",
+    "mire_jo": "Android appok fejlesztése és tesztelése során a monitorodról, kényelmesen kezelheted és figyelheted a fizikai tesztkészüléket.",
+    "kategoria": "Android",
+    "telefonrol": "nem",
+    "egyezes": 95,
+    "miert": "Android alkalmazások építéséhez az egyik leghasznosabb mindennapi eszköz, ami azonnal beépíthető a fejlesztői munkafolyamatodba."
+   },
+   "score": 85.5
+  },
+  {
+   "full": "browser-use/browser-use",
+   "url": "https://github.com/browser-use/browser-use",
+   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+   "lang": "Python",
+   "stars": 118601,
+   "forks": 13165,
+   "growth": 130.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "ai-tools",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "cdp"
+   ],
+   "created": "2024-10-31",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "https://browser-use.com",
+   "src": [],
+   "buzz": 7.212,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Böngészőt vezérlő autonóm AI-ügynök",
+    "mit_csinal": "Ez a Python-könyvtár lehetővé teszi, hogy az AI úgy kezelje a webböngészőt, mint egy hús-vér ember. Képes önállóan kattintani, űrlapokat kitölteni, CAPTCHA-t megoldani és információkat kikeresni összetett oldalakról. Helyi nyelvi modellekkel és felhős API-val egyaránt működik.",
+    "mire_jo": "Kiválóan beépítheted háttérfolyamatokba vagy adatgyűjtő szkriptekbe, ahol emberi beavatkozás nélkül kell weblapokat kezelni.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 92,
+    "miert": "A legnépszerűbb AI-ügynök eszköz böngészőautomatizálásra, amit közvetlenül integrálhatsz a saját munkafolyamataidba."
+   },
+   "score": 85.0
+  },
+  {
+   "full": "immich-app/immich",
+   "url": "https://github.com/immich-app/immich",
+   "desc": "High performance self-hosted photo and video management solution.",
+   "lang": "TypeScript",
+   "stars": 116711,
+   "forks": 7284,
+   "growth": 83.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "backup-tool",
+    "flutter",
+    "google-photos",
+    "google-photos-alternative",
+    "javascript",
+    "mobile-app"
+   ],
+   "created": "2022-02-03",
+   "pushed": "2026-10-20",
+   "license": "AGPL-3.0",
+   "homepage": "https://immich.app",
+   "src": [],
+   "buzz": 6.764,
+   "first_seen": "2026-10-20",
+   "downloads": 458099,
+   "ai": {
+    "cim": "Önálló fotókezelő beépített arcfelismeréssel",
+    "mit_csinal": "Ez egy saját szerverre telepíthető, teljes értékű fotó- és videótárhely, amely a Google Fotók kiváltására készült. Automatikusan menti a telefonon készült képeket, és fejlett gépi tanulással felismeri rajtuk az arcokat és tárgyakat. Webes felület mellett modern mobilalkalmazással is rendelkezik a könnyű kezelés érdekében.",
+    "mire_jo": "Kész Android appként azonnal használhatod a mindennapokban képeid arcfelismeréses rendszerezésére, vagy tanulmányozhatod a mobil kliensének felépítését.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 95,
+    "miert": "Ötvözi az Android appot, az arcfelismerést és a praktikus hétköznapi felhasználást, ráadásul demója telefonról is azonnal kipróbálható."
+   },
+   "score": 85.0
+  },
+  {
+   "full": "open-webui/open-webui",
+   "url": "https://github.com/open-webui/open-webui",
+   "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+   "lang": "Python",
+   "stars": 156237,
+   "forks": 22737,
+   "growth": 102.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "llm",
+    "llm-ui",
+    "llm-webui",
+    "llms",
+    "mcp"
+   ],
+   "created": "2023-10-06",
+   "pushed": "2026-10-19",
+   "license": "",
+   "homepage": "https://openwebui.com",
+   "src": [],
+   "buzz": 7.027,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Sokoldalú webes AI kezelőfelület",
+    "mit_csinal": "Egy könnyen kezelhető felületet biztosít helyi és felhős nyelvi modellek futtatásához, összekötve például az Ollamával. Támogatja az egyedi AI-ügynökök létrehozását, külső eszközök bekötését és a jegyzetelést. Mobilbarát webes felülettel rendelkezik, így bármilyen eszközről kényelmesen hozzáférhető.",
+    "mire_jo": "Központi AI munkaállomásként használhatod a gépeden, miközben telefonos böngészőből is csevegsz az ügynökeiddel.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 92,
+    "miert": "Tökéletesen lefedi az AI-eszközök és -ügynökök iránti érdeklődést, a webes felülete pedig mobilon is kiválóan használható."
+   },
+   "score": 84.3
+  },
+  {
+   "full": "n8n-io/n8n",
+   "url": "https://github.com/n8n-io/n8n",
+   "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+   "lang": "TypeScript",
+   "stars": 208106,
+   "forks": 61198,
+   "growth": 125.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "apis",
+    "automation",
+    "cli",
+    "data-flow",
+    "development"
+   ],
+   "created": "2019-06-22",
+   "pushed": "2026-10-20",
+   "license": "",
+   "homepage": "https://n8n.io",
+   "src": [],
+   "buzz": 7.285,
+   "first_seen": "2026-10-20",
+   "downloads": 278,
+   "ai": {
+    "cim": "AI-képes vizuális munkafolyamat-automatizáló platform",
+    "mit_csinal": "Egy vizuális felületen kezelhető rendszer, amellyel automatizált folyamatokat és összetett AI-ügynököket lehet építeni. Több száz külső szolgáltatást és nyelvi modellt képes összekötni egyedi kódolással vagy kész blokkokkal. Saját szerverre is egyszerűen telepíthető vagy felhőből futtatható.",
+    "mire_jo": "Önálló AI-ügynökök építésére és a projektjeid hátterében futó automatizációk gyors összekötésére használhatod.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 90,
+    "miert": "Kiváló eszköz AI-ügynökök és háttérfolyamatok létrehozására, amelyek közvetlenül beépíthetők a saját projektjeidbe."
+   },
+   "score": 84.1
+  },
+  {
+   "full": "OpenHands/OpenHands",
+   "url": "https://github.com/OpenHands/OpenHands",
+   "desc": "🙌 OpenHands: AI-Driven Development",
+   "lang": "TypeScript",
+   "stars": 91345,
+   "forks": 12124,
+   "growth": 97.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools"
+   ],
+   "created": "2024-03-13",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "https://openhands.dev",
+   "src": [],
+   "buzz": 6.869,
+   "first_seen": "2026-10-20",
+   "downloads": 6228,
+   "ai": {
+    "cim": "Önálló AI fejlesztői asszisztens platform",
+    "mit_csinal": "Ez a rendszer mesterséges intelligenciával működő kódoló asszisztenseket futtat, akik képesek önállóan feladatokat megoldani. Segítségével a felmerülő hibajegyeket kódmódosításokká alakíthatod, vagy automatizálhatod a fejlesztési folyamatokat. Helyi környezetben és felhőben is elindítható, ráadásul összekapcsolható a GitHubbal.",
+    "mire_jo": "GitHub-alapú fejlesztéseidhez és Actions folyamataidhoz köthetsz be olyan AI-ügynököt, ami önállóan megírja vagy javítja a kódot.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 92,
+    "miert": "Pontosan illeszkedik az AI-ügynökök és a GitHub-alapú automatizáció iránti érdeklődésedhez."
+   },
+   "score": 83.6
+  },
+  {
+   "full": "Gathin23/cleanyourtv",
+   "url": "https://github.com/Gathin23/cleanyourtv",
+   "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+   "lang": "Java",
+   "stars": 7870,
+   "forks": 905,
+   "growth": 2623.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adb",
+    "adblock",
+    "android-tv",
+    "android-tv-launcher",
+    "apple-tv",
+    "bloatware-removal"
+   ],
+   "created": "2026-10-17",
+   "pushed": "2026-10-20",
+   "license": "",
+   "homepage": "https://cleanyour.tv",
+   "src": [
+    "új"
+   ],
+   "buzz": 9.667,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Android TV reklámmentesítő és letisztult indítófelület",
+    "mit_csinal": "Eltávolítja a felesleges gyári alkalmazásokat és a kéretlen reklámokat Android és Google TV készülékekről Wi-Fi-n keresztül. Emellett lecseréli a zsúfolt kezdőképernyőt egy Apple TV stílusú, letisztult felületre. Mivel nem töröl véglegesen semmit, egyetlen paranccsal visszaállítható az eredeti állapot.",
+    "mire_jo": "Megtisztíthatod vele a saját vagy családod okostévéjét a felesleges szoftverektől és reklámoktól kábelek nélkül.",
+    "kategoria": "Android",
+    "telefonrol": "részben",
+    "egyezes": 72,
+    "miert": "Bár Android-alapú és hétköznapilag praktikus, nem mobilapp-fejlesztéshez kapcsolódik, hanem okostévék finomhangolásához."
+   },
+   "score": 83.2
+  },
+  {
+   "full": "VictorTaelin/uniichat",
+   "url": "https://github.com/VictorTaelin/uniichat",
+   "desc": "",
+   "lang": "TypeScript",
+   "stars": 411,
+   "forks": 40,
+   "growth": 411.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-19",
+   "pushed": "2026-10-19",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.225,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Végtelen memóriájú autonóm AI-ügynök",
+    "mit_csinal": "Ez egy olyan AI-asszisztens, amivel a beszélgetés sosem szakad meg vagy vész el. Az üzeneteket egy fastruktúrában folyamatosan tömöríti, így a legkorábbi előzményekre is pontosan vissza tud emlékezni anélkül, hogy túllépné a kontextusablakot. Emellett képes parancssort futtatni, fájlokat szerkeszteni és al-ügynököket indítani.",
+    "mire_jo": "Saját fejlesztői asszisztensként használhatod komplex projekteknél, ahol elengedhetetlen a hosszú távú memóriamegőrzés.",
+    "kategoria": "AI",
+    "telefonrol": "igen",
+    "egyezes": 85,
+    "miert": "Kiválóan illeszkedik az AI-ügynökök iránti érdeklődésedhez, és a webes felület révén könnyen tesztelhető."
+   },
+   "score": 80.9
+  },
+  {
+   "full": "simbasjungles/free-my-tv",
+   "url": "https://github.com/simbasjungles/free-my-tv",
+   "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+   "lang": "Java",
+   "stars": 741,
+   "forks": 73,
+   "growth": 741.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android-tv",
+    "claude-code",
+    "google-tv",
+    "home-screen",
+    "launcher",
+    "no-ads"
+   ],
+   "created": "2026-10-19",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "https://freemytv.io",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.931,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Reklámmentes Google TV kezdőképernyő",
+    "mit_csinal": "Egy letisztult, gyors és hirdetésmentes főképernyő alkalmazás Android és Google TV rendszerekre. Közvetlen hozzáférést biztosít a telepített streaming alkalmazásokhoz és az időjáráshoz anélkül, hogy tolakodó ajánlókkal terhelné a felületet. Nyílt forráskódú és bármikor visszaállítható az eredeti felület.",
+    "mire_jo": "Androidos tapasztalataiddal saját igényeidre szabhatod, vagy GitHub Actionsből automatikusan lefordíthatod a saját tévédre.",
+    "kategoria": "Android",
+    "telefonrol": "részben",
+    "egyezes": 80,
+    "miert": "Androidos projekt praktikus hétköznapi céllal, amit GitHub Actions segítségével is le tudsz fordítani."
+   },
+   "score": 80.8
+  },
+  {
+   "full": "rustdesk/rustdesk",
+   "url": "https://github.com/rustdesk/rustdesk",
+   "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+   "lang": "Rust",
+   "stars": 126399,
+   "forks": 19850,
+   "growth": 111.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "anydesk",
+    "dart",
+    "flatpak",
+    "flutter",
+    "flutter-apps"
+   ],
+   "created": "2020-09-28",
+   "pushed": "2026-10-20",
+   "license": "AGPL-3.0",
+   "homepage": "https://rustdesk.com",
+   "src": [],
+   "buzz": 7.068,
+   "first_seen": "2026-10-20",
+   "downloads": 42188687,
+   "ai": {
+    "cim": "Nyílt forráskódú távoli asztal alkalmazás",
+    "mit_csinal": "Lehetővé teszi számítógépek és mobiltelefonok távoli elérését és vezérlését hálózaton keresztül. Teljes mértékben saját szerveren is futtatható, így biztonságos és független alternatívát nyújt. Támogatja a gördülékeny fájlátvitelt és a több platform közötti kapcsolatot.",
+    "mire_jo": "Segítségével a telefonodról kényelmesen elérheted, megfigyelheted és irányíthatod az otthoni fejlesztői gépedet.",
+    "kategoria": "eszköz",
+    "telefonrol": "igen",
+    "egyezes": 85,
+    "miert": "Kiváló hétköznapi segédeszköz a PC és a telefon közötti hibrid munkához, ráadásul létezik hozzá kész Android kliens is."
+   },
+   "score": 80.2
+  },
+  {
+   "full": "unclecode/crawl4ai",
+   "url": "https://github.com/unclecode/crawl4ai",
+   "desc": "Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8mtf",
+   "lang": "Python",
+   "stars": 85893,
+   "forks": 8935,
+   "growth": 81.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "crawler",
+    "data-extraction",
+    "llm",
+    "markdown"
+   ],
+   "created": "2024-05-09",
+   "pushed": "2026-10-20",
+   "license": "Apache-2.0",
+   "homepage": "https://crawl4ai.com",
+   "src": [],
+   "buzz": 6.679,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Weboldal-átalakító AI-ügynökök számára",
+    "mit_csinal": "Ez a program tetszőleges weboldalakat alakít át tiszta, felesleges elemektől mentes szöveges formátummá, amit a nyelvi modellek azonnal megértenek. Automatikusan kezeli a bonyolult, dinamikusan betöltődő felületeket és a kéretlen reklámokat is. Saját gépen futtatva és felhős szolgáltatásként is elérhető.",
+    "mire_jo": "Bármelyik saját AI-ügynöködet felruházhatod vele, hogy friss internetes cikkeket és webes adatokat olvasson be a döntéseihez.",
+    "kategoria": "AI",
+    "telefonrol": "igen",
+    "egyezes": 86,
+    "miert": "Kifejezetten AI-ügynökök adatgyűjtésére termett, és a felhős API-jának hála akár telefonról vagy GitHub Actionsből is egyszerűen hívható."
+   },
+   "score": 79.2
+  },
+  {
+   "full": "HKUDS/DeepTutor",
+   "url": "https://github.com/HKUDS/DeepTutor",
+   "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+   "lang": "Python",
+   "stars": 41862,
+   "forks": 5301,
+   "growth": 148.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "ai-tutor",
+    "clawbot",
+    "cli-tool",
+    "deepresearch",
+    "interactive-learning"
+   ],
+   "created": "2025-12-28",
+   "pushed": "2026-10-19",
+   "license": "Apache-2.0",
+   "homepage": "http://arxiv.org/abs/2604.26962",
+   "src": [],
+   "buzz": 7.132,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Személyre szabott AI oktató ügynök",
+    "mit_csinal": "Egy intelligens tanulási asszisztens, amely interaktív módon segít új ismereteket elsajátítani. Képes dokumentumokat elemezni, saját tudásbázist építeni és személyre szabott gyakorló feladatsorokat generálni. Különböző AI modellekkel és autonóm ügynökfunkciókkal működik együtt.",
+    "mire_jo": "Használhatod saját tananyagaid feldolgozására, vagy ötletet meríthetsz belőle saját autonóm oktató ügynökök építéséhez.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 80,
+    "miert": "Pontosan illeszkedik az AI-ügynökök iránti érdeklődésedbe, ráadásul praktikus és hasznos mindennapi tanulási célokra készült."
+   },
+   "score": 77.5
+  },
+  {
+   "full": "Comfy-Org/ComfyUI",
+   "url": "https://github.com/Comfy-Org/ComfyUI",
+   "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+   "lang": "Python",
+   "stars": 140210,
+   "forks": 16611,
+   "growth": 1011.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "comfy",
+    "comfyui",
+    "python",
+    "pytorch",
+    "stable-diffusion"
+   ],
+   "created": "2023-01-17",
+   "pushed": "2026-10-20",
+   "license": "GPL-3.0",
+   "homepage": "https://www.comfy.org/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 9.29,
+   "first_seen": "2026-10-20",
+   "downloads": 1065429,
+   "ai": {
+    "cim": "Moduláris csomópontalapú képalkotó AI-felület",
+    "mit_csinal": "Egy vizuális blokkokból felépülő felület, amellyel részletesen vezérelhető a képek és videók mesterséges intelligenciával történő előállítása. Optimalizált működése révén akár szerényebb számítógépes hardveren is képes futtatni modern diffúziós modelleket. A háttérben futó motorja programozási felületen keresztül is vezérelhető.",
+    "mire_jo": "Képgeneráló és képfeldolgozó folyamatokat építhetsz vele, amelyeket akár saját alkalmazásokba is beágyazhatsz API-n keresztül.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 65,
+    "miert": "Bár kiváló AI-eszköz, képgenerálásra összpontosít a fejlesztői ügynökök vagy a kameraalapú felismerés helyett."
+   },
+   "score": 77.4
+  },
+  {
+   "full": "Ansub/tv-detox",
+   "url": "https://github.com/Ansub/tv-detox",
+   "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+   "lang": "Java",
+   "stars": 680,
+   "forks": 72,
+   "growth": 340.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-18",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.137,
+   "first_seen": "2026-10-20",
+   "downloads": 3449,
+   "ai": {
+    "cim": "AI-vezérelt Android TV lomtalanító",
+    "mit_csinal": "Egy pehelykönnyű, reklámmentes Android TV kezdőképernyőt ad, valamint egy kész AI-utasítást a felesleges dolgok letiltásához. Claude Code vagy OpenAI segítségével ADB-n át biztonságosan leállítja a háttérben futó felesleges appokat. Nem töröl semmit véglegesen, így a folyamat teljesen kockázatmentes és visszacsinálható.",
+    "mire_jo": "Lelassult Android TV felélesztésére használhatod, miközben kipróbálhatod, hogyan vezérel egy AI-ügynök hardveres konfigurációt.",
+    "kategoria": "Android",
+    "telefonrol": "nem",
+    "egyezes": 74,
+    "miert": "Ötletesen kombinálja az Android TV-s fejlesztést és a feladatokat végrehajtó AI-ügynököket egy hétköznapi problémára."
+   },
+   "score": 73.9
+  },
+  {
+   "full": "rtk-ai/rtk",
+   "url": "https://github.com/rtk-ai/rtk",
+   "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+   "lang": "Rust",
+   "stars": 84017,
+   "forks": 5337,
+   "growth": 91.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agentic-coding",
+    "ai-coding",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "command-line-tool"
+   ],
+   "created": "2026-01-22",
+   "pushed": "2026-10-20",
+   "license": "Apache-2.0",
+   "homepage": "https://www.rtk-ai.app",
+   "src": [],
+   "buzz": 6.79,
+   "first_seen": "2026-10-20",
+   "downloads": 1211,
+   "ai": {
+    "cim": "Token-spóroló eszköz parancssori asszisztensekhez",
+    "mit_csinal": "Ez egy könnyen telepíthető parancssori segédprogram, amely jelentősen tömöríti a terminál kimeneteit, mielőtt azok eljutnának a nyelvi modellekhez. Ezzel megakadályozza, hogy az AI fejlesztőeszközök túl sok adatot dolgozzanak fel feleslegesen. A háttérben futva észrevétlenül csökkenti az API-használat költségeit és gyorsítja a válaszidőt.",
+    "mire_jo": "A saját számítógépeden futó kódoló AI-ügynökök elé bekötve drasztikusan lecsökkentheted a tokenfogyasztást és a költségeket.",
+    "kategoria": "eszköz",
+    "telefonrol": "nem",
+    "egyezes": 76,
+    "miert": "Nagyon hasznos kiegészítő az AI-alapú kódoláshoz PC-n, de mobilon nem használható."
+   },
+   "score": 73.7
+  },
+  {
+   "full": "humblemuzzu/dumbtv",
+   "url": "https://github.com/humblemuzzu/dumbtv",
+   "desc": "",
+   "lang": "JavaScript",
+   "stars": 721,
+   "forks": 65,
+   "growth": 360.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-18",
+   "pushed": "2026-10-19",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.207,
+   "first_seen": "2026-10-20",
+   "downloads": 561,
+   "ai": {
+    "cim": "Android TV reklámmentesítő és gyorsító",
+    "mit_csinal": "Ez az eszköz megpucolja az Android és Fire TV rendszereket a felesleges gyári alkalmazásoktól és reklámoktól. ADB kapcsolaton keresztül működik számítógépről, root jogosultság nélkül, és nem nyúl a rendszerfájlokhoz. Bármikor visszaállíthatók vele az eredeti beállítások egyetlen paranccsal.",
+    "mire_jo": "Otthoni okostévéd letisztítására, felgyorsítására és felesleges reklámcsíkok eltávolítására használhatod.",
+    "kategoria": "Android",
+    "telefonrol": "nem",
+    "egyezes": 68,
+    "miert": "Hasznos hétköznapi Androidos segédeszköz, de nem appfejlesztéshez vagy AI-hoz kapcsolódik."
+   },
+   "score": 70.6
+  },
+  {
+   "full": "awesome-selfhosted/awesome-selfhosted",
+   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "lang": "",
+   "stars": 328513,
+   "forks": 15438,
+   "growth": 343.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "awesome",
+    "awesome-list",
+    "cloud",
+    "free-software",
+    "hosting",
+    "privacy"
+   ],
+   "created": "2015-06-01",
+   "pushed": "2026-10-18",
+   "license": "",
+   "homepage": "https://awesome-selfhosted.net/",
+   "src": [],
+   "buzz": 8.381,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Saját szerveren futtatható alkalmazások gyűjteménye",
+    "mit_csinal": "Egy hatalmas, rendszerezett lista olyan ingyenes szoftverekről, amelyeket saját gépen vagy privát szerveren lehet üzemeltetni. Kategóriákra bontva mutat be eszközöket az otthoni felhőtárhelyektől kezdve az automatizációs megoldásokon át az irodai appokig. Segít megtalálni a zárt forráskódú, fizetős felhőszolgáltatások nyílt alternatíváit.",
+    "mire_jo": "Hasznos hétköznapi alkalmazásokat és saját üzemeltetésű háttérszolgáltatásokat fedezhetsz fel benne a projektjeidhez.",
+    "kategoria": "eszköz",
+    "telefonrol": "igen",
+    "egyezes": 58,
+    "miert": "Kiváló kiindulópont hasznos hétköznapi appok kereséséhez és mobilon is böngészhető, de csupán egy statikus lista."
+   },
+   "score": 69.5
+  },
+  {
+   "full": "AndreSzymanski15/ai-jailbreaks",
+   "url": "https://github.com/AndreSzymanski15/ai-jailbreaks",
+   "desc": "AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-weight LLMs - system prompts, persona locks, AGENTS.md specs, and Ollama Modelfiles. Built for AI security research and red-team testing.",
+   "lang": "",
+   "stars": 432,
+   "forks": 51,
+   "growth": 432.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-safety",
+    "jailbreak",
+    "jailbreaking",
+    "privacy",
+    "safety"
+   ],
+   "created": "2026-10-19",
+   "pushed": "2026-10-19",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.285,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "AI jailbreak promptok és sablonok",
+    "mit_csinal": "Különböző nyelvi modellek korlátainak megkerülésére készített kész szöveges utasítások és szerepjáték-minták gyűjteménye. Célja, hogy bemutassa az AI-rendszerek sebezhetőségeit és védelmi hiányosságait biztonsági tesztelés céljából. Azonnal másolható és tesztelhető formában tartalmazza a mintákat.",
+    "mire_jo": "Saját fejlesztésű AI-ügynökeid tesztelésére használhatod, ellenőrizve, mennyire ellenállóak a nem várt viselkedést kiváltó bemenetekkel szemben.",
+    "kategoria": "biztonság",
+    "telefonrol": "igen",
+    "egyezes": 65,
+    "miert": "Hasznos referenciaanyag saját AI-ügynökeid védelmének teszteléséhez, és mobilon is kényelmesen átnézhető."
+   },
+   "score": 69.1
+  },
+  {
+   "full": "vllm-project/vllm",
+   "url": "https://github.com/vllm-project/vllm",
+   "desc": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+   "lang": "Python",
+   "stars": 94200,
+   "forks": 23630,
+   "growth": 84.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "amd",
+    "blackwell",
+    "cuda",
+    "deepseek",
+    "deepseek-v3",
+    "gpt"
+   ],
+   "created": "2023-02-09",
+   "pushed": "2026-10-20",
+   "license": "Apache-2.0",
+   "homepage": "https://vllm.ai",
+   "src": [],
+   "buzz": 6.733,
+   "first_seen": "2026-10-20",
+   "downloads": 1052259,
+   "ai": {
+    "cim": "Nagy sebességű nyelvimodell-kiszolgáló motor",
+    "mit_csinal": "Ez a könyvtár nyílt forráskódú nagy nyelvi modellek rendkívül gyors és hatékony futtatását teszi lehetővé. Segítségével a hardver memóriáját optimálisan kihasználva szolgálhatsz ki szöveges generálásokat. Szabványos felületet biztosít, így a meglévő AI-programok közvetlenül képesek kapcsolódni hozzá.",
+    "mire_jo": "Saját szerveren vagy erősebb PC-n lokális AI API-t biztosíthatsz az appjaid vagy ügynökeid háttérmotorjaként.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 68,
+    "miert": "Bár kiváló AI-infrastruktúra, komoly dedikált GPU-t igényel, és nem egy közvetlenül beépíthető kliensoldali könyvtár."
+   },
+   "score": 68.7
+  },
+  {
+   "full": "withmarbleapp/os-taxonomy",
+   "url": "https://github.com/withmarbleapp/os-taxonomy",
+   "desc": "",
+   "lang": "JavaScript",
+   "stars": 6387,
+   "forks": 1032,
+   "growth": 284.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-07-08",
+   "pushed": "2026-10-20",
+   "license": "ODbL-1.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.405,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Nyílt oktatási tudásgráf és taxonómia",
+    "mit_csinal": "Egy strukturált adatbázis, amely több mint ezer mikrotémára bontja le az általános iskolai tananyagot. Rögzíti az egyes ismeretek közötti előfeltételeket és függőségi kapcsolatokat egy összefüggő hálózatban. Az adatok egyszerű, szabványos formátumban érhetők el a feldolgozáshoz.",
+    "mire_jo": "Saját oktató appok, kvízek vagy tanulást támogató AI-ügynökök háttértudásbázisaként építheted be.",
+    "kategoria": "adat",
+    "telefonrol": "igen",
+    "egyezes": 55,
+    "miert": "Jól strukturált tudásgráf AI-projektekhez, de csupán adatbázis és nem közvetlenül futtatható eszköz."
+   },
+   "score": 63.6
+  },
+  {
+   "full": "coreyhaines31/marketingskills",
+   "url": "https://github.com/coreyhaines31/marketingskills",
+   "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+   "lang": "JavaScript",
+   "stars": 55594,
+   "forks": 8231,
+   "growth": 151.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-seo",
+    "claude",
+    "claude-code",
+    "claude-code-plugin"
+   ],
+   "created": "2026-01-15",
+   "pushed": "2026-10-19",
+   "license": "MIT",
+   "homepage": "https://marketing-skills.com",
+   "src": [],
+   "buzz": 7.209,
+   "first_seen": "2026-10-20",
+   "downloads": 5354,
+   "ai": {
+    "cim": "Marketingeszközök AI kódoló ügynököknek",
+    "mit_csinal": "Ez egy gyűjtemény olyan készségekből és promtokból, amelyekkel a kódoló AI-ügynökök felvértezhetők marketinges tudással. Segít szövegírásban, keresőoptimalizálásban és weboldalak konverziójának növelésében. Főként Claude Code-hoz, Cursorhoz és hasonló fejlesztői környezetekhez készült.",
+    "mire_jo": "Segítségével a saját appjaidhoz vagy weboldalaidhoz készíthetsz automatikusan jobb leírásokat, kulcsszavakat és hirdetésszövegeket.",
+    "kategoria": "eszköz",
+    "telefonrol": "nem",
+    "egyezes": 50,
+    "miert": "Bár AI-ügynökökhöz kapcsolódik, tisztán marketing fókuszú, ami kevésbé illik a fejlesztői profilodhoz."
+   },
+   "score": 59.8
+  },
+  {
+   "full": "Kruk2/jasna",
+   "url": "https://github.com/Kruk2/jasna",
+   "desc": "Video restoration tool",
+   "lang": "Python",
+   "stars": 3154,
+   "forks": 231,
+   "growth": 498.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-01-18",
+   "pushed": "2026-10-18",
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.824,
+   "first_seen": "2026-10-20",
+   "downloads": 300110,
+   "ai": {
+    "cim": "Mozaikeltávolító videórestauráló eszköz",
+    "mit_csinal": "Mesterséges intelligencia modellek segítségével helyreállítja a videókon és képeken található kitakart, mozaikos részeket. A felvételek többi részét érintetlenül hagyja, és lehetőséget ad a javítandó területek pontos kijelölésére. Futtatásához erős helyi grafikus kártya szükséges.",
+    "mire_jo": "Kipróbálhatod számítógépen, hogyan működik a gépi tanuláson alapuló képi visszaállítás és videófeldolgozás.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 45,
+    "miert": "Érdekes AI-alapú képi technológia, de rétegfelhasználású és komoly helyi asztali hardvert igényel."
+   },
+   "score": 59.4
+  },
+  {
+   "full": "deepseek-ai/DeepInfer",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+   "lang": "Python",
+   "stars": 1210,
+   "forks": 86,
+   "growth": 302.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-16",
+   "pushed": "2026-10-20",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.135,
+   "first_seen": "2026-10-20",
+   "downloads": 0,
+   "ai": {
+    "cim": "Nagy teljesítményű DeepSeek kiszolgáló keretrendszer",
+    "mit_csinal": "Nagyméretű DeepSeek modellek rendkívül gyors és hatékony futtatására szolgáló rendszer. Kifejezetten adatközponti környezetre és modern hardveres gyorsítókra lett optimalizálva. Támogatja az aszinkron feladatütemezést és a szigorúan strukturált kimeneteket is.",
+    "mire_jo": "Saját DeepSeek modellek nagy sebességű helyi vagy szerveres futtatására és API-ként való kiszolgálására használható.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 30,
+    "miert": "Bár AI-eszköz, kifejezetten speciális adatközponti szerverhardvert igényel, így hétköznapi PC-n vagy mobilon nem igazán próbálható ki."
+   },
+   "score": 47.5
+  },
   {
    "full": "morluto/rea",
    "url": "https://github.com/morluto/rea",
@@ -30,7 +948,8 @@
    "buzz": 12.042,
    "first_seen": "2026-10-19",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "NousResearch/hermes-agent",
@@ -68,7 +987,8 @@
     "egyezes": 92,
     "miert": "Telitalálat az AI-ügynökök iránti érdeklődésedhez, és külön előny, hogy telefonról, csevegőből is irányítható."
    },
-   "score": 82.0
+   "score": 82.0,
+   "old": true
   },
   {
    "full": "firecrawl/firecrawl",
@@ -106,7 +1026,8 @@
     "egyezes": 92,
     "miert": "Tökéletesen passzol az AI-ügynökök és AI-eszközök iránti érdeklődésedhez, ráadásul kész API-ként azonnal kipróbálható."
    },
-   "score": 81.8
+   "score": 81.8,
+   "old": true
   },
   {
    "full": "rohitg00/ai-engineering-from-scratch",
@@ -144,7 +1065,8 @@
     "egyezes": 88,
     "miert": "Lefedi az AI-ügynököket és a gépi látást is, ráadásul telefonos böngészőből is kiválóan tanulmányozható."
    },
-   "score": 79.8
+   "score": 79.8,
+   "old": true
   },
   {
    "full": "deepseek-ai/deepseek-harness",
@@ -171,7 +1093,8 @@
    "buzz": 9.541,
    "first_seen": "2026-10-19",
    "downloads": 0,
-   "score": 79.2
+   "score": 79.2,
+   "old": true
   },
   {
    "full": "langgenius/dify",
@@ -209,7 +1132,8 @@
     "egyezes": 90,
     "miert": "Tökéletesen fedi az AI-eszközök és -ügynökök iránti érdeklődésedet, ráadásul felhőben vagy weben keresztül telefonról is jól konfigurálható."
    },
-   "score": 77.3
+   "score": 77.3,
+   "old": true
   },
   {
    "full": "tt-a1i/archify",
@@ -247,7 +1171,8 @@
     "egyezes": 82,
     "miert": "Hasznos fejlesztői eszköz AI-ügynökök mellé, ami segít áttekinthetővé tenni a saját projektjeid felépítését."
    },
-   "score": 76.8
+   "score": 76.8,
+   "old": true
   },
   {
    "full": "Predidit/Kazumi",
@@ -285,7 +1210,8 @@
     "egyezes": 85,
     "miert": "Kész Android app, amit azonnal feltehetsz a telefonodra, és Android-fejlesztőként a forráskódja is hasznos referencia lehet."
    },
-   "score": 76.3
+   "score": 76.3,
+   "old": true
   },
   {
    "full": "ollama/ollama",
@@ -323,7 +1249,8 @@
     "egyezes": 88,
     "miert": "Alapvető fontosságú eszköz az AI-alapú alkalmazások és saját ügynökök fejlesztéséhez a számítógépeden."
    },
-   "score": 76.1
+   "score": 76.1,
+   "old": true
   },
   {
    "full": "Leonxlnx/taste-skill",
@@ -361,7 +1288,8 @@
     "egyezes": 80,
     "miert": "Kifejezetten az AI-ügynökök képességeit bővíti a minőségibb front-end fejlesztés érdekében."
    },
-   "score": 75.6
+   "score": 75.6,
+   "old": true
   },
   {
    "full": "DietrichGebert/ponytail",
@@ -390,7 +1318,8 @@
    "buzz": 9.088,
    "first_seen": "2026-10-19",
    "downloads": 0,
-   "score": 75.5
+   "score": 75.5,
+   "old": true
   },
   {
    "full": "iBotPeaches/Apktool",
@@ -428,7 +1357,8 @@
     "egyezes": 85,
     "miert": "Mivel aktívan fejlesztesz Android appokat és használsz GitHub Actionst, ez egy elengedhetetlen és könnyen automatizálható eszköz számodra."
    },
-   "score": 74.7
+   "score": 74.7,
+   "old": true
   },
   {
    "full": "affaan-m/ECC",
@@ -457,7 +1387,8 @@
    "buzz": 8.915,
    "first_seen": "2026-10-19",
    "downloads": 88893,
-   "score": 74.0
+   "score": 74.0,
+   "old": true
   },
   {
    "full": "headroomlabs-ai/headroom",
@@ -495,7 +1426,8 @@
     "egyezes": 80,
     "miert": "Erősen illeszkedik az AI-ügynökök iránti érdeklődésedhez, de számítógépes fejlesztői környezetet igényel a futtatása."
    },
-   "score": 73.9
+   "score": 73.9,
+   "old": true
   },
   {
    "full": "thedotmack/claude-mem",
@@ -533,7 +1465,8 @@
     "egyezes": 82,
     "miert": "Pontosan az AI-ügynökök működését fejleszti tovább, ami a profilod alapján kiemelt érdeklődési kör."
    },
-   "score": 73.9
+   "score": 73.9,
+   "old": true
   },
   {
    "full": "blader/humanizer",
@@ -571,7 +1504,8 @@
     "egyezes": 78,
     "miert": "Hasznos, azonnal beépíthető AI-kiegészítő az ügynökökhöz, bár leginkább szöveggenerálás csiszolására szolgál."
    },
-   "score": 73.3
+   "score": 73.3,
+   "old": true
   },
   {
    "full": "harry0703/MoneyPrinterTurbo",
@@ -609,7 +1543,8 @@
     "egyezes": 74,
     "miert": "Klassz és hasznos hétköznapi AI-alkalmazás, bár inkább tartalomgyártásra fókuszál, mint klasszikus fejlesztésre."
    },
-   "score": 72.0
+   "score": 72.0,
+   "old": true
   },
   {
    "full": "JuliusBrussee/caveman",
@@ -647,7 +1582,8 @@
     "egyezes": 78,
     "miert": "Nagyon praktikus segédeszköz a mindennapi PC-s kódoláshoz és az AI-költségek minimalizálásához."
    },
-   "score": 71.7
+   "score": 71.7,
+   "old": true
   },
   {
    "full": "datawhalechina/hello-agents",
@@ -683,7 +1619,8 @@
     "egyezes": 80,
     "miert": "Erősen érdeklődsz az AI-ügynökök iránt, és a repó anyagai böngészőből, akár telefonról is kényelmesen tanulmányozhatók."
    },
-   "score": 71.7
+   "score": 71.7,
+   "old": true
   },
   {
    "full": "paperclipai/paperclip",
@@ -712,7 +1649,8 @@
    "buzz": 8.508,
    "first_seen": "2026-10-19",
    "downloads": 1165,
-   "score": 70.7
+   "score": 70.7,
+   "old": true
   },
   {
    "full": "f/prompts.chat",
@@ -750,7 +1688,8 @@
     "egyezes": 75,
     "miert": "Közvetlenül böngészhető és tesztelhető telefonról is, hasznos alapanyag AI projektek promptjainak megírásához."
    },
-   "score": 70.4
+   "score": 70.4,
+   "old": true
   },
   {
    "full": "herdrdev/herdr",
@@ -788,7 +1727,8 @@
     "egyezes": 75,
     "miert": "AI-ügynökökkel való fejlesztéshez kiváló kiegészítő, ráadásul távoli munkavégzésnél telefonról is ránézhetsz a futó folyamatokra."
    },
-   "score": 68.6
+   "score": 68.6,
+   "old": true
   },
   {
    "full": "alchaincyf/huashu-motion",
@@ -828,7 +1768,8 @@
     "egyezes": 70,
     "miert": "Kreatív és látványos AI-ügynök eszköz, de a futtatása komolyabb asztali gépet és környezetet igényel."
    },
-   "score": 68.1
+   "score": 68.1,
+   "old": true
   },
   {
    "full": "ly05010419/MacNativeGames",
@@ -861,7 +1802,8 @@
     "egyezes": 25,
     "miert": "Kifejezetten Apple hardverre és játékfordításra fókuszál, így távol áll az Androidos és AI-központú érdeklődésedtől."
    },
-   "score": 41.1
+   "score": 41.1,
+   "old": true
   },
   {
    "full": "xiaoyang111222/cn-math-taxonomy",
@@ -901,7 +1843,8 @@
     "egyezes": 20,
     "miert": "Egy kifejezetten kínai tantervre szabott oktatási adatbázis, ami kevéssé hasznosítható a te céljaidhoz."
    },
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "stablyai/orca",
