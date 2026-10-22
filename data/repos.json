@@ -1,8 +1,899 @@
 {
- "date": "2026-10-21",
- "generated": "2026-10-21T09:35+00:00",
+ "date": "2026-10-22",
+ "generated": "2026-10-22T09:23+00:00",
  "model": "gemini-flash-latest",
  "items": [
+  {
+   "full": "Panniantong/Agent-Reach",
+   "url": "https://github.com/Panniantong/Agent-Reach",
+   "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+   "lang": "Python",
+   "stars": 100796,
+   "forks": 8876,
+   "growth": 426.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code"
+   ],
+   "created": "2026-02-24",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.361,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Internetes adatgyűjtő eszköz AI-ügynököknek",
+    "mit_csinal": "Képessé teszi a mesterséges intelligencia ügynököket az internet önálló böngészésére és kutatására. Segítségével az ügynök könnyedén olvashat YouTube feliratokat, Reddit bejegyzéseket és weboldalakat. Mindezt bonyolult beállítások és drága API-előfizetések nélkül oldja meg.",
+    "mire_jo": "Beépítheted a saját fejlesztésű AI-ügynökeidbe, hogy valós idejű adatokat gyűjtsenek az internetről.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 95,
+    "miert": "Közvetlenül az AI-ügynökök képességeit bővíti, így azonnal beilleszthető a témába vágó projektjeidbe."
+   },
+   "score": 82.8
+  },
+  {
+   "full": "tashfeenahmed/freellmapi",
+   "url": "https://github.com/tashfeenahmed/freellmapi",
+   "desc": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+   "lang": "TypeScript",
+   "stars": 39174,
+   "forks": 5280,
+   "growth": 675.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-04-21",
+   "pushed": "2026-10-22",
+   "license": "MIT",
+   "homepage": "https://freellmapi.co",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.631,
+   "first_seen": "2026-10-22",
+   "downloads": 83896,
+   "ai": {
+    "cim": "Ingyenes AI modelleket egyesítő proxy",
+    "mit_csinal": "Több tucat ingyenes mesterséges intelligencia szolgáltatót fog össze egyetlen közös felület mögé. Automatikusan kezeli a használati korlátokat, és átvált másik modellre, ha egy kérés elakadna. Ezzel dollármilliókba kerülő előfizetések nélkül nyújt hatalmas nyelvi modell kapacitást.",
+    "mire_jo": "Saját AI-ügynökeid vagy mobilappjaid mögé kötheted be központi, ingyenes mesterséges intelligencia háttérmotorként.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 92,
+    "miert": "Kiváló alapanyag a saját AI-eszközeid építéséhez, ráadásul megspórolja az API-költségeket."
+   },
+   "score": 81.8
+  },
+  {
+   "full": "pingdotgg/t3code",
+   "url": "https://github.com/pingdotgg/t3code",
+   "desc": "",
+   "lang": "TypeScript",
+   "stars": 29260,
+   "forks": 7857,
+   "growth": 302.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-02-08",
+   "pushed": "2026-10-22",
+   "license": "MIT",
+   "homepage": "https://t3.codes",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.771,
+   "first_seen": "2026-10-22",
+   "downloads": 991255,
+   "ai": {
+    "cim": "AI-kódolóügynök irányító felület mobilra és asztalra",
+    "mit_csinal": "Egy vezérlőpult a gépeden futó programozó AI-ügynökök távoli irányításához. Segítségével a Cursor, Claude Code vagy Codex feladatait nemcsak gépről, de mobilos appból is kezelheted. Lényegében egy modern fejlesztői felület, ami összeköti a különböző mesterséges intelligencia eszközöket.",
+    "mire_jo": "Kiválóan alkalmas arra, hogy telefonról vagy menet közben is elindíts és felügyelj fejlesztési feladatokat a számítógépeden futó AI-ügynökökkel.",
+    "kategoria": "AI",
+    "telefonrol": "igen",
+    "egyezes": 95,
+    "miert": "Tökéletesen ötvözi az AI-ügynököket a telefonos és asztali fejlesztéssel, Android alkalmazása is van."
+   },
+   "score": 81.0
+  },
+  {
+   "full": "openclaw/openclaw",
+   "url": "https://github.com/openclaw/openclaw",
+   "desc": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+   "lang": "TypeScript",
+   "stars": 392728,
+   "forks": 82551,
+   "growth": 168.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "assistant",
+    "crustacean",
+    "molty",
+    "openclaw",
+    "own-your-data"
+   ],
+   "created": "2025-11-24",
+   "pushed": "2026-10-22",
+   "license": "MIT",
+   "homepage": "https://openclaw.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.706,
+   "first_seen": "2026-10-22",
+   "downloads": 85745,
+   "ai": {
+    "cim": "Saját gépen futó többplatformos AI-asszisztens",
+    "mit_csinal": "Egy önállóan futtatható személyes AI-asszisztens, amely a meglévő csevegőalkalmazásaidba, például Telegramba vagy WhatsAppba épül be. Támogatja a népszerű nyelvi modelleket, és a saját hardvereden tartja az adataidat és a memóriát. Natív Android, iOS és asztali kliensekkel is rendelkezik.",
+    "mire_jo": "Használhatod privát, mindennapi személyes asszisztensként, amit közvetlenül a telefonodról és számítógépedről is elérsz és automatizálásra használsz.",
+    "kategoria": "AI",
+    "telefonrol": "igen",
+    "egyezes": 92,
+    "miert": "Erőteljes AI-ügynök hétköznapi használatra, ami natív Android támogatással és rugalmas modellekkel rendelkezik."
+   },
+   "score": 79.0
+  },
+  {
+   "full": "onyx-dot-app/onyx",
+   "url": "https://github.com/onyx-dot-app/onyx",
+   "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+   "lang": "Python",
+   "stars": 32815,
+   "forks": 4607,
+   "growth": 199.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-chat",
+    "chatgpt",
+    "chatui",
+    "enterprise-search",
+    "gen-ai"
+   ],
+   "created": "2023-04-27",
+   "pushed": "2026-10-22",
+   "license": "",
+   "homepage": "https://onyx.app",
+   "src": [],
+   "buzz": 7.378,
+   "first_seen": "2026-10-22",
+   "downloads": 3800,
+   "ai": {
+    "cim": "Önhosztolt vállalati AI keresőplatform",
+    "mit_csinal": "Összekapcsolja a meglévő munkahelyi dokumentumaidat és alkalmazásaidat a nagy nyelvi modellekkel, így intelligens keresést biztosít. Képes önálló feladatokat végrehajtó AI-ügynököket kezelni és külső eszközöket meghívni. Bármilyen népszerű privát vagy felhős nyelvi modellel együtt tud működni.",
+    "mire_jo": "Saját belső tudásbázisodhoz építhetsz vele intelligens, eszközöket használó AI-ügynököt.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 90,
+    "miert": "Kiválóan passzol az AI-ügynökök iránti érdeklődésedhez, és teljes körű platformként integrálható más rendszerekkel."
+   },
+   "score": 76.8
+  },
+  {
+   "full": "thesysdev/openui",
+   "url": "https://github.com/thesysdev/openui",
+   "desc": "The Open Standard for Generative UI",
+   "lang": "TypeScript",
+   "stars": 12996,
+   "forks": 867,
+   "growth": 332.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ag-ui",
+    "agent",
+    "agents",
+    "ai",
+    "generative-ui",
+    "javascript"
+   ],
+   "created": "2024-12-02",
+   "pushed": "2026-10-22",
+   "license": "MIT",
+   "homepage": "https://www.openui.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.703,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Generatív UI keretrendszer AI modellekhez",
+    "mit_csinal": "Lehetővé teszi, hogy az AI ne csak sima szöveget, hanem működő felhasználói felületeket generáljon. Egy speciális, tömör nyelvet használ, amivel folyamatosan, valós időben rajzolja ki a gombokat, táblázatokat és űrlapokat. Több ismert frontend-keretrendszerrel is együttműködik.",
+    "mire_jo": "Kiválóan beépítheted saját AI-asszisztens vagy chat projektedbe, hogy a modell interaktív felületeket generáljon szöveg helyett.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 88,
+    "miert": "Kifejezetten illik az AI-ügynökök és AI-eszközök iránti érdeklődésedhez, ráadásul közvetlenül beépíthető saját projektekbe."
+   },
+   "score": 76.6
+  },
+  {
+   "full": "supabase/supabase",
+   "url": "https://github.com/supabase/supabase",
+   "desc": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+   "lang": "TypeScript",
+   "stars": 113220,
+   "forks": 16987,
+   "growth": 504.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "alternative",
+    "auth",
+    "database",
+    "deno",
+    "embeddings"
+   ],
+   "created": "2019-10-12",
+   "pushed": "2026-10-22",
+   "license": "Apache-2.0",
+   "homepage": "https://supabase.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.552,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Nyílt forráskódú adatbázis és háttérrendszer",
+    "mit_csinal": "Egy teljes felhős háttérrendszert ad a kezedbe, amely adatbázist, felhasználókezelést és fájltárolást tartalmaz. Külön eszközöket nyújt a mesterséges intelligenciához szükséges szövegkeresésekhez és vektorok tárolásához. Valós időben szinkronizálja az adatokat a mobil- és webes alkalmazások között.",
+    "mire_jo": "Ideális kész háttérrendszerként működhet az Android appjaidhoz és az AI-projektek adatainak tárolásához.",
+    "kategoria": "adat",
+    "telefonrol": "igen",
+    "egyezes": 78,
+    "miert": "Kiváló backend Android alkalmazásokhoz, beépített AI-vektortámogatása pedig hasznos a saját kísérleteidhez."
+   },
+   "score": 73.2
+  },
+  {
+   "full": "rmyndharis/OpenWA",
+   "url": "https://github.com/rmyndharis/OpenWA",
+   "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+   "lang": "TypeScript",
+   "stars": 16088,
+   "forks": 3766,
+   "growth": 155.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "api",
+    "bot",
+    "gateway",
+    "self-hosted",
+    "whatsapp",
+    "whatsapp-api"
+   ],
+   "created": "2026-02-02",
+   "pushed": "2026-10-21",
+   "license": "MIT",
+   "homepage": "https://www.open-wa.org",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.987,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Nyílt forráskódú WhatsApp átjáró",
+    "mit_csinal": "Egy önállóan üzemeltethető WhatsApp API szerver, amely modern webes kezelőfelületet és automatizálási lehetőségeket biztosít. Segítségével könnyen integrálhatod a WhatsApp üzenetküldést saját rendszereidbe, például n8n-be vagy csevegőbotokba. Cserélhető adatbázis- és tárolóelemeket támogat, teljesen nyílt forráskóddal.",
+    "mire_jo": "Összekötheted vele a saját AI-ügynökeidet vagy értesítő szkriptjeidet közvetlenül a WhatsApp csevegésekkel.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 85,
+    "miert": "Kiválóan integrálható AI-ügynökökkel és hétköznapi hasznos automatizációkkal, fejlesztői szemléletű megoldás."
+   },
+   "score": 72.6
+  },
+  {
+   "full": "github/spec-kit",
+   "url": "https://github.com/github/spec-kit",
+   "desc": "💫 Toolkit to help you get started with SDD or any other process!",
+   "lang": "Python",
+   "stars": 142368,
+   "forks": 12748,
+   "growth": 208.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec"
+   ],
+   "created": "2025-08-21",
+   "pushed": "2026-10-21",
+   "license": "MIT",
+   "homepage": "https://github.github.com/spec-kit/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.716,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Tervezési keretrendszer kódoló AI-ügynököknek",
+    "mit_csinal": "Segít strukturált fejlesztési folyamatokat adni az AI-kódolóknak részletes specifikációk alapján. Ahelyett, hogy véletlenszerűen generálnál kódot, sablonokkal és ellenőrzési pontokkal vezeti végig az ügynököket a tervezéstől a megvalósításig. Könnyen testre szabható és integrálható meglévő fejlesztői munkafolyamatokba.",
+    "mire_jo": "Beépítheted saját szoftverfejlesztési folyamataidba, hogy az AI-ügynökök pontosabb és megbízhatóbb kódot készítsenek az Android vagy webes projektjeidhez.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 80,
+    "miert": "Kifejezetten az AI-ügynökök hatékonyabb irányítását támogatja a mindennapi fejlesztések során."
+   },
+   "score": 71.8
+  },
+  {
+   "full": "k2-fsa/OmniVoice",
+   "url": "https://github.com/k2-fsa/OmniVoice",
+   "desc": "High-Quality Voice Cloning TTS for 600+ Languages",
+   "lang": "Python",
+   "stars": 15514,
+   "forks": 2279,
+   "growth": 157.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-03-31",
+   "pushed": "2026-10-19",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.993,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Többnyelvű hangklónozó AI modell",
+    "mit_csinal": "Egy fejlett szövegfelolvasó mesterséges intelligencia, amely több mint 600 nyelvet támogat zéró tanulásos mintavétellel. Képes pontosan lemásolni bármilyen beszédhangot rövid minta alapján, vagy tulajdonságok (kor, nem, hangmagasság) szerint új hangot generálni. Emellett nevetést és egyéb nem verbális hangokat is tud képezni rendkívül gyorsan.",
+    "mire_jo": "AI-ügynökeidhez adhatsz valósághű, egyedi szinkronhangot és hangklónozást.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Nagyszerű AI-eszköz ügynökök felruházására beszéddel, bár futtatásához komolyabb PC és GPU szükséges."
+   },
+   "score": 69.6
+  },
+  {
+   "full": "koala73/worldmonitor",
+   "url": "https://github.com/koala73/worldmonitor",
+   "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+   "lang": "TypeScript",
+   "stars": 89159,
+   "forks": 13684,
+   "growth": 160.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "ai",
+    "dashboard",
+    "geopolitics",
+    "mcp",
+    "mcp-server"
+   ],
+   "created": "2026-01-08",
+   "pushed": "2026-10-22",
+   "license": "AGPL-3.0",
+   "homepage": "https://worldmonitor.app",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.361,
+   "first_seen": "2026-10-22",
+   "downloads": 225280,
+   "ai": {
+    "cim": "Valós idejű globális információs műszerfal",
+    "mit_csinal": "Egyetlen közös felületen összesíti a világ híreit, gazdasági adatait, repülési infóit és geopolitikai eseményeit. A beérkező híreket és jelzéseket AI segítségével összegzi és elemzi, akár 3D földgömbön ábrázolva. Elérhető böngészőből, letölthető appként és terminálból is.",
+    "mire_jo": "Böngészőből vagy telefonról azonnal követheted a világ eseményeit, vagy az MCP szerverét bekötheted saját AI-ügynökeidbe adatforrásként.",
+    "kategoria": "AI",
+    "telefonrol": "igen",
+    "egyezes": 78,
+    "miert": "Izgalmas, mindennapokban hasznos AI-támogatott dashboard, aminek MCP támogatása és webes elérése telefonról is jól használható."
+   },
+   "score": 69.5
+  },
+  {
+   "full": "NVIDIA/flare-local-inference",
+   "url": "https://github.com/NVIDIA/flare-local-inference",
+   "desc": "",
+   "lang": "Python",
+   "stars": 569,
+   "forks": 56,
+   "growth": 284.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-20",
+   "pushed": "2026-10-21",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.923,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Helyi AI futtatókörnyezet fejlesztőknek",
+    "mit_csinal": "Egy NVIDIA GPU-kra optimalizált, helyi modellfuttató szerver, amelyet kifejezetten hosszú beszélgetésekhez és kódoló ügynökökhöz készítettek. A modelleket PyTorch segítségével készíti elő, a kiszolgálást pedig egy ultra-hatékony Rust motor végzi a minimális memóriahasználatért. Célja, hogy a munkaállomások erőforrásaiból a legtöbbet hozza ki ismételt eszközkérések során.",
+    "mire_jo": "Saját gépeden futtathatsz vele villámgyorsan kódoló és eszközhasználó AI-ügynököket.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 75,
+    "miert": "AI-ügynökökhöz tervezett profi eszköz, de csak dedikált, újabb NVIDIA hardveren használható ki PC-n."
+   },
+   "score": 66.4
+  },
+  {
+   "full": "iptv-org/iptv",
+   "url": "https://github.com/iptv-org/iptv",
+   "desc": "Collection of publicly available IPTV channels from all over the world",
+   "lang": "TypeScript",
+   "stars": 141920,
+   "forks": 8342,
+   "growth": 168.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "iptv",
+    "m3u",
+    "playlist",
+    "streams",
+    "tv"
+   ],
+   "created": "2018-11-14",
+   "pushed": "2026-10-22",
+   "license": "Unlicense",
+   "homepage": "https://iptv-org.github.io",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.503,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Ingyenes globális IPTV csatornalisták",
+    "mit_csinal": "Ez a projekt nyilvánosan elérhető televíziócsatornák stream linkjeit gyűjti össze a világ minden tájáról. A lejátszási listákat országok, nyelvek és kategóriák szerint rendszerezi. Bármilyen m3u listát támogató médialejátszóval azonnal nézhetők az adások.",
+    "mire_jo": "Közvetlenül felhasználhatod adatforrásként, ha egy saját streaming- vagy TV-néző Android appot készítesz.",
+    "kategoria": "egyéb",
+    "telefonrol": "igen",
+    "egyezes": 70,
+    "miert": "Bár nem AI vagy kamera téma, hasznos mindennapi alapanyag lehet egy saját Androidos médialejátszó app fejlesztéséhez."
+   },
+   "score": 65.1
+  },
+  {
+   "full": "usestrix/strix",
+   "url": "https://github.com/usestrix/strix",
+   "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+   "lang": "Python",
+   "stars": 70946,
+   "forks": 7872,
+   "growth": 394.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agents",
+    "ai-hacking",
+    "ai-penetration-testing",
+    "ai-pentesting",
+    "ai-security",
+    "artificial-intelligence"
+   ],
+   "created": "2025-08-05",
+   "pushed": "2026-10-22",
+   "license": "Apache-2.0",
+   "homepage": "https://strix.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.213,
+   "first_seen": "2026-10-22",
+   "downloads": 96011,
+   "score": 63.3
+  },
+  {
+   "full": "luongnv89/claude-howto",
+   "url": "https://github.com/luongnv89/claude-howto",
+   "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+   "lang": "Python",
+   "stars": 42541,
+   "forks": 5347,
+   "growth": 428.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "claude-code",
+    "guide",
+    "tutorial"
+   ],
+   "created": "2025-11-07",
+   "pushed": "2026-10-20",
+   "license": "MIT",
+   "homepage": "http://luongnv.com/claude-howto/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.193,
+   "first_seen": "2026-10-22",
+   "downloads": 2233,
+   "score": 63.2
+  },
+  {
+   "full": "omnara-ai/omnara",
+   "url": "https://github.com/omnara-ai/omnara",
+   "desc": "The open-source managed agent platform. A self-hostable alternative to Claude Managed Agents and OpenAI's Agents API.",
+   "lang": "Go",
+   "stars": 3080,
+   "forks": 242,
+   "growth": 0.0,
+   "hn_points": 75,
+   "hn_comments": 24,
+   "hn_url": "https://news.ycombinator.com/item?id=50183892",
+   "topics": [
+    "agent-infrastructure",
+    "agent-platform",
+    "agent-runtime",
+    "agents-api",
+    "ai-infrastructure",
+    "cloud-agents"
+   ],
+   "created": "2025-07-09",
+   "pushed": "2026-10-22",
+   "license": "Apache-2.0",
+   "homepage": "https://www.omnara.com",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.091,
+   "first_seen": "2026-10-22",
+   "downloads": 1433,
+   "score": 62.4
+  },
+  {
+   "full": "tek-sys-hub/Rubix-lang",
+   "url": "https://github.com/tek-sys-hub/Rubix-lang",
+   "desc": "The 100% Pure x86-64 Assembly Systems Language",
+   "lang": "Assembly",
+   "stars": 1895,
+   "forks": 1,
+   "growth": 631.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "assembler",
+    "assembly",
+    "assembly-lang",
+    "assembly-language",
+    "assembly-language-programming",
+    "assembly-x86-64"
+   ],
+   "created": "2026-10-19",
+   "pushed": "2026-10-21",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.959,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "score": 61.4
+  },
+  {
+   "full": "9bie/php2shell-bypass-aslr-exp",
+   "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+   "desc": "",
+   "lang": "Python",
+   "stars": 742,
+   "forks": 285,
+   "growth": 742.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-21",
+   "pushed": "2026-10-22",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.933,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "score": 61.2
+  },
+  {
+   "full": "youhunwl/TVAPP",
+   "url": "https://github.com/youhunwl/TVAPP",
+   "desc": " 收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。",
+   "lang": "JavaScript",
+   "stars": 25729,
+   "forks": 3458,
+   "growth": 165.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "android-tv",
+    "apk",
+    "app",
+    "tv",
+    "tv-box"
+   ],
+   "created": "2025-03-11",
+   "pushed": "2026-10-22",
+   "license": "Apache-2.0",
+   "homepage": "https://app.iyouhun.com",
+   "src": [],
+   "buzz": 7.143,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Android TV alkalmazások gyűjteménye",
+    "mit_csinal": "Különféle Android TV-re és TV Boxokra szánt alkalmazások és lejátszási források nagy gyűjteménye. Lehetővé teszi filmek, sorozatok és élő tévéadások elérését közvetlenül letölthető APK fájlokon keresztül. Segít megtalálni a legjobb multimédiás programokat a nappaliba.",
+    "mire_jo": "Kész Android appokat és médiás interfész-megoldásokat fedezhetsz fel és próbálhatsz ki a készülékeiden.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 65,
+    "miert": "Androidos téma, telefonról is letölthető APK-kkal, de inkább egyszerű gyűjtemény, mint fejleszthető forráskód."
+   },
+   "score": 61.0
+  },
+  {
+   "full": "strelov1/freehire",
+   "url": "https://github.com/strelov1/freehire",
+   "desc": "freehire — the open-source search engine for job seekers",
+   "lang": "Go",
+   "stars": 2640,
+   "forks": 263,
+   "growth": 360.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ats",
+    "career",
+    "careers",
+    "golang",
+    "hiring",
+    "job-aggregator"
+   ],
+   "created": "2026-06-07",
+   "pushed": "2026-10-22",
+   "license": "MIT",
+   "homepage": "https://freehire.me",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.465,
+   "first_seen": "2026-10-22",
+   "downloads": 154,
+   "ai": {
+    "cim": "Nyílt forráskódú IT álláskereső",
+    "mit_csinal": "Közvetlenül a vállalatok saját karrieroldalairól gyűjti össze az informatikai álláshirdetéseket fejvadászok és közvetítők nélkül. Kiszűri a duplikációkat, és részletes szűrést tesz lehetővé fizetés, tapasztalat vagy technológiák alapján. Emellett segít önéletrajzot készíteni és nyomon követni a jelentkezéseket.",
+    "mire_jo": "Álláskeresésre vagy az API-jára épülő értesítő botok és saját mikroszolgáltatások készítésére használhatod.",
+    "kategoria": "eszköz",
+    "telefonrol": "igen",
+    "egyezes": 62,
+    "miert": "Hasznos hétköznapi alkalmazás nyílt API-val és webes felülettel, de nem kapcsolódik az AI-hoz vagy a képernyős/kamerás fejlesztésekhez."
+   },
+   "score": 60.2
+  },
+  {
+   "full": "twentyhq/twenty",
+   "url": "https://github.com/twentyhq/twenty",
+   "desc": "The open alternative to Salesforce, designed for AI.",
+   "lang": "TypeScript",
+   "stars": 59446,
+   "forks": 9681,
+   "growth": 112.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "crm",
+    "crm-system",
+    "customer",
+    "good-first-issue",
+    "graphql",
+    "hacktoberfest"
+   ],
+   "created": "2022-12-01",
+   "pushed": "2026-10-22",
+   "license": "",
+   "homepage": "https://twenty.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.926,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "AI-barát, nyílt forráskódú ügyfélkezelő",
+    "mit_csinal": "A Salesforce nyílt forráskódú alternatívája, amelyet modern csapatoknak és AI-ügynököknek terveztek. Lehetővé teszi ügyféladatok, feladatok és munkafolyamatok kódból történő testreszabását TypeScript segítségével. Teljes hozzáférést és kódként verziózható üzleti logikát nyújt felhős vagy saját szerveres környezetben.",
+    "mire_jo": "AI-kódolóügynökökkel automatizálhatsz üzleti folyamatokat és adatkezelést egy modern webes rendszerben.",
+    "kategoria": "web",
+    "telefonrol": "igen",
+    "egyezes": 60,
+    "miert": "Erősen támogatja az AI-ügynököket, de egy komplex CRM rendszer nem vág teljesen a mindennapi fejlesztési fókuszodba."
+   },
+   "score": 57.4
+  },
+  {
+   "full": "php/php-src",
+   "url": "https://github.com/php/php-src",
+   "desc": "The PHP Interpreter",
+   "lang": "C",
+   "stars": 40726,
+   "forks": 8289,
+   "growth": 0.0,
+   "hn_points": 1026,
+   "hn_comments": 544,
+   "hn_url": "https://news.ycombinator.com/item?id=50180873",
+   "topics": [],
+   "created": "2011-06-16",
+   "pushed": "2026-10-22",
+   "license": "BSD-3-Clause",
+   "homepage": "https://www.php.net",
+   "src": [
+    "hn"
+   ],
+   "buzz": 12.965,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "A hivatalos PHP nyelv értelmezője",
+    "mit_csinal": "Ez a projekt a PHP programozási nyelv hivatalos forráskódját tartalmazza. A fejlesztők ezen keresztül alakítják magát a nyelvet, és ebből készítenek futtatható változatokat. Weboldalak milliói futnak az itt készülő kódra támaszkodva.",
+    "mire_jo": "Akkor hasznos, ha mélyrehatóan érdekel a nyelvek belső működése, vagy közvetlenül a PHP motorját szeretnéd módosítani.",
+    "kategoria": "egyéb",
+    "telefonrol": "nem",
+    "egyezes": 10,
+    "miert": "Alacsony szintű rendszerprogramozás, ami távol áll az Android, az AI és a kamerás alkalmazások világától."
+   },
+   "score": 46.0
+  },
+  {
+   "full": "openai/php2shell-checker",
+   "url": "https://github.com/openai/php2shell-checker",
+   "desc": "",
+   "lang": "JavaScript",
+   "stars": 621,
+   "forks": 51,
+   "growth": 621.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-21",
+   "pushed": "2026-10-21",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.72,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "PHP sebezhetőség ellenőrző eszköz",
+    "mit_csinal": "Ez egy egyszerű Node.js eszköz, amely megvizsgál egy weboldalt vagy egy helyi PHP programot egy kritikus biztonsági rés szempontjából. Képes önálló parancssori eszközként és OpenAI Codex bővítményként is lefutni. Gyorsan megmondja, hogy az adott verzió sebezhető-e vagy már javított.",
+    "mire_jo": "Webes szerverek és API-végpontok gyors verzió- és biztonsági ellenőrzésére használható parancssorból.",
+    "kategoria": "biztonság",
+    "telefonrol": "nem",
+    "egyezes": 20,
+    "miert": "Bár OpenAI eszközökhöz is kapcsolható, alapvetően csak egy szűk célú PHP biztonsági ellenőrző."
+   },
+   "score": 35.8
+  },
+  {
+   "full": "ikow/php2shell-poc",
+   "url": "https://github.com/ikow/php2shell-poc",
+   "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+   "lang": "Python",
+   "stars": 1286,
+   "forks": 466,
+   "growth": 1286.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "cve-2026-109618",
+    "cve-2026-109619",
+    "detection-rules",
+    "exploit",
+    "php-exploit",
+    "php-security"
+   ],
+   "created": "2026-10-21",
+   "pushed": "2026-10-22",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.592,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "PHP távoli kódfuttatási sebezhetőség vizsgálata",
+    "mit_csinal": "Ez a csomag egy súlyos biztonsági hiba kihasználhatóságát szemlélteti a PHP különböző verzióiban. Segítségével a kutatók tesztelhetik a webkiszolgálók védelmi képességeit. Nem kész alkalmazás, hanem védelmi és oktatási demonstráció.",
+    "mire_jo": "Szerverek biztonsági tesztelésére és a támadások felismerési szabályainak ellenőrzésére használható.",
+    "kategoria": "biztonság",
+    "telefonrol": "nem",
+    "egyezes": 15,
+    "miert": "Kifejezetten kiberbiztonsági kutatás, amely nem illeszkedik az appfejlesztési és mesterséges intelligencia céljaidhoz."
+   },
+   "score": 35.5
+  },
+  {
+   "full": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+   "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+   "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes only.",
+   "lang": "Shell",
+   "stars": 742,
+   "forks": 163,
+   "growth": 742.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-21",
+   "pushed": "2026-10-22",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.933,
+   "first_seen": "2026-10-22",
+   "downloads": 0,
+   "ai": {
+    "cim": "Biztonsági rés bemutató PHP-hoz",
+    "mit_csinal": "Ez a projekt egy frissen felfedezett súlyos PHP hibát mutat be gyakorlati példán keresztül. Segítségével tesztelhető, hogy egy szerver távolról feltörhető-e a fájlfeltöltési funkció hibája miatt. Főleg biztonsági szakembereknek és rendszergazdáknak készült a javítások ellenőrzésére.",
+    "mire_jo": "Saját vagy kezelt PHP-alapú szervereid biztonsági tesztelésére használhatod.",
+    "kategoria": "biztonság",
+    "telefonrol": "nem",
+    "egyezes": 10,
+    "miert": "Egy specifikus PHP biztonsági hibát demonstrál, ami távol áll az AI, Android vagy kamerás projektektől."
+   },
+   "score": 30.5
+  },
   {
    "full": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
@@ -25,7 +916,8 @@
    "buzz": 9.538,
    "first_seen": "2026-10-21",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "heygen-com/hyperframes",
@@ -54,7 +946,8 @@
    "buzz": 8.912,
    "first_seen": "2026-10-21",
    "downloads": 851,
-   "score": 93.4
+   "score": 93.4,
+   "old": true
   },
   {
    "full": "pengchujin/aerial-tv",
@@ -78,7 +971,8 @@
    "buzz": 8.777,
    "first_seen": "2026-10-21",
    "downloads": 4535,
-   "score": 92.0
+   "score": 92.0,
+   "old": true
   },
   {
    "full": "msitarzewski/agency-agents",
@@ -102,7 +996,8 @@
    "buzz": 8.733,
    "first_seen": "2026-10-21",
    "downloads": 0,
-   "score": 91.6
+   "score": 91.6,
+   "old": true
   },
   {
    "full": "shiyu-coder/Kronos",
@@ -126,7 +1021,8 @@
    "buzz": 8.73,
    "first_seen": "2026-10-21",
    "downloads": 0,
-   "score": 91.5
+   "score": 91.5,
+   "old": true
   },
   {
    "full": "google/artemis",
@@ -165,7 +1061,8 @@
     "egyezes": 95,
     "miert": "Tökéletes átfedésben van az Android-fejlesztéssel és az AI-alapú automatizációval."
    },
-   "score": 89.4
+   "score": 89.4,
+   "old": true
   },
   {
    "full": "HKUDS/CLI-Anything",
@@ -198,7 +1095,8 @@
     "egyezes": 82,
     "miert": "Nagyon jól passzol az AI-ügynökök iránti érdeklődésedhez, de helyi környezetet és asztali szoftvereket igényel."
    },
-   "score": 85.0
+   "score": 85.0,
+   "old": true
   },
   {
    "full": "microsoft/ai-agents-for-beginners",
@@ -236,7 +1134,8 @@
     "egyezes": 95,
     "miert": "Pontosan az AI-ügynökök témájába vág, jól strukturált és azonnal felhasználható tudást ad."
    },
-   "score": 84.9
+   "score": 84.9,
+   "old": true
   },
   {
    "full": "hesreallyhim/awesome-claude-code",
@@ -274,7 +1173,8 @@
     "egyezes": 90,
     "miert": "Kifejezetten a kódoló AI-ügynökökről szól, és közvetlenül támogatja a mindennapi fejlesztői munkádat."
    },
-   "score": 81.8
+   "score": 81.8,
+   "old": true
   },
   {
    "full": "wshobson/agents",
@@ -314,7 +1214,8 @@
     "egyezes": 85,
     "miert": "Közvetlenül használható hétköznapi kódolási feladatokra és AI-ügynökök bővítésére több platformon keresztül."
    },
-   "score": 81.2
+   "score": 81.2,
+   "old": true
   },
   {
    "full": "sickn33/agentic-awesome-skills",
@@ -352,7 +1253,8 @@
     "egyezes": 80,
     "miert": "Remek forrás az AI-ügynökök bővítéséhez, és a szabályfájlok akár telefonról is böngészhetők vagy használhatók."
    },
-   "score": 80.3
+   "score": 80.3,
+   "old": true
   },
   {
    "full": "JoasASantos/REA-Prompts",
@@ -389,7 +1291,8 @@
     "egyezes": 76,
     "miert": "A promptok mobilon is bemásolhatók egy AI-chatbe, és jól jönnek az Android-appok elemzésénél."
    },
-   "score": 78.3
+   "score": 78.3,
+   "old": true
   },
   {
    "full": "vxcontrol/pentagi",
@@ -427,7 +1330,8 @@
     "egyezes": 78,
     "miert": "Valódi önálló AI-ágens rendszer érdekes felhasználási területtel, de helyi szervert és Dockert igényel a futtatáshoz."
    },
-   "score": 78.2
+   "score": 78.2,
+   "old": true
   },
   {
    "full": "kushagrasinghx/BitChord",
@@ -460,7 +1364,8 @@
     "egyezes": 80,
     "miert": "Androidos, Kotlin nyelven írt mindennapi zenei app letölthető APK-val, ami nagyon releváns az érdeklődésedhez."
    },
-   "score": 77.0
+   "score": 77.0,
+   "old": true
   },
   {
    "full": "ELY-Open-Source/ElyOffice",
@@ -484,7 +1389,8 @@
    "buzz": 7.115,
    "first_seen": "2026-10-21",
    "downloads": 4672,
-   "score": 74.6
+   "score": 74.6,
+   "old": true
   },
   {
    "full": "stackedlol/ascii-sharks",
@@ -508,7 +1414,8 @@
    "buzz": 7.064,
    "first_seen": "2026-10-21",
    "downloads": 0,
-   "score": 74.1
+   "score": 74.1,
+   "old": true
   },
   {
    "full": "reason-machines/reason-network",
@@ -538,7 +1445,8 @@
    "buzz": 6.991,
    "first_seen": "2026-10-21",
    "downloads": 6869,
-   "score": 73.3
+   "score": 73.3,
+   "old": true
   },
   {
    "full": "bobeff/open-source-games",
@@ -566,7 +1474,8 @@
    "buzz": 6.99,
    "first_seen": "2026-10-21",
    "downloads": 0,
-   "score": 73.3
+   "score": 73.3,
+   "old": true
   },
   {
    "full": "bannedbook/fanqiang",
@@ -597,7 +1506,8 @@
    "buzz": 6.989,
    "first_seen": "2026-10-21",
    "downloads": 33615,
-   "score": 73.3
+   "score": 73.3,
+   "old": true
   },
   {
    "full": "anthropics/knowledge-work-plugins",
@@ -630,7 +1540,8 @@
     "egyezes": 68,
     "miert": "Hasznos AI-eszköz a mindennapokra, de inkább általános irodai és menedzsment munkára fókuszál a kódolás helyett."
    },
-   "score": 72.9
+   "score": 72.9,
+   "old": true
   },
   {
    "full": "dominikmartn/harp",
@@ -663,7 +1574,8 @@
     "egyezes": 65,
     "miert": "A fejlesztési munkafolyamatokat és az AI-ügynököket segíti tmux támogatással, de csak Macen futó asztali app."
    },
-   "score": 69.4
+   "score": 69.4,
+   "old": true
   },
   {
    "full": "AgriciDaniel/claude-seo",
@@ -703,7 +1615,8 @@
     "egyezes": 50,
     "miert": "AI-alapú bővítmény, de szűken a marketingre és SEO-ra fókuszál, ami kevésbé kapcsolódik a mobil- és appfejlesztéshez."
    },
-   "score": 60.3
+   "score": 60.3,
+   "old": true
   },
   {
    "full": "eagle-hq/EAGLE-4",
@@ -743,7 +1656,8 @@
     "egyezes": 45,
     "miert": "AI témájú, de kifejezetten csúcskategóriás szerver GPU-kat igénylő mély infrastruktúra-eszköz, nehéz egyszerű projektekbe beépíteni."
    },
-   "score": 58.5
+   "score": 58.5,
+   "old": true
   },
   {
    "full": "Hugo-Dz/spritefusion-sprite-normals",
@@ -782,7 +1696,8 @@
     "egyezes": 35,
     "miert": "Hasznos grafikai eszköz, de kifejezetten 2D játékmotorokhoz való, ami kívül esik a fő fókuszodon."
    },
-   "score": 48.8
+   "score": 48.8,
+   "old": true
   },
   {
    "full": "UniXNU/UniXNU",
@@ -815,7 +1730,8 @@
     "egyezes": 20,
     "miert": "Túlságosan alacsony szintű firmware- és kernel-hackelés, ami távol áll a mindennapi appoktól vagy AI-tól."
    },
-   "score": 40.1
+   "score": 40.1,
+   "old": true
   },
   {
    "full": "anomalyco/opencode",
@@ -2683,985 +3599,6 @@
     "miert": "Egy kifejezetten kínai tantervre szabott oktatási adatbázis, ami kevéssé hasznosítható a te céljaidhoz."
    },
    "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "stablyai/orca",
-   "url": "https://github.com/stablyai/orca",
-   "desc": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-   "lang": "TypeScript",
-   "stars": 95983,
-   "forks": 6143,
-   "growth": 1146.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ade",
-    "agent-ide",
-    "ai-agents",
-    "automation",
-    "bot",
-    "claude-code"
-   ],
-   "created": "2026-03-17",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "https://orca.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 9.339,
-   "first_seen": "2026-10-18",
-   "downloads": 18055298,
-   "ai": {
-    "cim": "AI kódoló ágensek vezérlőpultja",
-    "mit_csinal": "Ez egy több ágenst összefogó fejlesztői környezet, amellyel párhuzamosan futtathatsz különböző mesterséges intelligenciákat a kódodon. Git ágakban versenyeztetheted az ágenseket, és kiválaszthatod a legjobb megoldást. Különlegessége, hogy mobilalkalmazáson keresztül a telefonodról is felügyelheted a folyamatokat.",
-    "mire_jo": "Telefonról és számítógépről is követheted és irányíthatod az AI kódgeneráló folyamataidat az Android applikációján keresztül.",
-    "kategoria": "eszköz",
-    "telefonrol": "igen",
-    "egyezes": 92,
-    "miert": "Kifejezetten támogatja az AI-ágensek futtatását és a telefonos vezérlést dedikált Android APK-val, ami tökéletesen passzol a fejlesztési szokásaidhoz."
-   },
-   "score": 93.0,
-   "old": true
-  },
-  {
-   "full": "diegosouzapw/OmniRoute",
-   "url": "https://github.com/diegosouzapw/OmniRoute",
-   "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-   "lang": "TypeScript",
-   "stars": 77928,
-   "forks": 11294,
-   "growth": 411.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "a2a",
-    "ai-agents",
-    "ai-gateway",
-    "anthropic",
-    "claude",
-    "claude-code"
-   ],
-   "created": "2026-02-13",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "https://omniroute.online",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.274,
-   "first_seen": "2026-10-18",
-   "downloads": 378567,
-   "ai": {
-    "cim": "Univerzális és ingyenes AI átjáró",
-    "mit_csinal": "Ez az eszköz egyetlen közös felület mögé gyűjti össze több mint 300 mesterséges intelligencia szolgáltató modelljét. Automatikusan kezeli a különféle szolgáltatók ingyenes kereteit, és ha az egyik elfogy, hibatűrően átvált a következőre. Jelentős adat- és tokentömörítést is végez a gyorsabb és olcsóbb működés érdekében.",
-    "mire_jo": "Bármilyen saját AI-os appodba vagy Android projektedbe bekötheted egységes végpontként, kihasználva az ingyenes modellkvótákat.",
-    "kategoria": "AI",
-    "telefonrol": "igen",
-    "egyezes": 88,
-    "miert": "PWA felülettel rendelkezik, rendkívül hasznos hétköznapi infrastruktúra a saját AI projektjeid ingyenes vagy olcsó kiszolgálására."
-   },
-   "score": 86.3,
-   "old": true
-  },
-  {
-   "full": "ruvnet/ruflo",
-   "url": "https://github.com/ruvnet/ruflo",
-   "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-   "lang": "TypeScript",
-   "stars": 76301,
-   "forks": 9018,
-   "growth": 502.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agentic-ai",
-    "agentic-framework",
-    "agentic-workflow",
-    "agents",
-    "ai-agents",
-    "ai-assistant"
-   ],
-   "created": "2025-06-02",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "https://Cognitum.One",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.469,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Multi-ágens keretrendszer és rajirányító",
-    "mit_csinal": "Ez egy speciális végrehajtási réteg kódoló AI rendszerek köré, amely lehetővé teszi több autonóm ágens együttműködését. Közös memóriát, feladat-koordinációt és gépek közötti biztonságos kommunikációt biztosít a mesterséges intelligenciák számára. Vizuális felülettel és parancssori eszközökkel teszi átláthatóvá a rajok működését.",
-    "mire_jo": "Saját autonóm AI-ügynökökből álló csapatokat és komplex háttérfolyamatokat építhetsz fel és koordinálhatsz vele.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 85,
-    "miert": "Közvetlenül az AI-ügynökök és az automatizált munkafolyamatok témakörébe vág, ami az egyik fő érdeklődési területed."
-   },
-   "score": 85.3,
-   "old": true
-  },
-  {
-   "full": "TauricResearch/TradingAgents",
-   "url": "https://github.com/TauricResearch/TradingAgents",
-   "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-   "lang": "Python",
-   "stars": 111844,
-   "forks": 21587,
-   "growth": 242.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "finance",
-    "llm",
-    "multiagent",
-    "trading"
-   ],
-   "created": "2024-12-28",
-   "pushed": "2026-10-16",
-   "license": "Apache-2.0",
-   "homepage": "https://arxiv.org/pdf/2412.20138",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.818,
-   "first_seen": "2026-10-18",
-   "downloads": 60,
-   "ai": {
-    "cim": "Többügynökös LLM alapú pénzügyi kereskedőkeretrendszer",
-    "mit_csinal": "Ez a keretrendszer több különálló nyelvi modellre épülő ügynököt koordinál, hogy közösen elemezzenek piaci adatokat és kereskedési döntéseket hozzanak. Különböző szerepkörökbe osztja az AI-kat, például elemzőkre és döntéshozókra, hogy csökkentse a tévedések esélyét. Teljes visszatesztelési környezetet és részletes jelentéskészítőt is tartalmaz.",
-    "mire_jo": "Kiváló alapanyag komplex többügynökös AI architektúrák tanulmányozásához és saját pénzügyi elemző ágensek fejlesztéséhez.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 88,
-    "miert": "Kifejezetten illeszkedik az AI-ügynökök iránti érdeklődésedhez, és fejlett architektúrát mutat be az autonóm rendszerek felépítésére."
-   },
-   "score": 84.5,
-   "old": true
-  },
-  {
-   "full": "Graphify-Labs/graphify",
-   "url": "https://github.com/Graphify-Labs/graphify",
-   "desc": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-   "lang": "Python",
-   "stars": 128063,
-   "forks": 12349,
-   "growth": 592.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "antigravity",
-    "ast",
-    "claude-code",
-    "code-analysis",
-    "code-search"
-   ],
-   "created": "2026-04-03",
-   "pushed": "2026-10-16",
-   "license": "Apache-2.0",
-   "homepage": "https://www.graphify.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.737,
-   "first_seen": "2026-10-18",
-   "downloads": 714,
-   "ai": {
-    "cim": "Kódbázis-elemző tudásgráf AI asszisztensekhez",
-    "mit_csinal": "A program a teljes projektkódot, dokumentációt és konfigurációkat egy összefüggő tudásgráffá alakítja. Elemzi a programkód struktúráját anélkül, hogy drága külső adatbázisokra támaszkodna. Ennek köszönhetően a kódoló AI asszisztensek gyorsabban és kevesebb hibával látják át a nagy projekteket.",
-    "mire_jo": "Beépítheted meglévő fejlesztési projektjeidbe vagy GitHub Actions folyamatokba, hogy az AI sokkal pontosabban értelmezze a kódbázisodat.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 80,
-    "miert": "Erős AI-fejlesztői eszköz, ami jelentősen növeli az asszisztensek hatékonyságát a kód megértésében, bár futtatása asztali környezetet igényel."
-   },
-   "score": 83.4,
-   "old": true
-  },
-  {
-   "full": "Gathin23/tv-vibehack",
-   "url": "https://github.com/Gathin23/tv-vibehack",
-   "desc": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-   "lang": "Java",
-   "stars": 857,
-   "forks": 93,
-   "growth": 857.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "adb",
-    "android-tv",
-    "claude-code",
-    "debloat",
-    "launcher",
-    "xiaomi"
-   ],
-   "created": "2026-10-17",
-   "pushed": "2026-10-17",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.106,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Android TV reklámmentesítő és letisztult indító",
-    "mit_csinal": "Ez a projekt megtisztítja az Android TV-t a felesleges gyári programoktól és reklámoktól ADB kapcsolaton keresztül. Emellett feltelepít egy minimál stílusú, gyors kezdőképernyőt, ami az Apple TV felületére hasonlít. A módosítások biztonságosak, mert a törlés helyett csak letiltja a felesleges összetevőket, így bármikor visszaállítható.",
-    "mire_jo": "Saját Android TV eszközöd reklámmentesítésére vagy a minimál indítófelület Android forráskódjának tanulmányozására és átalakítására használhatod.",
-    "kategoria": "Android",
-    "telefonrol": "részben",
-    "egyezes": 82,
-    "miert": "Mivel foglalkozol Android fejlesztéssel és hasznos hétköznapi appokkal, a beépített egyedi launcher és az ADB szkriptek közvetlenül hasznosak lehetnek számodra."
-   },
-   "score": 82.0,
-   "old": true
-  },
-  {
-   "full": "aicodeking/leanrea",
-   "url": "https://github.com/aicodeking/leanrea",
-   "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-   "lang": "Python",
-   "stars": 536,
-   "forks": 96,
-   "growth": 536.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-17",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.543,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Könnyűsúlyú AI-ügynök készség visszafejtéshez",
-    "mit_csinal": "Egy apró leírófájl, amely felkészíti a kódoló AI-ügynököket bináris fájlok és alkalmazások gyors elemzésére. Felesleges bővítmények nélkül irányítja a mesterséges intelligenciát a meglévő parancssori eszközök azonnali használatára. Ezzel jelentősen lecsökkenti az elemzési költségeket és a várakozási időt.",
-    "mire_jo": "Beépítheted az AI-ügynökeid eszköztárába Android APK csomagok vagy egyéb binárisok automatizált vizsgálatára.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 85,
-    "miert": "Kifejezetten támogatja az AI-ügynökök hatékonyságát, és az Android alkalmazások visszafejtésében is segítséget nyújt."
-   },
-   "score": 81.6,
-   "old": true
-  },
-  {
-   "full": "MadsLorentzen/ai-job-search",
-   "url": "https://github.com/MadsLorentzen/ai-job-search",
-   "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-   "lang": "Python",
-   "stars": 51528,
-   "forks": 17091,
-   "growth": 2213.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "career",
-    "claude-code",
-    "cover-letter",
-    "cv"
-   ],
-   "created": "2026-03-18",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 9.873,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "AI-s álláskereső és pályázatíró asszisztens",
-    "mit_csinal": "Ez a program segít a teljes álláskeresési folyamatban mesterséges intelligencia segítségével. Átfésüli az álláshirdetéseket, értékeli, hogy mennyire illenek a profilodhoz, és személyre szabott önéletrajzot vagy motivációs levelet készít. Emellett felkészít az interjúkérdésekre is.",
-    "mire_jo": "Saját álláskeresési folyamataid automatizálására vagy mindennapi AI-ügynök munkafolyamatok tervezési mintáinak tanulmányozására használhatod.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 68,
-    "miert": "Hasznos és gyakorlatias AI-eszköz, de elsősorban álláskeresésre specializált munkafolyamat, így fejlesztési projektekbe kevésbé beépíthető."
-   },
-   "score": 80.8,
-   "old": true
-  },
-  {
-   "full": "outcrawlai/scout",
-   "url": "https://github.com/outcrawlai/scout",
-   "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-   "lang": "TypeScript",
-   "stars": 945,
-   "forks": 29,
-   "growth": 189.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agent",
-    "browser-agent",
-    "browser-automation",
-    "cdp",
-    "llm",
-    "typescript"
-   ],
-   "created": "2026-10-13",
-   "pushed": "2026-10-16",
-   "license": "Apache-2.0",
-   "homepage": "https://outcrawl.ai",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.617,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Önálló böngésző AI ügynök feladatokhoz",
-    "mit_csinal": "Ez az eszköz egy valódi internetes böngészőt irányít, hogy egyszerű szöveges utasítás alapján elvégezzen feladatokat a weben. Képes önállóan oldalakat olvasni, gombokra kattintani, űrlapokat kitölteni és görgetni, amíg meg nem találja a kért információt. Felhőben és saját számítógépen is működik, és még visszanézhető videót is készít a folyamatról.",
-    "mire_jo": "Webes adatgyűjtést vagy ismétlődő online teendőket automatizálhatsz vele akár GitHub Actions munkafolyamatokból is.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 90,
-    "miert": "Gyakorlatias, mindennapi feladatokra szánt AI-ügynök, amely a felhős üzemmódja miatt CI/CD környezetből vagy távolról is remekül használható."
-   },
-   "score": 80.8,
-   "old": true
-  },
-  {
-   "full": "Caho1/open-claude-ui",
-   "url": "https://github.com/Caho1/open-claude-ui",
-   "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
-   "lang": "TypeScript",
-   "stars": 1183,
-   "forks": 257,
-   "growth": 295.8,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "anthropic",
-    "audioworklet",
-    "claude",
-    "design-system",
-    "framer-motion",
-    "motion-physics"
-   ],
-   "created": "2026-10-14",
-   "pushed": "2026-10-17",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.108,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Claude kezelőfelületének nyílt forrású másolata",
-    "mit_csinal": "A projekt a Claude hivatalos felületének működését és vizuális rendszerét fejti vissza, majd építi újra React és CSS segítségével. Tartalmazza a finom animációkat, a hanghatásokat és több tucat kész felületi elemet. Részletes dokumentációval mutatja be, hogyan épül fel egy prémium AI-alkalmazás kezelőfelülete.",
-    "mire_jo": "Közvetlenül felhasználhatod a komponenseit egy saját Claude-stílusú AI-ügynök vagy LLM-kliens építésekor.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 85,
-    "miert": "Tökéletesen passzol az AI-eszközök és ügynökök iránti érdeklődésedhez modern webes komponensekkel."
-   },
-   "score": 79.8,
-   "old": true
-  },
-  {
-   "full": "Tencent-Hunyuan/Hy-Memory",
-   "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-   "desc": "",
-   "lang": "Python",
-   "stars": 686,
-   "forks": 60,
-   "growth": 228.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-15",
-   "pushed": "2026-10-18",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.743,
-   "first_seen": "2026-10-18",
-   "downloads": 919,
-   "ai": {
-    "cim": "Hosszú távú memória AI ügynököknek",
-    "mit_csinal": "Ez a keretrendszer fejlett emlékezőképességet biztosít a mesterséges intelligencia ügynököknek. Rendszerezi a korábbi beszélgetésekből származó tényeket, a feladatok tapasztalatait és a kódolási előzményeket több szinten. Ennek köszönhetően az asszisztensek képesek tanulni az idő múlásával, és nem felejtik el a korábbi instrukciókat.",
-    "mire_jo": "Saját fejlesztésű AI-ügynökeidbe építve tartós, alkalmazásokon átívelő memóriát biztosíthatsz az asszisztenseidnek.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 86,
-    "miert": "Kifejezetten az AI-ügynökök egyik legfontosabb hiányosságát oldja meg, és Python SDK-ként könnyen integrálható."
-   },
-   "score": 78.9,
-   "old": true
-  },
-  {
-   "full": "feder-cr/git-ai",
-   "url": "https://github.com/feder-cr/git-ai",
-   "desc": "Git designed for AI agents.",
-   "lang": "Go",
-   "stars": 1176,
-   "forks": 133,
-   "growth": 392.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "coding-agents",
-    "git",
-    "golang",
-    "scion",
-    "version-control"
-   ],
-   "created": "2026-10-15",
-   "pushed": "2026-10-16",
-   "license": "",
-   "homepage": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.388,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "AI-ügynökökre optimalizált verziókezelő rendszer",
-    "mit_csinal": "Egy Git-alapú szervermegoldás, amelyet kifejezetten önállóan dolgozó AI kódoló ügynökök számára alakítottak ki. A feladatok nagy részét a kiszolgálón végzi el, így sok párhuzamosan futó ügynök másodpercek alatt tud kódot feltölteni és egyesíteni. Képes a felmerülő kódtorlódásokat és konfliktusokat automatikusan feloldani.",
-    "mire_jo": "Kiváló alap lehet olyan összetett rendszerekhez, ahol több AI-ügynök dolgozik egyszerre a saját projektjeid kódján.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 80,
-    "miert": "Erősen illeszkedik az AI-ügynökökkel végzett kódfejlesztési munkafolyamatok automatizálásához."
-   },
-   "score": 77.9,
-   "old": true
-  },
-  {
-   "full": "deeplethe/solid-glass",
-   "url": "https://github.com/deeplethe/solid-glass",
-   "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-   "lang": "TypeScript",
-   "stars": 2001,
-   "forks": 25,
-   "growth": 333.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-ui",
-    "ai",
-    "ai-agents",
-    "chat-ui",
-    "design-system",
-    "llm"
-   ],
-   "created": "2026-10-12",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "https://deeplethe.github.io/solid-glass",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.333,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Elegáns designrendszer AI-alkalmazásokhoz",
-    "mit_csinal": "Ez a projekt egy modern, letisztult felületi stílust ad AI-alkalmazásokhoz és chat-ügynökökhöz. A meglévő shadcn/ui és Tailwind komponensekre épül, így meglévő webes projektekbe is könnyen beilleszthető. Kifejezetten a folyamatosan frissülő AI-válaszok és ügynökműveletek olvasható megjelenítésére tervezték.",
-    "mire_jo": "Kiváló alap lehet saját AI-ügynököd vagy chat-felületed letisztult és látványos webes felületének megépítéséhez.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 80,
-    "miert": "Nagyon jól jöhet, ha saját AI-ügynököt vagy eszközt készítesz és professzionális megjelenést szeretnél neki adni."
-   },
-   "score": 77.7,
-   "old": true
-  },
-  {
-   "full": "Leonxlnx/earshot",
-   "url": "https://github.com/Leonxlnx/earshot",
-   "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-   "lang": "Python",
-   "stars": 729,
-   "forks": 44,
-   "growth": 243.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "audio",
-    "claude-code",
-    "mcp",
-    "sound-design"
-   ],
-   "created": "2026-10-15",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.816,
-   "first_seen": "2026-10-18",
-   "downloads": 354,
-   "ai": {
-    "cim": "Hallaszt adó modul AI ügynököknek",
-    "mit_csinal": "Ez az eszköz lehetővé teszi, hogy a mesterséges intelligencia meghallgassa, elemezze és elbírálja a hangfájlokat. Segítségével az ügynökök ellenőrizhetik például, hogy egy hangeffektus illik-e a leíráshoz vagy egy videó vágásához. Ráadásul képes önállóan, programkódból új hangeffekteket előállítani külső adatbázis nélkül.",
-    "mire_jo": "AI-kódoló ügynökeidet egészítheted ki vele, hogy saját maguk hozzanak létre és ellenőrizzenek hangokat a projektjeidben.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 82,
-    "miert": "Közvetlenül az AI-ügynökök képességeit bővíti egyedi módon, és tisztán processzoron fut."
-   },
-   "score": 76.8,
-   "old": true
-  },
-  {
-   "full": "chenglou/handwired",
-   "url": "https://github.com/chenglou/handwired",
-   "desc": "Turn your regular JavaScript code into a neural net.",
-   "lang": "TypeScript",
-   "stars": 1699,
-   "forks": 138,
-   "growth": 566.3,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-15",
-   "pushed": "2026-10-17",
-   "license": "MIT",
-   "homepage": "https://chenglou.me/handwired/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.829,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Hagyományos JavaScript kód neurális hálóvá alakítása",
-    "mit_csinal": "Ez az eszköz a standard feltételeket és ciklusokat tartalmazó JavaScript kódot tisztán matematikai műveletekké alakítja át. Az így kapott program pontosan úgy működik, mint az eredeti, de neurális hálóként futtatható WebGPU-n. Ezáltal a hagyományos kód párhuzamosíthatóvá válik a videokártyán betanítás nélkül.",
-    "mire_jo": "Kipróbálhatod, hogyan futtathatsz WebGPU-n felgyorsított logikát a böngészőben, vagy beépíthetsz kísérleti neurális funkciókat webes projektjeidbe.",
-    "kategoria": "AI",
-    "telefonrol": "igen",
-    "egyezes": 74,
-    "miert": "Egyedi megközelítésű AI-technológia, amely azonnal tesztelhető a böngészőből és érdekes lehet saját kísérleti kódokhoz."
-   },
-   "score": 76.1,
-   "old": true
-  },
-  {
-   "full": "HeyPuter/everything",
-   "url": "https://github.com/HeyPuter/everything",
-   "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
-   "lang": "JavaScript",
-   "stars": 2141,
-   "forks": 307,
-   "growth": 428.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "adobe",
-    "cad",
-    "office",
-    "photoshop",
-    "saas",
-    "spreadsheet"
-   ],
-   "created": "2026-10-13",
-   "pushed": "2026-10-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.596,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Nyílt forrású mindennapi szoftverek gyűjteménye",
-    "mit_csinal": "Ismert fizetős programok – például irodai csomagok, képszerkesztők és csevegők – ingyenes alternatíváit gyűjti össze. Minden eszköz közvetlenül a böngészőben fut, így nem igényelnek bonyolult telepítést. A kód teljesen nyílt forrású, így az egyes appok szabadon tanulmányozhatók vagy újrahasznosíthatók.",
-    "mire_jo": "Kész hétköznapi webalkalmazásokat próbálhatsz ki akár mobilról is, vagy a forráskódjukból meríthetsz ötleteket saját appjaid felületéhez.",
-    "kategoria": "eszköz",
-    "telefonrol": "igen",
-    "egyezes": 75,
-    "miert": "Könnyen kipróbálható hétköznapi alkalmazások tárháza, amelyek azonnal tesztelhetők telefonos böngészőből is."
-   },
-   "score": 75.8,
-   "old": true
-  },
-  {
-   "full": "LiCinCan/blender-ai-mcp-addon",
-   "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-   "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration.",
-   "lang": "Python",
-   "stars": 727,
-   "forks": 317,
-   "growth": 242.3,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-assistant",
-    "blender",
-    "blender-addon",
-    "blender-ai",
-    "blender-automation",
-    "blender-extension"
-   ],
-   "created": "2026-10-15",
-   "pushed": "2026-10-17",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.812,
-   "first_seen": "2026-10-18",
-   "downloads": 667,
-   "ai": {
-    "cim": "AI asszisztens és ügynök Blenderhez",
-    "mit_csinal": "Ez a bővítmény egy intelligens asszisztenst kapcsol közvetlenül a Blender 3D szerkesztőprogramhoz. Szöveges utasítások alapján képes átlátni a meglévő 3D jelenetet, új tárgyakat létrehozni, anyagokat szerkeszteni és elrendezéseket igazítani. Támogatja a több ügynökből álló csapatmunkát is, ahol külön modellek terveznek, építenek és ellenőriznek.",
-    "mire_jo": "3D objektumok és játékbeli elemek automatizált generálására és szerkesztésére használhatod természetes nyelven.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 67,
-    "miert": "Fejlett AI-ügynökös és MCP architektúrát használ, de csak asztali gépre telepített Blenderrel működik."
-   },
-   "score": 67.8,
-   "old": true
-  },
-  {
-   "full": "OpenMOSS/MOSS-Image",
-   "url": "https://github.com/OpenMOSS/MOSS-Image",
-   "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-   "lang": "Python",
-   "stars": 556,
-   "forks": 21,
-   "growth": 278.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "controllable-generation",
-    "foundation-models",
-    "image-generation",
-    "text-rendering",
-    "text-to-image"
-   ],
-   "created": "2026-10-16",
-   "pushed": "2026-10-16",
-   "license": "Apache-2.0",
-   "homepage": "http://openmoss.ai/MOSS-Image/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.896,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Szöveget renderelő képgeneráló mesterséges intelligencia",
-    "mit_csinal": "Ez a rendszer szöveges leírások alapján készít részletgazdag képeket. Különlegessége, hogy a képeken szereplő feliratokat pontosan jeleníti meg, és az elemek elrendezése is részletesen szabályozható. Különböző stílusokban, például élethű fotóként vagy rajzfilmként is tud alkotni.",
-    "mire_jo": "Képgeneráló funkciót építhetsz belőle kreatív projektjeidbe vagy automatizált tartalomgyártó rendszereidbe.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 58,
-    "miert": "Érdekes AI-modell, de futtatása komoly asztali GPU-t igényel, és kevésbé kapcsolódik az ügynökökhöz vagy a mobilfejlesztéshez."
-   },
-   "score": 62.7,
-   "old": true
-  },
-  {
-   "full": "Arekejoker/qwen21-nsfw-pose-skill",
-   "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-   "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-   "lang": "Python",
-   "stars": 2702,
-   "forks": 520,
-   "growth": 540.4,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skill",
-    "comfyui",
-    "image-generation",
-    "openclaw",
-    "pose-control",
-    "qwen-image"
-   ],
-   "created": "2026-10-13",
-   "pushed": "2026-10-17",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.875,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Pózvezérelt Qwen képgeneráló munkafolyamat",
-    "mit_csinal": "Egy kiegészítő ComfyUI-hoz és AI-ügynökökhöz, amely 3D pózkönyvtár segítségével irányítja a képgenerálást Qwen alapmodelleken. Segítségével a karakterek testhelyzete pontosan beállítható a kész képeken anélkül, hogy elvesznének a megadott vonások. Kifejezetten felnőtt tartalmú és precíz pózokat igénylő generálásra lett optimalizálva.",
-    "mire_jo": "AI-kódoló asszisztensekhez és képgeneráló munkafolyamatokhoz nyújt automatizálható vezérlő sablonokat.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 45,
-    "miert": "Bár AI témájú, rétegterméknek számító felnőtt tartalmakra fókuszál, ráadásul komoly asztali GPU-t igényel a futtatása."
-   },
-   "score": 58.9,
-   "old": true
-  },
-  {
-   "full": "Noniv/web-ocean",
-   "url": "https://github.com/Noniv/web-ocean",
-   "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from a single 61 KB HTML file in Chrome.",
-   "lang": "HTML",
-   "stars": 610,
-   "forks": 99,
-   "growth": 305.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-16",
-   "pushed": "2026-10-17",
-   "license": "MIT",
-   "homepage": "https://ocean-noniv.vercel.app/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.007,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Valós idejű WebGPU óceánszimuláció",
-    "mit_csinal": "Ez egy böngészőben futó, háromdimenziós óceánmegjelenítő, amely közvetlenül a WebGPU technológiát használja külső grafikus motor nélkül. Szimulálja a hullámokat, a napfény tükröződését és a felhős eget, miközben szabad kamerával bejárható a terep. Az egész mindössze egyetlen önálló HTML fájlban elfér és közvetlenül megnyitható.",
-    "mire_jo": "Jó alap lehet, ha modern böngészős vagy WebView-os grafikai szimulációkkal és WebGPU shaderekkel kísérleteznél.",
-    "kategoria": "web",
-    "telefonrol": "részben",
-    "egyezes": 45,
-    "miert": "Lenyűgöző grafikai technológiai bemutató, de nem kapcsolódik szorosan az AI-hoz vagy a képernyőfelismeréshez."
-   },
-   "score": 55.4,
-   "old": true
-  },
-  {
-   "full": "ahwootech/BRUTAL",
-   "url": "https://github.com/ahwootech/BRUTAL",
-   "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-   "lang": "C#",
-   "stars": 1848,
-   "forks": 99,
-   "growth": 462.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "csharp",
-    "dotnet",
-    "game-engine",
-    "gamedev",
-    "vulkan"
-   ],
-   "created": "2026-10-14",
-   "pushed": "2026-10-18",
-   "license": "",
-   "homepage": "https://ahwoo.com/brutal",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.642,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Alacsony szintű C# játékmotor-keretrendszer",
-    "mit_csinal": "Egy pehelysúlyú, C# nyelvű alaprendszer saját játékok vagy játékmotorok fejlesztéséhez. Közvetlen hozzáférést ad a grafikai hardverhez és a natív programkönyvtárakhoz felesleges lassító rétegek nélkül. Segítségével a fejlesztő teljesen kézben tarthatja a memóriakezelést és a háttérfolyamatokat.",
-    "mire_jo": "Hasznos lehet, ha nagy teljesítményű, alacsony szintű grafikus alkalmazást vagy saját játékmotort szeretnél fejleszteni asztali gépre.",
-    "kategoria": "játék",
-    "telefonrol": "nem",
-    "egyezes": 25,
-    "miert": "Nem kapcsolódik az AI-hoz, az Androidhoz vagy a kamerás projektekhez, és telefonról sem igazán használható."
-   },
-   "score": 46.0,
-   "old": true
-  },
-  {
-   "full": "jhaizhou-ops/d2r-mobile",
-   "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-   "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
-   "lang": "C",
-   "stars": 3781,
-   "forks": 1069,
-   "growth": 630.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "compatibility-layer",
-    "diablo-2-resurrected",
-    "diablo2",
-    "game-port",
-    "ios",
-    "ipad"
-   ],
-   "created": "2026-10-12",
-   "pushed": "2026-10-17",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.095,
-   "first_seen": "2026-10-18",
-   "downloads": 2156,
-   "ai": {
-    "cim": "Diablo II Resurrected iOS-re portolva",
-    "mit_csinal": "Egy nyílt forráskódú kompatibilitási réteg, amellyel a Nintendo Switch-re megvásárolt Diablo II futtatható iPhone-on, iPad-en és Macen. A játék natívan fut a processzoron, és az érintőkijelzős irányítást is teljesen újraépítették hozzá. A futtatáshoz a felhasználónak magának kell biztosítania az eredeti játékfájlokat.",
-    "mire_jo": "Inspirációként szolgálhat ARM architektúrára készülő natív játékportok és Metal-alapú grafikai rétegek tervezéséhez.",
-    "kategoria": "játék",
-    "telefonrol": "nem",
-    "egyezes": 18,
-    "miert": "Apple ökoszisztémára fókuszáló játékport, miközben te elsősorban Android appokat készítesz és AI-megoldásokkal foglalkozol."
-   },
-   "score": 43.6,
-   "old": true
-  },
-  {
-   "full": "Supermedo/uncharted_pc",
-   "url": "https://github.com/Supermedo/uncharted_pc",
-   "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-   "lang": "C++",
-   "stars": 1363,
-   "forks": 71,
-   "growth": 454.3,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-15",
-   "pushed": "2026-10-17",
-   "license": "GPL-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.565,
-   "first_seen": "2026-10-18",
-   "downloads": 54685,
-   "ai": {
-    "cim": "Natív PC-s Uncharted futtató",
-    "mit_csinal": "Lehetővé teszi az Uncharted konzolos játéksorozat közvetlen futtatását Windows rendszerű számítógépeken. Nem klasszikus emulátort használ, hanem a meglévő játékfájlok kódját fordítja le a PC hardverére és grafikus kártyájára. A futtatáshoz a felhasználónak rendelkeznie kell a konzolos kiadás saját mentésével.",
-    "mire_jo": "Ha rendelkezel a megfelelő játékmásolattal, jobb minőségben játszhatsz vele a fejlesztői számítógépeden.",
-    "kategoria": "játék",
-    "telefonrol": "nem",
-    "egyezes": 15,
-    "miert": "Kizárólag PC-s játékos célú projekt, amely távol áll a fejlesztési érdeklődésedtől és a mobilis munkától."
-   },
-   "score": 39.6,
-   "old": true
-  },
-  {
-   "full": "BreezeSolicitorMap/undress.ai",
-   "url": "https://github.com/BreezeSolicitorMap/undress.ai",
-   "desc": "Virtual clothing try-on from a single photo — mobile web app. Upload a person and a garment, get a photorealistic result.",
-   "lang": "",
-   "stars": 373,
-   "forks": 1,
-   "growth": 373.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "blooket-bot",
-    "coomer-party",
-    "exhentai",
-    "hentai2read",
-    "porn",
-    "sex"
-   ],
-   "created": "2026-10-17",
-   "pushed": "2026-10-17",
-   "license": "MIT",
-   "homepage": "https://templace-sr4.icu",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.109,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Virtuális ruhafelpróbáló weboldal promóció",
-    "mit_csinal": "A leírás szerint egyetlen fotó alapján cserél ruhát a feltöltött személyen egy külső weboldalon. Maga a repó nem tartalmaz forráskódot vagy gépi tanulási modellt, csupán leírást és hivatkozásokat egy külső szolgáltatásra. A témacímkék alapján ráadásul felnőtt tartalmakra optimalizált promócióról van szó.",
-    "mire_jo": "Saját projektbe nem építhető be, mert nem nyílt forráskódú és nem tartalmaz modellt.",
-    "kategoria": "egyéb",
-    "telefonrol": "részben",
-    "egyezes": 15,
-    "miert": "Bár AI témájú, valójában egy külső zárt szolgáltatás reklámja kód nélkül, gyanús címkékkel ellátva."
-   },
-   "score": 37.8,
-   "old": true
-  },
-  {
-   "full": "xscreensaver-official/xscreensaver",
-   "url": "https://github.com/xscreensaver-official/xscreensaver",
-   "desc": "There is no official XScreenSaver GitHub repository.",
-   "lang": "",
-   "stars": 795,
-   "forks": 22,
-   "growth": 397.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-16",
-   "pushed": "2026-10-16",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.324,
-   "first_seen": "2026-10-18",
-   "downloads": 0,
-   "ai": {
-    "cim": "Nem hivatalos XScreenSaver értesítő",
-    "mit_csinal": "Ez a GitHub-oldal nem tartalmaz tényleges forráskódot. A program eredeti szerzője csak azért hozta létre, hogy felhívja a figyelmet: a hivatalos kód nem a GitHubon, hanem a saját weboldalán érhető el. Gyakorlatilag csak egy figyelmeztető szöveget tartalmaz.",
-    "mire_jo": "Semmire sem tudod használni, mivel nincs benne futtatható vagy beépíthető kód.",
-    "kategoria": "egyéb",
-    "telefonrol": "nem",
-    "egyezes": 5,
-    "miert": "Nem tartalmaz kódot vagy használható funkciót, csupán egy figyelmeztető üzenet a szerzőtől."
-   },
-   "score": 32.7,
    "old": true
   }
  ]
