@@ -1,8 +1,878 @@
 {
- "date": "2026-10-29",
- "generated": "2026-10-29T11:13+00:00",
+ "date": "2026-10-30",
+ "generated": "2026-10-30T11:01+00:00",
  "model": "gemini-flash-latest",
  "items": [
+  {
+   "full": "herdrdev/herdr-app",
+   "url": "https://github.com/herdrdev/herdr-app",
+   "desc": "herdr desktop app",
+   "lang": "Rust",
+   "stars": 519,
+   "forks": 42,
+   "growth": 37.1,
+   "hn_points": 218,
+   "hn_comments": 141,
+   "hn_url": "https://news.ycombinator.com/item?id=50298436",
+   "topics": [],
+   "created": "2026-10-16",
+   "pushed": "2026-10-30",
+   "license": "Apache-2.0",
+   "homepage": "https://herdr.dev",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 13.339,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Asztali felület terminálokhoz és AI-ügynökökhöz",
+    "mit_csinal": "Ez egy asztali alkalmazás, amellyel kódoló AI-ügynököket és terminálokat lehet egy helyen szervezni. Munkaterületekre bontja a feladatokat, mutatja az ügynökök aktuális állapotát, és a háttérben futtatja őket az ablak bezárása után is. Segít átlátni a párhuzamosan dolgozó asszisztensek tevékenységét.",
+    "mire_jo": "Kiváló eszköz a saját gépeden futó kódoló AI-ügynökök monitorozására és több terminálos munkafolyamatok kézben tartására.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Kifejezetten AI-ügynökök kezelésére készült fejlesztői eszköz, ami nagyon jól illeszkedik az érdeklődésedhez, de asztali GUI-t igényel."
+   },
+   "score": 88.0
+  },
+  {
+   "full": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "desc": "Public repository for Agent Skills",
+   "lang": "Python",
+   "stars": 184911,
+   "forks": 21866,
+   "growth": 287.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills"
+   ],
+   "created": "2025-09-22",
+   "pushed": "2026-10-28",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.088,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Hivatalos AI-ügynök képességek gyűjteménye",
+    "mit_csinal": "Ez a hivatalos gyűjtemény különféle előre megírt készségeket ad Claude-nak és más AI-ügynököknek. Ezekkel az utasításokkal és leírásokkal a mesterséges intelligencia képes dokumentumokat szerkeszteni, kódot tesztelni vagy feladatokat automatizálni. A sablonok segítségével bárki egyszerűen készíthet saját egyedi képességeket az ágensei számára.",
+    "mire_jo": "Közvetlenül felhasználhatod és beépítheted ezeket a mintákat és képességeket a saját AI-ügynök projektjeidbe vagy munkafolyamataidba.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 95,
+    "miert": "Tökéletesen egybevág az AI-ügynökök iránti érdeklődéseddel, és a bemutatott minták azonnal átvehetők saját projektekbe."
+   },
+   "score": 81.3
+  },
+  {
+   "full": "mattpocock/skills",
+   "url": "https://github.com/mattpocock/skills",
+   "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+   "lang": "Shell",
+   "stars": 306964,
+   "forks": 25824,
+   "growth": 882.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-02-03",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "https://aihero.dev/skills",
+   "src": [
+    "trending"
+   ],
+   "buzz": 9.31,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Gyakorlati készséggyűjtemény AI-fejlesztőügynökökhöz",
+    "mit_csinal": "Ez a projekt kész parancsokat és munkafolyamatokat ad a legnépszerűbb mesterségesintelligencia-alapú kódoló ügynököknek. Segítségükkel a segéd nem csak tippelget, hanem előre meghatározott, bevált mérnöki lépéseket követ a feladatok megoldásakor. Könnyen beilleszthető a meglévő fejlesztői környezetekbe, például a Copilotba vagy a Claude-ba.",
+    "mire_jo": "Saját kódoló munkafolyamataidat gyorsíthatod fel vele, ha AI-ügynököket használsz a mindennapi fejlesztésben vagy hibakeresésben.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 88,
+    "miert": "Kifejezetten az AI-ügynökök képességeit bővíti a mindennapi szoftverfejlesztéshez, ami pontosan egybevág az érdeklődéseddel."
+   },
+   "score": 80.7
+  },
+  {
+   "full": "ccch1mneyyy/dsh-Go",
+   "url": "https://github.com/ccch1mneyyy/dsh-Go",
+   "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+   "lang": "Dart",
+   "stars": 1498,
+   "forks": 65,
+   "growth": 299.6,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agent",
+    "android",
+    "android-app",
+    "coding-agent",
+    "deepseek",
+    "deepseek-harness"
+   ],
+   "created": "2026-10-25",
+   "pushed": "2026-10-30",
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.168,
+   "first_seen": "2026-10-30",
+   "downloads": 6765,
+   "ai": {
+    "cim": "Hordozható DeepSeek AI-ügynök Androidra",
+    "mit_csinal": "Egy Androidos kliens, amellyel közvetlenül a mobilodon futtathatsz AI-ügynököt, vagy távolról irányíthatod a számítógépedet. Saját beépített mobil Linux környezettel rendelkezik, így rootolás nélkül is képes önállóan dolgozni. Képes felolvasni a telefon képernyőjét, és a jóváhagyásoddal önállóan érintéseket vagy gépelést végrehajtani.",
+    "mire_jo": "Közvetlenül használhatod a telefonodon kódolási asszisztensként és rendszerirányító AI-ügynökként, vagy tanulmányozhatod az Androidos megvalósítását.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 98,
+    "miert": "Tökéletesen egybevág a preferenciáiddal: Android app, autonóm AI-ügynök és telefonról azonnal kipróbálható."
+   },
+   "score": 80.3
+  },
+  {
+   "full": "MemPalace/mempalace",
+   "url": "https://github.com/MemPalace/mempalace",
+   "desc": "The best-benchmarked open-source AI memory system. And it's free.",
+   "lang": "Python",
+   "stars": 60122,
+   "forks": 7614,
+   "growth": 357.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "chromadb",
+    "llm",
+    "mcp",
+    "memory",
+    "python"
+   ],
+   "created": "2026-04-05",
+   "pushed": "2026-10-30",
+   "license": "MIT",
+   "homepage": "http://mempalaceofficial.com/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.081,
+   "first_seen": "2026-10-30",
+   "downloads": 1319,
+   "ai": {
+    "cim": "Helyi memóriarendszer AI-ügynököknek",
+    "mit_csinal": "Egy nyílt forráskódú memóriatárat kínál az AI-asszisztenseknek és ügynököknek. A beszélgetéseket és adatokat teljes egészében a saját gépeden tárolja, így nem szivárognak ki adatok külső szolgáltatókhoz. A korábbi információkat intelligens kereséssel bármikor pontosan visszakeresi a nyelvi modellek számára.",
+    "mire_jo": "Beépítheted saját AI-ügynökös alkalmazásaidba, hogy az ágenseid hosszú távon és adatvédelmi szempontból biztonságosan emlékezzenek az előzményekre.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 88,
+    "miert": "Kiválóan passzol az AI-eszközök és ügynökök iránti érdeklődésedhez, közvetlenül beilleszthető egy fejlesztői projektbe."
+   },
+   "score": 77.0
+  },
+  {
+   "full": "lightpanda-io/browser",
+   "url": "https://github.com/lightpanda-io/browser",
+   "desc": "Lightpanda: the headless browser designed for AI and automation",
+   "lang": "Zig",
+   "stars": 37827,
+   "forks": 1846,
+   "growth": 559.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "browser",
+    "browser-automation",
+    "cdp",
+    "headless",
+    "lightpanda",
+    "playwright"
+   ],
+   "created": "2023-02-07",
+   "pushed": "2026-10-30",
+   "license": "AGPL-3.0",
+   "homepage": "https://lightpanda.io",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.436,
+   "first_seen": "2026-10-30",
+   "downloads": 108448,
+   "ai": {
+    "cim": "AI-ügynökökhöz tervezett pehelykönnyű böngészőmotor",
+    "mit_csinal": "Ez egy kifejezetten robotok és automatizációk számára készült böngésző, amely nem használ grafikus felületet. Alapoktól újraírták az alapjait, így jóval kevesebb memóriát fogyaszt és sokkal gyorsabban betölti az oldalakat, mint a hagyományos Chrome. Remekül kezeli a modern weboldalakat és a parancssori vezérlést.",
+    "mire_jo": "Gyors webes adatgyűjtő vagy weboldal-elemző AI-ügynököket építhetsz köré, amelyeket GitHub Actionsben vagy szerveren futtathatsz.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 85,
+    "miert": "Kiváló alapeszköz AI-ügynökök adatgyűjtésének optimalizálására, és remekül beépíthető automatizált folyamatokba."
+   },
+   "score": 76.3
+  },
+  {
+   "full": "SheepSeb/tinyworldformer",
+   "url": "https://github.com/SheepSeb/tinyworldformer",
+   "desc": "Tiny world model generates games and stream ac plays them all on Pico 2W",
+   "lang": "Rust",
+   "stars": 224,
+   "forks": 8,
+   "growth": 28.0,
+   "hn_points": 216,
+   "hn_comments": 15,
+   "hn_url": "https://news.ycombinator.com/item?id=50295450",
+   "topics": [
+    "rust",
+    "transformers"
+   ],
+   "created": "2026-10-22",
+   "pushed": "2026-10-27",
+   "license": "",
+   "homepage": "https://sheepseb.github.io/stealth/posts/tinyworldformer.html",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 12.015,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Mikrokontrolleren futó miniatűr neurális világmodell",
+    "mit_csinal": "Két apró neurális hálózatot futtat egy Raspberry Pi Pico mikrokontrolleren, amelyek együtt hoznak létre és játszanak le egyszerű játékokat. Az egyik hálózat képkockánként jósolja és generálja a játék világát, a másik pedig önállóan játszik benne. A modell extrém memóriahatékony, ismételt transzformer architektúrát használ.",
+    "mire_jo": "Ötleteket meríthetsz belőle pehelysúlyú neurális hálók beágyazott eszközökre vagy akár Androidra való optimalizálásához.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 65,
+    "miert": "Izgalmas, kompakt neurális hálós kísérlet, de mikrokontroller-hardvert céloz és kevésbé közvetlenül használható fel mindennapi projektekben."
+   },
+   "score": 75.0
+  },
+  {
+   "full": "lonthq/overtone-captions",
+   "url": "https://github.com/lonthq/overtone-captions",
+   "desc": "Captions cut for every screen shape, from one file. A caption format, a video.js plugin, and a CLI that turns audio into word-timed captions.",
+   "lang": "TypeScript",
+   "stars": 41,
+   "forks": 1,
+   "growth": 20.5,
+   "hn_points": 40,
+   "hn_comments": 3,
+   "hn_url": "https://news.ycombinator.com/item?id=50293115",
+   "topics": [],
+   "created": "2026-10-28",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "https://overtone.lont.ai/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.826,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Képernyőmérethez igazodó intelligens feliratozó rendszer",
+    "mit_csinal": "Ez a program a videók feliratait úgy tördeli újra, hogy azok tökéletesen illeszkedjenek mind a széles számítógépes képernyőkhöz, mind az álló mobilos videókhoz. Figyelembe veszi a beszédtempót, a mondatszerkezetet és a megszólalók váltását is. Tartalmaz egy lejátszóba építhető felületet és egy parancssori átalakítót.",
+    "mire_jo": "Automatizálhatod vele saját videós projektjeid vagy mobilalkalmazásaid feliratozását GitHub Actions segítségével.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 72,
+    "miert": "Hasznos, gyakorlatias médiamegoldás a mindennapokra, ami CI/CD munkafolyamatokba és webes vagy mobilos nézetekbe is jól beépíthető."
+   },
+   "score": 69.7
+  },
+  {
+   "full": "paipiange/nvzhuang",
+   "url": "https://github.com/paipiange/nvzhuang",
+   "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+   "lang": "Go",
+   "stars": 751,
+   "forks": 260,
+   "growth": 751.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-10-30",
+   "license": "MIT",
+   "homepage": "https://paipiange.github.io/nvzhuang/",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.947,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "AI virtuális ruhafelpróbáló webapp",
+    "mit_csinal": "Ez egy képgaléria és virtuális próbafülke, amellyel ruhákat lehet mesterséges intelligencia segítségével felpróbálni feltöltött fotókra. A rendszer megőrzi a feltöltött személy arcvonásait és természetesen illeszti rá a kiválasztott ruhadarabot. Az alapvető képtár azonnal elérhető böngészőből, de saját képgeneráló modellel is összeköthető.",
+    "mire_jo": "Megvizsgálhatod a képalapú arcmegőrzés és ruhaillesztés működését, vagy akár azonnal kipróbálhatod a működő webes felületet telefonról is.",
+    "kategoria": "AI",
+    "telefonrol": "igen",
+    "egyezes": 75,
+    "miert": "A kamerás és képi arcfelismeréshez, illetve a könnyen kipróbálható hétköznapi AI-alkalmazásokhoz jól illeszkedik, és mobilon is megtekinthető."
+   },
+   "score": 68.8
+  },
+  {
+   "full": "ethanplusai/harvey",
+   "url": "https://github.com/ethanplusai/harvey",
+   "desc": "Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions.",
+   "lang": "Python",
+   "stars": 3343,
+   "forks": 673,
+   "growth": 248.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agent",
+    "autonomous-agent",
+    "claude",
+    "cold-email",
+    "prospecting",
+    "python"
+   ],
+   "created": "2026-03-12",
+   "pushed": "2026-10-27",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.14,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Előfizetésen futó autonóm AI-ügynök",
+    "mit_csinal": "Egy önállóan dolgozó értékesítési ügynök, amely potenciális partnereket keres, személyre szabott e-maileket ír és megválaszolja az érkező leveleket. Nem igényel drága API-kulcsokat, mert a már meglévő Claude vagy ChatGPT előfizetéseden keresztül végzi a feladatokat. A munkáját egy böngészőből elérhető helyi felületen követheted és hagyhatod jóvá.",
+    "mire_jo": "Megtanulhatod belőle, hogyan építs önálló AI-ügynököt per-token API költségek nélkül a meglévő előfizetésedre támaszkodva.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 75,
+    "miert": "Erős találat az AI-ügynökök iránti érdeklődésed miatt, de használatához asztali számítógép szükséges és a fókusza szűken az értékesítésre korlátozódik."
+   },
+   "score": 66.4
+  },
+  {
+   "full": "macro-inc/macro",
+   "url": "https://github.com/macro-inc/macro",
+   "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+   "lang": "Rust",
+   "stars": 5675,
+   "forks": 535,
+   "growth": 379.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "ai",
+    "ai-agents",
+    "all-in-one",
+    "crm",
+    "crm-system"
+   ],
+   "created": "2025-11-08",
+   "pushed": "2026-10-30",
+   "license": "AGPL-3.0",
+   "homepage": "https://macro.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.669,
+   "first_seen": "2026-10-30",
+   "downloads": 1161,
+   "ai": {
+    "cim": "Egységes munkaterület beépített AI-ügynökökkel",
+    "mit_csinal": "Egyetlen közös felületre vonja össze az e-maileket, feladatokat, dokumentumokat, csevegést és ügyfélkezelést. A rendszerbe épített AI-ügynökök közös csapatmemóriával rendelkeznek, így azonnal hozzáférnek a korábbi jegyzetekhez és levelezésekhez. A platform célja, hogy felváltsa a több különálló céges szoftver együttes használatát.",
+    "mire_jo": "Ötleteket meríthetsz belőle arra, hogyan lehet AI-ügynököket és megosztott memóriát összekapcsolni mindennapi produktivitási eszközökkel.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 60,
+    "miert": "Bár tartalmaz AI-ügynököket és memóriát, alapvetően egy komplex csapat- és céges munkaterület, amit nehezebb kisebb saját projektekbe beépíteni."
+   },
+   "score": 59.0
+  },
+  {
+   "full": "theconsensuslabs/noalloc",
+   "url": "https://github.com/theconsensuslabs/noalloc",
+   "desc": "Tooling and libraries to enforce zero heap allocations in Golang",
+   "lang": "Go",
+   "stars": 107,
+   "forks": 1,
+   "growth": 26.8,
+   "hn_points": 79,
+   "hn_comments": 51,
+   "hn_url": "https://news.ycombinator.com/item?id=50278645",
+   "topics": [],
+   "created": "2026-10-26",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 11.099,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Heap-allokációt tiltó ellenőrző Go nyelven",
+    "mit_csinal": "Ez a Go fejlesztői eszköz és függvénytár segít megelőzni a dinamikus memóriafoglalást a memóriaintenzív kódokban. A függvények elemzésével kimutatja az összes olyan sort, amely heap memóriát foglalna. Fix méretű adatszerkezeteket is kínál, hogy könnyebb legyen allokációmentes kódot írni.",
+    "mire_jo": "Kifejezetten ultra-alacsony késleltetésű vagy erőforrás-takarékos Go backend szolgáltatások optimalizálásakor veheted hasznát.",
+    "kategoria": "eszköz",
+    "telefonrol": "nem",
+    "egyezes": 35,
+    "miert": "Nagyon specifikus Go optimalizálási eszköz, nem fedi az AI, Android vagy kamerás képfeldolgozás iránti érdeklődésedet."
+   },
+   "score": 54.3
+  },
+  {
+   "full": "mottopanikeiku/doomformer",
+   "url": "https://github.com/mottopanikeiku/doomformer",
+   "desc": "Compile an integer neural network into a DOOM map. Voodoo dolls do the arithmetic, light levels and plane heights hold the values, and every value is checked against NumPy with tolerance 0.",
+   "lang": "Python",
+   "stars": 36,
+   "forks": 2,
+   "growth": 3.6,
+   "hn_points": 94,
+   "hn_comments": 30,
+   "hn_url": "https://news.ycombinator.com/item?id=50297697",
+   "topics": [
+    "compiler",
+    "doom",
+    "esoteric-computing",
+    "game-mechanics",
+    "mnist",
+    "neural-networks"
+   ],
+   "created": "2026-10-20",
+   "pushed": "2026-10-30",
+   "license": "MIT",
+   "homepage": "https://mottopanikeiku.github.io/doomformer/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 9.086,
+   "first_seen": "2026-10-30",
+   "downloads": 146645,
+   "ai": {
+    "cim": "Neurális hálózat DOOM pályára fordítva",
+    "mit_csinal": "Ez a kísérleti eszköz gépi tanulási modelleket alakít át működő DOOM játéktérképekké. A számításokat a játék mechanikája, például vudu babák és liftek mozgása végzi el, miközben a játékos a kézírásos számokat rajzolja a pályán. A működése böngészőből futtatható jegyzetfüzetben is kipróbálható.",
+    "mire_jo": "Érdekes kísérletként tanulmányozhatod benne a neurális hálók szokatlan megvalósítását, vagy kipróbálhatod a bemutatót telefonos böngészőből.",
+    "kategoria": "játék",
+    "telefonrol": "igen",
+    "egyezes": 45,
+    "miert": "Bár AI-hoz kapcsolódik és kipróbálható böngészőből, inkább elméleti érdekesség, mintsem hasznos vagy beépíthető hétköznapi eszköz."
+   },
+   "score": 54.2
+  },
+  {
+   "full": "expo/skills",
+   "url": "https://github.com/expo/skills",
+   "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+   "lang": "Shell",
+   "stars": 3768,
+   "forks": 241,
+   "growth": 233.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2025-11-30",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.102,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "score": 53.2
+  },
+  {
+   "full": "Crosstalk-Solutions/project-nomad",
+   "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+   "desc": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+   "lang": "TypeScript",
+   "stars": 41318,
+   "forks": 4194,
+   "growth": 112.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2025-06-24",
+   "pushed": "2026-10-22",
+   "license": "Apache-2.0",
+   "homepage": "https://www.projectnomad.us",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.853,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "score": 51.4
+  },
+  {
+   "full": "qybaihe/bla",
+   "url": "https://github.com/qybaihe/bla",
+   "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+   "lang": "TypeScript",
+   "stars": 1144,
+   "forks": 153,
+   "growth": 228.8,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adversarial-ai",
+    "claude-code",
+    "cursor",
+    "electron-security",
+    "llm-security",
+    "mcp"
+   ],
+   "created": "2026-10-25",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "https://bla.tools",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.846,
+   "first_seen": "2026-10-30",
+   "downloads": 29,
+   "score": 51.3
+  },
+  {
+   "full": "AdguardTeam/AdGuardHome",
+   "url": "https://github.com/AdguardTeam/AdGuardHome",
+   "desc": "Network-wide ads & trackers blocking DNS server",
+   "lang": "TypeScript",
+   "stars": 37927,
+   "forks": 2578,
+   "growth": 107.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adblock",
+    "adguard",
+    "dns",
+    "dns-over-https",
+    "dns-over-quic",
+    "dns-over-tls"
+   ],
+   "created": "2016-07-06",
+   "pushed": "2026-10-27",
+   "license": "GPL-3.0",
+   "homepage": "https://adguard.com/adguard-home/overview.html",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.791,
+   "first_seen": "2026-10-30",
+   "downloads": 732941,
+   "score": 50.9
+  },
+  {
+   "full": "johncassil/dontallow",
+   "url": "https://github.com/johncassil/dontallow",
+   "desc": "Auto-dismiss the macOS 'Allow X to find devices on local networks?' prompt. Presses Don't Allow for you, zero CPU idle, survives reboots.",
+   "lang": "Swift",
+   "stars": 71,
+   "forks": 1,
+   "growth": 71.0,
+   "hn_points": 138,
+   "hn_comments": 104,
+   "hn_url": "https://news.ycombinator.com/item?id=50294506",
+   "topics": [
+    "accessibility",
+    "launchd",
+    "local-network",
+    "macos",
+    "privacy",
+    "swift"
+   ],
+   "created": "2026-10-29",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 12.915,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "macOS hálózati engedélykérések automatikus elutasítása",
+    "mit_csinal": "Ez egy kicsi háttérszolgáltatás macOS-re, amely automatikusan a 'Don't Allow' gombra kattint a felugró helyi hálózati hozzáférési ablakoknál. Nulla processzorhasználat mellett fut és újraindítás után is megmarad. Megkíméli a felhasználót az idegesítő, ismétlődő biztonsági figyelmeztetésektől.",
+    "mire_jo": "macOS-t használva megszüntetheted vele a böngészők és alkalmazások felesleges hálózati értesítéseit.",
+    "kategoria": "eszköz",
+    "telefonrol": "nem",
+    "egyezes": 20,
+    "miert": "Nagyon szűk, kizárólag macOS-specifikus segédprogram, nem kapcsolódik az AI-hoz, Androidhoz vagy a mobilfejlesztéshez."
+   },
+   "score": 50.7
+  },
+  {
+   "full": "HRuiCcc/RuiC-PoseAtlas",
+   "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+   "desc": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
+   "lang": "JavaScript",
+   "stars": 474,
+   "forks": 139,
+   "growth": 237.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "3d-modeling",
+    "ai-art",
+    "art-reference",
+    "gallery",
+    "photography",
+    "pose-reference"
+   ],
+   "created": "2026-10-28",
+   "pushed": "2026-10-30",
+   "license": "",
+   "homepage": "https://hruiccc.github.io/RuiC-PoseAtlas/",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.705,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "score": 50.3
+  },
+  {
+   "full": "aschmelyun/print-my-profile-pic",
+   "url": "https://github.com/aschmelyun/print-my-profile-pic",
+   "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+   "lang": "",
+   "stars": 1106,
+   "forks": 2,
+   "growth": 368.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-27",
+   "pushed": "2026-10-29",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.314,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Profilképet nyomtató automatizált rendszer",
+    "mit_csinal": "Amikor valaki megcsillagozza ezt a repót, egy GitHub webhook automatikusan elküldi az adatait. A szerver letölti a felhasználó profilképét, majd egy fizikai blokknyomtatón kinyomtatja egy kis keretben. A szerző a kinyomtatott képeket kitűzi a falára és frissíti róluk a fotót.",
+    "mire_jo": "Jó példát nyújt arra, hogyan köthetsz össze egy GitHub eseményt valódi hardveres vagy hétköznapi automatizációval.",
+    "kategoria": "eszköz",
+    "telefonrol": "igen",
+    "egyezes": 45,
+    "miert": "Kreatív kis hétköznapi automatizációs ötlet, de inkább egyszeri poén, mint tartósan beépíthető eszköz."
+   },
+   "score": 48.9
+  },
+  {
+   "full": "owls-on-wires/keplearn",
+   "url": "https://github.com/owls-on-wires/keplearn",
+   "desc": "Symbolic regression in seconds.",
+   "lang": "Rust",
+   "stars": 119,
+   "forks": 3,
+   "growth": 0.0,
+   "hn_points": 94,
+   "hn_comments": 12,
+   "hn_url": "https://news.ycombinator.com/item?id=50289590",
+   "topics": [],
+   "created": "2026-09-13",
+   "pushed": "2026-10-24",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.448,
+   "first_seen": "2026-10-30",
+   "downloads": 105,
+   "ai": {
+    "cim": "Gyors szimbolikus regressziós eszköz adatokhoz",
+    "mit_csinal": "Táblázatos adatokból automatikusan kideríti az azokat leíró zárt matematikai egyenleteket. Rendkívül gyorsan fut, és egyetlen egyszerű fájlként működik külső telepítendő programok nélkül. Az eredményeket azonnal átlátható JSON formátumban adja vissza.",
+    "mire_jo": "Saját mérési vagy adatgyűjtő projektjeidben matematikai összefüggések és képletek automatikus felderítésére használhatod.",
+    "kategoria": "adat",
+    "telefonrol": "nem",
+    "egyezes": 40,
+    "miert": "Érdekes adatelemző eszköz, de messze esik az Androidtól, az AI-ügynököktől és a képi felismeréstől."
+   },
+   "score": 46.3
+  },
+  {
+   "full": "emmilco/us-tax-model",
+   "url": "https://github.com/emmilco/us-tax-model",
+   "desc": "US federal income tax forms and instructions as cited, executable, machine-checkable data.",
+   "lang": "HTML",
+   "stars": 111,
+   "forks": 9,
+   "growth": 15.9,
+   "hn_points": 75,
+   "hn_comments": 13,
+   "hn_url": "https://news.ycombinator.com/item?id=50278678",
+   "topics": [],
+   "created": "2026-10-23",
+   "pushed": "2026-10-30",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 10.021,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "USA szövetségi adóbevallás végrehajtható modellként",
+    "mit_csinal": "Az amerikai szövetségi adónyomtatványok és szabályok szabályrendszerét alakítja géppel ellenőrizhető, hivatkozásokkal ellátott adatformátummá. Tartalmaz egy interaktív kérdéssort, amely kiszámolja az adóadatokat anélkül, hogy az adatok elhagynák a gépet. A kódbázis nagyrészt AI-ügynökökkel készült és auditálható szabályrendszerre épül.",
+    "mire_jo": "Példaként szolgálhat arra, hogyan lehet bonyolult jogi és számítási logikát AI segítségével determinisztikus adatszerkezetekké alakítani.",
+    "kategoria": "adat",
+    "telefonrol": "részben",
+    "egyezes": 25,
+    "miert": "Kifejezetten az amerikai adórendszerre szabott adatmodell, a hétköznapi munkádban vagy Android/AI fejlesztéseidben aligha hasznosítható közvetlenül."
+   },
+   "score": 45.1
+  },
+  {
+   "full": "Ka1-S/LYNX-SHARE",
+   "url": "https://github.com/Ka1-S/LYNX-SHARE",
+   "desc": "LYNX SHARE — lightweight open-source DAW in C++20/JUCE with the FL Studio workflow: Channel Rack, Piano Roll, Playlist, Mixer and .flp import",
+   "lang": "C++",
+   "stars": 203,
+   "forks": 19,
+   "growth": 11.3,
+   "hn_points": 26,
+   "hn_comments": 17,
+   "hn_url": "https://news.ycombinator.com/item?id=50293308",
+   "topics": [
+    "audio",
+    "audio-production",
+    "beat-maker",
+    "clap",
+    "clap-host",
+    "cpp20"
+   ],
+   "created": "2026-10-12",
+   "pushed": "2026-10-30",
+   "license": "AGPL-3.0",
+   "homepage": "https://lynx-share.com",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.683,
+   "first_seen": "2026-10-30",
+   "downloads": 1238,
+   "ai": {
+    "cim": "Könnyed, nyílt forráskódú zeneszerkesztő szoftver",
+    "mit_csinal": "Ez egy asztali zeneszerkesztő program, amely a népszerű FL Studio kezelőfelületét és logikáját valósítja meg modern C++ nyelven. Tartalmaz beépített szintetizátorokat, effekteket, keverőpultot és dallamszerkesztőt is. Célja, hogy gyengébb hardverrel rendelkező számítógépeken is gyorsan és akadozásmentesen fusson.",
+    "mire_jo": "Zenei alapok készítésére vagy hanganyagok vágására használhatod a számítógépeden anélkül, hogy drága stúdiószoftvert vennél.",
+    "kategoria": "egyéb",
+    "telefonrol": "nem",
+    "egyezes": 20,
+    "miert": "Kifejezetten PC-re készült zenei szoftver, így nem kapcsolódik az AI-hoz, az Androidhoz vagy a kamerás feldolgozáshoz."
+   },
+   "score": 38.0
+  },
+  {
+   "full": "valentderah/totk-pc-recomp",
+   "url": "https://github.com/valentderah/totk-pc-recomp",
+   "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+   "lang": "C",
+   "stars": 906,
+   "forks": 50,
+   "growth": 906.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-10-29",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.172,
+   "first_seen": "2026-10-30",
+   "downloads": 7953,
+   "ai": {
+    "cim": "Zelda TotK PC-s újrafordítás",
+    "mit_csinal": "A Nintendo Switchre megjelent Tears of the Kingdom játékot fordítja le közvetlenül Windowsra futtatható programmá emuláció nélkül. Segítségével a játékosok saját mentéseikkel, nagyobb képkockasebességgel és felbontással futtathatják a játékot PC-n. Magát a játékfájlt a felhasználónak kell biztosítania a saját konzoljáról.",
+    "mire_jo": "Kipróbálhatod, hogyan fut a Switch-játék natív PC-s kóddal a számítógépeden jobb grafikával és sebességgel.",
+    "kategoria": "játék",
+    "telefonrol": "nem",
+    "egyezes": 20,
+    "miert": "Bár technikailag érdekes, nem kapcsolódik az AI-hoz, az Androidhoz vagy a kamerás feldolgozáshoz, és saját fejlesztésbe sem igazán építhető be."
+   },
+   "score": 36.5
+  },
+  {
+   "full": "BryceYuuu/RUN",
+   "url": "https://github.com/BryceYuuu/RUN",
+   "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+   "lang": "Python",
+   "stars": 494,
+   "forks": 21,
+   "growth": 494.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-10-29",
+   "license": "CC-BY-SA-4.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.445,
+   "first_seen": "2026-10-30",
+   "downloads": 0,
+   "ai": {
+    "cim": "Külföldi letelepedési és vízum útmutató",
+    "mit_csinal": "Ez egy részletes információs gyűjtemény a külföldre költözésről és a digitális nomád vízumokról. Összehasonlítja több tucat európai és ázsiai ország tartózkodási és adózási feltételeit. Segít eligazodni a különböző munkavállalási és letelepedési szabályok között.",
+    "mire_jo": "Ha a távoli munkavégzés vagy digitális nomádság kapcsán külföldi célpontokat keresel, áttekintheted a lehetőségeket.",
+    "kategoria": "egyéb",
+    "telefonrol": "igen",
+    "egyezes": 10,
+    "miert": "Pusztán egy kínai nyelvű információs dokumentáció, technológiai vagy fejlesztési értéke számodra minimális."
+   },
+   "score": 28.3
+  },
   {
    "full": "milind-soni/OpenMausBot",
    "url": "https://github.com/milind-soni/OpenMausBot",
@@ -32,7 +902,8 @@
    "buzz": 8.853,
    "first_seen": "2026-10-29",
    "downloads": 113232,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "Donchitos/Claude-Code-Game-Studios",
@@ -63,7 +934,8 @@
    "buzz": 8.342,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 94.2
+   "score": 94.2,
+   "old": true
   },
   {
    "full": "KeygraphHQ/shannon",
@@ -94,7 +966,8 @@
    "buzz": 8.333,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 94.1
+   "score": 94.1,
+   "old": true
   },
   {
    "full": "ZigEmbeddedGroup/microzig",
@@ -124,7 +997,8 @@
    "buzz": 7.985,
    "first_seen": "2026-10-29",
    "downloads": 2390,
-   "score": 90.2
+   "score": 90.2,
+   "old": true
   },
   {
    "full": "smithjohn78390/tongjiang-lab",
@@ -155,7 +1029,8 @@
    "buzz": 7.954,
    "first_seen": "2026-10-29",
    "downloads": 94,
-   "score": 89.8
+   "score": 89.8,
+   "old": true
   },
   {
    "full": "rlaope/oh-my-hermes",
@@ -195,7 +1070,8 @@
     "egyezes": 85,
     "miert": "Pontosan illeszkedik az AI-ügynökök iránti érdeklődésedhez és a fejlesztői munkafolyamatokhoz."
    },
-   "score": 84.8
+   "score": 84.8,
+   "old": true
   },
   {
    "full": "CopilotKit/OpenBot",
@@ -226,7 +1102,8 @@
    "buzz": 7.275,
    "first_seen": "2026-10-29",
    "downloads": 1597,
-   "score": 82.2
+   "score": 82.2,
+   "old": true
   },
   {
    "full": "lfnovo/open-notebook",
@@ -266,7 +1143,8 @@
     "egyezes": 80,
     "miert": "Nagyon hasznos hétköznapi AI-eszköz, ami böngészőből és saját szerverről is kényelmesen használható."
    },
-   "score": 81.2
+   "score": 81.2,
+   "old": true
   },
   {
    "full": "unslothai/unsloth",
@@ -304,7 +1182,8 @@
     "egyezes": 82,
     "miert": "Kifejezetten erős asztali eszköz az AI-modellek és ügynökök helyi kipróbálására és testreszabására."
    },
-   "score": 79.1
+   "score": 79.1,
+   "old": true
   },
   {
    "full": "ChannelCooperStart/capri-ai",
@@ -344,7 +1223,8 @@
     "egyezes": 81,
     "miert": "Pontosan megfelel az AI-ügynökök iránti érdeklődésednek, és közvetlenül használható a PC-s mindennapi munka során."
    },
-   "score": 77.8
+   "score": 77.8,
+   "old": true
   },
   {
    "full": "OpenBMB/MiniCPM-OCR",
@@ -381,7 +1261,8 @@
     "egyezes": 80,
     "miert": "Jól illeszkedik a kamerás feldolgozás és a hasznos hétköznapi alkalmazások témaköréhez, és létezik belőle online demó is."
    },
-   "score": 77.6
+   "score": 77.6,
+   "old": true
   },
   {
    "full": "daveebbelaar/bama",
@@ -412,7 +1293,8 @@
    "buzz": 6.85,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 77.4
+   "score": 77.4,
+   "old": true
   },
   {
    "full": "QuantumNous/new-api",
@@ -450,7 +1332,8 @@
     "egyezes": 78,
     "miert": "Hasznos köztes réteg a saját AI-projektek és alkalmazások fejlesztéséhez, ráadásul böngészőből kényelmesen felügyelhető."
    },
-   "score": 76.7
+   "score": 76.7,
+   "old": true
   },
   {
    "full": "volcengine/OpenViking",
@@ -481,7 +1364,8 @@
    "buzz": 6.769,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 76.5
+   "score": 76.5,
+   "old": true
   },
   {
    "full": "microsoft/playwright",
@@ -512,7 +1396,8 @@
    "buzz": 6.731,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 76.0
+   "score": 76.0,
+   "old": true
   },
   {
    "full": "shareAI-lab/learn-claude-code",
@@ -541,7 +1426,8 @@
    "buzz": 6.687,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 75.5
+   "score": 75.5,
+   "old": true
   },
   {
    "full": "HKUDS/nanobot",
@@ -570,7 +1456,8 @@
    "buzz": 6.411,
    "first_seen": "2026-10-29",
    "downloads": 2104,
-   "score": 72.4
+   "score": 72.4,
+   "old": true
   },
   {
    "full": "chthollyphile/folia-major",
@@ -610,7 +1497,8 @@
     "egyezes": 65,
     "miert": "Hasznos és látványos hétköznapi alkalmazás webes és mobilos támogatással, de nem szorosan fejlesztői fókuszú."
    },
-   "score": 72.1
+   "score": 72.1,
+   "old": true
   },
   {
    "full": "shanraisshan/claude-code-best-practice",
@@ -639,7 +1527,8 @@
    "buzz": 6.385,
    "first_seen": "2026-10-29",
    "downloads": 0,
-   "score": 72.1
+   "score": 72.1,
+   "old": true
   },
   {
    "full": "gkd-kit/gkd",
@@ -668,7 +1557,8 @@
    "buzz": 6.371,
    "first_seen": "2026-10-29",
    "downloads": 99449,
-   "score": 72.0
+   "score": 72.0,
+   "old": true
   },
   {
    "full": "p-e-w/heretic",
@@ -705,7 +1595,8 @@
     "egyezes": 60,
     "miert": "Érdekes AI-eszköz, de komoly PC-s hardvert (GPU-t) igényel a modellek módosításához."
    },
-   "score": 71.4
+   "score": 71.4,
+   "old": true
   },
   {
    "full": "PurpleDoubleD/locally-uncensored",
@@ -736,7 +1627,8 @@
    "buzz": 6.319,
    "first_seen": "2026-10-29",
    "downloads": 435237,
-   "score": 71.4
+   "score": 71.4,
+   "old": true
   },
   {
    "full": "reactive-resume/reactive-resume",
@@ -765,7 +1657,8 @@
    "buzz": 6.286,
    "first_seen": "2026-10-29",
    "downloads": 1517,
-   "score": 71.0
+   "score": 71.0,
+   "old": true
   },
   {
    "full": "thomasunise/casecite",
@@ -805,7 +1698,8 @@
     "egyezes": 45,
     "miert": "Bár AI-alapú, kifejezetten jogi szakterületre fókuszál, ami kevésbé kapcsolódik a mindennapi céljaidhoz."
    },
-   "score": 60.8
+   "score": 60.8,
+   "old": true
   },
   {
    "full": "patch-gg/anymove",
@@ -845,7 +1739,8 @@
     "egyezes": 48,
     "miert": "Bár látásalapú ízületkövetést használ, szűk rétegnek szóló, komoly asztali GPU-t és Blendert igénylő 3D animációs eszköz."
    },
-   "score": 58.1
+   "score": 58.1,
+   "old": true
   },
   {
    "full": "FrigadeHQ/hob",
