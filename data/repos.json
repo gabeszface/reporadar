@@ -1,8 +1,714 @@
 {
- "date": "2026-11-01",
- "generated": "2026-11-01T11:27+00:00",
- "model": "gemini-flash-latest",
+ "date": "2026-11-02",
+ "generated": "2026-11-02T12:37+00:00",
+ "model": "",
  "items": [
+  {
+   "full": "ivankovic/omnidiff",
+   "url": "https://github.com/ivankovic/omnidiff",
+   "desc": "Fast, robust, accurate diffing ",
+   "lang": "Rust",
+   "stars": 670,
+   "forks": 11,
+   "growth": 0.0,
+   "hn_points": 266,
+   "hn_comments": 75,
+   "hn_url": "https://news.ycombinator.com/item?id=50325253",
+   "topics": [
+    "ast-diff",
+    "ast-diff-tool",
+    "ast-differencing",
+    "code-quality",
+    "code-review",
+    "codereview"
+   ],
+   "created": "2025-10-17",
+   "pushed": "2026-11-01",
+   "license": "",
+   "homepage": "https://ivankovic.github.io/omnidiff/showcase/",
+   "src": [
+    "hn"
+   ],
+   "buzz": 9.739,
+   "first_seen": "2026-11-02",
+   "downloads": 905,
+   "score": 100.0
+  },
+  {
+   "full": "vercel-labs/agent-desktop",
+   "url": "https://github.com/vercel-labs/agent-desktop",
+   "desc": "Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI structure through OS accessibility trees and operates it — refs stay stable and actions stay safe to retry, instead of guessing from pixels.",
+   "lang": "Rust",
+   "stars": 7878,
+   "forks": 560,
+   "growth": 2243.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "accessibility",
+    "accessibility-api",
+    "ai-agents",
+    "automation",
+    "cli",
+    "computer-use"
+   ],
+   "created": "2026-02-19",
+   "pushed": "2026-11-02",
+   "license": "Apache-2.0",
+   "homepage": "https://agent-browser.dev/desktop",
+   "src": [
+    "trending"
+   ],
+   "buzz": 9.51,
+   "first_seen": "2026-11-02",
+   "downloads": 11946,
+   "score": 97.6
+  },
+  {
+   "full": "JustVugg/colibri",
+   "url": "https://github.com/JustVugg/colibri",
+   "desc": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+   "lang": "C",
+   "stars": 46161,
+   "forks": 5327,
+   "growth": 655.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-07-01",
+   "pushed": "2026-11-02",
+   "license": "Apache-2.0",
+   "homepage": "https://justvugg.github.io/colibri",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.634,
+   "first_seen": "2026-11-02",
+   "downloads": 69997,
+   "score": 88.7
+  },
+  {
+   "full": "storytold/craft-anything",
+   "url": "https://github.com/storytold/craft-anything",
+   "desc": "Craft Anything: understand how any software works, and craft your own.",
+   "lang": "Rust",
+   "stars": 2351,
+   "forks": 373,
+   "growth": 1175.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-31",
+   "pushed": "2026-11-02",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.623,
+   "first_seen": "2026-11-02",
+   "downloads": 60831,
+   "score": 88.5
+  },
+  {
+   "full": "hyprwm/Hyprland",
+   "url": "https://github.com/hyprwm/Hyprland",
+   "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+   "lang": "C++",
+   "stars": 39626,
+   "forks": 2140,
+   "growth": 511.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "compositor",
+    "cpp26",
+    "wayland",
+    "wayland-compositor"
+   ],
+   "created": "2022-03-16",
+   "pushed": "2026-11-02",
+   "license": "BSD-3-Clause",
+   "homepage": "https://hypr.land",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.356,
+   "first_seen": "2026-11-02",
+   "downloads": 36358,
+   "score": 85.8
+  },
+  {
+   "full": "caru-ini/stack-diagram",
+   "url": "https://github.com/caru-ini/stack-diagram",
+   "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+   "lang": "TypeScript",
+   "stars": 862,
+   "forks": 38,
+   "growth": 862.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "architecture-diagram",
+    "claude-code",
+    "claude-skills",
+    "codex",
+    "diagram"
+   ],
+   "created": "2026-11-01",
+   "pushed": "2026-11-02",
+   "license": "MIT",
+   "homepage": "stacks.caru.moe",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.112,
+   "first_seen": "2026-11-02",
+   "downloads": 69,
+   "score": 83.3
+  },
+  {
+   "full": "karpathy/nanochat",
+   "url": "https://github.com/karpathy/nanochat",
+   "desc": "The best ChatGPT that $100 can buy.",
+   "lang": "Python",
+   "stars": 59613,
+   "forks": 8386,
+   "growth": 325.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2025-10-13",
+   "pushed": "2026-09-07",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.986,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 82.0
+  },
+  {
+   "full": "vercel-labs/skills",
+   "url": "https://github.com/vercel-labs/skills",
+   "desc": "The open agent skills tool - npx skills",
+   "lang": "TypeScript",
+   "stars": 37729,
+   "forks": 3262,
+   "growth": 243.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-01-14",
+   "pushed": "2026-10-30",
+   "license": "MIT",
+   "homepage": "https://skills.sh",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.605,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 78.1
+  },
+  {
+   "full": "Balanov/uncut",
+   "url": "https://github.com/Balanov/uncut",
+   "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+   "lang": "Go",
+   "stars": 501,
+   "forks": 3,
+   "growth": 501.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-harness",
+    "cli",
+    "coding-agent",
+    "go",
+    "headless",
+    "llm"
+   ],
+   "created": "2026-11-01",
+   "pushed": "2026-11-02",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.462,
+   "first_seen": "2026-11-02",
+   "downloads": 78,
+   "score": 76.6
+  },
+  {
+   "full": "Verlintas/NOIR",
+   "url": "https://github.com/Verlintas/NOIR",
+   "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+   "lang": "Kotlin",
+   "stars": 858,
+   "forks": 65,
+   "growth": 429.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adb",
+    "android",
+    "android-privacy",
+    "android-security",
+    "android-tools",
+    "apk-analysis"
+   ],
+   "created": "2026-10-31",
+   "pushed": "2026-11-02",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.415,
+   "first_seen": "2026-11-02",
+   "downloads": 1881,
+   "score": 76.1
+  },
+  {
+   "full": "mksglu/context-mode",
+   "url": "https://github.com/mksglu/context-mode",
+   "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.",
+   "lang": "TypeScript",
+   "stars": 33221,
+   "forks": 2292,
+   "growth": 145.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "antigravity",
+    "claude",
+    "claude-code",
+    "claude-code-hooks",
+    "claude-code-plugins",
+    "claude-code-skill"
+   ],
+   "created": "2026-02-23",
+   "pushed": "2026-11-02",
+   "license": "",
+   "homepage": "https://contextmode.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.066,
+   "first_seen": "2026-11-02",
+   "downloads": 21,
+   "score": 72.6
+  },
+  {
+   "full": "joeblau/subvox",
+   "url": "https://github.com/joeblau/subvox",
+   "desc": "",
+   "lang": "Swift",
+   "stars": 602,
+   "forks": 88,
+   "growth": 301.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-31",
+   "pushed": "2026-10-31",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.991,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 71.8
+  },
+  {
+   "full": "hieunc229/mailflare",
+   "url": "https://github.com/hieunc229/mailflare",
+   "desc": "Email for professionals and teams",
+   "lang": "TypeScript",
+   "stars": 5471,
+   "forks": 804,
+   "growth": 185.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "cloudflare",
+    "cloudflare-workers",
+    "email"
+   ],
+   "created": "2026-05-26",
+   "pushed": "2026-10-31",
+   "license": "AGPL-3.0",
+   "homepage": "https://mailflare.co",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.947,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 71.3
+  },
+  {
+   "full": "Centiplatrap/pc-game-fps-doctor",
+   "url": "https://github.com/Centiplatrap/pc-game-fps-doctor",
+   "desc": "One button: why the game stutters, why it lags and why it won't start. Pitstop measures with PresentMon, explains in plain words, fixes Windows only, and undoes every change in one click.",
+   "lang": "JavaScript",
+   "stars": 567,
+   "forks": 201,
+   "growth": 283.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "bufferbloat",
+    "fps-drops",
+    "lag-fix",
+    "presentmon",
+    "rust",
+    "secure-boot"
+   ],
+   "created": "2026-10-31",
+   "pushed": "2026-11-02",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.919,
+   "first_seen": "2026-11-02",
+   "downloads": 14,
+   "score": 71.0
+  },
+  {
+   "full": "derv82/wifit3",
+   "url": "https://github.com/derv82/wifit3",
+   "desc": "Wifite but USB-only & cross-platform.",
+   "lang": "Python",
+   "stars": 3009,
+   "forks": 299,
+   "growth": 201.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "cross-platform",
+    "userland",
+    "wifi-scanner",
+    "wifi-security",
+    "wireless-security"
+   ],
+   "created": "2026-06-20",
+   "pushed": "2026-11-02",
+   "license": "GPL-2.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.91,
+   "first_seen": "2026-11-02",
+   "downloads": 14987,
+   "score": 71.0
+  },
+  {
+   "full": "CNCKitchen/ScanRuler",
+   "url": "https://github.com/CNCKitchen/ScanRuler",
+   "desc": "",
+   "lang": "TypeScript",
+   "stars": 664,
+   "forks": 121,
+   "growth": 256.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-08-13",
+   "pushed": "2026-11-01",
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.849,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 70.3
+  },
+  {
+   "full": "arpanjot-coding/AVault",
+   "url": "https://github.com/arpanjot-coding/AVault",
+   "desc": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
+   "lang": "Kotlin",
+   "stars": 523,
+   "forks": 35,
+   "growth": 261.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "aes-256",
+    "android",
+    "android-14",
+    "android-15",
+    "android-16",
+    "android-call-recorder"
+   ],
+   "created": "2026-10-31",
+   "pushed": "2026-11-02",
+   "license": "",
+   "homepage": "https://arpanjot-coding.github.io/AVault/",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.823,
+   "first_seen": "2026-11-02",
+   "downloads": 104,
+   "score": 70.1
+  },
+  {
+   "full": "hyz317/HairDeck",
+   "url": "https://github.com/hyz317/HairDeck",
+   "desc": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+   "lang": "Python",
+   "stars": 706,
+   "forks": 43,
+   "growth": 229.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-11-02",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.75,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 69.3
+  },
+  {
+   "full": "modelflare-ai/AnyModelBot",
+   "url": "https://github.com/modelflare-ai/AnyModelBot",
+   "desc": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+   "lang": "TypeScript",
+   "stars": 1148,
+   "forks": 13,
+   "growth": 191.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agent",
+    "ai-assistant",
+    "chatbot",
+    "claude",
+    "computer-use",
+    "deepseek"
+   ],
+   "created": "2026-10-27",
+   "pushed": "2026-11-02",
+   "license": "MIT",
+   "homepage": "https://anymodel.bot/",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.669,
+   "first_seen": "2026-11-02",
+   "downloads": 257,
+   "score": 68.5
+  },
+  {
+   "full": "max-sixty/worktrunk",
+   "url": "https://github.com/max-sixty/worktrunk",
+   "desc": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+   "lang": "Rust",
+   "stars": 9831,
+   "forks": 349,
+   "growth": 115.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agents",
+    "claude-code",
+    "codex",
+    "developer-tools",
+    "git",
+    "worktrees"
+   ],
+   "created": "2025-10-17",
+   "pushed": "2026-11-02",
+   "license": "",
+   "homepage": "https://worktrunk.dev",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.592,
+   "first_seen": "2026-11-02",
+   "downloads": 245053,
+   "score": 67.7
+  },
+  {
+   "full": "CYQawa/YunX",
+   "url": "https://github.com/CYQawa/YunX",
+   "desc": "✨一个安卓 网盘解析 + 视频平台解析 下载app✨",
+   "lang": "Kotlin",
+   "stars": 6274,
+   "forks": 324,
+   "growth": 122.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-08-06",
+   "pushed": "2026-10-31",
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.561,
+   "first_seen": "2026-11-02",
+   "downloads": 248175,
+   "score": 67.4
+  },
+  {
+   "full": "kgoedecke/doop",
+   "url": "https://github.com/kgoedecke/doop",
+   "desc": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+   "lang": "TypeScript",
+   "stars": 1513,
+   "forks": 183,
+   "growth": 162.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "canvas",
+    "claude",
+    "claude-code",
+    "claude-design",
+    "codex"
+   ],
+   "created": "2026-08-22",
+   "pushed": "2026-11-02",
+   "license": "AGPL-3.0",
+   "homepage": "https://doop.design",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.558,
+   "first_seen": "2026-11-02",
+   "downloads": 1764,
+   "score": 67.3
+  },
+  {
+   "full": "N1nEmAn/sapper-v2",
+   "url": "https://github.com/N1nEmAn/sapper-v2",
+   "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+   "lang": "Python",
+   "stars": 576,
+   "forks": 470,
+   "growth": 192.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "autonomous-agents",
+    "claude-code",
+    "ctf",
+    "llm",
+    "multi-agent"
+   ],
+   "created": "2026-10-30",
+   "pushed": "2026-11-01",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.534,
+   "first_seen": "2026-11-02",
+   "downloads": 656,
+   "score": 67.1
+  },
+  {
+   "full": "alchaincyf/huashu-bird-sticker",
+   "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+   "desc": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+   "lang": "",
+   "stars": 557,
+   "forks": 99,
+   "growth": 185.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-generated",
+    "biodiversity",
+    "birding",
+    "birds",
+    "birdwatching",
+    "claude-code"
+   ],
+   "created": "2026-10-30",
+   "pushed": "2026-11-02",
+   "license": "",
+   "homepage": "https://birdalbum.com",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.494,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 66.7
+  },
+  {
+   "full": "Pika-Labs/Pika-H3-Flex",
+   "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
+   "desc": "Pika H3 Flex: video and audio generation inference",
+   "lang": "Python",
+   "stars": 499,
+   "forks": 23,
+   "growth": 124.8,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-11-02",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.077,
+   "first_seen": "2026-11-02",
+   "downloads": 0,
+   "score": 62.4
+  },
   {
    "full": "guregodevo/memdoor",
    "url": "https://github.com/guregodevo/memdoor",
@@ -42,7 +748,8 @@
     "egyezes": 92,
     "miert": "Telitalálat: AI-ügynök, működik GitHub Actionsből és mobilról vezérelve is a saját projektjeidhez."
    },
-   "score": 90.5
+   "score": 90.5,
+   "old": true
   },
   {
    "full": "deepseek-ai/dsh-superagent-prototype",
@@ -75,7 +782,8 @@
     "egyezes": 88,
     "miert": "Pontosan illik az AI-ügynökök iránti érdeklődésedhez, és szerverre telepítve a GitHubon keresztül mobilról is irányítható."
    },
-   "score": 85.5
+   "score": 85.5,
+   "old": true
   },
   {
    "full": "l0ng-ai/openidea",
@@ -116,7 +824,8 @@
     "egyezes": 68,
     "miert": "Hasznos fejlesztői eszköz PC-re, de nem tartalmaz AI-ügynököket, és telefonról egyáltalán nem használható."
    },
-   "score": 80.8
+   "score": 80.8,
+   "old": true
   },
   {
    "full": "anthropics/claude-code",
@@ -149,7 +858,8 @@
     "egyezes": 92,
     "miert": "Tökéletesen illeszkedik a mindennapi fejlesztéshez és a kódoló AI-ügynökök iránti érdeklődéshez."
    },
-   "score": 78.8
+   "score": 78.8,
+   "old": true
   },
   {
    "full": "kornia/kornia",
@@ -189,7 +899,8 @@
     "egyezes": 92,
     "miert": "Pontosan illeszkedik a kamerás kéz- és arcfelismerés, valamint a gépi látásra épülő AI-modellek iránti érdeklődésedhez."
    },
-   "score": 75.9
+   "score": 75.9,
+   "old": true
   },
   {
    "full": "boardshogunfluctuate/Capri-AI",
@@ -229,7 +940,8 @@
     "egyezes": 85,
     "miert": "Kifejezetten kódolási és fejlesztői feladatokra szabott asztali AI-ügynök, ami pontosan illik az AI-eszközök iránti érdeklődésedhez."
    },
-   "score": 72.8
+   "score": 72.8,
+   "old": true
   },
   {
    "full": "D4Vinci/Scrapling",
@@ -260,7 +972,8 @@
    "buzz": 9.024,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 72.3
+   "score": 72.3,
+   "old": true
   },
   {
    "full": "beenuar/AiSOC",
@@ -300,7 +1013,8 @@
     "egyezes": 78,
     "miert": "Izgalmas példa az AI-ügynökök gyakorlati alkalmazására, bár kifejezetten vállalati biztonsági fókuszú."
    },
-   "score": 71.8
+   "score": 71.8,
+   "old": true
   },
   {
    "full": "FlashML-org/FreeToken",
@@ -340,7 +1054,8 @@
     "egyezes": 80,
     "miert": "Erős helyi AI-infrastruktúrát kínál az ügynökök kiszolgálására a PC-den."
    },
-   "score": 71.6
+   "score": 71.6,
+   "old": true
   },
   {
    "full": "calesthio/OpenMontage",
@@ -371,7 +1086,8 @@
    "buzz": 8.613,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 69.0
+   "score": 69.0,
+   "old": true
   },
   {
    "full": "cjpais/Handy",
@@ -400,7 +1116,8 @@
    "buzz": 8.515,
    "first_seen": "2026-11-01",
    "downloads": 4518436,
-   "score": 68.2
+   "score": 68.2,
+   "old": true
   },
   {
    "full": "patchy631/ai-engineering-hub",
@@ -431,7 +1148,8 @@
    "buzz": 8.471,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 67.9
+   "score": 67.9,
+   "old": true
   },
   {
    "full": "NiazMorshed2007/reanimate",
@@ -471,7 +1189,8 @@
     "egyezes": 78,
     "miert": "Egyedi megközelítésű AI-ügynök eszköz, amely közvetlenül segítheti a látványos felületek építését saját projektjeidben."
    },
-   "score": 67.8
+   "score": 67.8,
+   "old": true
   },
   {
    "full": "public-apis/public-apis",
@@ -502,7 +1221,8 @@
    "buzz": 8.322,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 66.7
+   "score": 66.7,
+   "old": true
   },
   {
    "full": "anomalyco/hex",
@@ -542,7 +1262,8 @@
     "egyezes": 70,
     "miert": "Praktikus hétköznapi eszköz, de csak asztali környezetben működik, és kevésbé kapcsolódik a mobilfejlesztéshez vagy a kamerás látáshoz."
    },
-   "score": 63.5
+   "score": 63.5,
+   "old": true
   },
   {
    "full": "Koppar-AI/koppar-lte-modem",
@@ -583,7 +1304,8 @@
     "egyezes": 45,
     "miert": "Érdekes hardverterv hang-alapú AI projektekhez, de fizikai legyártást igényel, így azonnal nem próbálható ki."
    },
-   "score": 61.8
+   "score": 61.8,
+   "old": true
   },
   {
    "full": "kerlenton/bootgpt",
@@ -624,7 +1346,8 @@
     "egyezes": 50,
     "miert": "Bár AI-alapú és technikailag lenyűgöző, hétköznapi projektekbe vagy mobil környezetbe nem igazán beépíthető."
    },
-   "score": 61.1
+   "score": 61.1,
+   "old": true
   },
   {
    "full": "paperless-ngx/paperless-ngx",
@@ -664,7 +1387,8 @@
     "egyezes": 65,
     "miert": "Kifejezetten hasznos hétköznapi rendszer, amelynek a működő demója mobilon is kipróbálható, de kevéssé vág a fejlesztői fókuszodba."
    },
-   "score": 60.0
+   "score": 60.0,
+   "old": true
   },
   {
    "full": "elvarofficial/teardown",
@@ -688,7 +1412,8 @@
    "buzz": 7.13,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 57.1
+   "score": 57.1,
+   "old": true
   },
   {
    "full": "upscayl/upscayl",
@@ -719,7 +1444,8 @@
    "buzz": 7.075,
    "first_seen": "2026-11-01",
    "downloads": 73980072,
-   "score": 56.7
+   "score": 56.7,
+   "old": true
   },
   {
    "full": "ramenvr/autopilot",
@@ -743,7 +1469,8 @@
    "buzz": 6.932,
    "first_seen": "2026-11-01",
    "downloads": 869,
-   "score": 55.5
+   "score": 55.5,
+   "old": true
   },
   {
    "full": "JCodesMore/ai-website-cloner-template",
@@ -774,7 +1501,8 @@
    "buzz": 6.931,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 55.5
+   "score": 55.5,
+   "old": true
   },
   {
    "full": "THU-MAIC/OpenMAIC",
@@ -798,7 +1526,8 @@
    "buzz": 6.893,
    "first_seen": "2026-11-01",
    "downloads": 0,
-   "score": 55.2
+   "score": 55.2,
+   "old": true
   },
   {
    "full": "Arjun-Ingole/hop",
@@ -831,7 +1560,8 @@
     "egyezes": 50,
     "miert": "Hasznos hétköznapi PC-s segédprogram, de nem kapcsolódik az AI-hoz vagy a mobilos fejlesztéshez."
    },
-   "score": 54.0
+   "score": 54.0,
+   "old": true
   },
   {
    "full": "bregman-arie/devops-exercises",
@@ -871,7 +1601,8 @@
     "egyezes": 45,
     "miert": "Alapvetően egy olvasmányos kérdésgyűjtemény, ami nem egy kipróbálható szoftvereszköz vagy AI projekt."
    },
-   "score": 53.0
+   "score": 53.0,
+   "old": true
   },
   {
    "full": "wangzan101/Mika",
@@ -2586,875 +3317,6 @@
     "miert": "Pusztán egy kínai nyelvű információs dokumentáció, technológiai vagy fejlesztési értéke számodra minimális."
    },
    "score": 28.3,
-   "old": true
-  },
-  {
-   "full": "milind-soni/OpenMausBot",
-   "url": "https://github.com/milind-soni/OpenMausBot",
-   "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-   "lang": "TypeScript",
-   "stars": 6996,
-   "forks": 1075,
-   "growth": 1190.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "computer-use",
-    "docker",
-    "electron"
-   ],
-   "created": "2026-08-11",
-   "pushed": "2026-10-29",
-   "license": "Apache-2.0",
-   "homepage": "https://www.openmausbot.com/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.853,
-   "first_seen": "2026-10-29",
-   "downloads": 113232,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "Donchitos/Claude-Code-Game-Studios",
-   "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-   "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-   "lang": "Shell",
-   "stars": 28561,
-   "forks": 4013,
-   "growth": 538.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "ai-assisted-development",
-    "anthropic",
-    "claude",
-    "claude-code",
-    "game-design"
-   ],
-   "created": "2026-02-12",
-   "pushed": "2026-10-19",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.342,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 94.2,
-   "old": true
-  },
-  {
-   "full": "KeygraphHQ/shannon",
-   "url": "https://github.com/KeygraphHQ/shannon",
-   "desc": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-   "lang": "TypeScript",
-   "stars": 50277,
-   "forks": 5780,
-   "growth": 476.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-penetration-testing",
-    "ai-security",
-    "api-security",
-    "appsec",
-    "ci-cd",
-    "cybersecurity"
-   ],
-   "created": "2025-09-27",
-   "pushed": "2026-10-27",
-   "license": "AGPL-3.0",
-   "homepage": "https://keygraph.io/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.333,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 94.1,
-   "old": true
-  },
-  {
-   "full": "ZigEmbeddedGroup/microzig",
-   "url": "https://github.com/ZigEmbeddedGroup/microzig",
-   "desc": "MicroZig is a toolbox for building embedded applications in Zig.",
-   "lang": "Zig",
-   "stars": 2319,
-   "forks": 204,
-   "growth": 0.0,
-   "hn_points": 51,
-   "hn_comments": 68,
-   "hn_url": "https://news.ycombinator.com/item?id=50282865",
-   "topics": [
-    "embedded",
-    "hal",
-    "zig",
-    "zig-package",
-    "ziglang"
-   ],
-   "created": "2021-03-18",
-   "pushed": "2026-10-29",
-   "license": "Zlib",
-   "homepage": "http://microzig.tech/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.985,
-   "first_seen": "2026-10-29",
-   "downloads": 2390,
-   "score": 90.2,
-   "old": true
-  },
-  {
-   "full": "smithjohn78390/tongjiang-lab",
-   "url": "https://github.com/smithjohn78390/tongjiang-lab",
-   "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-   "lang": "HTML",
-   "stars": 755,
-   "forks": 203,
-   "growth": 755.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "3d",
-    "biology",
-    "chemistry",
-    "education",
-    "geography",
-    "high-school"
-   ],
-   "created": "2026-10-28",
-   "pushed": "2026-10-28",
-   "license": "",
-   "homepage": "https://lab.tongjiang.app",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.954,
-   "first_seen": "2026-10-29",
-   "downloads": 94,
-   "score": 89.8,
-   "old": true
-  },
-  {
-   "full": "rlaope/oh-my-hermes",
-   "url": "https://github.com/rlaope/oh-my-hermes",
-   "desc": "⚚ The coding harness with Hermes Agent wired into IDE.",
-   "lang": "Python",
-   "stars": 4726,
-   "forks": 367,
-   "growth": 327.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "ai",
-    "ai-agent",
-    "ai-tools",
-    "claude-code",
-    "codex"
-   ],
-   "created": "2026-06-03",
-   "pushed": "2026-10-29",
-   "license": "MIT",
-   "homepage": "https://rlaope.github.io/oh-my-hermes/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.485,
-   "first_seen": "2026-10-29",
-   "downloads": 5424,
-   "ai": {
-    "cim": "Párhuzamos AI kódoló ügynök rendszer",
-    "mit_csinal": "A kódolási feladatokat részfeladatokra bontja és párhuzamosan futtatja több különböző AI modellen keresztül. Automatikusan kiválasztja a megfelelő szakterületű segédet a feladathoz, és csak tesztelés vagy ellenőrzés után tekinti késznek a munkát. Átlátható terminálos felületen követhető a folyamat.",
-    "mire_jo": "Fejlesztés közben gyorsíthatod vele a kódírást és tesztelést egy önállóan működő AI-ügynök csapattal.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 85,
-    "miert": "Pontosan illeszkedik az AI-ügynökök iránti érdeklődésedhez és a fejlesztői munkafolyamatokhoz."
-   },
-   "score": 84.8,
-   "old": true
-  },
-  {
-   "full": "CopilotKit/OpenBot",
-   "url": "https://github.com/CopilotKit/OpenBot",
-   "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-   "lang": "TypeScript",
-   "stars": 7734,
-   "forks": 1028,
-   "growth": 240.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ag-ui",
-    "agent-governance",
-    "ai-agents",
-    "browser-automation",
-    "copilotkit",
-    "generative-ui"
-   ],
-   "created": "2026-08-17",
-   "pushed": "2026-10-29",
-   "license": "MIT",
-   "homepage": "https://www.copilotkit.ai/openbot",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.275,
-   "first_seen": "2026-10-29",
-   "downloads": 1597,
-   "score": 82.2,
-   "old": true
-  },
-  {
-   "full": "lfnovo/open-notebook",
-   "url": "https://github.com/lfnovo/open-notebook",
-   "desc": "An Open Source implementation of Notebook LM with more flexibility and features",
-   "lang": "TypeScript",
-   "stars": 40831,
-   "forks": 4694,
-   "growth": 185.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "assistant",
-    "learning",
-    "note-taking",
-    "notebook",
-    "notes-app",
-    "self-learning"
-   ],
-   "created": "2024-10-21",
-   "pushed": "2026-10-25",
-   "license": "MIT",
-   "homepage": "https://www.open-notebook.ai",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.349,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "ai": {
-    "cim": "Nyílt forrású NotebookLM alternatíva",
-    "mit_csinal": "Egy saját gépen vagy felhőben futtatható jegyzetelő és kutatóasszisztens, a Google NotebookLM nyílt alternatívája. Különböző AI szolgáltatókhoz és helyi modellekhez kapcsolható, és dokumentumokból vagy videókból készít összefoglalókat, csevegést és akár podcastokat. Minden adatot helyben tart, külső adatgyűjtés nélkül.",
-    "mire_jo": "Hasznos hétköznapi kutató és tanulást segítő eszközként azonnal bevetheted a saját dokumentumaid feldolgozására.",
-    "kategoria": "AI",
-    "telefonrol": "igen",
-    "egyezes": 80,
-    "miert": "Nagyon hasznos hétköznapi AI-eszköz, ami böngészőből és saját szerverről is kényelmesen használható."
-   },
-   "score": 81.2,
-   "old": true
-  },
-  {
-   "full": "unslothai/unsloth",
-   "url": "https://github.com/unslothai/unsloth",
-   "desc": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-   "lang": "Python",
-   "stars": 78743,
-   "forks": 7310,
-   "growth": 77.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "ai",
-    "chatgpt",
-    "deepseek",
-    "fine-tuning",
-    "gemma"
-   ],
-   "created": "2023-11-29",
-   "pushed": "2026-10-29",
-   "license": "Apache-2.0",
-   "homepage": "https://unsloth.ai/docs",
-   "src": [],
-   "buzz": 6.612,
-   "first_seen": "2026-10-29",
-   "downloads": 1678013,
-   "ai": {
-    "cim": "Helyi nyelvi modellek futtatása és betanítása",
-    "mit_csinal": "Egy asztali számítógépekre tervezett eszköz, amellyel saját gépen lehet nagy nyelvi modelleket futtatni és betanítani. A versenytársakhoz képest jóval kevesebb memóriát igényel, és sokkal gyorsabb működést kínál. Támogatja az ügynököket, a helyi keresést és a külső eszközök meghívását is.",
-    "mire_jo": "A számítógépeden kísérletezhetsz vele helyi AI-ügynökökkel, vagy saját adatbázisra taníthatsz be kisebb modelleket az appjaidhoz.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 82,
-    "miert": "Kifejezetten erős asztali eszköz az AI-modellek és ügynökök helyi kipróbálására és testreszabására."
-   },
-   "score": 79.1,
-   "old": true
-  },
-  {
-   "full": "ChannelCooperStart/capri-ai",
-   "url": "https://github.com/ChannelCooperStart/capri-ai",
-   "desc": "🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code, Codex, Antigravity & more.",
-   "lang": "",
-   "stars": 386,
-   "forks": 64,
-   "growth": 193.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agent",
-    "ai-agents",
-    "ai-assistants",
-    "antigravity",
-    "autamation",
-    "claude"
-   ],
-   "created": "2026-10-27",
-   "pushed": "2026-10-29",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.46,
-   "first_seen": "2026-10-29",
-   "downloads": 441,
-   "ai": {
-    "cim": "Asztali AI-ügynök cyberpunk köntösben",
-    "mit_csinal": "Egy cyberpunk stílusú, Windowsra készült önálló asztali asszisztens. Képes önállóan megtervezni és végrehajtani feladatokat a számítógépeden, például fájlokat kezelni vagy kódokat írni és javítani. Többféle népszerű AI-modell motorját is képes használni a háttérben.",
-    "mire_jo": "Mindennapi segédként használhatod a számítógépes fejlesztési feladatok és fájlkezelések automatizálására.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 81,
-    "miert": "Pontosan megfelel az AI-ügynökök iránti érdeklődésednek, és közvetlenül használható a PC-s mindennapi munka során."
-   },
-   "score": 77.8,
-   "old": true
-  },
-  {
-   "full": "OpenBMB/MiniCPM-OCR",
-   "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-   "desc": "Fast, accurate OCR with correctness assessment.",
-   "lang": "Python",
-   "stars": 416,
-   "forks": 26,
-   "growth": 208.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "image2text",
-    "minicpm-v",
-    "ocr"
-   ],
-   "created": "2026-10-27",
-   "pushed": "2026-10-29",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.549,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "ai": {
-    "cim": "Gyors és pontos dokumentum-szövegfelismerő modell",
-    "mit_csinal": "Képekről, szkennelt iratokról és fotókról olvas be szöveget, táblázatokat és képleteket kiemelkedő pontossággal. Képes megjelölni a bizonytalan vagy nehezen olvasható részeket a dokumentumban. Kis mérete miatt hatékonyan és gyorsan futtatható.",
-    "mire_jo": "Remek alap lehet egy olyan Androidos vagy kamerás apphoz, amely dokumentumokból vagy lefotózott tárgyakról olvas be adatokat.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 80,
-    "miert": "Jól illeszkedik a kamerás feldolgozás és a hasznos hétköznapi alkalmazások témaköréhez, és létezik belőle online demó is."
-   },
-   "score": 77.6,
-   "old": true
-  },
-  {
-   "full": "daveebbelaar/bama",
-   "url": "https://github.com/daveebbelaar/bama",
-   "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-   "lang": "Swift",
-   "stars": 681,
-   "forks": 101,
-   "growth": 255.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "app-clone",
-    "claude-code",
-    "claude-code-plugin",
-    "codex"
-   ],
-   "created": "2026-10-24",
-   "pushed": "2026-10-27",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.85,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 77.4,
-   "old": true
-  },
-  {
-   "full": "QuantumNous/new-api",
-   "url": "https://github.com/QuantumNous/new-api",
-   "desc": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
-   "lang": "Go",
-   "stars": 50952,
-   "forks": 12346,
-   "growth": 85.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-gateway",
-    "api-management",
-    "claude",
-    "deepseek",
-    "gemini",
-    "llm-gateway"
-   ],
-   "created": "2023-11-10",
-   "pushed": "2026-10-28",
-   "license": "AGPL-3.0",
-   "homepage": "https://www.newapi.ai",
-   "src": [],
-   "buzz": 6.622,
-   "first_seen": "2026-10-29",
-   "downloads": 36995,
-   "ai": {
-    "cim": "Központi AI átjáró és kulcskezelő",
-    "mit_csinal": "Egyetlen közös felület mögé szervezi a különböző mesterséges intelligencia szolgáltatókat, mint az OpenAI, Claude vagy Gemini. Egységes hozzáférést, terheléselosztást és költségkövetést biztosít az összes csatlakoztatott modellhez. Saját szerverre vagy felhőbe is egyszerűen telepíthető.",
-    "mire_jo": "Kiváló háttérszolgáltatásként szolgálhat a saját Androidos vagy webes AI-alkalmazásaid mögé a modellhívások és API-kulcsok központi kezelésére.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 78,
-    "miert": "Hasznos köztes réteg a saját AI-projektek és alkalmazások fejlesztéséhez, ráadásul böngészőből kényelmesen felügyelhető."
-   },
-   "score": 76.7,
-   "old": true
-  },
-  {
-   "full": "volcengine/OpenViking",
-   "url": "https://github.com/volcengine/OpenViking",
-   "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-   "lang": "Python",
-   "stars": 41109,
-   "forks": 3331,
-   "growth": 103.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-context",
-    "agent-memory",
-    "agent-plugins",
-    "agentic-rag",
-    "context-database",
-    "dsh-plugin"
-   ],
-   "created": "2026-01-05",
-   "pushed": "2026-10-29",
-   "license": "AGPL-3.0",
-   "homepage": "https://openviking.ai",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.769,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 76.5,
-   "old": true
-  },
-  {
-   "full": "microsoft/playwright",
-   "url": "https://github.com/microsoft/playwright",
-   "desc": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
-   "lang": "TypeScript",
-   "stars": 98794,
-   "forks": 6733,
-   "growth": 83.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "chrome",
-    "chromium",
-    "e2e-testing",
-    "electron",
-    "end-to-end-testing"
-   ],
-   "created": "2019-11-15",
-   "pushed": "2026-10-29",
-   "license": "Apache-2.0",
-   "homepage": "https://playwright.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.731,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 76.0,
-   "old": true
-  },
-  {
-   "full": "shareAI-lab/learn-claude-code",
-   "url": "https://github.com/shareAI-lab/learn-claude-code",
-   "desc": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
-   "lang": "Python",
-   "stars": 79490,
-   "forks": 12719,
-   "growth": 83.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "agent-development",
-    "ai-agent",
-    "claude",
-    "claude-code",
-    "educational"
-   ],
-   "created": "2025-06-29",
-   "pushed": "2026-10-27",
-   "license": "MIT",
-   "homepage": "https://learn.shareai.run",
-   "src": [],
-   "buzz": 6.687,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 75.5,
-   "old": true
-  },
-  {
-   "full": "HKUDS/nanobot",
-   "url": "https://github.com/HKUDS/nanobot",
-   "desc": "Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps",
-   "lang": "Python",
-   "stars": 49616,
-   "forks": 8696,
-   "growth": 69.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-framework",
-    "ai-agent",
-    "ai-agents",
-    "chatbot",
-    "chatops",
-    "discord-bot"
-   ],
-   "created": "2026-02-01",
-   "pushed": "2026-10-29",
-   "license": "MIT",
-   "homepage": "https://nanobot.wiki",
-   "src": [],
-   "buzz": 6.411,
-   "first_seen": "2026-10-29",
-   "downloads": 2104,
-   "score": 72.4,
-   "old": true
-  },
-  {
-   "full": "chthollyphile/folia-major",
-   "url": "https://github.com/chthollyphile/folia-major",
-   "desc": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器",
-   "lang": "TypeScript",
-   "stars": 10126,
-   "forks": 1111,
-   "growth": 241.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "music",
-    "music-player",
-    "navidrome-client",
-    "netease-music",
-    "player"
-   ],
-   "created": "2025-11-28",
-   "pushed": "2026-10-29",
-   "license": "AGPL-3.0",
-   "homepage": "https://folia-site.cielaniska.top/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.334,
-   "first_seen": "2026-10-29",
-   "downloads": 782129,
-   "ai": {
-    "cim": "Látványos zenelejátszó animált dalszövegekkel",
-    "mit_csinal": "Egy többplatformos zenelejátszó, amely teljes képernyős, látványos dalszöveg-animációkat jelenít meg zenehallgatás közben. Képes helyi zenefájlok és különféle online streaming források kezelésére, valamint mesterséges intelligenciával készít a zene hangulatához illő színtémákat. Elérhető asztali alkalmazásként és böngészőben futó webes verzióként is.",
-    "mire_jo": "Mindennapi zenelejátszásra használható telefonon PWA-ként vagy asztali gépen, illetve ötletet adhat Androidos médialejátszó felületekhez.",
-    "kategoria": "eszköz",
-    "telefonrol": "igen",
-    "egyezes": 65,
-    "miert": "Hasznos és látványos hétköznapi alkalmazás webes és mobilos támogatással, de nem szorosan fejlesztői fókuszú."
-   },
-   "score": 72.1,
-   "old": true
-  },
-  {
-   "full": "shanraisshan/claude-code-best-practice",
-   "url": "https://github.com/shanraisshan/claude-code-best-practice",
-   "desc": "from vibe coding to agentic engineering - practice makes claude perfect",
-   "lang": "HTML",
-   "stars": 68295,
-   "forks": 6785,
-   "growth": 63.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agentic-ai",
-    "agentic-coding",
-    "agentic-engineering",
-    "agentic-workflow",
-    "ai",
-    "ai-agents"
-   ],
-   "created": "2025-10-31",
-   "pushed": "2026-10-29",
-   "license": "MIT",
-   "homepage": "https://linkedin.com/in/shanraisshan",
-   "src": [],
-   "buzz": 6.385,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "score": 72.1,
-   "old": true
-  },
-  {
-   "full": "gkd-kit/gkd",
-   "url": "https://github.com/gkd-kit/gkd",
-   "desc": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
-   "lang": "Kotlin",
-   "stars": 43624,
-   "forks": 2084,
-   "growth": 68.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "accessibility",
-    "android",
-    "auto",
-    "click",
-    "compose",
-    "compose-multiplatform"
-   ],
-   "created": "2023-07-04",
-   "pushed": "2026-10-29",
-   "license": "GPL-3.0",
-   "homepage": "https://gkd.li",
-   "src": [],
-   "buzz": 6.371,
-   "first_seen": "2026-10-29",
-   "downloads": 99449,
-   "score": 72.0,
-   "old": true
-  },
-  {
-   "full": "p-e-w/heretic",
-   "url": "https://github.com/p-e-w/heretic",
-   "desc": "Fully automatic censorship removal for language models",
-   "lang": "Python",
-   "stars": 37035,
-   "forks": 4209,
-   "growth": 307.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "abliteration",
-    "llm",
-    "transformer"
-   ],
-   "created": "2025-09-21",
-   "pushed": "2026-10-29",
-   "license": "AGPL-3.0",
-   "homepage": "https://heretic-project.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.834,
-   "first_seen": "2026-10-29",
-   "downloads": 7867,
-   "ai": {
-    "cim": "Nyelvi modellek automatikus cenzúramentesítése",
-    "mit_csinal": "Eltávolítja a biztonsági korlátozásokat a nyelvi modellekből anélkül, hogy drága újratanításra lenne szükség. Automatikusan megkeresi az optimális beállításokat, hogy a modell ne utasítsa el a kéréseket, de megőrizze eredeti tudását. Használata egyszerű parancssori eszközként működik.",
-    "mire_jo": "Saját nyelvi modelleket szabadíthatsz fel vele a beépített korlátozások alól anélkül, hogy romlana a minőségük.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 60,
-    "miert": "Érdekes AI-eszköz, de komoly PC-s hardvert (GPU-t) igényel a modellek módosításához."
-   },
-   "score": 71.4,
-   "old": true
-  },
-  {
-   "full": "PurpleDoubleD/locally-uncensored",
-   "url": "https://github.com/PurpleDoubleD/locally-uncensored",
-   "desc": "The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.",
-   "lang": "TypeScript",
-   "stars": 2986,
-   "forks": 492,
-   "growth": 111.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "ai-chat",
-    "ai-studio",
-    "all-in-one",
-    "coding-agent",
-    "desktop-app"
-   ],
-   "created": "2026-03-24",
-   "pushed": "2026-10-28",
-   "license": "AGPL-3.0",
-   "homepage": "https://locallyuncensored.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.319,
-   "first_seen": "2026-10-29",
-   "downloads": 435237,
-   "score": 71.4,
-   "old": true
-  },
-  {
-   "full": "reactive-resume/reactive-resume",
-   "url": "https://github.com/reactive-resume/reactive-resume",
-   "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-   "lang": "TypeScript",
-   "stars": 45041,
-   "forks": 4892,
-   "growth": 62.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai",
-    "dsh-plugin",
-    "hacktoberfest",
-    "javascript",
-    "mcp-server"
-   ],
-   "created": "2020-03-25",
-   "pushed": "2026-10-29",
-   "license": "MIT",
-   "homepage": "https://rxresu.me",
-   "src": [],
-   "buzz": 6.286,
-   "first_seen": "2026-10-29",
-   "downloads": 1517,
-   "score": 71.0,
-   "old": true
-  },
-  {
-   "full": "thomasunise/casecite",
-   "url": "https://github.com/thomasunise/casecite",
-   "desc": "CaseCite is an open-source, self-hosted legal RAG caselaw research & document analysis platform.",
-   "lang": "Python",
-   "stars": 97,
-   "forks": 12,
-   "growth": 0.0,
-   "hn_points": 69,
-   "hn_comments": 38,
-   "hn_url": "https://news.ycombinator.com/item?id=50273623",
-   "topics": [
-    "case-law",
-    "caselaw",
-    "harvey",
-    "legal",
-    "legal-ai",
-    "legal-research"
-   ],
-   "created": "2026-08-27",
-   "pushed": "2026-10-29",
-   "license": "Apache-2.0",
-   "homepage": "https://thomasunise.com/casecite",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.481,
-   "first_seen": "2026-10-29",
-   "downloads": 0,
-   "ai": {
-    "cim": "Önhosztolt jogi AI dokumentumelemző",
-    "mit_csinal": "Egy privát szerverre telepíthető jogi kutató és szerződéselemző platform, amely saját dokumentumokból dolgozik. Lehetővé teszi több száz szerződés automatikus összehasonlítását és pontról pontra történő átvizsgálását. Minden állítást pontos forrásmegjelöléssel és idézettel igazol a szövegből.",
-    "mire_jo": "Példaként szolgálhat összetett dokumentumelemző RAG rendszerek és munkafolyamatok saját fejlesztéséhez.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 45,
-    "miert": "Bár AI-alapú, kifejezetten jogi szakterületre fókuszál, ami kevésbé kapcsolódik a mindennapi céljaidhoz."
-   },
-   "score": 60.8,
-   "old": true
-  },
-  {
-   "full": "patch-gg/anymove",
-   "url": "https://github.com/patch-gg/anymove",
-   "desc": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
-   "lang": "Python",
-   "stars": 397,
-   "forks": 41,
-   "growth": 198.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "animation",
-    "blender",
-    "claude-code-plugin",
-    "dinov2",
-    "gamedev"
-   ],
-   "created": "2026-10-27",
-   "pushed": "2026-10-27",
-   "license": "Apache-2.0",
-   "homepage": "https://patch.gg",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.493,
-   "first_seen": "2026-10-29",
-   "downloads": 783,
-   "ai": {
-    "cim": "3D animációk készítése AI videókból",
-    "mit_csinal": "Egyetlen mesterséges intelligenciával generált videóból képes bármilyen lény mozgását lemásolni és 3D-s animációvá alakítani. Két különböző szögből figyeli a mozgást, beazonosítja a testrészek ízületeit, majd ráilleszti a digitális csontvázra. A végeredmény közvetlenül exportálható 3D-s modellező programokba.",
-    "mire_jo": "3D-s grafikai vagy játékfejlesztési kísérletek során segíthet egyedi lények és karakterek mozgatásában.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 48,
-    "miert": "Bár látásalapú ízületkövetést használ, szűk rétegnek szóló, komoly asztali GPU-t és Blendert igénylő 3D animációs eszköz."
-   },
-   "score": 58.1,
    "old": true
   }
  ]
