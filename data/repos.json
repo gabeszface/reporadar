@@ -1,8 +1,692 @@
 {
- "date": "2026-11-03",
- "generated": "2026-11-03T12:01+00:00",
+ "date": "2026-11-04",
+ "generated": "2026-11-04T12:10+00:00",
  "model": "",
  "items": [
+  {
+   "full": "postmanlabs/postman-app-support",
+   "url": "https://github.com/postmanlabs/postman-app-support",
+   "desc": "Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.",
+   "lang": "",
+   "stars": 6026,
+   "forks": 897,
+   "growth": 0.0,
+   "hn_points": 1330,
+   "hn_comments": 447,
+   "hn_url": "https://news.ycombinator.com/item?id=50354960",
+   "topics": [],
+   "created": "2011-06-20",
+   "pushed": "2026-10-14",
+   "license": "",
+   "homepage": "https://www.postman.com",
+   "src": [
+    "hn"
+   ],
+   "buzz": 12.815,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "finic-ai/kairos",
+   "url": "https://github.com/finic-ai/kairos",
+   "desc": "Real time event intelligence, fraud and risk decisioning for financial behavior.",
+   "lang": "TypeScript",
+   "stars": 178,
+   "forks": 9,
+   "growth": 35.6,
+   "hn_points": 96,
+   "hn_comments": 26,
+   "hn_url": "https://news.ycombinator.com/item?id=50358314",
+   "topics": [
+    "customer-behavior",
+    "fraud-detection",
+    "fraud-intelligence"
+   ],
+   "created": "2026-10-30",
+   "pushed": "2026-11-03",
+   "license": "Apache-2.0",
+   "homepage": "https://kairos.finic.ai",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 11.446,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 89.3
+  },
+  {
+   "full": "KKKKhazix/agent-autoloop",
+   "url": "https://github.com/KKKKhazix/agent-autoloop",
+   "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+   "lang": "TypeScript",
+   "stars": 1924,
+   "forks": 390,
+   "growth": 1924.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "automation",
+    "claude-code",
+    "cli",
+    "codex",
+    "event-driven"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-04",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 9.075,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 70.8
+  },
+  {
+   "full": "govijr/terminal-mac",
+   "url": "https://github.com/govijr/terminal-mac",
+   "desc": "Entire MacOS running in your terminal.",
+   "lang": "Swift",
+   "stars": 919,
+   "forks": 66,
+   "growth": 919.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "cli",
+    "gui",
+    "macos",
+    "shell",
+    "swift",
+    "terminal"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-03",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.189,
+   "first_seen": "2026-11-04",
+   "downloads": 587,
+   "score": 63.9
+  },
+  {
+   "full": "openai/codex",
+   "url": "https://github.com/openai/codex",
+   "desc": "Lightweight coding agent that runs in your terminal",
+   "lang": "Rust",
+   "stars": 133101,
+   "forks": 21074,
+   "growth": 0.0,
+   "hn_points": 36,
+   "hn_comments": 30,
+   "hn_url": "https://news.ycombinator.com/item?id=50363717",
+   "topics": [],
+   "created": "2025-04-13",
+   "pushed": "2026-11-04",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.066,
+   "first_seen": "2026-11-04",
+   "downloads": 1613044,
+   "score": 62.9
+  },
+  {
+   "full": "Muvon/octomind",
+   "url": "https://github.com/Muvon/octomind",
+   "desc": "Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon.",
+   "lang": "Rust",
+   "stars": 427,
+   "forks": 65,
+   "growth": 0.0,
+   "hn_points": 54,
+   "hn_comments": 37,
+   "hn_url": "https://news.ycombinator.com/item?id=50352898",
+   "topics": [
+    "agent-client-protocol",
+    "agentic-ai",
+    "ai",
+    "ai-agents",
+    "ai-assistant",
+    "ai-coding-agent"
+   ],
+   "created": "2025-06-01",
+   "pushed": "2026-11-04",
+   "license": "Apache-2.0",
+   "homepage": "https://octomind.run",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.476,
+   "first_seen": "2026-11-04",
+   "downloads": 489,
+   "score": 58.3
+  },
+  {
+   "full": "wquguru/cicada",
+   "url": "https://github.com/wquguru/cicada",
+   "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
+   "lang": "Swift",
+   "stars": 905,
+   "forks": 179,
+   "growth": 301.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "live-captions",
+    "macos",
+    "meeting-notes",
+    "menubar-app",
+    "simultaneous-interpretation",
+    "speech-recognition"
+   ],
+   "created": "2026-11-01",
+   "pushed": "2026-11-03",
+   "license": "Apache-2.0",
+   "homepage": "cicada.indaloop.app",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.074,
+   "first_seen": "2026-11-04",
+   "downloads": 715,
+   "score": 55.2
+  },
+  {
+   "full": "zortos293/Lichii",
+   "url": "https://github.com/zortos293/Lichii",
+   "desc": "VERY experimental Nintendo Switch 2 emulator",
+   "lang": "C++",
+   "stars": 644,
+   "forks": 54,
+   "growth": 161.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-31",
+   "pushed": "2026-11-04",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.381,
+   "first_seen": "2026-11-04",
+   "downloads": 30813,
+   "score": 49.8
+  },
+  {
+   "full": "Minglink/dsh-jailbreak-workflow",
+   "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+   "desc": "DSH 破甲词制作作工作流 ",
+   "lang": "TypeScript",
+   "stars": 499,
+   "forks": 179,
+   "growth": 166.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-01",
+   "pushed": "2026-11-04",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.363,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 49.7
+  },
+  {
+   "full": "anthropics/FlashProve",
+   "url": "https://github.com/anthropics/FlashProve",
+   "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+   "lang": "Lean",
+   "stars": 663,
+   "forks": 56,
+   "growth": 132.6,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-30",
+   "pushed": "2026-10-30",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.195,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 48.3
+  },
+  {
+   "full": "jyotipmahes/ML-Interview-Prep",
+   "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
+   "desc": "",
+   "lang": "Jupyter Notebook",
+   "stars": 551,
+   "forks": 97,
+   "growth": 137.8,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-31",
+   "pushed": "2026-11-01",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.195,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 48.3
+  },
+  {
+   "full": "rerun-build/rerun",
+   "url": "https://github.com/rerun-build/rerun",
+   "desc": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+   "lang": "TypeScript",
+   "stars": 630,
+   "forks": 66,
+   "growth": 105.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-11-04",
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 5.953,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 46.5
+  },
+  {
+   "full": "hongye007/open-pose-costume",
+   "url": "https://github.com/hongye007/open-pose-costume",
+   "desc": "A bilingual reference studio for poses, costumes, and AI character creation.",
+   "lang": "TypeScript",
+   "stars": 614,
+   "forks": 164,
+   "growth": 102.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-11-04",
+   "license": "",
+   "homepage": "https://omilic.com",
+   "src": [
+    "új"
+   ],
+   "buzz": 5.922,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 46.2
+  },
+  {
+   "full": "sansan0/TrendRadar",
+   "url": "https://github.com/sansan0/TrendRadar",
+   "desc": "⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。",
+   "lang": "Python",
+   "stars": 63422,
+   "forks": 24918,
+   "growth": 36.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "bark",
+    "data-analysis",
+    "docker",
+    "hot-news",
+    "llm"
+   ],
+   "created": "2025-04-28",
+   "pushed": "2026-10-29",
+   "license": "GPL-3.0",
+   "homepage": "https://trendradar.sandev.cc",
+   "src": [],
+   "buzz": 5.822,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 45.4
+  },
+  {
+   "full": "microsoft/AI-For-Beginners",
+   "url": "https://github.com/microsoft/AI-For-Beginners",
+   "desc": "12 Weeks, 24 Lessons, AI for All!",
+   "lang": "Jupyter Notebook",
+   "stars": 70550,
+   "forks": 13735,
+   "growth": 34.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "cnn",
+    "computer-vision",
+    "deep-learning",
+    "gan"
+   ],
+   "created": "2021-03-03",
+   "pushed": "2026-11-04",
+   "license": "MIT",
+   "homepage": "",
+   "src": [],
+   "buzz": 5.798,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 45.2
+  },
+  {
+   "full": "AminBlg/SimpleEnglish",
+   "url": "https://github.com/AminBlg/SimpleEnglish",
+   "desc": "Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical",
+   "lang": "Python",
+   "stars": 4216,
+   "forks": 182,
+   "growth": 61.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-07-21",
+   "pushed": "2026-10-05",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.797,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 45.2
+  },
+  {
+   "full": "realidkroo/Mochy-Music",
+   "url": "https://github.com/realidkroo/Mochy-Music",
+   "desc": "A modern, cool, sleek music player. made with <3",
+   "lang": "Kotlin",
+   "stars": 639,
+   "forks": 38,
+   "growth": 89.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "music",
+    "music-player",
+    "player",
+    "player-video",
+    "players"
+   ],
+   "created": "2026-06-15",
+   "pushed": "2026-11-03",
+   "license": "GPL-3.0",
+   "homepage": "https://404.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.792,
+   "first_seen": "2026-11-04",
+   "downloads": 30718,
+   "score": 45.2
+  },
+  {
+   "full": "agent0ai/agent-zero",
+   "url": "https://github.com/agent0ai/agent-zero",
+   "desc": "Agent Zero AI framework",
+   "lang": "Python",
+   "stars": 19711,
+   "forks": 3861,
+   "growth": 44.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "ai",
+    "assistant",
+    "autonomous",
+    "linux",
+    "zero"
+   ],
+   "created": "2024-06-10",
+   "pushed": "2026-11-01",
+   "license": "",
+   "homepage": "https://agent-zero.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.784,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 45.1
+  },
+  {
+   "full": "MaaAssistantArknights/MaaAssistantArknights",
+   "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+   "desc": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+   "lang": "C++",
+   "stars": 24294,
+   "forks": 2929,
+   "growth": 41.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "arknights",
+    "computer-vision",
+    "maa"
+   ],
+   "created": "2021-07-09",
+   "pushed": "2026-11-04",
+   "license": "AGPL-3.0",
+   "homepage": "https://maa.plus",
+   "src": [],
+   "buzz": 5.757,
+   "first_seen": "2026-11-04",
+   "downloads": 136036,
+   "score": 44.9
+  },
+  {
+   "full": "atifcodesalot/pyWolf3D",
+   "url": "https://github.com/atifcodesalot/pyWolf3D",
+   "desc": "a wolfenstein 3D clone in python, pygame",
+   "lang": "Python",
+   "stars": 33,
+   "forks": 1,
+   "growth": 0.0,
+   "hn_points": 31,
+   "hn_comments": 8,
+   "hn_url": "https://news.ycombinator.com/item?id=50338891",
+   "topics": [
+    "computer-graphics",
+    "python3",
+    "raycasting",
+    "wolfenstein",
+    "wolfenstein-3d",
+    "wolfenstein-3d-engine"
+   ],
+   "created": "2026-09-01",
+   "pushed": "2026-10-31",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 5.743,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 44.8
+  },
+  {
+   "full": "Zackriya-Solutions/meetily",
+   "url": "https://github.com/Zackriya-Solutions/meetily",
+   "desc": "Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai",
+   "lang": "Rust",
+   "stars": 32441,
+   "forks": 3568,
+   "growth": 38.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-meeting-assistant",
+    "llm",
+    "local-ai",
+    "mac",
+    "meeting-minutes"
+   ],
+   "created": "2024-12-26",
+   "pushed": "2026-11-04",
+   "license": "MIT",
+   "homepage": "https://meetily.ai",
+   "src": [],
+   "buzz": 5.741,
+   "first_seen": "2026-11-04",
+   "downloads": 751635,
+   "score": 44.8
+  },
+  {
+   "full": "go-gitea/gitea",
+   "url": "https://github.com/go-gitea/gitea",
+   "desc": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+   "lang": "Go",
+   "stars": 58877,
+   "forks": 7354,
+   "growth": 33.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "bitbucket",
+    "cicd",
+    "devops",
+    "docker-registry-v2",
+    "git",
+    "git-gui"
+   ],
+   "created": "2016-11-01",
+   "pushed": "2026-11-04",
+   "license": "MIT",
+   "homepage": "https://gitea.com",
+   "src": [],
+   "buzz": 5.723,
+   "first_seen": "2026-11-04",
+   "downloads": 333014,
+   "score": 44.7
+  },
+  {
+   "full": "MarkBlah/smsofdeath",
+   "url": "https://github.com/MarkBlah/smsofdeath",
+   "desc": "remote + silent denial of service for all Android phones. https://smsofdeath.com/ for writeup.",
+   "lang": "Java",
+   "stars": 506,
+   "forks": 142,
+   "growth": 84.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-10-29",
+   "pushed": "2026-10-29",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 5.692,
+   "first_seen": "2026-11-04",
+   "downloads": 0,
+   "score": 44.4
+  },
+  {
+   "full": "opencv/opencv",
+   "url": "https://github.com/opencv/opencv",
+   "desc": "Open Source Computer Vision Library",
+   "lang": "C++",
+   "stars": 91444,
+   "forks": 57089,
+   "growth": 24.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "c-plus-plus",
+    "computer-vision",
+    "deep-learning",
+    "image-processing",
+    "opencv"
+   ],
+   "created": "2012-07-19",
+   "pushed": "2026-11-04",
+   "license": "Apache-2.0",
+   "homepage": "https://opencv.org",
+   "src": [],
+   "buzz": 5.504,
+   "first_seen": "2026-11-04",
+   "downloads": 2292025,
+   "score": 42.9
+  },
+  {
+   "full": "mihonapp/mihon",
+   "url": "https://github.com/mihonapp/mihon",
+   "desc": "Free and open source manga reader for Android",
+   "lang": "Kotlin",
+   "stars": 25018,
+   "forks": 1747,
+   "growth": 31.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "kotlin",
+    "manga",
+    "manga-downloader",
+    "manga-reader",
+    "mangadownloader"
+   ],
+   "created": "2024-01-15",
+   "pushed": "2026-11-03",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [],
+   "buzz": 5.502,
+   "first_seen": "2026-11-04",
+   "downloads": 7924114,
+   "score": 42.9
+  },
   {
    "full": "NVIDIA/auto-ontology",
    "url": "https://github.com/NVIDIA/auto-ontology",
@@ -25,7 +709,8 @@
    "buzz": 13.554,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "JiaFeiMiao-K-Cat/DiscImageStudio",
@@ -49,7 +734,8 @@
    "buzz": 9.861,
    "first_seen": "2026-11-03",
    "downloads": 4264,
-   "score": 72.8
+   "score": 72.8,
+   "old": true
   },
   {
    "full": "soml-lang/soml",
@@ -77,7 +763,8 @@
    "buzz": 9.729,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 71.8
+   "score": 71.8,
+   "old": true
   },
   {
    "full": "pigeon-labs-stack/v100-sxm2-reference",
@@ -102,7 +789,8 @@
    "buzz": 8.438,
    "first_seen": "2026-11-03",
    "downloads": 2,
-   "score": 62.3
+   "score": 62.3,
+   "old": true
   },
   {
    "full": "aaitor/skill-video-studio",
@@ -133,7 +821,8 @@
    "buzz": 8.174,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 60.3
+   "score": 60.3,
+   "old": true
   },
   {
    "full": "AssassinCreator/steam-stash-value-report-card",
@@ -164,7 +853,8 @@
    "buzz": 7.807,
    "first_seen": "2026-11-03",
    "downloads": 24,
-   "score": 57.6
+   "score": 57.6,
+   "old": true
   },
   {
    "full": "mromidev/claude-animated-shorts",
@@ -188,7 +878,8 @@
    "buzz": 7.508,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 55.4
+   "score": 55.4,
+   "old": true
   },
   {
    "full": "floci-io/floci",
@@ -219,7 +910,8 @@
    "buzz": 7.443,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 54.9
+   "score": 54.9,
+   "old": true
   },
   {
    "full": "Usagi-org/ai-goofish-monitor",
@@ -250,7 +942,8 @@
    "buzz": 7.26,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 53.6
+   "score": 53.6,
+   "old": true
   },
   {
    "full": "Fission-AI/OpenSpec",
@@ -281,7 +974,8 @@
    "buzz": 7.054,
    "first_seen": "2026-11-03",
    "downloads": 21589,
-   "score": 52.0
+   "score": 52.0,
+   "old": true
   },
   {
    "full": "Gezine/CivSwitch",
@@ -305,7 +999,8 @@
    "buzz": 6.82,
    "first_seen": "2026-11-03",
    "downloads": 3672,
-   "score": 50.3
+   "score": 50.3,
+   "old": true
   },
   {
    "full": "MakazhanAlpamys/Soup",
@@ -336,7 +1031,8 @@
    "buzz": 6.756,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 49.8
+   "score": 49.8,
+   "old": true
   },
   {
    "full": "andreavolpato/spektrafilm",
@@ -360,7 +1056,8 @@
    "buzz": 6.658,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 49.1
+   "score": 49.1,
+   "old": true
   },
   {
    "full": "zhanghao123vip/ai-manju-skills",
@@ -390,7 +1087,8 @@
    "buzz": 6.451,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 47.6
+   "score": 47.6,
+   "old": true
   },
   {
    "full": "zortos293/Eglantine",
@@ -414,7 +1112,8 @@
    "buzz": 6.437,
    "first_seen": "2026-11-03",
    "downloads": 23371,
-   "score": 47.5
+   "score": 47.5,
+   "old": true
   },
   {
    "full": "shy3130/tick-stock-panel",
@@ -445,7 +1144,8 @@
    "buzz": 6.355,
    "first_seen": "2026-11-03",
    "downloads": 8218,
-   "score": 46.9
+   "score": 46.9,
+   "old": true
   },
   {
    "full": "speridlabs/idol-sdk",
@@ -469,7 +1169,8 @@
    "buzz": 6.293,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 46.4
+   "score": 46.4,
+   "old": true
   },
   {
    "full": "spotify/portal-ai-plugins",
@@ -493,7 +1194,8 @@
    "buzz": 6.149,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 45.4
+   "score": 45.4,
+   "old": true
   },
   {
    "full": "code-yeongyu/oh-my-openagent",
@@ -522,7 +1224,8 @@
    "buzz": 6.145,
    "first_seen": "2026-11-03",
    "downloads": 8167,
-   "score": 45.3
+   "score": 45.3,
+   "old": true
   },
   {
    "full": "cutetailbud/ff-ruyijs",
@@ -553,7 +1256,8 @@
    "buzz": 6.108,
    "first_seen": "2026-11-03",
    "downloads": 448,
-   "score": 45.1
+   "score": 45.1,
+   "old": true
   },
   {
    "full": "skylot/jadx",
@@ -580,7 +1284,8 @@
    "buzz": 6.062,
    "first_seen": "2026-11-03",
    "downloads": 5242669,
-   "score": 44.7
+   "score": 44.7,
+   "old": true
   },
   {
    "full": "ashayas/icloud-s3",
@@ -604,7 +1309,8 @@
    "buzz": 6.048,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 44.6
+   "score": 44.6,
+   "old": true
   },
   {
    "full": "RikiyaT/lm_understand-logs",
@@ -628,7 +1334,8 @@
    "buzz": 5.923,
    "first_seen": "2026-11-03",
    "downloads": 0,
-   "score": 43.7
+   "score": 43.7,
+   "old": true
   },
   {
    "full": "CherryHQ/cherry-studio",
@@ -657,7 +1364,8 @@
    "buzz": 5.914,
    "first_seen": "2026-11-03",
    "downloads": 2660585,
-   "score": 43.6
+   "score": 43.6,
+   "old": true
   },
   {
    "full": "ultralytics/ultralytics",
@@ -686,7 +1394,8 @@
    "buzz": 5.821,
    "first_seen": "2026-11-03",
    "downloads": 66,
-   "score": 42.9
+   "score": 42.9,
+   "old": true
   },
   {
    "full": "ivankovic/omnidiff",
@@ -2312,826 +3021,6 @@
     "miert": "Alapvetően egy olvasmányos kérdésgyűjtemény, ami nem egy kipróbálható szoftvereszköz vagy AI projekt."
    },
    "score": 53.0,
-   "old": true
-  },
-  {
-   "full": "wangzan101/Mika",
-   "url": "https://github.com/wangzan101/Mika",
-   "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-   "lang": "Kotlin",
-   "stars": 2043,
-   "forks": 325,
-   "growth": 1021.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "accessibility",
-    "ai-agent",
-    "android",
-    "automation",
-    "jetpack-compose",
-    "kotlin"
-   ],
-   "created": "2026-10-29",
-   "pushed": "2026-10-31",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.455,
-   "first_seen": "2026-10-31",
-   "downloads": 2785,
-   "ai": {
-    "cim": "Önálló Androidos AI-ügynök",
-    "mit_csinal": "Ez egy Kotlinban írt Android app, amely a háttérben képes helyetted kezelni más alkalmazásokat és böngészni a weben. Egy láthatatlan virtuális képernyőn dolgozik, így a feladatok végrehajtása közben zavartalanul használhatod a telefonodat.",
-    "mire_jo": "Közvetlenül kipróbálhatod a telefonodon egyéni automatizációkra, vagy tanulmányozhatod a forráskódját saját Androidos AI-ügynök építéséhez.",
-    "kategoria": "Android",
-    "telefonrol": "igen",
-    "egyezes": 98,
-    "miert": "Tökéletesen egybevág a profiloddal: Androidra épült, AI-ügynököt használ, és azonnal tesztelhető mobilon."
-   },
-   "score": 79.3,
-   "old": true
-  },
-  {
-   "full": "heydamir/unslop",
-   "url": "https://github.com/heydamir/unslop",
-   "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-   "lang": "JavaScript",
-   "stars": 2103,
-   "forks": 105,
-   "growth": 1051.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-29",
-   "pushed": "2026-10-29",
-   "license": "CC-BY-4.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.489,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "ai": {
-    "cim": "AI-felületeket csinosító Claude kiegészítő",
-    "mit_csinal": "Ez az eszköz megkeresi a mesterséges intelligenciával generált weboldalak tipikus tervezési hibáit, például a felesleges színátmeneteket, furcsa térközöket és túlzó díszítéseket. Ezt követően lépésről lépésre átírja a kódot egy letisztultabb, professzionálisabb felhasználói felületté.",
-    "mire_jo": "AI-kódgenerálás után gyorsan profi dizájnná alakíthatod a webes vagy mobilos nézeteidet.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 75,
-    "miert": "Kifejezetten hasznos AI-fejlesztői eszköz hétköznapi munkához és projektek szépítéséhez."
-   },
-   "score": 65.6,
-   "old": true
-  },
-  {
-   "full": "patch-gg/pixelfx",
-   "url": "https://github.com/patch-gg/pixelfx",
-   "desc": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
-   "lang": "JavaScript",
-   "stars": 596,
-   "forks": 83,
-   "growth": 596.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "animation",
-    "canvas",
-    "claude-code-plugin",
-    "gamedev",
-    "pixel-art"
-   ],
-   "created": "2026-10-30",
-   "pushed": "2026-10-31",
-   "license": "MIT",
-   "homepage": "https://patch-gg.github.io/pixelfx/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.67,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "ai": {
-    "cim": "Pixel art effektek AI-készítővel",
-    "mit_csinal": "Több mint kétszáz böngészőben futó pixelgrafikus animációt és vizuális effektet gyűjt össze tiszta kódban. Tartozik hozzá egy Claude Code ügynök-bővítmény is, amellyel új effekteket lehet létrehozni és finomítani. A minták azonnal megtekinthetők, színezhetők és elmenthetők képkockánként.",
-    "mire_jo": "Játékokhoz vagy látványos webes és mobil felületekhez generálhatsz és illeszthetsz be vele könnyű effekteket AI segítségével.",
-    "kategoria": "AI",
-    "telefonrol": "igen",
-    "egyezes": 75,
-    "miert": "Közvetlenül kipróbálható mobilböngészőben, és gyakorlati példát mutat AI-ügynök fejlesztői eszközbe illesztésére."
-   },
-   "score": 63.6,
-   "old": true
-  },
-  {
-   "full": "dbreunig/nesformer",
-   "url": "https://github.com/dbreunig/nesformer",
-   "desc": "An NES CPU compiled into the weights of a stock Qwen3.5 model",
-   "lang": "Python",
-   "stars": 202,
-   "forks": 6,
-   "growth": 202.0,
-   "hn_points": 254,
-   "hn_comments": 122,
-   "hn_url": "https://news.ycombinator.com/item?id=50306442",
-   "topics": [],
-   "created": "2026-10-30",
-   "pushed": "2026-10-30",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 14.95,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "ai": {
-    "cim": "NES emulátor nyelvi modellbe fordítva",
-    "mit_csinal": "Egy klasszikus Nintendo játékkonzol processzorát és memóriáját ülteti át egy mesterséges intelligencia modell súlyaiba. A játék futtatásakor a modell tokenenként jósolja meg, mi lenne a processzor következő állapota anélkül, hogy hagyományos programkódot futtatna.",
-    "mire_jo": "Érdekes technikai kísérletként tanulmányozhatod, hogyan kényszeríthető egy nyelvi modell determinisztikus hardverszámításokra.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 45,
-    "miert": "Izgalmas MI-hack, de gyakorlati haszna minimális, és saját projektekbe nehezen integrálható."
-   },
-   "score": 63.3,
-   "old": true
-  },
-  {
-   "full": "deepopen-com/deepopen-3d-webs",
-   "url": "https://github.com/deepopen-com/deepopen-3d-webs",
-   "desc": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera trajectory; official 3D demonstration assets allow direct viewing of color/depth animations and Gaussian point clouds in the browser 图像驱动的三维场景生成系统",
-   "lang": "Python",
-   "stars": 1068,
-   "forks": 110,
-   "growth": 425.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "3d",
-    "gaussian-filter",
-    "gaussian-splatting"
-   ],
-   "created": "2026-10-26",
-   "pushed": "2026-10-27",
-   "license": "",
-   "homepage": "https://www.deepopen.com",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.449,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "ai": {
-    "cim": "3D térgenerálás fotóból és szövegből",
-    "mit_csinal": "Egyetlen fényképből és szöveges leírásból hoz létre bejárható háromdimenziós jeleneteket és animációkat. A böngészőben azonnal megtekinthető a mélységtérkép és a pontfelhő, még nagy teljesítményű videokártya nélkül is. Az elkészült 3D térbeli modellek exportálhatók és tovább feldolgozhatók.",
-    "mire_jo": "Képalapú 3D rekonstrukciós kísérletekhez és vizuális térbeli tartalmak előállításához használhatod fel a projektjeidben.",
-    "kategoria": "AI",
-    "telefonrol": "részben",
-    "egyezes": 70,
-    "miert": "Korszerű képi AI technológia a térbeli látáshoz, de a teljes modellképzéshez erős helyi gépre van szükség."
-   },
-   "score": 60.1,
-   "old": true
-  },
-  {
-   "full": "kevinraymond/florilegium",
-   "url": "https://github.com/kevinraymond/florilegium",
-   "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-   "lang": "Lua",
-   "stars": 890,
-   "forks": 23,
-   "growth": 890.0,
-   "hn_points": 280,
-   "hn_comments": 47,
-   "hn_url": "https://news.ycombinator.com/item?id=50305637",
-   "topics": [],
-   "created": "2026-10-30",
-   "pushed": "2026-10-31",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 16.465,
-   "first_seen": "2026-10-31",
-   "downloads": 60,
-   "ai": {
-    "cim": "Generatív virágos lapszegélyek LaTeX-hez",
-    "mit_csinal": "Ez a csomag automatikusan rajzol vízfesték hatású virágos díszítéseket a dokumentumok margójára LuaLaTeX alatt. A növények dinamikusan növekednek, kitöltve a szöveg mellett maradt üres helyeket külső képek vagy sablonok nélkül.",
-    "mire_jo": "Egyedi, elegáns PDF dokumentumok vagy kiadványok készítésénél használhatod a margók automatikus díszítésére.",
-    "kategoria": "egyéb",
-    "telefonrol": "részben",
-    "egyezes": 20,
-    "miert": "Bár látványos tipográfiai megoldás, nagyon messze áll az AI-ügynököktől, a kamerás felismeréstől és a mobilfejlesztéstől."
-   },
-   "score": 52.0,
-   "old": true
-  },
-  {
-   "full": "Millillion/lasm",
-   "url": "https://github.com/Millillion/lasm",
-   "desc": "Lean for JavaScript and WebAssembly runtimes",
-   "lang": "C",
-   "stars": 86,
-   "forks": 5,
-   "growth": 26.0,
-   "hn_points": 36,
-   "hn_comments": 20,
-   "hn_url": "https://news.ycombinator.com/item?id=50299004",
-   "topics": [
-    "bun",
-    "cloudflare-workers",
-    "compiler",
-    "deno",
-    "dependent-types",
-    "edge-computing"
-   ],
-   "created": "2026-09-23",
-   "pushed": "2026-10-29",
-   "license": "MIT",
-   "homepage": "https://www.npmjs.com/package/@lasm/cli",
-   "src": [
-    "hn"
-   ],
-   "buzz": 9.74,
-   "first_seen": "2026-10-31",
-   "downloads": 314,
-   "ai": {
-    "cim": "Lean 4 kód WebAssembly-be",
-    "mit_csinal": "A Lean programozási nyelvet fordítja le közvetlenül WebAssembly és JavaScript környezetbe futtatható formátumra. Segítségével olyan webes és szerveroldali alkalmazások írhatók, amelyek helyessége matematikailag bizonyított.",
-    "mire_jo": "Hibamentes, formálisan ellenőrzött logikát fordíthatsz le webes vagy felhős futtatókörnyezetekre.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 30,
-    "miert": "Erősen elméleti és rétegigényeket kielégítő fordítóeszköz, kevésbé kapcsolódik a hétköznapi appokhoz és a mobil világhoz."
-   },
-   "score": 41.7,
-   "old": true
-  },
-  {
-   "full": "D3voz/openjutsu",
-   "url": "https://github.com/D3voz/openjutsu",
-   "desc": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
-   "lang": "TypeScript",
-   "stars": 681,
-   "forks": 103,
-   "growth": 227.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "character-swap",
-    "comfyui",
-    "minimax-h3",
-    "nextjs",
-    "open-weights",
-    "opensourcehiggsfield"
-   ],
-   "created": "2026-10-26",
-   "pushed": "2026-10-30",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.734,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 40.9,
-   "old": true
-  },
-  {
-   "full": "sleepy-zone/ai-ref-library-cn",
-   "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
-   "desc": "",
-   "lang": "JavaScript",
-   "stars": 473,
-   "forks": 130,
-   "growth": 236.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-29",
-   "pushed": "2026-10-31",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.702,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 40.7,
-   "old": true
-  },
-  {
-   "full": "benderandrew069/deepseek-api-pricing-2026",
-   "url": "https://github.com/benderandrew069/deepseek-api-pricing-2026",
-   "desc": "DeepSeek API pricing guide for models, cache hits, and peak hours (2026).",
-   "lang": "",
-   "stars": 580,
-   "forks": 1,
-   "growth": 145.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "api-pricing",
-    "cost-calculator",
-    "deepseek",
-    "deepseek-api",
-    "prompt-caching"
-   ],
-   "created": "2026-10-27",
-   "pushed": "2026-10-27",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.257,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 38.0,
-   "old": true
-  },
-  {
-   "full": "jackwener/DSH-Android",
-   "url": "https://github.com/jackwener/DSH-Android",
-   "desc": "免 ROOT 免 Termux，一个 APK 在安卓手机上跑 DeepSeek Harness。引擎内嵌 App 进程 · 读屏操作 App · 改系统设置 · 定时/条件自动化 · 可选 Shizuku",
-   "lang": "Kotlin",
-   "stars": 574,
-   "forks": 59,
-   "growth": 143.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agent",
-    "android",
-    "deepseek",
-    "deepseek-harness",
-    "llm",
-    "phone-agent"
-   ],
-   "created": "2026-10-27",
-   "pushed": "2026-10-31",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.244,
-   "first_seen": "2026-10-31",
-   "downloads": 2945,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "haydenschmitty/floorplan",
-   "url": "https://github.com/haydenschmitty/floorplan",
-   "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-   "lang": "JavaScript",
-   "stars": 510,
-   "forks": 43,
-   "growth": 127.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-coding",
-    "architecture-diagram",
-    "claude",
-    "claude-code",
-    "claude-code-plugin",
-    "codebase-visualization"
-   ],
-   "created": "2026-10-27",
-   "pushed": "2026-10-31",
-   "license": "MIT",
-   "homepage": "https://haydenschmitty.github.io/floorplan-demo/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.103,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 37.1,
-   "old": true
-  },
-  {
-   "full": "jacke-pp/open-yoki",
-   "url": "https://github.com/jacke-pp/open-yoki",
-   "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-   "lang": "JavaScript",
-   "stars": 581,
-   "forks": 37,
-   "growth": 117.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-28",
-   "pushed": "2026-10-28",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.044,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 36.7,
-   "old": true
-  },
-  {
-   "full": "crewAIInc/crewAI",
-   "url": "https://github.com/crewAIInc/crewAI",
-   "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
-   "lang": "Python",
-   "stars": 60331,
-   "forks": 8984,
-   "growth": 43.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agents",
-    "ai",
-    "ai-agents",
-    "aiagentframework",
-    "llms"
-   ],
-   "created": "2023-10-27",
-   "pushed": "2026-10-30",
-   "license": "MIT",
-   "homepage": "https://crewai.com",
-   "src": [],
-   "buzz": 5.986,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 36.4,
-   "old": true
-  },
-  {
-   "full": "langchain-ai/deepagents",
-   "url": "https://github.com/langchain-ai/deepagents",
-   "desc": "The batteries-included agent harness.",
-   "lang": "Python",
-   "stars": 30824,
-   "forks": 4333,
-   "growth": 46.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "deepagents",
-    "harness",
-    "harness-engineering",
-    "langchain",
-    "langgraph"
-   ],
-   "created": "2025-07-27",
-   "pushed": "2026-10-31",
-   "license": "MIT",
-   "homepage": "https://docs.langchain.com/deepagents",
-   "src": [
-    "trending"
-   ],
-   "buzz": 5.917,
-   "first_seen": "2026-10-31",
-   "downloads": 98,
-   "score": 35.9,
-   "old": true
-  },
-  {
-   "full": "Mintplex-Labs/anything-llm",
-   "url": "https://github.com/Mintplex-Labs/anything-llm",
-   "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
-   "lang": "JavaScript",
-   "stars": 67782,
-   "forks": 7629,
-   "growth": 39.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-computer",
-    "agent-harness",
-    "agent-orchestration",
-    "agentic-ai",
-    "agentic-workflow",
-    "ai-agents"
-   ],
-   "created": "2023-06-04",
-   "pushed": "2026-10-30",
-   "license": "MIT",
-   "homepage": "https://anythingllm.com",
-   "src": [],
-   "buzz": 5.914,
-   "first_seen": "2026-10-31",
-   "downloads": 74619,
-   "score": 35.9,
-   "old": true
-  },
-  {
-   "full": "rasbt/LLMs-from-scratch",
-   "url": "https://github.com/rasbt/LLMs-from-scratch",
-   "desc": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
-   "lang": "Jupyter Notebook",
-   "stars": 107583,
-   "forks": 16601,
-   "growth": 33.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "artificial-intelligence",
-    "attention-mechanism",
-    "deep-learning",
-    "finetuning",
-    "from-scratch"
-   ],
-   "created": "2023-07-23",
-   "pushed": "2026-10-30",
-   "license": "",
-   "homepage": "https://amzn.to/4fqvn0D",
-   "src": [],
-   "buzz": 5.844,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 35.5,
-   "old": true
-  },
-  {
-   "full": "topjohnwu/Magisk",
-   "url": "https://github.com/topjohnwu/Magisk",
-   "desc": "The Magic Mask for Android",
-   "lang": "Kotlin",
-   "stars": 63636,
-   "forks": 19112,
-   "growth": 36.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2016-09-08",
-   "pushed": "2026-10-27",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 5.823,
-   "first_seen": "2026-10-31",
-   "downloads": 12099254,
-   "score": 35.4,
-   "old": true
-  },
-  {
-   "full": "xiaojieonly/Ehviewer_CN_SXJ",
-   "url": "https://github.com/xiaojieonly/Ehviewer_CN_SXJ",
-   "desc": "ehviewer，用爱发电，快乐前行",
-   "lang": "C",
-   "stars": 28460,
-   "forks": 758,
-   "growth": 41.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "apk",
-    "c",
-    "cartoon",
-    "chinese",
-    "comics"
-   ],
-   "created": "2020-11-09",
-   "pushed": "2026-10-28",
-   "license": "",
-   "homepage": "",
-   "src": [],
-   "buzz": 5.789,
-   "first_seen": "2026-10-31",
-   "downloads": 3155917,
-   "score": 35.2,
-   "old": true
-  },
-  {
-   "full": "QwenLM/qwen-code",
-   "url": "https://github.com/QwenLM/qwen-code",
-   "desc": "An open-source AI coding agent that lives in your terminal.",
-   "lang": "TypeScript",
-   "stars": 28842,
-   "forks": 3290,
-   "growth": 39.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agentic",
-    "ai",
-    "ai-agent",
-    "ai-coding",
-    "cli",
-    "coding-agent"
-   ],
-   "created": "2025-06-26",
-   "pushed": "2026-10-31",
-   "license": "Apache-2.0",
-   "homepage": "https://qwenlm.github.io/qwen-code-docs/en/users/overview",
-   "src": [
-    "trending"
-   ],
-   "buzz": 5.743,
-   "first_seen": "2026-10-31",
-   "downloads": 7702,
-   "score": 34.9,
-   "old": true
-  },
-  {
-   "full": "expo/expo",
-   "url": "https://github.com/expo/expo",
-   "desc": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
-   "lang": "TypeScript",
-   "stars": 53242,
-   "forks": 14864,
-   "growth": 32.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "app-framework",
-    "expo",
-    "framework",
-    "frontend",
-    "ios"
-   ],
-   "created": "2016-08-15",
-   "pushed": "2026-10-31",
-   "license": "MIT",
-   "homepage": "https://docs.expo.dev",
-   "src": [],
-   "buzz": 5.673,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "score": 34.5,
-   "old": true
-  },
-  {
-   "full": "janhq/jan",
-   "url": "https://github.com/janhq/jan",
-   "desc": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
-   "lang": "Rust",
-   "stars": 45193,
-   "forks": 3121,
-   "growth": 30.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "chatgpt",
-    "gpt",
-    "llamacpp",
-    "llm",
-    "localai",
-    "open-source"
-   ],
-   "created": "2023-08-17",
-   "pushed": "2026-10-31",
-   "license": "",
-   "homepage": "https://jan.ai/",
-   "src": [],
-   "buzz": 5.578,
-   "first_seen": "2026-10-31",
-   "downloads": 1794068,
-   "score": 33.9,
-   "old": true
-  },
-  {
-   "full": "arterialist/kube32",
-   "url": "https://github.com/arterialist/kube32",
-   "desc": "Kubernetes-compatible control plane, Kubelet agent, and WebAssembly runtime for ESP32 microcontrollers",
-   "lang": "C++",
-   "stars": 20,
-   "forks": 1,
-   "growth": 4.0,
-   "hn_points": 43,
-   "hn_comments": 10,
-   "hn_url": "https://news.ycombinator.com/item?id=50291812",
-   "topics": [
-    "distributed-computing",
-    "edge-computing",
-    "embedded",
-    "esp32",
-    "freertos",
-    "iot"
-   ],
-   "created": "2026-10-26",
-   "pushed": "2026-10-30",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 7.719,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "ai": {
-    "cim": "Kubernetes mikrokontrollerekre",
-    "mit_csinal": "Lehetővé teszi, hogy olcsó mikrokontrollerekből hozzunk létre mini klasztereket. A lapkákon kis méretű WebAssembly programok futtathatók a megszokott konténeres vezérléssel. A rendszert távolról, hagyományos felhős parancsokkal lehet felügyelni.",
-    "mire_jo": "Hardverközeli vagy okosotthonos kísérleteknél oszthatsz szét vele apró feladatokat ESP32 modulok között.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 25,
-    "miert": "Specifikus beágyazott hardvert kíván, és távol áll az AI, a kamera és az Android világától."
-   },
-   "score": 33.8,
-   "old": true
-  },
-  {
-   "full": "lexifina/global-law",
-   "url": "https://github.com/lexifina/global-law",
-   "desc": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
-   "lang": "HTML",
-   "stars": 1184,
-   "forks": 96,
-   "growth": 394.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-28",
-   "pushed": "2026-10-31",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.396,
-   "first_seen": "2026-10-31",
-   "downloads": 0,
-   "ai": {
-    "cim": "A világ törvényei Git-történetben",
-    "mit_csinal": "A világ különböző országainak törvényeit és jogszabályait rendezi egyetlen nagy verziókövető rendszerbe. Minden jogszabályi változás külön bejegyzésként jelenik meg az idővonalon, így a jogi szövegek változása pontosan nyomon követhető. A gyűjtemény teljesen szabadon kutatható és másolható.",
-    "mire_jo": "Jogi szövegekre épülő elemző vagy kereső alkalmazásokhoz használható fel rendezett nyers adatforrásként.",
-    "kategoria": "adat",
-    "telefonrol": "igen",
-    "egyezes": 20,
-    "miert": "Bár érdekes adatbázis, nem kapcsolódik a mobilfejlesztéshez, az arcfelismeréshez vagy a hasznos mindennapi eszközökhöz."
-   },
-   "score": 30.0,
-   "old": true
-  },
-  {
-   "full": "Djihads80/Eglantine",
-   "url": "https://github.com/Djihads80/Eglantine",
-   "desc": "VERY experimental Nintendo Switch 2 emulator",
-   "lang": "C++",
-   "stars": 702,
-   "forks": 84,
-   "growth": 351.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-29",
-   "pushed": "2026-10-31",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.175,
-   "first_seen": "2026-10-31",
-   "downloads": 19215,
-   "ai": {
-    "cim": "Kísérleti konzol-emulátor",
-    "mit_csinal": "Egy korai stádiumban lévő szoftver, amely játékkonzolra írt programok futtatását célozza meg asztali számítógépen. Korábbi nyílt forráskódú emulátorok alapjaira épül, és C++ nyelven készül. Jelenleg még erősen instabil és kevés címet támogat.",
-    "mire_jo": "Alacsony szintű grafikai és hardveres emuláció kódjának tanulmányozására alkalmas.",
-    "kategoria": "játék",
-    "telefonrol": "nem",
-    "egyezes": 15,
-    "miert": "Asztali géphez kötött, nagyon korai emulátor, ami nem vág egybe az AI és az Android alkalmazásfejlesztési érdeklődéssel."
-   },
-   "score": 26.4,
    "old": true
   }
  ]
