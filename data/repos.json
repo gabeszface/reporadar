@@ -1,8 +1,720 @@
 {
- "date": "2026-11-06",
- "generated": "2026-11-06T12:16+00:00",
+ "date": "2026-11-07",
+ "generated": "2026-11-07T11:08+00:00",
  "model": "",
  "items": [
+  {
+   "full": "Unleash/unleash",
+   "url": "https://github.com/Unleash/unleash",
+   "desc": "Open-source feature management platform",
+   "lang": "TypeScript",
+   "stars": 14143,
+   "forks": 930,
+   "growth": 180.0,
+   "hn_points": 156,
+   "hn_comments": 104,
+   "hn_url": "https://news.ycombinator.com/item?id=50391145",
+   "topics": [
+    "activation-strategies",
+    "collaboration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "devops",
+    "devtool"
+   ],
+   "created": "2014-09-29",
+   "pushed": "2026-11-06",
+   "license": "AGPL-3.0",
+   "homepage": "https://www.getunleash.io",
+   "src": [
+    "trending",
+    "hn"
+   ],
+   "buzz": 15.039,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "anomalyco/rune",
+   "url": "https://github.com/anomalyco/rune",
+   "desc": "Rune: Native UI framework",
+   "lang": "Rust",
+   "stars": 2955,
+   "forks": 73,
+   "growth": 184.7,
+   "hn_points": 169,
+   "hn_comments": 123,
+   "hn_url": "https://news.ycombinator.com/item?id=50394569",
+   "topics": [],
+   "created": "2026-10-22",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.913,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 99.2
+  },
+  {
+   "full": "smokeeaasd/flawless-ui-ux",
+   "url": "https://github.com/smokeeaasd/flawless-ui-ux",
+   "desc": "A UI/UX skill for coding agents to build distinctive, usable interfaces.",
+   "lang": "JavaScript",
+   "stars": 85,
+   "forks": 1,
+   "growth": 21.2,
+   "hn_points": 30,
+   "hn_comments": 32,
+   "hn_url": "https://news.ycombinator.com/item?id=50395747",
+   "topics": [
+    "accessibility",
+    "agent-skills",
+    "ai-agents",
+    "anti-slop",
+    "codex",
+    "design-systems"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-06",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 9.513,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 63.3
+  },
+  {
+   "full": "thesayfulla/pylings",
+   "url": "https://github.com/thesayfulla/pylings",
+   "desc": "Learn Python 🐍 by fixing code: exercises from basics to senior interview level",
+   "lang": "Python",
+   "stars": 61,
+   "forks": 2,
+   "growth": 15.2,
+   "hn_points": 52,
+   "hn_comments": 2,
+   "hn_url": "https://news.ycombinator.com/item?id=50394977",
+   "topics": [
+    "exercises",
+    "pylings",
+    "python3"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-06",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.817,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 58.6
+  },
+  {
+   "full": "JenkinWoo/sheeridVerify",
+   "url": "https://github.com/JenkinWoo/sheeridVerify",
+   "desc": "",
+   "lang": "JavaScript",
+   "stars": 1315,
+   "forks": 674,
+   "growth": 1315.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-06",
+   "pushed": "2026-11-06",
+   "license": "ISC",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.619,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 57.3
+  },
+  {
+   "full": "angular/angular",
+   "url": "https://github.com/angular/angular",
+   "desc": "Deliver web apps with confidence 🚀",
+   "lang": "TypeScript",
+   "stars": 101464,
+   "forks": 28919,
+   "growth": 326.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "angular",
+    "javascript",
+    "pwa",
+    "typescript",
+    "web",
+    "web-framework"
+   ],
+   "created": "2014-09-18",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "https://angular.dev",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.095,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 53.8
+  },
+  {
+   "full": "jamiepine/voicebox",
+   "url": "https://github.com/jamiepine/voicebox",
+   "desc": "The open-source AI voice studio. Clone, dictate, create.",
+   "lang": "Python",
+   "stars": 59813,
+   "forks": 7502,
+   "growth": 318.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "cuda",
+    "mlx",
+    "qwen3-tts",
+    "qwen3-tts-ui",
+    "voice-ai"
+   ],
+   "created": "2026-01-25",
+   "pushed": "2026-10-07",
+   "license": "MIT",
+   "homepage": "https://voicebox.sh",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.965,
+   "first_seen": "2026-11-07",
+   "downloads": 3225234,
+   "score": 53.0
+  },
+  {
+   "full": "astral-sh/ruff",
+   "url": "https://github.com/astral-sh/ruff",
+   "desc": "An extremely fast Python linter and code formatter, written in Rust.",
+   "lang": "Rust",
+   "stars": 50798,
+   "forks": 2619,
+   "growth": 316.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "linter",
+    "pep8",
+    "python",
+    "python3",
+    "ruff",
+    "rust"
+   ],
+   "created": "2022-08-09",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "https://docs.astral.sh/ruff",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.926,
+   "first_seen": "2026-11-07",
+   "downloads": 3211640,
+   "score": 52.7
+  },
+  {
+   "full": "prometheus/prometheus",
+   "url": "https://github.com/prometheus/prometheus",
+   "desc": "The Prometheus monitoring system and time series database.",
+   "lang": "Go",
+   "stars": 67273,
+   "forks": 10992,
+   "growth": 285.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "alerting",
+    "graphing",
+    "hacktoberfest",
+    "metrics",
+    "monitoring",
+    "prometheus"
+   ],
+   "created": "2012-11-24",
+   "pushed": "2026-11-07",
+   "license": "Apache-2.0",
+   "homepage": "https://prometheus.io/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.879,
+   "first_seen": "2026-11-07",
+   "downloads": 1095632,
+   "score": 52.4
+  },
+  {
+   "full": "donnemartin/system-design-primer",
+   "url": "https://github.com/donnemartin/system-design-primer",
+   "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+   "lang": "Python",
+   "stars": 377189,
+   "forks": 59206,
+   "growth": 190.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "design",
+    "design-patterns",
+    "design-system",
+    "development",
+    "interview",
+    "interview-practice"
+   ],
+   "created": "2017-02-26",
+   "pushed": "2026-09-15",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.82,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 52.0
+  },
+  {
+   "full": "EbookFoundation/free-programming-books",
+   "url": "https://github.com/EbookFoundation/free-programming-books",
+   "desc": ":books: Freely available programming books",
+   "lang": "Python",
+   "stars": 401179,
+   "forks": 67297,
+   "growth": 179.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "books",
+    "education",
+    "hacktoberfest",
+    "list",
+    "resource"
+   ],
+   "created": "2013-10-11",
+   "pushed": "2026-11-01",
+   "license": "CC-BY-4.0",
+   "homepage": "https://ebookfoundation.github.io/free-programming-books/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.773,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 51.7
+  },
+  {
+   "full": "django/django",
+   "url": "https://github.com/django/django",
+   "desc": "The Web framework for perfectionists with deadlines.",
+   "lang": "Python",
+   "stars": 91673,
+   "forks": 35968,
+   "growth": 169.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "apps",
+    "django",
+    "framework",
+    "models",
+    "orm",
+    "python"
+   ],
+   "created": "2012-04-28",
+   "pushed": "2026-11-06",
+   "license": "BSD-3-Clause",
+   "homepage": "https://www.djangoproject.com/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.421,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 49.3
+  },
+  {
+   "full": "piercefreeman/waymark",
+   "url": "https://github.com/piercefreeman/waymark",
+   "desc": "🧭 Distributed background workflows, durably executed",
+   "lang": "Rust",
+   "stars": 107,
+   "forks": 5,
+   "growth": 0.0,
+   "hn_points": 75,
+   "hn_comments": 23,
+   "hn_url": "https://news.ycombinator.com/item?id=50379221",
+   "topics": [],
+   "created": "2025-11-16",
+   "pushed": "2026-11-06",
+   "license": "MIT",
+   "homepage": "https://waymark.sh",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.405,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 49.2
+  },
+  {
+   "full": "NotRexed/Hookshot",
+   "url": "https://github.com/NotRexed/Hookshot",
+   "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+   "lang": "C++",
+   "stars": 805,
+   "forks": 64,
+   "growth": 402.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-05",
+   "pushed": "2026-11-07",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.339,
+   "first_seen": "2026-11-07",
+   "downloads": 11159,
+   "score": 48.8
+  },
+  {
+   "full": "sostenesfreitas/ocarina-recomp",
+   "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+   "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+   "lang": "C",
+   "stars": 449,
+   "forks": 22,
+   "growth": 449.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-06",
+   "pushed": "2026-11-07",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.331,
+   "first_seen": "2026-11-07",
+   "downloads": 8361,
+   "score": 48.7
+  },
+  {
+   "full": "PulverizeLink/roblox-performance-tool",
+   "url": "https://github.com/PulverizeLink/roblox-performance-tool",
+   "desc": "Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom frame limits. Safe, offline, and open-source",
+   "lang": "Python",
+   "stars": 426,
+   "forks": 386,
+   "growth": 426.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "desktop-app",
+    "fps",
+    "gaming",
+    "lag-fix",
+    "open-source",
+    "optimization"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-06",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.268,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 48.3
+  },
+  {
+   "full": "Lowbetweentrim/crypto-portfolio-tracker",
+   "url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker",
+   "desc": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source",
+   "lang": "Python",
+   "stars": 425,
+   "forks": 358,
+   "growth": 425.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "crypto",
+    "crypto-taxes",
+    "finance",
+    "local-first",
+    "open-source",
+    "pnl"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-06",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.265,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 48.3
+  },
+  {
+   "full": "phaseboulderfetter/discord-quest-completer",
+   "url": "https://github.com/phaseboulderfetter/discord-quest-completer",
+   "desc": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+   "lang": "Python",
+   "stars": 425,
+   "forks": 332,
+   "growth": 425.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "discord",
+    "discord-quest",
+    "discord-tools",
+    "game-booster",
+    "open-source"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-06",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.265,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 48.3
+  },
+  {
+   "full": "Sandflow-ai/sand3d",
+   "url": "https://github.com/Sandflow-ai/sand3d",
+   "desc": "3D modeling in Python, built for LLMs.",
+   "lang": "HTML",
+   "stars": 909,
+   "forks": 106,
+   "growth": 351.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "3d",
+    "blender",
+    "cad",
+    "llm",
+    "procedural-modeling",
+    "python"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-06",
+   "license": "Apache-2.0",
+   "homepage": "https://sandflow.ai/sand3d/",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.226,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 48.0
+  },
+  {
+   "full": "meta/astryx",
+   "url": "https://github.com/meta/astryx",
+   "desc": "An open source design system that's fully customizable and agent ready",
+   "lang": "TypeScript",
+   "stars": 14103,
+   "forks": 1171,
+   "growth": 198.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-01-09",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "http://astryx.atmeta.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.204,
+   "first_seen": "2026-11-07",
+   "downloads": 4481,
+   "score": 47.9
+  },
+  {
+   "full": "tharun208/cloneguard",
+   "url": "https://github.com/tharun208/cloneguard",
+   "desc": "Scan a repo for malware tricks before you run it. Catches credential theft, hidden network calls, obfuscated code and auto-run hooks. Read-only, with no dependencies.",
+   "lang": "Go",
+   "stars": 16,
+   "forks": 0,
+   "growth": 4.0,
+   "hn_points": 29,
+   "hn_comments": 7,
+   "hn_url": "https://news.ycombinator.com/item?id=50397435",
+   "topics": [],
+   "created": "2026-11-03",
+   "pushed": "2026-11-03",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 7.089,
+   "first_seen": "2026-11-07",
+   "downloads": 21,
+   "score": 47.1
+  },
+  {
+   "full": "shikokuchuo/pymizu",
+   "url": "https://github.com/shikokuchuo/pymizu",
+   "desc": "Thread-speed async and parallel Python over shared memory",
+   "lang": "Python",
+   "stars": 34,
+   "forks": 1,
+   "growth": 7.0,
+   "hn_points": 27,
+   "hn_comments": 1,
+   "hn_url": "https://news.ycombinator.com/item?id=50380051",
+   "topics": [
+    "asynchronous-programming",
+    "python",
+    "shared-memory-parallelism"
+   ],
+   "created": "2026-08-21",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "https://shikokuchuo.net/pymizu/",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.066,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 47.0
+  },
+  {
+   "full": "WoYun520/gif-factory",
+   "url": "https://github.com/WoYun520/gif-factory",
+   "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+   "lang": "Python",
+   "stars": 591,
+   "forks": 71,
+   "growth": 295.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-05",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.969,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 46.3
+  },
+  {
+   "full": "voyager-so/vork",
+   "url": "https://github.com/voyager-so/vork",
+   "desc": "Headless 3D and VFX engine for agents. Research preview.",
+   "lang": "Rust",
+   "stars": 590,
+   "forks": 34,
+   "growth": 295.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "3d",
+    "ai-agents",
+    "gpu",
+    "metal",
+    "ray-tracing",
+    "rendering"
+   ],
+   "created": "2026-11-05",
+   "pushed": "2026-11-07",
+   "license": "",
+   "homepage": "https://voyager.so/vork",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.967,
+   "first_seen": "2026-11-07",
+   "downloads": 1353,
+   "score": 46.3
+  },
+  {
+   "full": "ranxianglei/billion-context",
+   "url": "https://github.com/ranxianglei/billion-context",
+   "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+   "lang": "TypeScript",
+   "stars": 4375,
+   "forks": 357,
+   "growth": 185.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dsh-plugin"
+   ],
+   "created": "2026-08-06",
+   "pushed": "2026-11-07",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.903,
+   "first_seen": "2026-11-07",
+   "downloads": 0,
+   "score": 45.9
+  },
   {
    "full": "saragordic/window-sweaters",
    "url": "https://github.com/saragordic/window-sweaters",
@@ -32,7 +744,8 @@
    "buzz": 10.388,
    "first_seen": "2026-11-06",
    "downloads": 2690,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "ppmpreetham/BUI",
@@ -60,7 +773,8 @@
    "buzz": 9.795,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 94.3
+   "score": 94.3,
+   "old": true
   },
   {
    "full": "sherlock-project/sherlock",
@@ -91,7 +805,8 @@
    "buzz": 9.734,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 93.7
+   "score": 93.7,
+   "old": true
   },
   {
    "full": "sdalberto/ia-da-sobrevivencia",
@@ -116,7 +831,8 @@
    "buzz": 9.295,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 89.5
+   "score": 89.5,
+   "old": true
   },
   {
    "full": "rivet-dev/rivet",
@@ -147,7 +863,8 @@
    "buzz": 8.92,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 85.9
+   "score": 85.9,
+   "old": true
   },
   {
    "full": "PrivSec-dev/banking-apps-compat-report",
@@ -178,7 +895,8 @@
    "buzz": 8.833,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 85.0
+   "score": 85.0,
+   "old": true
   },
   {
    "full": "microsoft/vscode",
@@ -208,7 +926,8 @@
    "buzz": 8.126,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 78.2
+   "score": 78.2,
+   "old": true
   },
   {
    "full": "flitai-io/gpuworks",
@@ -233,7 +952,8 @@
    "buzz": 8.09,
    "first_seen": "2026-11-06",
    "downloads": 46,
-   "score": 77.9
+   "score": 77.9,
+   "old": true
   },
   {
    "full": "matthewmrichter/mooftcp",
@@ -258,7 +978,8 @@
    "buzz": 7.999,
    "first_seen": "2026-11-06",
    "downloads": 24,
-   "score": 77.0
+   "score": 77.0,
+   "old": true
   },
   {
    "full": "react/react",
@@ -289,7 +1010,8 @@
    "buzz": 7.989,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 76.9
+   "score": 76.9,
+   "old": true
   },
   {
    "full": "zed-industries/zed",
@@ -318,7 +1040,8 @@
    "buzz": 7.968,
    "first_seen": "2026-11-06",
    "downloads": 1683448,
-   "score": 76.7
+   "score": 76.7,
+   "old": true
   },
   {
    "full": "AGGIB/Stroq",
@@ -349,7 +1072,8 @@
    "buzz": 7.754,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 74.6
+   "score": 74.6,
+   "old": true
   },
   {
    "full": "dsx-ai-factory/nvke",
@@ -379,7 +1103,8 @@
    "buzz": 7.688,
    "first_seen": "2026-11-06",
    "downloads": 31,
-   "score": 74.0
+   "score": 74.0,
+   "old": true
   },
   {
    "full": "lz4/lz4",
@@ -407,7 +1132,8 @@
    "buzz": 7.637,
    "first_seen": "2026-11-06",
    "downloads": 4404606,
-   "score": 73.5
+   "score": 73.5,
+   "old": true
   },
   {
    "full": "rust-lang/rust",
@@ -435,7 +1161,8 @@
    "buzz": 7.572,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 72.9
+   "score": 72.9,
+   "old": true
   },
   {
    "full": "WoYun520/pixel-gif-sticker-pack",
@@ -459,7 +1186,8 @@
    "buzz": 7.523,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 72.4
+   "score": 72.4,
+   "old": true
   },
   {
    "full": "mmdoctor/google-pro-helper",
@@ -483,7 +1211,8 @@
    "buzz": 7.521,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 72.4
+   "score": 72.4,
+   "old": true
   },
   {
    "full": "lobehub/lobehub",
@@ -514,7 +1243,8 @@
    "buzz": 7.489,
    "first_seen": "2026-11-06",
    "downloads": 4489,
-   "score": 72.1
+   "score": 72.1,
+   "old": true
   },
   {
    "full": "livliv-dev/player",
@@ -545,7 +1275,8 @@
    "buzz": 7.313,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 70.4
+   "score": 70.4,
+   "old": true
   },
   {
    "full": "AtomIllusionistDwell/watson-username-footprint-finder",
@@ -576,7 +1307,8 @@
    "buzz": 7.293,
    "first_seen": "2026-11-06",
    "downloads": 16,
-   "score": 70.2
+   "score": 70.2,
+   "old": true
   },
   {
    "full": "tailwindlabs/tailwindcss",
@@ -607,7 +1339,8 @@
    "buzz": 7.282,
    "first_seen": "2026-11-06",
    "downloads": 3678997,
-   "score": 70.1
+   "score": 70.1,
+   "old": true
   },
   {
    "full": "HerdBuilderEstimate/roblox-studio-mcp",
@@ -638,7 +1371,8 @@
    "buzz": 7.271,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 70.0
+   "score": 70.0,
+   "old": true
   },
   {
    "full": "elder-plinius/T3MP3ST",
@@ -668,7 +1402,8 @@
    "buzz": 7.245,
    "first_seen": "2026-11-06",
    "downloads": 436,
-   "score": 69.7
+   "score": 69.7,
+   "old": true
   },
   {
    "full": "pandas-dev/pandas",
@@ -699,7 +1434,8 @@
    "buzz": 7.228,
    "first_seen": "2026-11-06",
    "downloads": 17034,
-   "score": 69.6
+   "score": 69.6,
+   "old": true
   },
   {
    "full": "vuejs/vue",
@@ -728,7 +1464,8 @@
    "buzz": 7.224,
    "first_seen": "2026-11-06",
    "downloads": 0,
-   "score": 69.5
+   "score": 69.5,
+   "old": true
   },
   {
    "full": "peterretief/codemap",
@@ -2263,716 +3000,6 @@
    "buzz": 5.502,
    "first_seen": "2026-11-04",
    "downloads": 7924114,
-   "score": 42.9,
-   "old": true
-  },
-  {
-   "full": "NVIDIA/auto-ontology",
-   "url": "https://github.com/NVIDIA/auto-ontology",
-   "desc": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
-   "lang": "Python",
-   "stars": 1569,
-   "forks": 128,
-   "growth": 188.3,
-   "hn_points": 93,
-   "hn_comments": 31,
-   "hn_url": "https://news.ycombinator.com/item?id=50348962",
-   "topics": [],
-   "created": "2026-04-27",
-   "pushed": "2026-11-03",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 13.554,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "JiaFeiMiao-K-Cat/DiscImageStudio",
-   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-   "desc": "",
-   "lang": "C#",
-   "stars": 4177,
-   "forks": 122,
-   "growth": 0.0,
-   "hn_points": 248,
-   "hn_comments": 50,
-   "hn_url": "https://news.ycombinator.com/item?id=50346849",
-   "topics": [],
-   "created": "2026-08-23",
-   "pushed": "2026-11-02",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 9.861,
-   "first_seen": "2026-11-03",
-   "downloads": 4264,
-   "score": 72.8,
-   "old": true
-  },
-  {
-   "full": "soml-lang/soml",
-   "url": "https://github.com/soml-lang/soml",
-   "desc": "A config format for humans",
-   "lang": "",
-   "stars": 172,
-   "forks": 5,
-   "growth": 6.9,
-   "hn_points": 61,
-   "hn_comments": 66,
-   "hn_url": "https://news.ycombinator.com/item?id=50341502",
-   "topics": [
-    "soml",
-    "soml-language"
-   ],
-   "created": "2026-10-09",
-   "pushed": "2026-11-02",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 9.729,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 71.8,
-   "old": true
-  },
-  {
-   "full": "pigeon-labs-stack/v100-sxm2-reference",
-   "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
-   "desc": "Curated V100 SXM2 pin maps, two- and four-GPU NVLink connection plans, and connector-only KiCad resources toward an open-source carrier board.",
-   "lang": "",
-   "stars": 35,
-   "forks": 2,
-   "growth": 8.8,
-   "hn_points": 41,
-   "hn_comments": 10,
-   "hn_url": "https://news.ycombinator.com/item?id=50344912",
-   "topics": [],
-   "created": "2026-10-30",
-   "pushed": "2026-11-03",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 8.438,
-   "first_seen": "2026-11-03",
-   "downloads": 2,
-   "score": 62.3,
-   "old": true
-  },
-  {
-   "full": "aaitor/skill-video-studio",
-   "url": "https://github.com/aaitor/skill-video-studio",
-   "desc": "Claude Code skill for product videos: real browser capture, branded composition, and local mastering.",
-   "lang": "HTML",
-   "stars": 304,
-   "forks": 8,
-   "growth": 0.0,
-   "hn_points": 106,
-   "hn_comments": 34,
-   "hn_url": "https://news.ycombinator.com/item?id=50340992",
-   "topics": [
-    "agent-skills",
-    "agents",
-    "claude-code",
-    "devrel",
-    "ffmpeg",
-    "harness"
-   ],
-   "created": "2026-08-26",
-   "pushed": "2026-11-02",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 8.174,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 60.3,
-   "old": true
-  },
-  {
-   "full": "AssassinCreator/steam-stash-value-report-card",
-   "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-   "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-   "lang": "Python",
-   "stars": 668,
-   "forks": 56,
-   "growth": 668.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "cli",
-    "inventory",
-    "price-check",
-    "python",
-    "report-card",
-    "steam"
-   ],
-   "created": "2026-11-02",
-   "pushed": "2026-11-02",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.807,
-   "first_seen": "2026-11-03",
-   "downloads": 24,
-   "score": 57.6,
-   "old": true
-  },
-  {
-   "full": "mromidev/claude-animated-shorts",
-   "url": "https://github.com/mromidev/claude-animated-shorts",
-   "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-   "lang": "TypeScript",
-   "stars": 927,
-   "forks": 218,
-   "growth": 463.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-01",
-   "pushed": "2026-11-01",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.508,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 55.4,
-   "old": true
-  },
-  {
-   "full": "floci-io/floci",
-   "url": "https://github.com/floci-io/floci",
-   "desc": "Light, fluffy, and always free - The AWS Local Emulator alternative",
-   "lang": "Java",
-   "stars": 28157,
-   "forks": 3160,
-   "growth": 219.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "aws",
-    "aws-emulation",
-    "devops",
-    "docker",
-    "ec2",
-    "ecs"
-   ],
-   "created": "2026-02-18",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "https://floci.io/floci/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.443,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 54.9,
-   "old": true
-  },
-  {
-   "full": "Usagi-org/ai-goofish-monitor",
-   "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-   "desc": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
-   "lang": "Python",
-   "stars": 16094,
-   "forks": 2819,
-   "growth": 204.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-assistant",
-    "ai-tools",
-    "automation",
-    "gemini",
-    "goofish"
-   ],
-   "created": "2025-07-16",
-   "pushed": "2026-10-10",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.26,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 53.6,
-   "old": true
-  },
-  {
-   "full": "Fission-AI/OpenSpec",
-   "url": "https://github.com/Fission-AI/OpenSpec",
-   "desc": "Spec-driven development (SDD) for AI coding assistants.",
-   "lang": "TypeScript",
-   "stars": 73785,
-   "forks": 5053,
-   "growth": 122.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "context-engineering",
-    "engineering",
-    "planning",
-    "prd",
-    "sdd"
-   ],
-   "created": "2025-08-05",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "https://openspec.dev/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.054,
-   "first_seen": "2026-11-03",
-   "downloads": 21589,
-   "score": 52.0,
-   "old": true
-  },
-  {
-   "full": "Gezine/CivSwitch",
-   "url": "https://github.com/Gezine/CivSwitch",
-   "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-   "lang": "JavaScript",
-   "stars": 522,
-   "forks": 109,
-   "growth": 261.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-01",
-   "pushed": "2026-11-02",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.82,
-   "first_seen": "2026-11-03",
-   "downloads": 3672,
-   "score": 50.3,
-   "old": true
-  },
-  {
-   "full": "MakazhanAlpamys/Soup",
-   "url": "https://github.com/MakazhanAlpamys/Soup",
-   "desc": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-   "lang": "Python",
-   "stars": 10062,
-   "forks": 1660,
-   "growth": 135.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "cli",
-    "consumer-gpu",
-    "dpo",
-    "fine-tuning",
-    "gguf",
-    "huggingface"
-   ],
-   "created": "2026-02-20",
-   "pushed": "2026-11-03",
-   "license": "Apache-2.0",
-   "homepage": "https://trysoup.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.756,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 49.8,
-   "old": true
-  },
-  {
-   "full": "andreavolpato/spektrafilm",
-   "url": "https://github.com/andreavolpato/spektrafilm",
-   "desc": "Spectral simulation of analog photography processes",
-   "lang": "Python",
-   "stars": 1798,
-   "forks": 241,
-   "growth": 173.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2025-02-07",
-   "pushed": "2026-07-14",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.658,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 49.1,
-   "old": true
-  },
-  {
-   "full": "zhanghao123vip/ai-manju-skills",
-   "url": "https://github.com/zhanghao123vip/ai-manju-skills",
-   "desc": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
-   "lang": "",
-   "stars": 537,
-   "forks": 100,
-   "growth": 179.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-skills",
-    "ai-video",
-    "chinese",
-    "claude-code",
-    "prompt-engineering"
-   ],
-   "created": "2026-10-31",
-   "pushed": "2026-11-01",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.451,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 47.6,
-   "old": true
-  },
-  {
-   "full": "zortos293/Eglantine",
-   "url": "https://github.com/zortos293/Eglantine",
-   "desc": "VERY experimental Nintendo Switch 2 emulator",
-   "lang": "C++",
-   "stars": 531,
-   "forks": 51,
-   "growth": 177.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-31",
-   "pushed": "2026-11-03",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.437,
-   "first_seen": "2026-11-03",
-   "downloads": 23371,
-   "score": 47.5,
-   "old": true
-  },
-  {
-   "full": "shy3130/tick-stock-panel",
-   "url": "https://github.com/shy3130/tick-stock-panel",
-   "desc": "TSP自托管、零运维的 A 股「自建策略 + 监控 + 回测」量化工作台  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
-   "lang": "Python",
-   "stars": 6961,
-   "forks": 1673,
-   "growth": 97.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "a-stock",
-    "ai-agent",
-    "aigc",
-    "aigc-detection",
-    "backtesting",
-    "daily"
-   ],
-   "created": "2026-06-18",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "https://tsp.shy313.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.355,
-   "first_seen": "2026-11-03",
-   "downloads": 8218,
-   "score": 46.9,
-   "old": true
-  },
-  {
-   "full": "speridlabs/idol-sdk",
-   "url": "https://github.com/speridlabs/idol-sdk",
-   "desc": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-   "lang": "Python",
-   "stars": 695,
-   "forks": 53,
-   "growth": 145.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-28",
-   "pushed": "2026-10-29",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.293,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 46.4,
-   "old": true
-  },
-  {
-   "full": "spotify/portal-ai-plugins",
-   "url": "https://github.com/spotify/portal-ai-plugins",
-   "desc": "",
-   "lang": "TypeScript",
-   "stars": 2911,
-   "forks": 228,
-   "growth": 94.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-07-23",
-   "pushed": "2026-10-23",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.149,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 45.4,
-   "old": true
-  },
-  {
-   "full": "code-yeongyu/oh-my-openagent",
-   "url": "https://github.com/code-yeongyu/oh-my-openagent",
-   "desc": "OmO: Just type \"mass ulw\" keyword with your prompt. Now you are the master of graph engineering.",
-   "lang": "TypeScript",
-   "stars": 70655,
-   "forks": 5832,
-   "growth": 49.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "anthropic",
-    "chatgpt",
-    "claude",
-    "claude-skills"
-   ],
-   "created": "2025-12-03",
-   "pushed": "2026-11-03",
-   "license": "",
-   "homepage": "https://omo.dev",
-   "src": [],
-   "buzz": 6.145,
-   "first_seen": "2026-11-03",
-   "downloads": 8167,
-   "score": 45.3,
-   "old": true
-  },
-  {
-   "full": "cutetailbud/ff-ruyijs",
-   "url": "https://github.com/cutetailbud/ff-ruyijs",
-   "desc": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-   "lang": "C++",
-   "stars": 651,
-   "forks": 291,
-   "growth": 122.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "anti-bot",
-    "automation",
-    "firefox",
-    "headless-browser",
-    "javascript",
-    "python"
-   ],
-   "created": "2026-10-28",
-   "pushed": "2026-11-02",
-   "license": "AGPL-3.0",
-   "homepage": "https://cutetailbud.github.io/ff-ruyijs/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.108,
-   "first_seen": "2026-11-03",
-   "downloads": 448,
-   "score": 45.1,
-   "old": true
-  },
-  {
-   "full": "skylot/jadx",
-   "url": "https://github.com/skylot/jadx",
-   "desc": "Dex to Java decompiler",
-   "lang": "Java",
-   "stars": 51523,
-   "forks": 5879,
-   "growth": 48.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "decompiler",
-    "dex",
-    "java"
-   ],
-   "created": "2013-03-18",
-   "pushed": "2026-11-02",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [],
-   "buzz": 6.062,
-   "first_seen": "2026-11-03",
-   "downloads": 5242669,
-   "score": 44.7,
-   "old": true
-  },
-  {
-   "full": "ashayas/icloud-s3",
-   "url": "https://github.com/ashayas/icloud-s3",
-   "desc": "An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.",
-   "lang": "Rust",
-   "stars": 487,
-   "forks": 30,
-   "growth": 121.8,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-30",
-   "pushed": "2026-10-31",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.048,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 44.6,
-   "old": true
-  },
-  {
-   "full": "RikiyaT/lm_understand-logs",
-   "url": "https://github.com/RikiyaT/lm_understand-logs",
-   "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-   "lang": "Python",
-   "stars": 528,
-   "forks": 59,
-   "growth": 105.6,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-10-29",
-   "pushed": "2026-10-29",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 5.923,
-   "first_seen": "2026-11-03",
-   "downloads": 0,
-   "score": 43.7,
-   "old": true
-  },
-  {
-   "full": "CherryHQ/cherry-studio",
-   "url": "https://github.com/CherryHQ/cherry-studio",
-   "desc": "Your AI workspace for models, agents, and productivity.",
-   "lang": "TypeScript",
-   "stars": 53229,
-   "forks": 5174,
-   "growth": 41.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "agent-workspace",
-    "agentic-workspace",
-    "ai-agents",
-    "ai-models",
-    "ai-productivity"
-   ],
-   "created": "2024-05-24",
-   "pushed": "2026-11-03",
-   "license": "AGPL-3.0",
-   "homepage": "https://cherryai.com",
-   "src": [],
-   "buzz": 5.914,
-   "first_seen": "2026-11-03",
-   "downloads": 2660585,
-   "score": 43.6,
-   "old": true
-  },
-  {
-   "full": "ultralytics/ultralytics",
-   "url": "https://github.com/ultralytics/ultralytics",
-   "desc": "Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
-   "lang": "Python",
-   "stars": 63074,
-   "forks": 11968,
-   "growth": 36.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "computer-vision",
-    "deep-learning",
-    "image-classification",
-    "instance-segmentation",
-    "machine-learning",
-    "object-detection"
-   ],
-   "created": "2022-09-11",
-   "pushed": "2026-11-03",
-   "license": "AGPL-3.0",
-   "homepage": "https://platform.ultralytics.com",
-   "src": [],
-   "buzz": 5.821,
-   "first_seen": "2026-11-03",
-   "downloads": 66,
    "score": 42.9,
    "old": true
   }
