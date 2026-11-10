@@ -1,8 +1,711 @@
 {
- "date": "2026-11-09",
- "generated": "2026-11-09T13:06+00:00",
+ "date": "2026-11-10",
+ "generated": "2026-11-10T12:44+00:00",
  "model": "",
  "items": [
+  {
+   "full": "expo/exact",
+   "url": "https://github.com/expo/exact",
+   "desc": "",
+   "lang": "Rust",
+   "stars": 1633,
+   "forks": 35,
+   "growth": 204.1,
+   "hn_points": 125,
+   "hn_comments": 94,
+   "hn_url": "https://news.ycombinator.com/item?id=50433541",
+   "topics": [],
+   "created": "2026-11-02",
+   "pushed": "2026-11-10",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.428,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "thisisme6598/gemini_files",
+   "url": "https://github.com/thisisme6598/gemini_files",
+   "desc": "Documentation of Gemini File Leaking Behavior",
+   "lang": "",
+   "stars": 26,
+   "forks": 1,
+   "growth": 26.0,
+   "hn_points": 635,
+   "hn_comments": 134,
+   "hn_url": "https://news.ycombinator.com/item?id=50429426",
+   "topics": [],
+   "created": "2026-11-09",
+   "pushed": "2026-11-10",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 13.663,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 94.7
+  },
+  {
+   "full": "Dodaios/ste80-humanizer",
+   "url": "https://github.com/Dodaios/ste80-humanizer",
+   "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+   "lang": "Python",
+   "stars": 227,
+   "forks": 14,
+   "growth": 227.0,
+   "hn_points": 95,
+   "hn_comments": 33,
+   "hn_url": "https://news.ycombinator.com/item?id=50429144",
+   "topics": [
+    "agent-skills",
+    "ai-writing",
+    "asd-ste100",
+    "claude-code",
+    "claude-skills",
+    "codex"
+   ],
+   "created": "2026-11-09",
+   "pushed": "2026-11-10",
+   "license": "MIT",
+   "homepage": "https://skills.sh/Dodaios/ste80-humanizer",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 13.403,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 92.9
+  },
+  {
+   "full": "datareceipts/data-receipts",
+   "url": "https://github.com/datareceipts/data-receipts",
+   "desc": "",
+   "lang": "Python",
+   "stars": 18,
+   "forks": 0,
+   "growth": 1.2,
+   "hn_points": 170,
+   "hn_comments": 87,
+   "hn_url": "https://news.ycombinator.com/item?id=50427085",
+   "topics": [],
+   "created": "2026-10-26",
+   "pushed": "2026-11-09",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 9.338,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 64.7
+  },
+  {
+   "full": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "desc": "Production-grade engineering skills for AI coding agents.",
+   "lang": "JavaScript",
+   "stars": 114792,
+   "forks": 11998,
+   "growth": 465.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "skills"
+   ],
+   "created": "2026-02-15",
+   "pushed": "2026-11-01",
+   "license": "MIT",
+   "homepage": "https://skills.addy.ie",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.474,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 58.7
+  },
+  {
+   "full": "homeassistant-ai/ha-mcp",
+   "url": "https://github.com/homeassistant-ai/ha-mcp",
+   "desc": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+   "lang": "Python",
+   "stars": 6337,
+   "forks": 348,
+   "growth": 792.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "claude",
+    "hacs",
+    "home-assistant",
+    "home-automation",
+    "llm"
+   ],
+   "created": "2025-09-14",
+   "pushed": "2026-11-10",
+   "license": "MIT",
+   "homepage": "https://homeassistant-ai.github.io/ha-mcp/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.427,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 58.4
+  },
+  {
+   "full": "ikey4u/zebkit",
+   "url": "https://github.com/ikey4u/zebkit",
+   "desc": "A slim cross-platform browser engine for applications",
+   "lang": "C++",
+   "stars": 204,
+   "forks": 5,
+   "growth": 0.0,
+   "hn_points": 115,
+   "hn_comments": 45,
+   "hn_url": "https://news.ycombinator.com/item?id=50426207",
+   "topics": [],
+   "created": "2026-10-10",
+   "pushed": "2026-11-10",
+   "license": "LGPL-2.1",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.3,
+   "first_seen": "2026-11-10",
+   "downloads": 76,
+   "score": 57.5
+  },
+  {
+   "full": "sshah03/recalc",
+   "url": "https://github.com/sshah03/recalc",
+   "desc": "A spreadsheet you share with your AI agents: every cell can hold a value, a formula, a terminal command, or a Claude Code or Codex agent.",
+   "lang": "Rust",
+   "stars": 55,
+   "forks": 3,
+   "growth": 7.9,
+   "hn_points": 31,
+   "hn_comments": 8,
+   "hn_url": "https://news.ycombinator.com/item?id=50413970",
+   "topics": [
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "codex"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-09",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.024,
+   "first_seen": "2026-11-10",
+   "downloads": 85,
+   "score": 55.6
+  },
+  {
+   "full": "Kianuni/Erosion-CN",
+   "url": "https://github.com/Kianuni/Erosion-CN",
+   "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+   "lang": "Swift",
+   "stars": 672,
+   "forks": 139,
+   "growth": 672.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-10",
+   "pushed": "2026-11-10",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.814,
+   "first_seen": "2026-11-10",
+   "downloads": 1987,
+   "score": 54.2
+  },
+  {
+   "full": "Imbad0202/academic-research-skills",
+   "url": "https://github.com/Imbad0202/academic-research-skills",
+   "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+   "lang": "Python",
+   "stars": 56305,
+   "forks": 4284,
+   "growth": 242.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "academic-pipeline",
+    "academic-writing",
+    "ai-research",
+    "claude",
+    "claude-code",
+    "literature-review"
+   ],
+   "created": "2026-02-26",
+   "pushed": "2026-11-10",
+   "license": "",
+   "homepage": "https://buymeacoffee.com/crucify020v",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.681,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 53.2
+  },
+  {
+   "full": "samir-sarwar/samir-vllm",
+   "url": "https://github.com/samir-sarwar/samir-vllm",
+   "desc": "small LLM inference engine from scratch, w/ 6+ hours of youtube tutorials & 85+ pages of handwritten notes included",
+   "lang": "C++",
+   "stars": 187,
+   "forks": 8,
+   "growth": 0.0,
+   "hn_points": 78,
+   "hn_comments": 12,
+   "hn_url": "https://news.ycombinator.com/item?id=50424199",
+   "topics": [],
+   "created": "2026-08-27",
+   "pushed": "2026-11-03",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.317,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 50.7
+  },
+  {
+   "full": "yappologistic/CUI",
+   "url": "https://github.com/yappologistic/CUI",
+   "desc": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
+   "lang": "C",
+   "stars": 819,
+   "forks": 44,
+   "growth": 319.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "c",
+    "c99",
+    "cross-platform",
+    "gui",
+    "native",
+    "ui-components"
+   ],
+   "created": "2026-11-05",
+   "pushed": "2026-11-10",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.11,
+   "first_seen": "2026-11-10",
+   "downloads": 185,
+   "score": 49.3
+  },
+  {
+   "full": "we-promise/sure",
+   "url": "https://github.com/we-promise/sure",
+   "desc": "The personal finance app for everyone (by everyone)",
+   "lang": "Ruby",
+   "stars": 11423,
+   "forks": 799,
+   "growth": 184.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2025-07-23",
+   "pushed": "2026-11-10",
+   "license": "AGPL-3.0",
+   "homepage": "https://sure.am",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.089,
+   "first_seen": "2026-11-10",
+   "downloads": 20847,
+   "score": 49.1
+  },
+  {
+   "full": "tokio-rs/topcoat",
+   "url": "https://github.com/tokio-rs/topcoat",
+   "desc": "A batteries-included framework for building web apps",
+   "lang": "Rust",
+   "stars": 6591,
+   "forks": 236,
+   "growth": 192.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-04-03",
+   "pushed": "2026-11-09",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.021,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 48.7
+  },
+  {
+   "full": "fosrl/pangolin",
+   "url": "https://github.com/fosrl/pangolin",
+   "desc": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
+   "lang": "TypeScript",
+   "stars": 23540,
+   "forks": 826,
+   "growth": 125.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-gateway",
+    "gateway",
+    "nat-traversal",
+    "oidc",
+    "pam",
+    "pangolin"
+   ],
+   "created": "2024-09-27",
+   "pushed": "2026-11-10",
+   "license": "",
+   "homepage": "https://pangolin.net",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.85,
+   "first_seen": "2026-11-10",
+   "downloads": 7380,
+   "score": 47.5
+  },
+  {
+   "full": "ashishpatel26/500-AI-Agents-Projects",
+   "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+   "desc": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+   "lang": "Python",
+   "stars": 39579,
+   "forks": 7098,
+   "growth": 112.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "genai"
+   ],
+   "created": "2024-12-20",
+   "pushed": "2026-11-06",
+   "license": "MIT",
+   "homepage": "https://ashishpatel26.github.io/500-AI-Agents-Projects/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.845,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 47.4
+  },
+  {
+   "full": "WhiteTowerAI/ohmygame",
+   "url": "https://github.com/WhiteTowerAI/ohmygame",
+   "desc": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
+   "lang": "TypeScript",
+   "stars": 1988,
+   "forks": 255,
+   "growth": 201.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-coding",
+    "ai-coding-agent",
+    "ai-game-design",
+    "ai-game-dev",
+    "ai-game-development",
+    "ai-image"
+   ],
+   "created": "2026-08-11",
+   "pushed": "2026-11-10",
+   "license": "Apache-2.0",
+   "homepage": "https://ohmygame.ai/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.827,
+   "first_seen": "2026-11-10",
+   "downloads": 1459,
+   "score": 47.3
+  },
+  {
+   "full": "JosssphZhou/poki",
+   "url": "https://github.com/JosssphZhou/poki",
+   "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+   "lang": "Swift",
+   "stars": 871,
+   "forks": 171,
+   "growth": 224.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "automation",
+    "ios",
+    "iphone",
+    "mcp",
+    "model-context-protocol"
+   ],
+   "created": "2026-11-05",
+   "pushed": "2026-11-10",
+   "license": "AGPL-3.0",
+   "homepage": "https://poki.bot",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.77,
+   "first_seen": "2026-11-10",
+   "downloads": 2563,
+   "score": 46.9
+  },
+  {
+   "full": "dabingfy-dot/solo-to-team-skills",
+   "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+   "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+   "lang": "",
+   "stars": 484,
+   "forks": 47,
+   "growth": 161.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "collaboration",
+    "human-in-the-loop",
+    "workflow"
+   ],
+   "created": "2026-11-07",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.326,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 43.8
+  },
+  {
+   "full": "Dokploy/dokploy",
+   "url": "https://github.com/Dokploy/dokploy",
+   "desc": "Open Source Alternative to Vercel, Netlify and Heroku.",
+   "lang": "TypeScript",
+   "stars": 38370,
+   "forks": 3168,
+   "growth": 61.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agents",
+    "ai",
+    "backend",
+    "backups",
+    "databases",
+    "deployment"
+   ],
+   "created": "2024-04-19",
+   "pushed": "2026-11-09",
+   "license": "",
+   "homepage": "https://dokploy.com/",
+   "src": [],
+   "buzz": 6.238,
+   "first_seen": "2026-11-10",
+   "downloads": 5265,
+   "score": 43.2
+  },
+  {
+   "full": "mantrakp04/ardia",
+   "url": "https://github.com/mantrakp04/ardia",
+   "desc": "A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6",
+   "lang": "TypeScript",
+   "stars": 1612,
+   "forks": 191,
+   "growth": 115.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-06-19",
+   "pushed": "2026-11-10",
+   "license": "GPL-3.0",
+   "homepage": "https://ardia.dev",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.231,
+   "first_seen": "2026-11-10",
+   "downloads": 5376,
+   "score": 43.2
+  },
+  {
+   "full": "elder-plinius/OBLITERATUS",
+   "url": "https://github.com/elder-plinius/OBLITERATUS",
+   "desc": "OBLITERATE THE CHAINS THAT BIND YOU",
+   "lang": "Python",
+   "stars": 9438,
+   "forks": 1725,
+   "growth": 76.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-03-03",
+   "pushed": "2026-11-05",
+   "license": "AGPL-3.0",
+   "homepage": "https://huggingface.co/spaces/pliny-the-prompter/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.174,
+   "first_seen": "2026-11-10",
+   "downloads": 1035,
+   "score": 42.8
+  },
+  {
+   "full": "sassiestrhihno/boxshelf-beta",
+   "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+   "desc": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
+   "lang": "",
+   "stars": 779,
+   "forks": 20,
+   "growth": 110.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android-handheld",
+    "ayn-thor",
+    "box-art",
+    "electron",
+    "emulation",
+    "emulator-frontend"
+   ],
+   "created": "2026-11-05",
+   "pushed": "2026-11-09",
+   "license": "",
+   "homepage": "https://github.com/sassiestrhihno/boxshelf-source",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.041,
+   "first_seen": "2026-11-10",
+   "downloads": 6010,
+   "score": 41.9
+  },
+  {
+   "full": "AbhramJohn/instagram-engagement-bot",
+   "url": "https://github.com/AbhramJohn/instagram-engagement-bot",
+   "desc": "Community-driven Instagram Liker Bot with advanced automation for desktop",
+   "lang": "HTML",
+   "stars": 482,
+   "forks": 0,
+   "growth": 120.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "autolike",
+    "automation",
+    "desktop",
+    "developer-tools",
+    "insta-bot",
+    "instagram-commenter"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-10",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.036,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 41.8
+  },
+  {
+   "full": "mahmoudtawfik1998/secure-pdf-document-processor",
+   "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+   "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+   "lang": "HTML",
+   "stars": 481,
+   "forks": 0,
+   "growth": 120.2,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "acrobat-dc-pro",
+    "acrobat-for-free-2026",
+    "acrobat-no-limits",
+    "acrobat-pdf",
+    "automation",
+    "desktop"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-10",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.033,
+   "first_seen": "2026-11-10",
+   "downloads": 0,
+   "score": 41.8
+  },
   {
    "full": "synchopate/llama-modchip",
    "url": "https://github.com/synchopate/llama-modchip",
@@ -33,7 +736,8 @@
    "buzz": 14.798,
    "first_seen": "2026-11-09",
    "downloads": 107,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "graealex/WaveDudeNext",
@@ -58,7 +762,8 @@
    "buzz": 9.234,
    "first_seen": "2026-11-09",
    "downloads": 806,
-   "score": 62.4
+   "score": 62.4,
+   "old": true
   },
   {
    "full": "OmniJev/Flide",
@@ -90,7 +795,8 @@
    "buzz": 9.125,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 61.7
+   "score": 61.7,
+   "old": true
   },
   {
    "full": "jhaizhou-ops/S2Arm",
@@ -121,7 +827,8 @@
    "buzz": 8.649,
    "first_seen": "2026-11-09",
    "downloads": 6370,
-   "score": 58.4
+   "score": 58.4,
+   "old": true
   },
   {
    "full": "google-deepmind/mujoco",
@@ -149,7 +856,8 @@
    "buzz": 8.308,
    "first_seen": "2026-11-09",
    "downloads": 139690,
-   "score": 56.1
+   "score": 56.1,
+   "old": true
   },
   {
    "full": "anthropics/claude-quickstarts",
@@ -173,7 +881,8 @@
    "buzz": 8.308,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 56.1
+   "score": 56.1,
+   "old": true
   },
   {
    "full": "kobaltgit/StatCraft",
@@ -205,7 +914,8 @@
    "buzz": 7.831,
    "first_seen": "2026-11-09",
    "downloads": 62,
-   "score": 52.9
+   "score": 52.9,
+   "old": true
   },
   {
    "full": "ruvnet/RuView",
@@ -236,7 +946,8 @@
    "buzz": 7.627,
    "first_seen": "2026-11-09",
    "downloads": 740,
-   "score": 51.5
+   "score": 51.5,
+   "old": true
   },
   {
    "full": "huamidev/GestaltX",
@@ -260,7 +971,8 @@
    "buzz": 7.621,
    "first_seen": "2026-11-09",
    "downloads": 3588,
-   "score": 51.5
+   "score": 51.5,
+   "old": true
   },
   {
    "full": "OpenCut-app/OpenCut",
@@ -288,7 +1000,8 @@
    "buzz": 7.607,
    "first_seen": "2026-11-09",
    "downloads": 2067,
-   "score": 51.4
+   "score": 51.4,
+   "old": true
   },
   {
    "full": "DIYgod/pinky",
@@ -312,7 +1025,8 @@
    "buzz": 7.486,
    "first_seen": "2026-11-09",
    "downloads": 3446,
-   "score": 50.6
+   "score": 50.6,
+   "old": true
   },
   {
    "full": "garrytan/gbrain",
@@ -336,7 +1050,8 @@
    "buzz": 7.449,
    "first_seen": "2026-11-09",
    "downloads": 326,
-   "score": 50.3
+   "score": 50.3,
+   "old": true
   },
   {
    "full": "PaladinSmash84/aida-64-extreme",
@@ -367,7 +1082,8 @@
    "buzz": 7.202,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 48.7
+   "score": 48.7,
+   "old": true
   },
   {
    "full": "tidain/YunX-Desktop",
@@ -391,7 +1107,8 @@
    "buzz": 7.069,
    "first_seen": "2026-11-09",
    "downloads": 181818,
-   "score": 47.8
+   "score": 47.8,
+   "old": true
   },
   {
    "full": "opensandbox-group/OpenSandbox",
@@ -422,7 +1139,8 @@
    "buzz": 7.02,
    "first_seen": "2026-11-09",
    "downloads": 638,
-   "score": 47.4
+   "score": 47.4,
+   "old": true
   },
   {
    "full": "anthropics/claude-plugins-official",
@@ -450,7 +1168,8 @@
    "buzz": 7.017,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 47.4
+   "score": 47.4,
+   "old": true
   },
   {
    "full": "IainKay/ram-altman",
@@ -481,7 +1200,8 @@
    "buzz": 7.014,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 47.4
+   "score": 47.4,
+   "old": true
   },
   {
    "full": "vercel-labs/json-render",
@@ -505,7 +1225,8 @@
    "buzz": 6.986,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 47.2
+   "score": 47.2,
+   "old": true
   },
   {
    "full": "Oldcircle/geo-sleuth",
@@ -534,7 +1255,8 @@
    "buzz": 6.965,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 47.1
+   "score": 47.1,
+   "old": true
   },
   {
    "full": "jamesondh/chimera-vocal-synth",
@@ -558,7 +1280,8 @@
    "buzz": 6.838,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 46.2
+   "score": 46.2,
+   "old": true
   },
   {
    "full": "lxe/phoneuse",
@@ -582,7 +1305,8 @@
    "buzz": 6.778,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 45.8
+   "score": 45.8,
+   "old": true
   },
   {
    "full": "hummingbot/hummingbot",
@@ -613,7 +1337,8 @@
    "buzz": 6.597,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 44.6
+   "score": 44.6,
+   "old": true
   },
   {
    "full": "janestreet/agent_skills",
@@ -637,7 +1362,8 @@
    "buzz": 6.583,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 44.5
+   "score": 44.5,
+   "old": true
   },
   {
    "full": "vsmutok/FuckCaptcha",
@@ -668,7 +1394,8 @@
    "buzz": 6.555,
    "first_seen": "2026-11-09",
    "downloads": 0,
-   "score": 44.3
+   "score": 44.3,
+   "old": true
   },
   {
    "full": "TooonyChen/finallyshell",
@@ -699,7 +1426,8 @@
    "buzz": 6.537,
    "first_seen": "2026-11-09",
    "downloads": 1264,
-   "score": 44.2
+   "score": 44.2,
+   "old": true
   },
   {
    "full": "RikkaApps/Shizuku",
@@ -2335,758 +3063,6 @@
    "first_seen": "2026-11-07",
    "downloads": 0,
    "score": 45.9,
-   "old": true
-  },
-  {
-   "full": "saragordic/window-sweaters",
-   "url": "https://github.com/saragordic/window-sweaters",
-   "desc": "A macOS menu-bar app that dresses your windows in knitted borders.",
-   "lang": "C",
-   "stars": 1176,
-   "forks": 35,
-   "growth": 0.0,
-   "hn_points": 366,
-   "hn_comments": 111,
-   "hn_url": "https://news.ycombinator.com/item?id=50381383",
-   "topics": [
-    "desktop-customization",
-    "knitting",
-    "macos",
-    "macos-app",
-    "menubar",
-    "menubar-app"
-   ],
-   "created": "2026-09-15",
-   "pushed": "2026-11-05",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 10.388,
-   "first_seen": "2026-11-06",
-   "downloads": 2690,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "ppmpreetham/BUI",
-   "url": "https://github.com/ppmpreetham/BUI",
-   "desc": "Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI",
-   "lang": "C++",
-   "stars": 466,
-   "forks": 10,
-   "growth": 0.0,
-   "hn_points": 265,
-   "hn_comments": 105,
-   "hn_url": "https://news.ycombinator.com/item?id=50389333",
-   "topics": [
-    "blender",
-    "blender-ui",
-    "bui"
-   ],
-   "created": "2026-08-26",
-   "pushed": "2026-11-06",
-   "license": "GPL-3.0",
-   "homepage": "https://bui.preetham.top",
-   "src": [
-    "hn"
-   ],
-   "buzz": 9.795,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 94.3,
-   "old": true
-  },
-  {
-   "full": "sherlock-project/sherlock",
-   "url": "https://github.com/sherlock-project/sherlock",
-   "desc": "Hunt down social media accounts by username across social networks",
-   "lang": "Python",
-   "stars": 97599,
-   "forks": 11592,
-   "growth": 1696.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "cli",
-    "cti",
-    "cybersecurity",
-    "forensics",
-    "hacktoberfest",
-    "information-gathering"
-   ],
-   "created": "2018-12-24",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "https://sherlockproject.xyz",
-   "src": [
-    "trending"
-   ],
-   "buzz": 9.734,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 93.7,
-   "old": true
-  },
-  {
-   "full": "sdalberto/ia-da-sobrevivencia",
-   "url": "https://github.com/sdalberto/ia-da-sobrevivencia",
-   "desc": "Assistente de sobrevivência 100% offline para Windows, Linux e macOS: guias com fontes (água, fogo, comida, primeiros socorros, álcool…) em PT/EN/ES, IA local (llama.cpp/Ollama) e bibliotecas Kiwix. Funciona sem internet.",
-   "lang": "Python",
-   "stars": 30,
-   "forks": 4,
-   "growth": 30.0,
-   "hn_points": 28,
-   "hn_comments": 16,
-   "hn_url": "https://news.ycombinator.com/item?id=50380273",
-   "topics": [],
-   "created": "2026-11-05",
-   "pushed": "2026-11-05",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 9.295,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 89.5,
-   "old": true
-  },
-  {
-   "full": "rivet-dev/rivet",
-   "url": "https://github.com/rivet-dev/rivet",
-   "desc": "The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.",
-   "lang": "Rust",
-   "stars": 6723,
-   "forks": 308,
-   "growth": 0.0,
-   "hn_points": 102,
-   "hn_comments": 53,
-   "hn_url": "https://news.ycombinator.com/item?id=50381687",
-   "topics": [
-    "actor",
-    "actors",
-    "cloudflare",
-    "cloudflare-durable-objects",
-    "durable-objects",
-    "foundationdb"
-   ],
-   "created": "2023-06-16",
-   "pushed": "2026-11-05",
-   "license": "Apache-2.0",
-   "homepage": "https://www.rivet.dev",
-   "src": [
-    "hn"
-   ],
-   "buzz": 8.92,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 85.9,
-   "old": true
-  },
-  {
-   "full": "PrivSec-dev/banking-apps-compat-report",
-   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report",
-   "desc": "Report and track banking app compatibility with GrapheneOS, including which workarounds may be required.",
-   "lang": "",
-   "stars": 355,
-   "forks": 11,
-   "growth": 0.0,
-   "hn_points": 135,
-   "hn_comments": 81,
-   "hn_url": "https://news.ycombinator.com/item?id=50390124",
-   "topics": [
-    "android",
-    "attestation-compatibility",
-    "banking-app",
-    "compatibility-layer",
-    "exploit-protection-compatibility-mode",
-    "grapheneos"
-   ],
-   "created": "2022-01-30",
-   "pushed": "2026-05-20",
-   "license": "",
-   "homepage": "https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 8.833,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 85.0,
-   "old": true
-  },
-  {
-   "full": "microsoft/vscode",
-   "url": "https://github.com/microsoft/vscode",
-   "desc": "Visual Studio Code",
-   "lang": "TypeScript",
-   "stars": 194780,
-   "forks": 44404,
-   "growth": 295.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "editor",
-    "electron",
-    "microsoft",
-    "typescript",
-    "visual-studio-code"
-   ],
-   "created": "2015-09-03",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "https://code.visualstudio.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.126,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 78.2,
-   "old": true
-  },
-  {
-   "full": "flitai-io/gpuworks",
-   "url": "https://github.com/flitai-io/gpuworks",
-   "desc": "A ~45 MB MaaS platform: one cluster across public and private clouds, on any mix of accelerators.",
-   "lang": "Go",
-   "stars": 140,
-   "forks": 41,
-   "growth": 9.3,
-   "hn_points": 30,
-   "hn_comments": 4,
-   "hn_url": "https://news.ycombinator.com/item?id=50367630",
-   "topics": [],
-   "created": "2026-10-22",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 8.09,
-   "first_seen": "2026-11-06",
-   "downloads": 46,
-   "score": 77.9,
-   "old": true
-  },
-  {
-   "full": "matthewmrichter/mooftcp",
-   "url": "https://github.com/matthewmrichter/mooftcp",
-   "desc": "Drop-in MacTCP replacement for System 6 / 68000 Macs",
-   "lang": "C",
-   "stars": 26,
-   "forks": 0,
-   "growth": 2.9,
-   "hn_points": 52,
-   "hn_comments": 20,
-   "hn_url": "https://news.ycombinator.com/item?id=50386789",
-   "topics": [],
-   "created": "2026-10-28",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 7.999,
-   "first_seen": "2026-11-06",
-   "downloads": 24,
-   "score": 77.0,
-   "old": true
-  },
-  {
-   "full": "react/react",
-   "url": "https://github.com/react/react",
-   "desc": "The library for web and native user interfaces.",
-   "lang": "JavaScript",
-   "stars": 252033,
-   "forks": 51778,
-   "growth": 244.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "declarative",
-    "frontend",
-    "javascript",
-    "library",
-    "react",
-    "ui"
-   ],
-   "created": "2013-05-24",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "https://react.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.989,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 76.9,
-   "old": true
-  },
-  {
-   "full": "zed-industries/zed",
-   "url": "https://github.com/zed-industries/zed",
-   "desc": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-   "lang": "Rust",
-   "stars": 92992,
-   "forks": 11455,
-   "growth": 292.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "gpui",
-    "rust-lang",
-    "text-editor",
-    "zed"
-   ],
-   "created": "2021-02-20",
-   "pushed": "2026-11-06",
-   "license": "",
-   "homepage": "https://zed.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.968,
-   "first_seen": "2026-11-06",
-   "downloads": 1683448,
-   "score": 76.7,
-   "old": true
-  },
-  {
-   "full": "AGGIB/Stroq",
-   "url": "https://github.com/AGGIB/Stroq",
-   "desc": "Find known secrets in your AI coding agent sessions (Claude Code, Codex, Cursor), then guard the next one with local hooks that trace risky commands to the content that dictated them. Open source, no telemetry.",
-   "lang": "TypeScript",
-   "stars": 145,
-   "forks": 8,
-   "growth": 0.0,
-   "hn_points": 86,
-   "hn_comments": 32,
-   "hn_url": "https://news.ycombinator.com/item?id=50380704",
-   "topics": [
-    "agent-security",
-    "ai-agents",
-    "ai-security",
-    "claude-code",
-    "codex",
-    "coding-agents"
-   ],
-   "created": "2026-09-04",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://stroq.dev",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.754,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 74.6,
-   "old": true
-  },
-  {
-   "full": "dsx-ai-factory/nvke",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "desc": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-   "lang": "Go",
-   "stars": 215,
-   "forks": 70,
-   "growth": 0.0,
-   "hn_points": 86,
-   "hn_comments": 22,
-   "hn_url": "https://news.ycombinator.com/item?id=50387738",
-   "topics": [
-    "bare-metal",
-    "cluster-api",
-    "gpu",
-    "kubernetes",
-    "nvidia"
-   ],
-   "created": "2026-08-04",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://docs.nvidia.com/nvke/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.688,
-   "first_seen": "2026-11-06",
-   "downloads": 31,
-   "score": 74.0,
-   "old": true
-  },
-  {
-   "full": "lz4/lz4",
-   "url": "https://github.com/lz4/lz4",
-   "desc": "Extremely Fast Compression algorithm",
-   "lang": "C",
-   "stars": 12528,
-   "forks": 1640,
-   "growth": 313.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "c",
-    "compression",
-    "lz4"
-   ],
-   "created": "2014-03-25",
-   "pushed": "2026-11-06",
-   "license": "",
-   "homepage": "http://www.lz4.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.637,
-   "first_seen": "2026-11-06",
-   "downloads": 4404606,
-   "score": 73.5,
-   "old": true
-  },
-  {
-   "full": "rust-lang/rust",
-   "url": "https://github.com/rust-lang/rust",
-   "desc": "Empowering everyone to build reliable and efficient software.",
-   "lang": "Rust",
-   "stars": 121159,
-   "forks": 17357,
-   "growth": 186.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "compiler",
-    "language",
-    "rust"
-   ],
-   "created": "2010-06-16",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://www.rust-lang.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.572,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 72.9,
-   "old": true
-  },
-  {
-   "full": "WoYun520/pixel-gif-sticker-pack",
-   "url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
-   "desc": "A Codex skill for creating and verifying animated GIF sticker packs from character references.",
-   "lang": "Python",
-   "stars": 527,
-   "forks": 61,
-   "growth": 527.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-05",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.523,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 72.4,
-   "old": true
-  },
-  {
-   "full": "mmdoctor/google-pro-helper",
-   "url": "https://github.com/mmdoctor/google-pro-helper",
-   "desc": "",
-   "lang": "Python",
-   "stars": 526,
-   "forks": 229,
-   "growth": 526.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-05",
-   "pushed": "2026-11-05",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.521,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 72.4,
-   "old": true
-  },
-  {
-   "full": "lobehub/lobehub",
-   "url": "https://github.com/lobehub/lobehub",
-   "desc": "🤯 LobeHub - Super-Agents on Your Team. Add super-agents to the chats your team already uses.They take on work by themselves and get better every week.",
-   "lang": "TypeScript",
-   "stars": 84180,
-   "forks": 16096,
-   "growth": 184.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "agent-collaboration",
-    "agent-harness",
-    "loop-engineering",
-    "mcp",
-    "personal-assistant"
-   ],
-   "created": "2023-05-21",
-   "pushed": "2026-11-06",
-   "license": "",
-   "homepage": "https://lobehub.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.489,
-   "first_seen": "2026-11-06",
-   "downloads": 4489,
-   "score": 72.1,
-   "old": true
-  },
-  {
-   "full": "livliv-dev/player",
-   "url": "https://github.com/livliv-dev/player",
-   "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-   "lang": "TypeScript",
-   "stars": 788,
-   "forks": 79,
-   "growth": 394.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "avatar",
-    "character",
-    "face-tracking",
-    "lip-sync",
-    "pngtuber",
-    "vrm"
-   ],
-   "created": "2026-11-04",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://livliv-dev.github.io/player/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.313,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 70.4,
-   "old": true
-  },
-  {
-   "full": "AtomIllusionistDwell/watson-username-footprint-finder",
-   "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
-   "desc": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
-   "lang": "TypeScript",
-   "stars": 435,
-   "forks": 53,
-   "growth": 435.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "digital-footprint",
-    "electron",
-    "people-search",
-    "react",
-    "reverse-lookup",
-    "sherlock"
-   ],
-   "created": "2026-11-05",
-   "pushed": "2026-11-05",
-   "license": "MIT",
-   "homepage": "https://watsonfind.icu",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.293,
-   "first_seen": "2026-11-06",
-   "downloads": 16,
-   "score": 70.2,
-   "old": true
-  },
-  {
-   "full": "tailwindlabs/tailwindcss",
-   "url": "https://github.com/tailwindlabs/tailwindcss",
-   "desc": "A utility-first CSS framework for rapid UI development.",
-   "lang": "TypeScript",
-   "stars": 98100,
-   "forks": 7077,
-   "growth": 145.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "css",
-    "css-framework",
-    "functional-css",
-    "postcss",
-    "responsive",
-    "tailwindcss"
-   ],
-   "created": "2017-10-06",
-   "pushed": "2026-11-05",
-   "license": "MIT",
-   "homepage": "https://tailwindcss.com/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.282,
-   "first_seen": "2026-11-06",
-   "downloads": 3678997,
-   "score": 70.1,
-   "old": true
-  },
-  {
-   "full": "HerdBuilderEstimate/roblox-studio-mcp",
-   "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
-   "desc": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
-   "lang": "Python",
-   "stars": 427,
-   "forks": 260,
-   "growth": 427.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-tools",
-    "automation",
-    "claude",
-    "cursor",
-    "developer-tools",
-    "game-development"
-   ],
-   "created": "2026-11-06",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.271,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 70.0,
-   "old": true
-  },
-  {
-   "full": "elder-plinius/T3MP3ST",
-   "url": "https://github.com/elder-plinius/T3MP3ST",
-   "desc": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
-   "lang": "TypeScript",
-   "stars": 6915,
-   "forks": 1435,
-   "growth": 238.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agents",
-    "ai",
-    "multi-agent",
-    "offensive-security",
-    "redteam"
-   ],
-   "created": "2026-07-02",
-   "pushed": "2026-09-08",
-   "license": "AGPL-3.0",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.245,
-   "first_seen": "2026-11-06",
-   "downloads": 436,
-   "score": 69.7,
-   "old": true
-  },
-  {
-   "full": "pandas-dev/pandas",
-   "url": "https://github.com/pandas-dev/pandas",
-   "desc": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
-   "lang": "Python",
-   "stars": 50386,
-   "forks": 20717,
-   "growth": 157.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "alignment",
-    "data-analysis",
-    "data-science",
-    "flexible",
-    "pandas",
-    "python"
-   ],
-   "created": "2010-08-24",
-   "pushed": "2026-11-06",
-   "license": "BSD-3-Clause",
-   "homepage": "https://pandas.pydata.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.228,
-   "first_seen": "2026-11-06",
-   "downloads": 17034,
-   "score": 69.6,
-   "old": true
-  },
-  {
-   "full": "vuejs/vue",
-   "url": "https://github.com/vuejs/vue",
-   "desc": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
-   "lang": "TypeScript",
-   "stars": 212514,
-   "forks": 33771,
-   "growth": 117.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "framework",
-    "frontend",
-    "javascript",
-    "vue"
-   ],
-   "created": "2013-07-29",
-   "pushed": "2024-10-10",
-   "license": "MIT",
-   "homepage": "http://v2.vuejs.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.224,
-   "first_seen": "2026-11-06",
-   "downloads": 0,
-   "score": 69.5,
    "old": true
   }
  ]
