@@ -1,8 +1,704 @@
 {
- "date": "2026-11-10",
- "generated": "2026-11-10T12:44+00:00",
+ "date": "2026-11-12",
+ "generated": "2026-11-12T12:46+00:00",
  "model": "",
  "items": [
+  {
+   "full": "FrigadeHQ/yogurt",
+   "url": "https://github.com/FrigadeHQ/yogurt",
+   "desc": "Private AI meeting notes. Free and open source.",
+   "lang": "TypeScript",
+   "stars": 714,
+   "forks": 24,
+   "growth": 357.0,
+   "hn_points": 256,
+   "hn_comments": 96,
+   "hn_url": "https://news.ycombinator.com/item?id=50454625",
+   "topics": [
+    "electron",
+    "linux",
+    "llama-cpp",
+    "local-ai",
+    "macos",
+    "mcp"
+   ],
+   "created": "2026-11-10",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "https://yogurt.so",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 15.684,
+   "first_seen": "2026-11-12",
+   "downloads": 2626,
+   "score": 100.0
+  },
+  {
+   "full": "huawei-csl/MACaQ",
+   "url": "https://github.com/huawei-csl/MACaQ",
+   "desc": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+   "lang": "C++",
+   "stars": 162,
+   "forks": 7,
+   "growth": 81.0,
+   "hn_points": 116,
+   "hn_comments": 26,
+   "hn_url": "https://news.ycombinator.com/item?id=50458166",
+   "topics": [
+    "ascend",
+    "audio",
+    "audio-generation",
+    "diffusers",
+    "gguf",
+    "gguf-quantization"
+   ],
+   "created": "2026-11-10",
+   "pushed": "2026-11-12",
+   "license": "Apache-2.0",
+   "homepage": "https://huawei-csl.com/blog/macaq/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 12.458,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 79.4
+  },
+  {
+   "full": "aws/aws-emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "desc": "AWS Emulator is a local emulator of the AWS APIs.",
+   "lang": "Rust",
+   "stars": 3695,
+   "forks": 90,
+   "growth": 0.0,
+   "hn_points": 878,
+   "hn_comments": 240,
+   "hn_url": "https://news.ycombinator.com/item?id=50456631",
+   "topics": [],
+   "created": "2026-09-11",
+   "pushed": "2026-11-11",
+   "license": "CC0-1.0",
+   "homepage": "https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html",
+   "src": [
+    "hn"
+   ],
+   "buzz": 11.971,
+   "first_seen": "2026-11-12",
+   "downloads": 3532,
+   "score": 76.3
+  },
+  {
+   "full": "adrbn/bo2-mac",
+   "url": "https://github.com/adrbn/bo2-mac",
+   "desc": "Call of Duty: Black Ops II statically recompiled from 32-bit x86 Windows to native ARM64 macOS: Remill → LLVM IR, a hand-written Win32 runtime, Direct3D 11 drawn by Metal. No Wine, no game files.",
+   "lang": "C++",
+   "stars": 205,
+   "forks": 12,
+   "growth": 22.8,
+   "hn_points": 146,
+   "hn_comments": 64,
+   "hn_url": "https://news.ycombinator.com/item?id=50449891",
+   "topics": [
+    "apple-silicon",
+    "black-ops-2",
+    "call-of-duty",
+    "llvm",
+    "macos",
+    "metal"
+   ],
+   "created": "2026-11-03",
+   "pushed": "2026-11-11",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 11.893,
+   "first_seen": "2026-11-12",
+   "downloads": 179,
+   "score": 75.8
+  },
+  {
+   "full": "popvax/yash",
+   "url": "https://github.com/popvax/yash",
+   "desc": "A personalized mRNA cancer vaccine for Yash, made at the RNA Foundry",
+   "lang": "Python",
+   "stars": 61,
+   "forks": 6,
+   "growth": 61.0,
+   "hn_points": 82,
+   "hn_comments": 15,
+   "hn_url": "https://news.ycombinator.com/item?id=50457083",
+   "topics": [],
+   "created": "2026-11-11",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "https://rnafoundry.com/yash/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 11.364,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 72.5
+  },
+  {
+   "full": "GoogleChrome/modern-web-guidance",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "desc": "Keep your coding agent up to date with the latest web best practices",
+   "lang": "",
+   "stars": 5942,
+   "forks": 196,
+   "growth": 0.0,
+   "hn_points": 430,
+   "hn_comments": 142,
+   "hn_url": "https://news.ycombinator.com/item?id=50443812",
+   "topics": [],
+   "created": "2026-03-23",
+   "pushed": "2026-11-10",
+   "license": "Apache-2.0",
+   "homepage": "https://goo.gle/modern-web-guidance",
+   "src": [
+    "hn"
+   ],
+   "buzz": 11.002,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 70.1
+  },
+  {
+   "full": "klad-app/klad",
+   "url": "https://github.com/klad-app/klad",
+   "desc": "A drawing app built for agent/human collaboration",
+   "lang": "Rust",
+   "stars": 150,
+   "forks": 10,
+   "growth": 18.8,
+   "hn_points": 79,
+   "hn_comments": 31,
+   "hn_url": "https://news.ycombinator.com/item?id=50454951",
+   "topics": [],
+   "created": "2026-11-04",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "https://klad.studio",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 10.631,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 67.8
+  },
+  {
+   "full": "gmkurtzer/ginux",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "desc": "",
+   "lang": "Rust",
+   "stars": 597,
+   "forks": 65,
+   "growth": 0.0,
+   "hn_points": 119,
+   "hn_comments": 81,
+   "hn_url": "https://news.ycombinator.com/item?id=50450007",
+   "topics": [],
+   "created": "2026-10-11",
+   "pushed": "2026-11-12",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.786,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 56.0
+  },
+  {
+   "full": "tylertms/Stela",
+   "url": "https://github.com/tylertms/Stela",
+   "desc": "A general purpose Apple Silicon layer for x86-64 PCs",
+   "lang": "Rust",
+   "stars": 1096,
+   "forks": 45,
+   "growth": 0.0,
+   "hn_points": 116,
+   "hn_comments": 46,
+   "hn_url": "https://news.ycombinator.com/item?id=50460154",
+   "topics": [],
+   "created": "2026-10-12",
+   "pushed": "2026-11-12",
+   "license": "GPL-2.0",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.655,
+   "first_seen": "2026-11-12",
+   "downloads": 1136,
+   "score": 55.2
+  },
+  {
+   "full": "openai/codex-security",
+   "url": "https://github.com/openai/codex-security",
+   "desc": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+   "lang": "TypeScript",
+   "stars": 12078,
+   "forks": 956,
+   "growth": 663.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-security",
+    "application-security",
+    "cli",
+    "code-scanning",
+    "codex",
+    "codex-security"
+   ],
+   "created": "2026-07-13",
+   "pushed": "2026-11-12",
+   "license": "Apache-2.0",
+   "homepage": "https://developers.openai.com/codex/security",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.378,
+   "first_seen": "2026-11-12",
+   "downloads": 735,
+   "score": 53.4
+  },
+  {
+   "full": "GoogleChrome/modern-web-guidance-src",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+   "desc": "",
+   "lang": "TypeScript",
+   "stars": 2236,
+   "forks": 160,
+   "growth": 799.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-01-27",
+   "pushed": "2026-11-12",
+   "license": "Apache-2.0",
+   "homepage": "https://goo.gle/modern-web-guidance",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.227,
+   "first_seen": "2026-11-12",
+   "downloads": 83,
+   "score": 52.5
+  },
+  {
+   "full": "HybridRobotics/supermimic",
+   "url": "https://github.com/HybridRobotics/supermimic",
+   "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+   "lang": "Python",
+   "stars": 1240,
+   "forks": 82,
+   "growth": 620.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-10",
+   "pushed": "2026-11-11",
+   "license": "Apache-2.0",
+   "homepage": "https://supermimic.github.io",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.856,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 50.1
+  },
+  {
+   "full": "0xdeadf1sh/AssemblyForNeovim",
+   "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+   "desc": "Small lua script that shows inline assembly in neovim (x64, aarch64) for C, C++, and Rust.",
+   "lang": "Lua",
+   "stars": 197,
+   "forks": 9,
+   "growth": 0.0,
+   "hn_points": 102,
+   "hn_comments": 18,
+   "hn_url": "https://news.ycombinator.com/item?id=50453229",
+   "topics": [],
+   "created": "2026-10-09",
+   "pushed": "2026-11-12",
+   "license": "Unlicense",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.797,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 49.7
+  },
+  {
+   "full": "ggml-org/llama.cpp",
+   "url": "https://github.com/ggml-org/llama.cpp",
+   "desc": "LLM inference in C/C++",
+   "lang": "C++",
+   "stars": 134251,
+   "forks": 25471,
+   "growth": 162.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ggml"
+   ],
+   "created": "2023-03-10",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "https://llama.app",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.455,
+   "first_seen": "2026-11-12",
+   "downloads": 25139,
+   "score": 47.5
+  },
+  {
+   "full": "pookjw/HermesEnabler",
+   "url": "https://github.com/pookjw/HermesEnabler",
+   "desc": "Enable Hermès Watch Faces on any Apple Watch devices",
+   "lang": "Objective-C",
+   "stars": 1341,
+   "forks": 127,
+   "growth": 390.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2024-12-14",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.409,
+   "first_seen": "2026-11-12",
+   "downloads": 13059,
+   "score": 47.2
+  },
+  {
+   "full": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
+   "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+   "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+   "lang": "HTML",
+   "stars": 1207,
+   "forks": 0,
+   "growth": 363.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.316,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 46.6
+  },
+  {
+   "full": "flgomes/dxo-photolab-10-desktop",
+   "url": "https://github.com/flgomes/dxo-photolab-10-desktop",
+   "desc": "DxO PhotoLab 10 desktop build for professional photo processing workflows",
+   "lang": "HTML",
+   "stars": 1132,
+   "forks": 0,
+   "growth": 326.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "digital-photography",
+    "dxo-photolab-coupon",
+    "dxo-photolab-discount-code"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.196,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 45.9
+  },
+  {
+   "full": "RolandoV3/metatrader-5-bot",
+   "url": "https://github.com/RolandoV3/metatrader-5-bot",
+   "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+   "lang": "TypeScript",
+   "stars": 1107,
+   "forks": 0,
+   "growth": 313.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "background-process",
+    "developer-tools",
+    "metatrader5-no-gui",
+    "mt5-api",
+    "mt5-bot"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.151,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 45.6
+  },
+  {
+   "full": "SnehalSukale27/power-director",
+   "url": "https://github.com/SnehalSukale27/power-director",
+   "desc": "Power Director: Standalone Desktop Video Editing Suite with Complete Installer",
+   "lang": "HTML",
+   "stars": 1103,
+   "forks": 0,
+   "growth": 311.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "cyber-link",
+    "cyberlink-powerdirector",
+    "cyberlink-powerdirector-2026",
+    "cyberlink-powerdirector-install-setup-2026",
+    "cyberlink-powerdvd-ultra-dvd-support"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.146,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 45.6
+  },
+  {
+   "full": "muddinenilakshmilalithaksh-create/sp-flash-tool",
+   "url": "https://github.com/muddinenilakshmilalithaksh-create/sp-flash-tool",
+   "desc": "SP-Flash-Tool: Standalone Firmware Flashing Suite with Drivers and Utilities",
+   "lang": "HTML",
+   "stars": 1103,
+   "forks": 0,
+   "growth": 311.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "mediatek-2026",
+    "mediatek-flash",
+    "mediatek-flash-2026"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.146,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 45.6
+  },
+  {
+   "full": "ethangangasingh-crypto/musicmakerunlimited",
+   "url": "https://github.com/ethangangasingh-crypto/musicmakerunlimited",
+   "desc": "Musicmakerunlimited 2026: Full-Feature Desktop Installer with Complete Toolset",
+   "lang": "TypeScript",
+   "stars": 1103,
+   "forks": 0,
+   "growth": 311.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "beat-creator",
+    "beginner-daw",
+    "desktop",
+    "developer-tools",
+    "loop-music-maker"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.146,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 45.6
+  },
+  {
+   "full": "openai/whisper",
+   "url": "https://github.com/openai/whisper",
+   "desc": "Robust Speech Recognition via Large-Scale Weak Supervision",
+   "lang": "Python",
+   "stars": 112553,
+   "forks": 13646,
+   "growth": 118.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2022-09-16",
+   "pushed": "2026-08-31",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.105,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 45.3
+  },
+  {
+   "full": "NapNeko/NapCatQQ",
+   "url": "https://github.com/NapNeko/NapCatQQ",
+   "desc": "Modern protocol-side framework",
+   "lang": "",
+   "stars": 12746,
+   "forks": 1851,
+   "growth": 129.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "napcat",
+    "ncqq",
+    "onebot",
+    "onebot11"
+   ],
+   "created": "2024-03-26",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.758,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 43.1
+  },
+  {
+   "full": "hembramneeraj3-create/aida-64-extreme",
+   "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+   "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+   "lang": "HTML",
+   "stars": 1207,
+   "forks": 0,
+   "growth": 201.2,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "aida64",
+    "aida64-extreme-compatibility-check",
+    "aida64-extreme-detailed-reporting",
+    "aida64-extreme-hardware-diagnostics",
+    "aida64-extreme-setup",
+    "aida64-extreme-system-information"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.728,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 42.9
+  },
+  {
+   "full": "AleRibeiro44/archicad-desktop-setup",
+   "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
+   "desc": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+   "lang": "HTML",
+   "stars": 1204,
+   "forks": 0,
+   "growth": 200.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "archicad",
+    "archicad-2026",
+    "archicad-download",
+    "automation",
+    "desktop",
+    "developer-tools"
+   ],
+   "created": "2026-11-06",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.725,
+   "first_seen": "2026-11-12",
+   "downloads": 0,
+   "score": 42.9
+  },
   {
    "full": "expo/exact",
    "url": "https://github.com/expo/exact",
@@ -26,7 +722,8 @@
    "buzz": 14.428,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "thisisme6598/gemini_files",
@@ -51,7 +748,8 @@
    "buzz": 13.663,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 94.7
+   "score": 94.7,
+   "old": true
   },
   {
    "full": "Dodaios/ste80-humanizer",
@@ -83,7 +781,8 @@
    "buzz": 13.403,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 92.9
+   "score": 92.9,
+   "old": true
   },
   {
    "full": "datareceipts/data-receipts",
@@ -108,7 +807,8 @@
    "buzz": 9.338,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 64.7
+   "score": 64.7,
+   "old": true
   },
   {
    "full": "addyosmani/agent-skills",
@@ -139,7 +839,8 @@
    "buzz": 8.474,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 58.7
+   "score": 58.7,
+   "old": true
   },
   {
    "full": "homeassistant-ai/ha-mcp",
@@ -170,7 +871,8 @@
    "buzz": 8.427,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 58.4
+   "score": 58.4,
+   "old": true
   },
   {
    "full": "ikey4u/zebkit",
@@ -194,7 +896,8 @@
    "buzz": 8.3,
    "first_seen": "2026-11-10",
    "downloads": 76,
-   "score": 57.5
+   "score": 57.5,
+   "old": true
   },
   {
    "full": "sshah03/recalc",
@@ -226,7 +929,8 @@
    "buzz": 8.024,
    "first_seen": "2026-11-10",
    "downloads": 85,
-   "score": 55.6
+   "score": 55.6,
+   "old": true
   },
   {
    "full": "Kianuni/Erosion-CN",
@@ -250,7 +954,8 @@
    "buzz": 7.814,
    "first_seen": "2026-11-10",
    "downloads": 1987,
-   "score": 54.2
+   "score": 54.2,
+   "old": true
   },
   {
    "full": "Imbad0202/academic-research-skills",
@@ -281,7 +986,8 @@
    "buzz": 7.681,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 53.2
+   "score": 53.2,
+   "old": true
   },
   {
    "full": "samir-sarwar/samir-vllm",
@@ -305,7 +1011,8 @@
    "buzz": 7.317,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 50.7
+   "score": 50.7,
+   "old": true
   },
   {
    "full": "yappologistic/CUI",
@@ -336,7 +1043,8 @@
    "buzz": 7.11,
    "first_seen": "2026-11-10",
    "downloads": 185,
-   "score": 49.3
+   "score": 49.3,
+   "old": true
   },
   {
    "full": "we-promise/sure",
@@ -360,7 +1068,8 @@
    "buzz": 7.089,
    "first_seen": "2026-11-10",
    "downloads": 20847,
-   "score": 49.1
+   "score": 49.1,
+   "old": true
   },
   {
    "full": "tokio-rs/topcoat",
@@ -384,7 +1093,8 @@
    "buzz": 7.021,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 48.7
+   "score": 48.7,
+   "old": true
   },
   {
    "full": "fosrl/pangolin",
@@ -415,7 +1125,8 @@
    "buzz": 6.85,
    "first_seen": "2026-11-10",
    "downloads": 7380,
-   "score": 47.5
+   "score": 47.5,
+   "old": true
   },
   {
    "full": "ashishpatel26/500-AI-Agents-Projects",
@@ -442,7 +1153,8 @@
    "buzz": 6.845,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 47.4
+   "score": 47.4,
+   "old": true
   },
   {
    "full": "WhiteTowerAI/ohmygame",
@@ -473,7 +1185,8 @@
    "buzz": 6.827,
    "first_seen": "2026-11-10",
    "downloads": 1459,
-   "score": 47.3
+   "score": 47.3,
+   "old": true
   },
   {
    "full": "JosssphZhou/poki",
@@ -504,7 +1217,8 @@
    "buzz": 6.77,
    "first_seen": "2026-11-10",
    "downloads": 2563,
-   "score": 46.9
+   "score": 46.9,
+   "old": true
   },
   {
    "full": "dabingfy-dot/solo-to-team-skills",
@@ -534,7 +1248,8 @@
    "buzz": 6.326,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 43.8
+   "score": 43.8,
+   "old": true
   },
   {
    "full": "Dokploy/dokploy",
@@ -563,7 +1278,8 @@
    "buzz": 6.238,
    "first_seen": "2026-11-10",
    "downloads": 5265,
-   "score": 43.2
+   "score": 43.2,
+   "old": true
   },
   {
    "full": "mantrakp04/ardia",
@@ -587,7 +1303,8 @@
    "buzz": 6.231,
    "first_seen": "2026-11-10",
    "downloads": 5376,
-   "score": 43.2
+   "score": 43.2,
+   "old": true
   },
   {
    "full": "elder-plinius/OBLITERATUS",
@@ -611,7 +1328,8 @@
    "buzz": 6.174,
    "first_seen": "2026-11-10",
    "downloads": 1035,
-   "score": 42.8
+   "score": 42.8,
+   "old": true
   },
   {
    "full": "sassiestrhihno/boxshelf-beta",
@@ -642,7 +1360,8 @@
    "buzz": 6.041,
    "first_seen": "2026-11-10",
    "downloads": 6010,
-   "score": 41.9
+   "score": 41.9,
+   "old": true
   },
   {
    "full": "AbhramJohn/instagram-engagement-bot",
@@ -673,7 +1392,8 @@
    "buzz": 6.036,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 41.8
+   "score": 41.8,
+   "old": true
   },
   {
    "full": "mahmoudtawfik1998/secure-pdf-document-processor",
@@ -704,7 +1424,8 @@
    "buzz": 6.033,
    "first_seen": "2026-11-10",
    "downloads": 0,
-   "score": 41.8
+   "score": 41.8,
+   "old": true
   },
   {
    "full": "synchopate/llama-modchip",
@@ -1427,1642 +2148,6 @@
    "first_seen": "2026-11-09",
    "downloads": 1264,
    "score": 44.2,
-   "old": true
-  },
-  {
-   "full": "RikkaApps/Shizuku",
-   "url": "https://github.com/RikkaApps/Shizuku",
-   "desc": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
-   "lang": "Kotlin",
-   "stars": 33123,
-   "forks": 3591,
-   "growth": 108.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2017-05-24",
-   "pushed": "2025-06-18",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.773,
-   "first_seen": "2026-11-08",
-   "downloads": 5067612,
-   "ai": {
-    "cim": "Emelt szintű Android jogosultságkezelő keretrendszer",
-    "mit_csinal": "Lehetővé teszi, hogy Android alkalmazások rendszergazdai vagy ADB jogosultságokat használjanak anélkül, hogy a készüléket rootolni kellene. Egy háttérben futó kiszolgálófolyamatot biztosít, amelyen keresztül a programok közvetlenül meghívhatják a védett rendszer API-kat. Nagyon elterjedt és megbízható megoldás a fejlett Androidos segédprogramok világában.",
-    "mire_jo": "Közvetlenül beépítheted a saját Android alkalmazásaidba, ha emelt szintű rendszerfunkciókat szeretnél megvalósítani kényelmesen, rootolás nélkül.",
-    "kategoria": "Android",
-    "telefonrol": "igen",
-    "egyezes": 95,
-    "miert": "Android fejlesztőként az egyik leghasznosabb könyvtár és eszköz a telefonos emelt szintű funkciók kényelmes megvalósításához."
-   },
-   "score": 79.9,
-   "old": true
-  },
-  {
-   "full": "Video-Rebirth/hyperflow-h3-flash",
-   "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-   "desc": "HyperFlow H3 Flash: Video Rebirth's 13.7B, 4- to 8-step compressed MiniMax-H3 for joint video and audio generation (INT8 and GGUF)",
-   "lang": "Python",
-   "stars": 115,
-   "forks": 3,
-   "growth": 57.5,
-   "hn_points": 67,
-   "hn_comments": 13,
-   "hn_url": "https://news.ycombinator.com/item?id=50405263",
-   "topics": [
-    "audio-generation",
-    "diffusers",
-    "few-step",
-    "gguf",
-    "int8",
-    "minimax-h3"
-   ],
-   "created": "2026-11-06",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 11.139,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "Gyors AI videó- és hanggeneráló",
-    "mit_csinal": "Szövegből vagy képekből néhány lépésben generál rövid videókat és hozzájuk illő hangot. A modellt erősen tömörítették, így a korábbiaknál jóval kevesebb számítási kapacitást igényel. Támogatja a ComfyUI és GGUF formátumokat is a helyi futtatáshoz.",
-    "mire_jo": "AI videók és hanganyagok helyi generálására használhatod PC-n, ha van hozzá erős videokártyád.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 68,
-    "miert": "Érdekes AI-modell és kísérletezési alap, de komoly asztali hardvert igényel, mobilról nem futtatható."
-   },
-   "score": 78.5,
-   "old": true
-  },
-  {
-   "full": "sarpstar/cinecode",
-   "url": "https://github.com/sarpstar/cinecode",
-   "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-   "lang": "Python",
-   "stars": 1218,
-   "forks": 224,
-   "growth": 704.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-03",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.979,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "AI videókészítő kódgeneráló ügynök",
-    "mit_csinal": "Egy mesterséges intelligencia ügynök, amely egyetlen ötletből teljes videókat hoz létre. Kitalálja a forgatókönyvet, kódból megrajzolja és animálja a képkockákat a böngészőben, megszerkeszti a hangot, majd kész videófájlt készít. Fejlesztői AI-környezetekkel, például Cursorral vagy Claude Code-dal működik együtt.",
-    "mire_jo": "Beépítheted az automatizált videókészítést vagy bemutatóvideók gyártását saját projektjeidbe és munkafolyamataidba.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 85,
-    "miert": "Közvetlenül illeszkedik az AI-ügynökök és gyakorlati automatizációs eszközök iránti érdeklődésedhez."
-   },
-   "score": 78.0,
-   "old": true
-  },
-  {
-   "full": "samolego/Canta",
-   "url": "https://github.com/samolego/Canta",
-   "desc": "Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!",
-   "lang": "Kotlin",
-   "stars": 6785,
-   "forks": 162,
-   "growth": 143.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "app-manager",
-    "debloater",
-    "no-root",
-    "shizuku"
-   ],
-   "created": "2023-08-29",
-   "pushed": "2026-11-08",
-   "license": "LGPL-3.0",
-   "homepage": "https://samolego.github.io/Canta/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.734,
-   "first_seen": "2026-11-08",
-   "downloads": 601099,
-   "ai": {
-    "cim": "Root nélküli Android bloatware-eltávolító",
-    "mit_csinal": "Segítségével véglegesen eltávolíthatók vagy kikapcsolhatók a telefonra gyárilag előtelepített, felesleges alkalmazások root hozzáférés nélkül. A háttérben a Shizuku API-ját használja a szükséges engedélyekhez, így közvetlenül a telefonról vezérelhető. Egy beépített közösségi lista alapján megmutatja, melyik alkalmazást biztonságos törölni anélkül, hogy a rendszer összeomlana.",
-    "mire_jo": "Hasznos a saját telefonod megtisztítására, illetve remek nyílt forráskódú mintaként szolgál Shizukut használó Kotlin Android appok fejlesztéséhez.",
-    "kategoria": "Android",
-    "telefonrol": "igen",
-    "egyezes": 90,
-    "miert": "Egy hasznos hétköznapi Android app, amely kiváló mintaprojekt a Shizuku gyakorlati alkalmazására."
-   },
-   "score": 76.8,
-   "old": true
-  },
-  {
-   "full": "shanselman/gputaskman",
-   "url": "https://github.com/shanselman/gputaskman",
-   "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-   "lang": "Python",
-   "stars": 621,
-   "forks": 31,
-   "growth": 124.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-03",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.117,
-   "first_seen": "2026-11-08",
-   "downloads": 3705,
-   "ai": {
-    "cim": "GPU feladatkezelő helyi AI modellekhez",
-    "mit_csinal": "Egy terminálban futó feladatkezelő, amely részletesen megmutatja a videokártya memóriahasználatát és terheltségét. Nem csupán az általános telítettséget jelzi, hanem beazonosítja a futó nyelvi modelleket és a memóriapuffereket is. Segít pontosan megérteni, hogy melyik folyamat mennyi VRAM-ot emészt fel.",
-    "mire_jo": "Helyi AI-modellek, képfelismerők vagy gépi tanulási feladatok futtatásakor pontosan láthatod vele a GPU memóriahasználatát.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 85,
-    "miert": "Kiváló diagnosztikai eszköz a számítógépen végzett helyi AI- és modellfejlesztésekhez."
-   },
-   "score": 71.7,
-   "old": true
-  },
-  {
-   "full": "dmunozv04/iSponsorBlockTV",
-   "url": "https://github.com/dmunozv04/iSponsorBlockTV",
-   "desc": "SponsorBlock client for all YouTube TV clients.",
-   "lang": "Python",
-   "stars": 6782,
-   "forks": 294,
-   "growth": 0.0,
-   "hn_points": 47,
-   "hn_comments": 10,
-   "hn_url": "https://news.ycombinator.com/item?id=50410249",
-   "topics": [
-    "androidtv",
-    "appletv",
-    "chromecast",
-    "python",
-    "roku",
-    "samsungtv"
-   ],
-   "created": "2022-01-15",
-   "pushed": "2026-11-02",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.369,
-   "first_seen": "2026-11-08",
-   "downloads": 11899,
-   "ai": {
-    "cim": "Okostévés YouTube szponzor- és reklámblokkoló",
-    "mit_csinal": "Ez a program a helyi hálózaton keresztül kapcsolódik az okostévéd YouTube alkalmazásához, és automatikusan átugorja a videókba épített szponzori blokkokat. A népszerű SponsorBlock közösségi adatbázis adataira támaszkodik, és a videó alatti átugorható reklámokat is képes némítani vagy átlépni. Nem kell semmit telepíteni magára a TV-re, mert külső vezérléssel működik.",
-    "mire_jo": "Otthoni szerverről vagy gépről futtatva kényelmesebbé teheted a családi tévézést Android TV-n vagy más okostévén.",
-    "kategoria": "eszköz",
-    "telefonrol": "részben",
-    "egyezes": 75,
-    "miert": "Egy nagyon praktikus hétköznapi alkalmazás, amely kiválóan illik az Android TV-s és okosotthonos környezetbe."
-   },
-   "score": 70.0,
-   "old": true
-  },
-  {
-   "full": "spotDL/spotify-downloader",
-   "url": "https://github.com/spotDL/spotify-downloader",
-   "desc": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
-   "lang": "Python",
-   "stars": 26745,
-   "forks": 2314,
-   "growth": 59.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "download-music",
-    "hacktoberfest",
-    "mp3",
-    "music",
-    "playlists",
-    "python"
-   ],
-   "created": "2016-07-06",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "https://spotdl.readthedocs.io/en/latest/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.133,
-   "first_seen": "2026-11-08",
-   "downloads": 291192,
-   "ai": {
-    "cim": "Zeneletöltő Spotify lejátszási listákhoz",
-    "mit_csinal": "Megkeresi a megadott Spotify dalokat vagy lejátszási listákat a YouTube-on, és letölti őket hangfájlként. A letöltött zenékhez automatikusan hozzárendeli a borítóképet, a metaadatokat és a dalszöveget is. Könnyen használható parancssorból, és különösebb beállítás nélkül azonnal működik.",
-    "mire_jo": "Kedvenc zenéid offline mentésére vagy Termux segítségével telefonról vezérelt zeneletöltő automatizmusok építésére alkalmas.",
-    "kategoria": "eszköz",
-    "telefonrol": "igen",
-    "egyezes": 78,
-    "miert": "Nagyon hasznos hétköznapi alkalmazás, amely Termuxon keresztül közvetlenül telefonon is kiválóan használható."
-   },
-   "score": 67.6,
-   "old": true
-  },
-  {
-   "full": "tiann/KernelSU",
-   "url": "https://github.com/tiann/KernelSU",
-   "desc": "A Kernel based root solution for Android",
-   "lang": "Kotlin",
-   "stars": 20291,
-   "forks": 4957,
-   "growth": 73.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "kernel",
-    "kernelsu",
-    "root",
-    "su"
-   ],
-   "created": "2022-12-09",
-   "pushed": "2026-11-07",
-   "license": "GPL-3.0",
-   "homepage": "https://kernelsu.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.288,
-   "first_seen": "2026-11-08",
-   "downloads": 2832066,
-   "ai": {
-    "cim": "Kernel-szintű root megoldás Androidra",
-    "mit_csinal": "Egy modern jogosultságkezelő megoldás, amely közvetlenül az Android Linux-kernelében működik. Lehetővé teszi a rendszer mélyreható testreszabását modulokon keresztül úgy, hogy a rendszermag érintetlen marad. Alkalmazásprofilokkal pontosan korlátozható, hogy melyik app kaphat rendszergazdai hozzáférést.",
-    "mire_jo": "Mélyszintű androidos tesztkörnyezet építésére vagy egyedi rendszermódosító modulok készítésére használhatod.",
-    "kategoria": "Android",
-    "telefonrol": "részben",
-    "egyezes": 75,
-    "miert": "Androidos fejlesztőként érdekes mélyrendszeri technológia, bár speciális kernelt és telepítési lépéseket igényel."
-   },
-   "score": 66.3,
-   "old": true
-  },
-  {
-   "full": "libracoder/kiri",
-   "url": "https://github.com/libracoder/kiri",
-   "desc": "A small, fast container runtime for macOS, Windows and Linux",
-   "lang": "Rust",
-   "stars": 1025,
-   "forks": 65,
-   "growth": 411.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-02",
-   "pushed": "2026-11-08",
-   "license": "Apache-2.0",
-   "homepage": "https://runkiri.com",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.408,
-   "first_seen": "2026-11-08",
-   "downloads": 552,
-   "ai": {
-    "cim": "Ultrakönnyű és gyors konténerfuttató rendszer",
-    "mit_csinal": "A Docker Desktop egy rendkívül gyors és pehelykönnyű alternatívája számítógépekre, amelyet Rust nyelven írtak. Szinte azonnal elindul, minimális memóriát fogyaszt, miközben teljesen együttműködik a meglévő Docker és Compose parancsokkal. Emellett beépített, egy parancsos Kubernetes támogatást is nyújt a helyi teszteléshez.",
-    "mire_jo": "A számítógépes fejlesztéseid során leválthatod vele a nehézkes Docker Desktopot a háttérszolgáltatások gyors és energiatakarékos futtatására.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 65,
-    "miert": "Kifejezetten hasznos mindennapi fejlesztői eszköz PC-re, de közvetlenül nem kapcsolódik az AI-hoz vagy az Androidhoz."
-   },
-   "score": 64.1,
-   "old": true
-  },
-  {
-   "full": "henrygd/beszel",
-   "url": "https://github.com/henrygd/beszel",
-   "desc": "Lightweight server monitoring with historical data, docker stats, and alerts.",
-   "lang": "Go",
-   "stars": 26965,
-   "forks": 1153,
-   "growth": 80.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "homelab",
-    "monitoring",
-    "self-hosted"
-   ],
-   "created": "2024-07-07",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "https://beszel.dev",
-   "src": [],
-   "buzz": 6.435,
-   "first_seen": "2026-11-08",
-   "downloads": 1464277,
-   "ai": {
-    "cim": "Könnyűszerkezetes szerver- és konténermonitorozó eszköz",
-    "mit_csinal": "Egy pehelysúlyú felügyeleti eszköz, amely folyamatosan figyeli a szerverek és Docker konténerek erőforrás-használatát. Áttekinthető webes felületen mutatja a processzor, a memória és a hálózat állapotát, ráadásul hiba esetén riasztásokat küld. Minimális erőforrást fogyaszt, és percek alatt üzembe helyezhető.",
-    "mire_jo": "Saját fejlesztői szervereid, házi rendszereid és konténereid működését ellenőrizheted vele kényelmesen a böngésződből.",
-    "kategoria": "eszköz",
-    "telefonrol": "részben",
-    "egyezes": 65,
-    "miert": "Praktikus hétköznapi infrastruktúra-eszköz, bár nem közvetlenül AI vagy Android fókuszú."
-   },
-   "score": 60.8,
-   "old": true
-  },
-  {
-   "full": "egoist/mygo-music",
-   "url": "https://github.com/egoist/mygo-music",
-   "desc": "A native music player you extend with plugins",
-   "lang": "Go",
-   "stars": 894,
-   "forks": 142,
-   "growth": 369.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-04",
-   "pushed": "2026-11-08",
-   "license": "AGPL-3.0",
-   "homepage": "music.egoist.dev",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.273,
-   "first_seen": "2026-11-08",
-   "downloads": 21175,
-   "ai": {
-    "cim": "Bővíthető asztali zenelejátszó Go nyelven",
-    "mit_csinal": "Egy letisztult asztali zenelejátszó, amely közvetlenül a gépen lévő zenei fájlokat játssza le. Nem használ beágyazott böngészőt, és a funkciói egyszerű JavaScript bővítményekkel tetszőlegesen kiegészíthetők. Különlegessége, hogy helyi beszédfelismerő modellel képes feliratozni a lejátszott podcastokat.",
-    "mire_jo": "Saját fejlesztésű asztali eszközeidhez meríthetsz belőle ötletet, vagy tanulmányozhatod a helyi AI modellek és a bővítményrendszerek Go-alapú integrálását.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 60,
-    "miert": "Tartalmaz helyi AI beszédfelismerést, de alapvetően egy asztali zenelejátszó, ami kevésbé illik az Android-fókuszhoz."
-   },
-   "score": 60.6,
-   "old": true
-  },
-  {
-   "full": "mbillow/localthings",
-   "url": "https://github.com/mbillow/localthings",
-   "desc": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-   "lang": "Python",
-   "stars": 1129,
-   "forks": 115,
-   "growth": 203.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "coap-protocol",
-    "coap-server",
-    "custom-component",
-    "dtls",
-    "hacs",
-    "hacs-integration"
-   ],
-   "created": "2026-06-30",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.724,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "score": 56.9,
-   "old": true
-  },
-  {
-   "full": "CzJam/gjgjxweb",
-   "url": "https://github.com/CzJam/gjgjxweb",
-   "desc": "《搞机工具箱》Web移植版",
-   "lang": "HTML",
-   "stars": 1002,
-   "forks": 89,
-   "growth": 200.4,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-03",
-   "pushed": "2026-11-07",
-   "license": "GPL-3.0",
-   "homepage": "https://czjam.github.io/gjgjxweb/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.687,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "score": 56.6,
-   "old": true
-  },
-  {
-   "full": "crmne/zapfast",
-   "url": "https://github.com/crmne/zapfast",
-   "desc": "ZapFast: a fast, native WhatsApp client in Rust and egui",
-   "lang": "Rust",
-   "stars": 3509,
-   "forks": 351,
-   "growth": 0.0,
-   "hn_points": 81,
-   "hn_comments": 55,
-   "hn_url": "https://news.ycombinator.com/item?id=50409855",
-   "topics": [
-    "chat",
-    "desktop-app",
-    "egui",
-    "linux",
-    "macos",
-    "messaging"
-   ],
-   "created": "2026-08-29",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "https://zapfast.rocks/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 8.531,
-   "first_seen": "2026-11-08",
-   "downloads": 242545,
-   "ai": {
-    "cim": "Gyors asztali WhatsApp kliens",
-    "mit_csinal": "Ez egy könnyűsúlyú és natív WhatsApp kliens asztali gépekre, amely Rust nyelven készült. Nem használ nehéz böngészőmotort, így jóval kevesebb memóriát fogyaszt, mint a webes felület. Biztonságosan kapcsolódik a telefonodhoz meglévő fiókod tükrözésével.",
-    "mire_jo": "Asztali munkához kiváló és gyors csevegőeszköz, valamint jó példa modern Rust asztali grafikus felület készítésére.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 45,
-    "miert": "Hasznos hétköznapi kliens PC-re, de nem ad közvetlen mobil- vagy AI-beépítési lehetőséget."
-   },
-   "score": 55.9,
-   "old": true
-  },
-  {
-   "full": "anteloc/ldraw-mecha",
-   "url": "https://github.com/anteloc/ldraw-mecha",
-   "desc": "Agent tooling for generative LEGO mechanisms animations in Blender",
-   "lang": "Python",
-   "stars": 20,
-   "forks": 1,
-   "growth": 3.0,
-   "hn_points": 31,
-   "hn_comments": 2,
-   "hn_url": "https://news.ycombinator.com/item?id=50397325",
-   "topics": [
-    "ai-3d-model-generator",
-    "ai-agents",
-    "ai-cad",
-    "blender",
-    "blender-animations",
-    "blender-python"
-   ],
-   "created": "2026-10-03",
-   "pushed": "2026-11-07",
-   "license": "AGPL-3.0",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 6.594,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "score": 55.8,
-   "old": true
-  },
-  {
-   "full": "termux/termux-app",
-   "url": "https://github.com/termux/termux-app",
-   "desc": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-   "lang": "Java",
-   "stars": 64384,
-   "forks": 8237,
-   "growth": 70.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "hacktoberfest",
-    "linux",
-    "terminal",
-    "termux"
-   ],
-   "created": "2015-10-23",
-   "pushed": "2026-11-05",
-   "license": "",
-   "homepage": "https://f-droid.org/en/packages/com.termux",
-   "src": [],
-   "buzz": 6.477,
-   "first_seen": "2026-11-08",
-   "downloads": 11141046,
-   "score": 54.9,
-   "old": true
-  },
-  {
-   "full": "AAswordman/Operit",
-   "url": "https://github.com/AAswordman/Operit",
-   "desc": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
-   "lang": "Kotlin",
-   "stars": 9447,
-   "forks": 822,
-   "growth": 99.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "ai",
-    "android",
-    "compose",
-    "kotlin",
-    "llama"
-   ],
-   "created": "2025-03-15",
-   "pushed": "2026-11-07",
-   "license": "LGPL-3.0",
-   "homepage": "https://operit.app",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.436,
-   "first_seen": "2026-11-08",
-   "downloads": 2435532,
-   "score": 54.5,
-   "old": true
-  },
-  {
-   "full": "hedgerow-dev/coldframe",
-   "url": "https://github.com/hedgerow-dev/coldframe",
-   "desc": "Low-interaction honeypot for supermarket refrigeration controllers (Danfoss AK-SM 800A, Dixell XWEB 500)",
-   "lang": "Python",
-   "stars": 46,
-   "forks": 0,
-   "growth": 15.3,
-   "hn_points": 245,
-   "hn_comments": 59,
-   "hn_url": "https://news.ycombinator.com/item?id=50406292",
-   "topics": [
-    "honeypot",
-    "ics-security",
-    "modbus",
-    "threat-intelligence"
-   ],
-   "created": "2026-11-05",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 11.807,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "Szupermarketi hűtőrendszer honeypot",
-    "mit_csinal": "Ez a program ipari szupermarketi hűtésvezérlő rendszereknek álcázza magát az interneten. Kiszűri és naplózza a behatolók jelszópróbálkozásait és támadásait anélkül, hogy valós hozzáférést adna nekik. Minimális erőforrásigényű, külső függőségek nélküli Python-szkript.",
-    "mire_jo": "Biztonsági tesztekhez vagy saját szervereden kiberbiztonsági megfigyelésre és támadásvizsgálatra használhatod.",
-    "kategoria": "biztonság",
-    "telefonrol": "nem",
-    "egyezes": 15,
-    "miert": "Specifikus ipari hálózati honeypot, ami távol áll az AI, Android vagy kamerás alkalmazási érdeklődéseidtől."
-   },
-   "score": 49.0,
-   "old": true
-  },
-  {
-   "full": "Leviidev/Henge",
-   "url": "https://github.com/Leviidev/Henge",
-   "desc": "Emulate macOS on iOS and iPadOS",
-   "lang": "C",
-   "stars": 907,
-   "forks": 73,
-   "growth": 369.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-02",
-   "pushed": "2026-11-08",
-   "license": "GPL-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.276,
-   "first_seen": "2026-11-08",
-   "downloads": 4800,
-   "ai": {
-    "cim": "macOS emulátor iOS eszközökre",
-    "mit_csinal": "Lehetővé teszi a macOS rendszer közvetlen futtatását iPhone és iPad készülékeken egy egyedi fejlesztésű emulátor segítségével. A telepítés közvetlenül az eszközön zajlik le a hivatalos Apple rendszerfájlokból, így nincs szükség asztali gépre a folyamathoz. Támogatja a külső kijelzőket, valamint a billentyűzet és egér csatlakoztatását is.",
-    "mire_jo": "Ha rendelkezel modernebb iOS-eszközzel, kipróbálhatod rajta a hordozható asztali macOS munkakörnyezetet.",
-    "kategoria": "eszköz",
-    "telefonrol": "igen",
-    "egyezes": 40,
-    "miert": "Bár lenyűgöző mobilos mérnöki teljesítmény, kizárólag iOS platformra készült, miközben te Androidra fejlesztesz."
-   },
-   "score": 48.6,
-   "old": true
-  },
-  {
-   "full": "Th0rgal/satmux",
-   "url": "https://github.com/Th0rgal/satmux",
-   "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-   "lang": "Python",
-   "stars": 712,
-   "forks": 36,
-   "growth": 712.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-07",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.883,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "Repülőgép Wi-Fi kapcsolat gyorsító",
-    "mit_csinal": "Ez az eszköz segít elviselhetőbbé tenni a repülőgépeken elérhető, lassú és szakadozó műholdas internetet. Egy távoli szerver és a gép között fenntartott, tömörített kapcsolatokkal előzi meg az időtúllépéseket és a hibákat. Ennek köszönhetően a repülés közben is megbízhatóbban tölthetők be a weboldalak és fejlesztői eszközök.",
-    "mire_jo": "Utazás közben a laptopodról stabilabban érheted el a GitHubot és a fejlesztői API-kat repülős Wi-Fi használata esetén.",
-    "kategoria": "eszköz",
-    "telefonrol": "részben",
-    "egyezes": 35,
-    "miert": "Nagyon speciális körülmények között hasznos hálózati eszköz, amely nem kapcsolódik a fő AI és Android fejlesztési irányaidhoz."
-   },
-   "score": 47.7,
-   "old": true
-  },
-  {
-   "full": "torvalds/linux",
-   "url": "https://github.com/torvalds/linux",
-   "desc": "Linux kernel source tree",
-   "lang": "C",
-   "stars": 254829,
-   "forks": 67325,
-   "growth": 0.0,
-   "hn_points": 85,
-   "hn_comments": 68,
-   "hn_url": "https://news.ycombinator.com/item?id=50411818",
-   "topics": [],
-   "created": "2011-09-04",
-   "pushed": "2026-11-08",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "hn"
-   ],
-   "buzz": 9.529,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "A Linux rendszermag forráskódja",
-    "mit_csinal": "Ez a Linux operációs rendszer hivatalos forráskódja. A rendszermag felel a hardverek kezeléséért, a memóriavezérlésért és az alkalmazások alapvető kiszolgálásáért. Globális fejlesztői közösség fejleszti évtizedek óta.",
-    "mire_jo": "Alacsony szintű rendszerműködés tanulmányozására vagy Android alatti kernel-ismeretek mélyítésére szolgálhat.",
-    "kategoria": "egyéb",
-    "telefonrol": "részben",
-    "egyezes": 20,
-    "miert": "Bár az Android alapja, óriási és túl alacsony szintű kódkészlet a mindennapi appfejlesztési és AI-céljaidhoz."
-   },
-   "score": 44.3,
-   "old": true
-  },
-  {
-   "full": "riyadhHDA/wichforks",
-   "url": "https://github.com/riyadhHDA/wichforks",
-   "desc": "Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android, and community reports.",
-   "lang": "Python",
-   "stars": 494,
-   "forks": 3,
-   "growth": 164.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "compatibility",
-    "eglantine",
-    "emulation",
-    "forks",
-    "switch-2"
-   ],
-   "created": "2026-11-05",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.351,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "Nintendo Switch 2 emulátor útmutató",
-    "mit_csinal": "Ez a projekt egy részletes összehasonlító útmutató a kísérleti Nintendo Switch 2 emulátorokhoz és portokhoz. Rendszerezi, hogy az egyes hardverekhez, operációs rendszerekhez és konkrét játékokhoz melyik szoftververzió nyújtja a legjobb teljesítményt. A közösségi tesztek és visszajelzések alapján folyamatosan frissül.",
-    "mire_jo": "Kipróbálhatod vagy nyomon követheted az új generációs konzol emulációjának és androidos natív futtatásának fejlődését.",
-    "kategoria": "játék",
-    "telefonrol": "részben",
-    "egyezes": 35,
-    "miert": "Bár érinti az Androidot, alapvetően csak egy játékemulációs gyűjtemény, nem fejlesztői eszköz."
-   },
-   "score": 42.5,
-   "old": true
-  },
-  {
-   "full": "tangerineturtle1/NX2navi",
-   "url": "https://github.com/tangerineturtle1/NX2navi",
-   "desc": "",
-   "lang": "C",
-   "stars": 590,
-   "forks": 27,
-   "growth": 590.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-07",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.658,
-   "first_seen": "2026-11-08",
-   "downloads": 20667,
-   "ai": {
-    "cim": "Zelda OOT natív PC-s port",
-    "mit_csinal": "A népszerű klasszikus Zelda játék kódját fordítja újra úgy, hogy közvetlenül és natívan fusson Windows számítógépeken. Nem emulátort használ, így képes modern grafikai funkciókat, magas képfrissítést és ultraszéles képarányt biztosítani. A futtatáshoz a játékosnak saját, jogtiszta másolatra van szüksége.",
-    "mire_jo": "A játékélményen túl érdekes lehet számodra, ha mélyebben érdekel a C nyelvű natív játékfejlesztés és a Vulkan grafika.",
-    "kategoria": "játék",
-    "telefonrol": "nem",
-    "egyezes": 20,
-    "miert": "Egy kifejezetten asztali Windowsra szánt játékprojekt, ami távol áll az appfejlesztéstől és a mesterséges intelligenciától."
-   },
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "MuseumCassowaryCarve/twitch-drops-miner",
-   "url": "https://github.com/MuseumCassowaryCarve/twitch-drops-miner",
-   "desc": "Auto-farm Twitch drops in the background. Claim rewards, switch channels, and mine timed drops with zero video download. Lightweight AFK miner for Windows, macOS, and Linux.",
-   "lang": "Python",
-   "stars": 425,
-   "forks": 281,
-   "growth": 425.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "afk-miner",
-    "docker",
-    "drops-farmer",
-    "twitch-automation",
-    "twitch-bot",
-    "twitch-drops"
-   ],
-   "created": "2026-11-08",
-   "pushed": "2026-11-08",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.265,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "Automatikus Twitch ajándék- és drop-gyűjtő",
-    "mit_csinal": "A háttérben szimulálja a Twitch adások követését, és automatikusan átveszi a megszerzett játékon belüli jutalmakat. Nem tölti le a tényleges videó- vagy hangfolyamot, így alig fogyaszt sávszélességet. Ha egy csatorna offline lesz, magától átvált egy másik jogosult közvetítésre.",
-    "mire_jo": "Twitch jutalmak automatikus farmolására használható a számítógépeden anélkül, hogy ténylegesen nézned kellene a streameket.",
-    "kategoria": "eszköz",
-    "telefonrol": "nem",
-    "egyezes": 20,
-    "miert": "Játékosoknak szánt automatizáló segédeszköz, amely nem kapcsolódik sem az AI-hoz, sem az Android fejlesztéshez."
-   },
-   "score": 36.6,
-   "old": true
-  },
-  {
-   "full": "Poltergeistlunagrid/Steam-Idler",
-   "url": "https://github.com/Poltergeistlunagrid/Steam-Idler",
-   "desc": "Steam Idler, Card Farmer & Playtime Booster. Idle multiple games to farm trading cards, boost playtime hours, and manage multiple accounts. Lightweight, open-source, and easy to use.",
-   "lang": "Python",
-   "stars": 425,
-   "forks": 313,
-   "growth": 425.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "game-idler",
-    "hourboost",
-    "open-source",
-    "playtime-boost",
-    "steam-bot",
-    "steam-card-farmer"
-   ],
-   "created": "2026-11-07",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.265,
-   "first_seen": "2026-11-08",
-   "downloads": 0,
-   "ai": {
-    "cim": "Steam kártyagyűjtő és játékidő-növelő segédprogram",
-    "mit_csinal": "Közvetlenül a Steam szervereihez csatlakozva szimulálja a játékok futtatását anélkül, hogy azokat telepíteni kellene a gépre. Képes egyszerre több játékkal is futási időt gyűjteni vagy a megszerezhető Steam gyűjtőkártyákat kifarmolni. Grafikus felület nélkül, a háttérben futva kezeli a kétlépcsős hitelesítést is.",
-    "mire_jo": "Steam profilodon kártyák automatikus farmolására vagy játékórák növelésére használhatod számítógépes erőforrások pazarlása nélkül.",
-    "kategoria": "játék",
-    "telefonrol": "nem",
-    "egyezes": 15,
-    "miert": "Szűk réteget célzó Steam-specifikus bot, amely fejlesztési és AI céljaid szempontjából nem hasznosítható."
-   },
-   "score": 33.6,
-   "old": true
-  },
-  {
-   "full": "Unleash/unleash",
-   "url": "https://github.com/Unleash/unleash",
-   "desc": "Open-source feature management platform",
-   "lang": "TypeScript",
-   "stars": 14143,
-   "forks": 930,
-   "growth": 180.0,
-   "hn_points": 156,
-   "hn_comments": 104,
-   "hn_url": "https://news.ycombinator.com/item?id=50391145",
-   "topics": [
-    "activation-strategies",
-    "collaboration",
-    "continuous-delivery",
-    "continuous-deployment",
-    "devops",
-    "devtool"
-   ],
-   "created": "2014-09-29",
-   "pushed": "2026-11-06",
-   "license": "AGPL-3.0",
-   "homepage": "https://www.getunleash.io",
-   "src": [
-    "trending",
-    "hn"
-   ],
-   "buzz": 15.039,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "anomalyco/rune",
-   "url": "https://github.com/anomalyco/rune",
-   "desc": "Rune: Native UI framework",
-   "lang": "Rust",
-   "stars": 2955,
-   "forks": 73,
-   "growth": 184.7,
-   "hn_points": 169,
-   "hn_comments": 123,
-   "hn_url": "https://news.ycombinator.com/item?id=50394569",
-   "topics": [],
-   "created": "2026-10-22",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 14.913,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 99.2,
-   "old": true
-  },
-  {
-   "full": "smokeeaasd/flawless-ui-ux",
-   "url": "https://github.com/smokeeaasd/flawless-ui-ux",
-   "desc": "A UI/UX skill for coding agents to build distinctive, usable interfaces.",
-   "lang": "JavaScript",
-   "stars": 85,
-   "forks": 1,
-   "growth": 21.2,
-   "hn_points": 30,
-   "hn_comments": 32,
-   "hn_url": "https://news.ycombinator.com/item?id=50395747",
-   "topics": [
-    "accessibility",
-    "agent-skills",
-    "ai-agents",
-    "anti-slop",
-    "codex",
-    "design-systems"
-   ],
-   "created": "2026-11-03",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 9.513,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 63.3,
-   "old": true
-  },
-  {
-   "full": "thesayfulla/pylings",
-   "url": "https://github.com/thesayfulla/pylings",
-   "desc": "Learn Python 🐍 by fixing code: exercises from basics to senior interview level",
-   "lang": "Python",
-   "stars": 61,
-   "forks": 2,
-   "growth": 15.2,
-   "hn_points": 52,
-   "hn_comments": 2,
-   "hn_url": "https://news.ycombinator.com/item?id=50394977",
-   "topics": [
-    "exercises",
-    "pylings",
-    "python3"
-   ],
-   "created": "2026-11-03",
-   "pushed": "2026-11-06",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 8.817,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 58.6,
-   "old": true
-  },
-  {
-   "full": "JenkinWoo/sheeridVerify",
-   "url": "https://github.com/JenkinWoo/sheeridVerify",
-   "desc": "",
-   "lang": "JavaScript",
-   "stars": 1315,
-   "forks": 674,
-   "growth": 1315.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-06",
-   "pushed": "2026-11-06",
-   "license": "ISC",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.619,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 57.3,
-   "old": true
-  },
-  {
-   "full": "angular/angular",
-   "url": "https://github.com/angular/angular",
-   "desc": "Deliver web apps with confidence 🚀",
-   "lang": "TypeScript",
-   "stars": 101464,
-   "forks": 28919,
-   "growth": 326.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "angular",
-    "javascript",
-    "pwa",
-    "typescript",
-    "web",
-    "web-framework"
-   ],
-   "created": "2014-09-18",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "https://angular.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.095,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 53.8,
-   "old": true
-  },
-  {
-   "full": "jamiepine/voicebox",
-   "url": "https://github.com/jamiepine/voicebox",
-   "desc": "The open-source AI voice studio. Clone, dictate, create.",
-   "lang": "Python",
-   "stars": 59813,
-   "forks": 7502,
-   "growth": 318.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "cuda",
-    "mlx",
-    "qwen3-tts",
-    "qwen3-tts-ui",
-    "voice-ai"
-   ],
-   "created": "2026-01-25",
-   "pushed": "2026-10-07",
-   "license": "MIT",
-   "homepage": "https://voicebox.sh",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.965,
-   "first_seen": "2026-11-07",
-   "downloads": 3225234,
-   "score": 53.0,
-   "old": true
-  },
-  {
-   "full": "astral-sh/ruff",
-   "url": "https://github.com/astral-sh/ruff",
-   "desc": "An extremely fast Python linter and code formatter, written in Rust.",
-   "lang": "Rust",
-   "stars": 50798,
-   "forks": 2619,
-   "growth": 316.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "linter",
-    "pep8",
-    "python",
-    "python3",
-    "ruff",
-    "rust"
-   ],
-   "created": "2022-08-09",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "https://docs.astral.sh/ruff",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.926,
-   "first_seen": "2026-11-07",
-   "downloads": 3211640,
-   "score": 52.7,
-   "old": true
-  },
-  {
-   "full": "prometheus/prometheus",
-   "url": "https://github.com/prometheus/prometheus",
-   "desc": "The Prometheus monitoring system and time series database.",
-   "lang": "Go",
-   "stars": 67273,
-   "forks": 10992,
-   "growth": 285.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "alerting",
-    "graphing",
-    "hacktoberfest",
-    "metrics",
-    "monitoring",
-    "prometheus"
-   ],
-   "created": "2012-11-24",
-   "pushed": "2026-11-07",
-   "license": "Apache-2.0",
-   "homepage": "https://prometheus.io/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.879,
-   "first_seen": "2026-11-07",
-   "downloads": 1095632,
-   "score": 52.4,
-   "old": true
-  },
-  {
-   "full": "donnemartin/system-design-primer",
-   "url": "https://github.com/donnemartin/system-design-primer",
-   "desc": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-   "lang": "Python",
-   "stars": 377189,
-   "forks": 59206,
-   "growth": 190.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "design",
-    "design-patterns",
-    "design-system",
-    "development",
-    "interview",
-    "interview-practice"
-   ],
-   "created": "2017-02-26",
-   "pushed": "2026-09-15",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.82,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 52.0,
-   "old": true
-  },
-  {
-   "full": "EbookFoundation/free-programming-books",
-   "url": "https://github.com/EbookFoundation/free-programming-books",
-   "desc": ":books: Freely available programming books",
-   "lang": "Python",
-   "stars": 401179,
-   "forks": 67297,
-   "growth": 179.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "books",
-    "education",
-    "hacktoberfest",
-    "list",
-    "resource"
-   ],
-   "created": "2013-10-11",
-   "pushed": "2026-11-01",
-   "license": "CC-BY-4.0",
-   "homepage": "https://ebookfoundation.github.io/free-programming-books/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.773,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 51.7,
-   "old": true
-  },
-  {
-   "full": "django/django",
-   "url": "https://github.com/django/django",
-   "desc": "The Web framework for perfectionists with deadlines.",
-   "lang": "Python",
-   "stars": 91673,
-   "forks": 35968,
-   "growth": 169.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "apps",
-    "django",
-    "framework",
-    "models",
-    "orm",
-    "python"
-   ],
-   "created": "2012-04-28",
-   "pushed": "2026-11-06",
-   "license": "BSD-3-Clause",
-   "homepage": "https://www.djangoproject.com/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.421,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 49.3,
-   "old": true
-  },
-  {
-   "full": "piercefreeman/waymark",
-   "url": "https://github.com/piercefreeman/waymark",
-   "desc": "🧭 Distributed background workflows, durably executed",
-   "lang": "Rust",
-   "stars": 107,
-   "forks": 5,
-   "growth": 0.0,
-   "hn_points": 75,
-   "hn_comments": 23,
-   "hn_url": "https://news.ycombinator.com/item?id=50379221",
-   "topics": [],
-   "created": "2025-11-16",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "https://waymark.sh",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.405,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 49.2,
-   "old": true
-  },
-  {
-   "full": "NotRexed/Hookshot",
-   "url": "https://github.com/NotRexed/Hookshot",
-   "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-   "lang": "C++",
-   "stars": 805,
-   "forks": 64,
-   "growth": 402.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-05",
-   "pushed": "2026-11-07",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.339,
-   "first_seen": "2026-11-07",
-   "downloads": 11159,
-   "score": 48.8,
-   "old": true
-  },
-  {
-   "full": "sostenesfreitas/ocarina-recomp",
-   "url": "https://github.com/sostenesfreitas/ocarina-recomp",
-   "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-   "lang": "C",
-   "stars": 449,
-   "forks": 22,
-   "growth": 449.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-06",
-   "pushed": "2026-11-07",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.331,
-   "first_seen": "2026-11-07",
-   "downloads": 8361,
-   "score": 48.7,
-   "old": true
-  },
-  {
-   "full": "PulverizeLink/roblox-performance-tool",
-   "url": "https://github.com/PulverizeLink/roblox-performance-tool",
-   "desc": "Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter, reduces input lag, and allows custom frame limits. Safe, offline, and open-source",
-   "lang": "Python",
-   "stars": 426,
-   "forks": 386,
-   "growth": 426.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "desktop-app",
-    "fps",
-    "gaming",
-    "lag-fix",
-    "open-source",
-    "optimization"
-   ],
-   "created": "2026-11-06",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.268,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 48.3,
-   "old": true
-  },
-  {
-   "full": "Lowbetweentrim/crypto-portfolio-tracker",
-   "url": "https://github.com/Lowbetweentrim/crypto-portfolio-tracker",
-   "desc": "Self-hosted, privacy-first crypto portfolio tracker. Import transactions via CSV, track real-time PnL, and manage your assets locally. No cloud, no subscriptions. Open-source",
-   "lang": "Python",
-   "stars": 425,
-   "forks": 358,
-   "growth": 425.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "crypto",
-    "crypto-taxes",
-    "finance",
-    "local-first",
-    "open-source",
-    "pnl"
-   ],
-   "created": "2026-11-06",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.265,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 48.3,
-   "old": true
-  },
-  {
-   "full": "phaseboulderfetter/discord-quest-completer",
-   "url": "https://github.com/phaseboulderfetter/discord-quest-completer",
-   "desc": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
-   "lang": "Python",
-   "stars": 425,
-   "forks": 332,
-   "growth": 425.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "discord",
-    "discord-quest",
-    "discord-tools",
-    "game-booster",
-    "open-source"
-   ],
-   "created": "2026-11-06",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.265,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 48.3,
-   "old": true
-  },
-  {
-   "full": "Sandflow-ai/sand3d",
-   "url": "https://github.com/Sandflow-ai/sand3d",
-   "desc": "3D modeling in Python, built for LLMs.",
-   "lang": "HTML",
-   "stars": 909,
-   "forks": 106,
-   "growth": 351.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "3d",
-    "blender",
-    "cad",
-    "llm",
-    "procedural-modeling",
-    "python"
-   ],
-   "created": "2026-11-03",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://sandflow.ai/sand3d/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.226,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 48.0,
-   "old": true
-  },
-  {
-   "full": "meta/astryx",
-   "url": "https://github.com/meta/astryx",
-   "desc": "An open source design system that's fully customizable and agent ready",
-   "lang": "TypeScript",
-   "stars": 14103,
-   "forks": 1171,
-   "growth": 198.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-01-09",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "http://astryx.atmeta.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.204,
-   "first_seen": "2026-11-07",
-   "downloads": 4481,
-   "score": 47.9,
-   "old": true
-  },
-  {
-   "full": "tharun208/cloneguard",
-   "url": "https://github.com/tharun208/cloneguard",
-   "desc": "Scan a repo for malware tricks before you run it. Catches credential theft, hidden network calls, obfuscated code and auto-run hooks. Read-only, with no dependencies.",
-   "lang": "Go",
-   "stars": 16,
-   "forks": 0,
-   "growth": 4.0,
-   "hn_points": 29,
-   "hn_comments": 7,
-   "hn_url": "https://news.ycombinator.com/item?id=50397435",
-   "topics": [],
-   "created": "2026-11-03",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 7.089,
-   "first_seen": "2026-11-07",
-   "downloads": 21,
-   "score": 47.1,
-   "old": true
-  },
-  {
-   "full": "shikokuchuo/pymizu",
-   "url": "https://github.com/shikokuchuo/pymizu",
-   "desc": "Thread-speed async and parallel Python over shared memory",
-   "lang": "Python",
-   "stars": 34,
-   "forks": 1,
-   "growth": 7.0,
-   "hn_points": 27,
-   "hn_comments": 1,
-   "hn_url": "https://news.ycombinator.com/item?id=50380051",
-   "topics": [
-    "asynchronous-programming",
-    "python",
-    "shared-memory-parallelism"
-   ],
-   "created": "2026-08-21",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "https://shikokuchuo.net/pymizu/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.066,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 47.0,
-   "old": true
-  },
-  {
-   "full": "WoYun520/gif-factory",
-   "url": "https://github.com/WoYun520/gif-factory",
-   "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-   "lang": "Python",
-   "stars": 591,
-   "forks": 71,
-   "growth": 295.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-05",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.969,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 46.3,
-   "old": true
-  },
-  {
-   "full": "voyager-so/vork",
-   "url": "https://github.com/voyager-so/vork",
-   "desc": "Headless 3D and VFX engine for agents. Research preview.",
-   "lang": "Rust",
-   "stars": 590,
-   "forks": 34,
-   "growth": 295.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "3d",
-    "ai-agents",
-    "gpu",
-    "metal",
-    "ray-tracing",
-    "rendering"
-   ],
-   "created": "2026-11-05",
-   "pushed": "2026-11-07",
-   "license": "",
-   "homepage": "https://voyager.so/vork",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.967,
-   "first_seen": "2026-11-07",
-   "downloads": 1353,
-   "score": 46.3,
-   "old": true
-  },
-  {
-   "full": "ranxianglei/billion-context",
-   "url": "https://github.com/ranxianglei/billion-context",
-   "desc": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-   "lang": "TypeScript",
-   "stars": 4375,
-   "forks": 357,
-   "growth": 185.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "dsh-plugin"
-   ],
-   "created": "2026-08-06",
-   "pushed": "2026-11-07",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.903,
-   "first_seen": "2026-11-07",
-   "downloads": 0,
-   "score": 45.9,
    "old": true
   }
  ]
