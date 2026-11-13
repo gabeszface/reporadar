@@ -1,8 +1,766 @@
 {
- "date": "2026-11-12",
- "generated": "2026-11-12T12:46+00:00",
- "model": "",
+ "date": "2026-11-13",
+ "generated": "2026-11-13T12:17+00:00",
+ "model": "gemini-flash-latest",
  "items": [
+  {
+   "full": "hyperionaidev/smolmaxxing",
+   "url": "https://github.com/hyperionaidev/smolmaxxing",
+   "desc": "maxxing the ability to run different LLMs on the smallest devices possible",
+   "lang": "C",
+   "stars": 498,
+   "forks": 15,
+   "growth": 55.3,
+   "hn_points": 390,
+   "hn_comments": 141,
+   "hn_url": "https://news.ycombinator.com/item?id=50468888",
+   "topics": [
+    "edge-ai",
+    "llama-cpp",
+    "llama-cpp-alternative",
+    "llm",
+    "local-llm",
+    "local-llm-support"
+   ],
+   "created": "2026-11-04",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "https://hyperion-ai.com/products/smolmaxxing",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.419,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "simpsoka/zigzag",
+   "url": "https://github.com/simpsoka/zigzag",
+   "desc": "Free, open-source embroidery software for Mac and Windows. Turn SVG artwork into machine embroidery, edit stitches visually, and create designs with AI agents via MCP.",
+   "lang": "Rust",
+   "stars": 445,
+   "forks": 24,
+   "growth": 31.8,
+   "hn_points": 557,
+   "hn_comments": 192,
+   "hn_url": "https://news.ycombinator.com/item?id=50470488",
+   "topics": [
+    "brother-skitch",
+    "embroidery",
+    "embroidery-digitizing",
+    "embroidery-software",
+    "machine-embroidery",
+    "macos"
+   ],
+   "created": "2026-10-30",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "https://zigzag.diy/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.404,
+   "first_seen": "2026-11-13",
+   "downloads": 359,
+   "score": 99.9
+  },
+  {
+   "full": "a2ui-project/a2ui",
+   "url": "https://github.com/a2ui-project/a2ui",
+   "desc": "Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose.",
+   "lang": "TypeScript",
+   "stars": 17270,
+   "forks": 1400,
+   "growth": 121.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "a2a",
+    "a2ui",
+    "agent",
+    "angular",
+    "flutter",
+    "generative-ui"
+   ],
+   "created": "2025-09-24",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "https://a2ui.org/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.755,
+   "first_seen": "2026-11-13",
+   "downloads": 7469,
+   "ai": {
+    "cim": "Dinamikus UI-generáló keretrendszer AI-ügynökökhöz",
+    "mit_csinal": "Lehetővé teszi, hogy az AI-ügynökök ne csak szöveget válaszoljanak, hanem natív felhasználói felületeket generáljanak és közvetítsenek. A kliensalkalmazások ezeket a leírásokat közvetlenül natív komponensekké alakítják anélkül, hogy lassú webnézeteket használnának. Támogatja többek között a webes és a modern mobil keretrendszereket is.",
+    "mire_jo": "Beépítheted Android alkalmazásodba Jetpack Compose segítségével, hogy a háttérben futó AI-ügynök azonnal működő, natív mobil felületeket hozzon létre a felhasználónak.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 95,
+    "miert": "Tökéletesen ötvözi az AI-ügynököket a Jetpack Compose-alapú Android appfejlesztéssel, ráadásul böngészős kipróbálási felülete is van."
+   },
+   "score": 75.7
+  },
+  {
+   "full": "davila7/claude-code-templates",
+   "url": "https://github.com/davila7/claude-code-templates",
+   "desc": "Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods",
+   "lang": "Python",
+   "stars": 33460,
+   "forks": 3934,
+   "growth": 102.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "anthropic",
+    "anthropic-claude",
+    "claude",
+    "claude-code"
+   ],
+   "created": "2025-07-04",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "https://aitmpl.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.718,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "ai": {
+    "cim": "Komponens- és sablongyűjtemény Claude Code-hoz",
+    "mit_csinal": "Egy nyílt forráskódú csomagkezelő és gyűjtemény a Claude Code fejlesztői eszközhöz. Különböző kész ügynököket, parancsokat, beállításokat és bővítményeket kínál, amelyeket egyetlen paranccsal lehet telepíteni a konfigurációk felülírása nélkül. Segít automatizálni a kódértékelést, tesztírást és egyéb szoftverfejlesztési feladatokat.",
+    "mire_jo": "AI-alapú kódoló ügynököket és parancsokat adhatsz hozzá a fejlesztői környezetedhez az Androidos vagy egyéb kódjaid gyorsabb vizsgálatához és teszteléséhez.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Kiváló segédeszköz az AI-ügynökökkel támogatott szoftverfejlesztéshez, bár használatához terminál és PC szükséges."
+   },
+   "score": 66.6
+  },
+  {
+   "full": "block/buzz",
+   "url": "https://github.com/block/buzz",
+   "desc": "A hive mind communication platform",
+   "lang": "Rust",
+   "stars": 37151,
+   "forks": 4930,
+   "growth": 95.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-03-06",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.669,
+   "first_seen": "2026-11-13",
+   "downloads": 279907,
+   "ai": {
+    "cim": "Közös munkafelület embereknek és AI-ügynököknek",
+    "mit_csinal": "Egy önállóan futtatható kommunikációs és munkaplatform, ahol a fejlesztők és az autonóm AI-ügynökök azonos jogokkal dolgoznak együtt közös szobákban. Az ügynökök nemcsak csevegnek, hanem hibákat kezelnek, kódmódosításokat küldenek és munkafolyamatokat indítanak. A rendszer a Nostr protokollt használja a műveletek hitelesített naplózására.",
+    "mire_jo": "Kipróbálhatod, hogyan tud egy autonóm AI-ügynök közvetlenül besegíteni a hibakeresésbe, a kódfelülvizsgálatba és a CI munkafolyamatokba.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 75,
+    "miert": "Izgalmas megközelítés az AI-ügynökök valós szoftveres integrációjára, de önálló szerverfuttatást igényel."
+   },
+   "score": 63.5
+  },
+  {
+   "full": "chocoford/ExcalidrawZ",
+   "url": "https://github.com/chocoford/ExcalidrawZ",
+   "desc": "Excalidraw app for mac. Powered by pure SwiftUI.",
+   "lang": "Swift",
+   "stars": 1867,
+   "forks": 103,
+   "growth": 0.0,
+   "hn_points": 123,
+   "hn_comments": 26,
+   "hn_url": "https://news.ycombinator.com/item?id=50468944",
+   "topics": [
+    "drawing",
+    "ios",
+    "macos",
+    "productivity",
+    "swiftui"
+   ],
+   "created": "2022-12-26",
+   "pushed": "2026-10-24",
+   "license": "MIT",
+   "homepage": "https://excalidrawz.chocoford.com",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.609,
+   "first_seen": "2026-11-13",
+   "downloads": 24193,
+   "score": 59.7
+  },
+  {
+   "full": "jjba23/sift",
+   "url": "https://github.com/jjba23/sift",
+   "desc": "Lisp, Scheme and Emacs Lisp formatter, linter and LSP (language server)",
+   "lang": "Scheme",
+   "stars": 59,
+   "forks": 2,
+   "growth": 4.5,
+   "hn_points": 60,
+   "hn_comments": 8,
+   "hn_url": "https://news.ycombinator.com/item?id=50460263",
+   "topics": [
+    "common-lisp",
+    "emacs",
+    "emacs-lisp",
+    "emacs-package",
+    "formatter",
+    "formatting"
+   ],
+   "created": "2026-10-31",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "https://jointhefreeworld.org/sift/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.343,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 57.9
+  },
+  {
+   "full": "Parcha-ai/agentrun",
+   "url": "https://github.com/Parcha-ai/agentrun",
+   "desc": "AgentRun is an open-source platform that supercharges your agents. It adds self-improvement, durable execution and a control plane on top of your favorite agent harness. Your agents become smarter, more fault tolerant and use fewer tokens with every run.",
+   "lang": "JavaScript",
+   "stars": 742,
+   "forks": 55,
+   "growth": 0.0,
+   "hn_points": 110,
+   "hn_comments": 29,
+   "hn_url": "https://news.ycombinator.com/item?id=50471650",
+   "topics": [],
+   "created": "2026-09-23",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "https://agentrun.ai",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.334,
+   "first_seen": "2026-11-13",
+   "downloads": 102,
+   "score": 57.8
+  },
+  {
+   "full": "KoljaB/RealtimeVAD",
+   "url": "https://github.com/KoljaB/RealtimeVAD",
+   "desc": "Faster speech off signals for spec gen voice pipelines",
+   "lang": "Python",
+   "stars": 72,
+   "forks": 3,
+   "growth": 12.0,
+   "hn_points": 26,
+   "hn_comments": 5,
+   "hn_url": "https://news.ycombinator.com/item?id=50474586",
+   "topics": [],
+   "created": "2026-11-07",
+   "pushed": "2026-11-12",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.095,
+   "first_seen": "2026-11-13",
+   "downloads": 7,
+   "score": 56.1
+  },
+  {
+   "full": "JDhruv14/line-art-animation",
+   "url": "https://github.com/JDhruv14/line-art-animation",
+   "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
+   "lang": "TypeScript",
+   "stars": 621,
+   "forks": 99,
+   "growth": 207.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "claude-skill",
+    "line-art",
+    "svg-animation",
+    "typescript"
+   ],
+   "created": "2026-11-10",
+   "pushed": "2026-11-10",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.624,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "ai": {
+    "cim": "Interaktív vonalrajzos SVG animációs könyvtár",
+    "mit_csinal": "Egy könnyű TypeScript programkönyvtár és Claude kiegészítő, amellyel mozgó, tussal rajzolt hatású figurákat és jeleneteket lehet készíteni. Az alakok élőben generált SVG grafikák, amelyek reagálnak a kattintásokra és a napszakok változására. Nem igényel külső függőségeket a járás, szél- és fizikai mozgások kiszámításához.",
+    "mire_jo": "Egyedi, kézzel rajzolt stílusú vektorgrafikus animációkat és interaktív elemeket hozhatsz létre belőle saját webes vagy mobil felületeidhez.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 60,
+    "miert": "Kreatív és ötletes UI-eszköz Claude-integrációval, de távolabb esik a kéz- és arcfelismeréstől vagy az Android-fejlesztéstől."
+   },
+   "score": 54.4
+  },
+  {
+   "full": "apex-compute/ANR",
+   "url": "https://github.com/apex-compute/ANR",
+   "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+   "lang": "C++",
+   "stars": 1214,
+   "forks": 17,
+   "growth": 607.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-11",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "https://apexcompute.com/neural-rendering",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.831,
+   "first_seen": "2026-11-13",
+   "downloads": 15392,
+   "score": 54.3
+  },
+  {
+   "full": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+   "lang": "Go",
+   "stars": 50154,
+   "forks": 3722,
+   "growth": 206.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "agent-skills",
+    "code-review",
+    "code-review-assistant",
+    "harness",
+    "repository-level-context"
+   ],
+   "created": "2026-05-18",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "https://open-codereview.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.497,
+   "first_seen": "2026-11-13",
+   "downloads": 47025,
+   "score": 52.0
+  },
+  {
+   "full": "AIRzZ90/study-materials-fork",
+   "url": "https://github.com/AIRzZ90/study-materials-fork",
+   "desc": "A cross-platform Tauri 2 interface and interaction practice project",
+   "lang": "TypeScript",
+   "stars": 457,
+   "forks": 672,
+   "growth": 457.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-12",
+   "pushed": "2026-11-12",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.352,
+   "first_seen": "2026-11-13",
+   "downloads": 1672,
+   "score": 51.0
+  },
+  {
+   "full": "agentes-chat/agentes-chat",
+   "url": "https://github.com/agentes-chat/agentes-chat",
+   "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+   "lang": "TypeScript",
+   "stars": 1270,
+   "forks": 207,
+   "growth": 317.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agentic-ai",
+    "ai-agents",
+    "browser-automation",
+    "chat",
+    "claude",
+    "claude-code"
+   ],
+   "created": "2026-11-09",
+   "pushed": "2026-11-13",
+   "license": "AGPL-3.0",
+   "homepage": "https://agentes.chat",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.193,
+   "first_seen": "2026-11-13",
+   "downloads": 6454,
+   "score": 49.9
+  },
+  {
+   "full": "DevedevT/FFmpeg-GUI-Editor-Windows",
+   "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+   "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+   "lang": "Visual Basic .NET",
+   "stars": 383,
+   "forks": 0,
+   "growth": 383.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "converter",
+    "ffmpeg",
+    "ffmpeg-command",
+    "ffmpeg-gui",
+    "ffmpeg-libraries",
+    "ffmpeg-script"
+   ],
+   "created": "2026-11-12",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.141,
+   "first_seen": "2026-11-13",
+   "downloads": 10,
+   "score": 49.5
+  },
+  {
+   "full": "kajisho5/ffmpeg-skill",
+   "url": "https://github.com/kajisho5/ffmpeg-skill",
+   "desc": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+   "lang": "Python",
+   "stars": 5369,
+   "forks": 462,
+   "growth": 224.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "audio-processing",
+    "captions",
+    "claude-code",
+    "codex"
+   ],
+   "created": "2026-09-03",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "https://www.npmjs.com/package/ffmpeg-skill",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.134,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 49.5
+  },
+  {
+   "full": "ahujasid/mcp-for-blender",
+   "url": "https://github.com/ahujasid/mcp-for-blender",
+   "desc": "Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.",
+   "lang": "Python",
+   "stars": 34267,
+   "forks": 3117,
+   "growth": 140.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "3d-modeling",
+    "ai",
+    "blender",
+    "blender-addon",
+    "blender-mcp",
+    "claude"
+   ],
+   "created": "2025-03-07",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "https://www.mcp-for-blender.com/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.037,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 48.8
+  },
+  {
+   "full": "tailscale/tailcat",
+   "url": "https://github.com/tailscale/tailcat",
+   "desc": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+   "lang": "Go",
+   "stars": 9185,
+   "forks": 421,
+   "growth": 173.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2024-10-29",
+   "pushed": "2026-11-05",
+   "license": "BSD-3-Clause",
+   "homepage": "https://tailscale.com/tailcat",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.984,
+   "first_seen": "2026-11-13",
+   "downloads": 105508,
+   "score": 48.4
+  },
+  {
+   "full": "Likely7/Veyra-NRVideo",
+   "url": "https://github.com/Likely7/Veyra-NRVideo",
+   "desc": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+   "lang": "C++",
+   "stars": 1405,
+   "forks": 65,
+   "growth": 245.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-09-09",
+   "pushed": "2026-11-11",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.955,
+   "first_seen": "2026-11-13",
+   "downloads": 32003,
+   "score": 48.2
+  },
+  {
+   "full": "HolyArrs/HolyArrs",
+   "url": "https://github.com/HolyArrs/HolyArrs",
+   "desc": "One self-hosted app for your shows, movies and music.",
+   "lang": "Go",
+   "stars": 1039,
+   "forks": 56,
+   "growth": 259.8,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "docker",
+    "homelab",
+    "jellyfin",
+    "media-server",
+    "plex",
+    "self-hosted"
+   ],
+   "created": "2026-11-09",
+   "pushed": "2026-11-12",
+   "license": "AGPL-3.0",
+   "homepage": "https://holyarrs.com",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.953,
+   "first_seen": "2026-11-13",
+   "downloads": 151,
+   "ai": {
+    "cim": "Összevont saját médiaszerver egyetlen konténerben",
+    "mit_csinal": "Ez a program a népszerű médiaszerver-kiegészítőket (letöltők, metaadat- és feliratkezelők) egyesíti egyetlen, kis erőforrásigényű alkalmazásban. Kiváltja a több különálló program futtatásával járó bonyolult beállítást. Segítségével egyetlen felületről kereshetsz és kezelhetsz filmeket, sorozatokat vagy zenéket.",
+    "mire_jo": "Otthoni szerveren vagy NAS-on egyetlen Docker-paranccsal egyszerűsítheted le a médiafájlok automatikus letöltését és rendszerezését.",
+    "kategoria": "eszköz",
+    "telefonrol": "nem",
+    "egyezes": 45,
+    "miert": "Hasznos hétköznapi otthoni szerveres eszköz, de nem kapcsolódik szorosan az AI-hoz vagy az Android-fejlesztéshez."
+   },
+   "score": 46.3
+  },
+  {
+   "full": "kolbicz/WQFiles",
+   "url": "https://github.com/kolbicz/WQFiles",
+   "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+   "lang": "Objective-C",
+   "stars": 777,
+   "forks": 56,
+   "growth": 194.2,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-09",
+   "pushed": "2026-11-12",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.606,
+   "first_seen": "2026-11-13",
+   "downloads": 13979,
+   "score": 45.8
+  },
+  {
+   "full": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "desc": "Chrome DevTools for coding agents",
+   "lang": "TypeScript",
+   "stars": 55219,
+   "forks": 4606,
+   "growth": 72.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "browser",
+    "chrome",
+    "chrome-devtools",
+    "debugging",
+    "devtools",
+    "mcp"
+   ],
+   "created": "2025-09-11",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "https://developer.chrome.com/docs/devtools/agents",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.474,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 44.9
+  },
+  {
+   "full": "serveroshq/panel",
+   "url": "https://github.com/serveroshq/panel",
+   "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+   "lang": "PHP",
+   "stars": 694,
+   "forks": 57,
+   "growth": 173.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agpl",
+    "control-panel",
+    "devops",
+    "laravel",
+    "open-source",
+    "self-hosted"
+   ],
+   "created": "2026-11-09",
+   "pushed": "2026-11-13",
+   "license": "AGPL-3.0",
+   "homepage": "https://serveros.com",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.471,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 44.9
+  },
+  {
+   "full": "backnotprop/plannotator",
+   "url": "https://github.com/backnotprop/plannotator",
+   "desc": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click. ",
+   "lang": "TypeScript",
+   "stars": 10253,
+   "forks": 776,
+   "growth": 100.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agents",
+    "claude-code",
+    "code-review",
+    "codex",
+    "obsidian",
+    "opencode"
+   ],
+   "created": "2025-12-28",
+   "pushed": "2026-11-13",
+   "license": "Apache-2.0",
+   "homepage": "https://plannotator.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.462,
+   "first_seen": "2026-11-13",
+   "downloads": 19830,
+   "score": 44.8
+  },
+  {
+   "full": "Goblinmine/homelab-diagram",
+   "url": "https://github.com/Goblinmine/homelab-diagram",
+   "desc": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+   "lang": "Python",
+   "stars": 965,
+   "forks": 80,
+   "growth": 160.8,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-07",
+   "pushed": "2026-11-07",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.461,
+   "first_seen": "2026-11-13",
+   "downloads": 0,
+   "score": 44.8
+  },
   {
    "full": "FrigadeHQ/yogurt",
    "url": "https://github.com/FrigadeHQ/yogurt",
@@ -33,7 +791,8 @@
    "buzz": 15.684,
    "first_seen": "2026-11-12",
    "downloads": 2626,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "huawei-csl/MACaQ",
@@ -65,7 +824,8 @@
    "buzz": 12.458,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 79.4
+   "score": 79.4,
+   "old": true
   },
   {
    "full": "aws/aws-emulator",
@@ -89,7 +849,8 @@
    "buzz": 11.971,
    "first_seen": "2026-11-12",
    "downloads": 3532,
-   "score": 76.3
+   "score": 76.3,
+   "old": true
   },
   {
    "full": "adrbn/bo2-mac",
@@ -121,7 +882,8 @@
    "buzz": 11.893,
    "first_seen": "2026-11-12",
    "downloads": 179,
-   "score": 75.8
+   "score": 75.8,
+   "old": true
   },
   {
    "full": "popvax/yash",
@@ -146,7 +908,8 @@
    "buzz": 11.364,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 72.5
+   "score": 72.5,
+   "old": true
   },
   {
    "full": "GoogleChrome/modern-web-guidance",
@@ -170,7 +933,8 @@
    "buzz": 11.002,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 70.1
+   "score": 70.1,
+   "old": true
   },
   {
    "full": "klad-app/klad",
@@ -195,7 +959,8 @@
    "buzz": 10.631,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 67.8
+   "score": 67.8,
+   "old": true
   },
   {
    "full": "gmkurtzer/ginux",
@@ -219,7 +984,8 @@
    "buzz": 8.786,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 56.0
+   "score": 56.0,
+   "old": true
   },
   {
    "full": "tylertms/Stela",
@@ -243,7 +1009,8 @@
    "buzz": 8.655,
    "first_seen": "2026-11-12",
    "downloads": 1136,
-   "score": 55.2
+   "score": 55.2,
+   "old": true
   },
   {
    "full": "openai/codex-security",
@@ -274,7 +1041,8 @@
    "buzz": 8.378,
    "first_seen": "2026-11-12",
    "downloads": 735,
-   "score": 53.4
+   "score": 53.4,
+   "old": true
   },
   {
    "full": "GoogleChrome/modern-web-guidance-src",
@@ -298,7 +1066,8 @@
    "buzz": 8.227,
    "first_seen": "2026-11-12",
    "downloads": 83,
-   "score": 52.5
+   "score": 52.5,
+   "old": true
   },
   {
    "full": "HybridRobotics/supermimic",
@@ -322,7 +1091,8 @@
    "buzz": 7.856,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 50.1
+   "score": 50.1,
+   "old": true
   },
   {
    "full": "0xdeadf1sh/AssemblyForNeovim",
@@ -346,7 +1116,8 @@
    "buzz": 7.797,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 49.7
+   "score": 49.7,
+   "old": true
   },
   {
    "full": "ggml-org/llama.cpp",
@@ -372,7 +1143,8 @@
    "buzz": 7.455,
    "first_seen": "2026-11-12",
    "downloads": 25139,
-   "score": 47.5
+   "score": 47.5,
+   "old": true
   },
   {
    "full": "pookjw/HermesEnabler",
@@ -396,7 +1168,8 @@
    "buzz": 7.409,
    "first_seen": "2026-11-12",
    "downloads": 13059,
-   "score": 47.2
+   "score": 47.2,
+   "old": true
   },
   {
    "full": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
@@ -427,7 +1200,8 @@
    "buzz": 7.316,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 46.6
+   "score": 46.6,
+   "old": true
   },
   {
    "full": "flgomes/dxo-photolab-10-desktop",
@@ -458,7 +1232,8 @@
    "buzz": 7.196,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 45.9
+   "score": 45.9,
+   "old": true
   },
   {
    "full": "RolandoV3/metatrader-5-bot",
@@ -489,7 +1264,8 @@
    "buzz": 7.151,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 45.6
+   "score": 45.6,
+   "old": true
   },
   {
    "full": "SnehalSukale27/power-director",
@@ -520,7 +1296,8 @@
    "buzz": 7.146,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 45.6
+   "score": 45.6,
+   "old": true
   },
   {
    "full": "muddinenilakshmilalithaksh-create/sp-flash-tool",
@@ -551,7 +1328,8 @@
    "buzz": 7.146,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 45.6
+   "score": 45.6,
+   "old": true
   },
   {
    "full": "ethangangasingh-crypto/musicmakerunlimited",
@@ -582,7 +1360,8 @@
    "buzz": 7.146,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 45.6
+   "score": 45.6,
+   "old": true
   },
   {
    "full": "openai/whisper",
@@ -606,7 +1385,8 @@
    "buzz": 7.105,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 45.3
+   "score": 45.3,
+   "old": true
   },
   {
    "full": "NapNeko/NapCatQQ",
@@ -635,7 +1415,8 @@
    "buzz": 6.758,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 43.1
+   "score": 43.1,
+   "old": true
   },
   {
    "full": "hembramneeraj3-create/aida-64-extreme",
@@ -666,7 +1447,8 @@
    "buzz": 6.728,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 42.9
+   "score": 42.9,
+   "old": true
   },
   {
    "full": "AleRibeiro44/archicad-desktop-setup",
@@ -697,7 +1479,8 @@
    "buzz": 6.725,
    "first_seen": "2026-11-12",
    "downloads": 0,
-   "score": 42.9
+   "score": 42.9,
+   "old": true
   },
   {
    "full": "expo/exact",
@@ -1425,729 +2208,6 @@
    "first_seen": "2026-11-10",
    "downloads": 0,
    "score": 41.8,
-   "old": true
-  },
-  {
-   "full": "synchopate/llama-modchip",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "desc": "🐋 Run 284B DeepSeek-V4-Flash (<59GiB RAM, 44.4 tok/s pp, 9.1-14.7 tok/s) & 30B MoEs (25-111 tok/s) on a pure 64GB CPU at 256K ctx (0 GPUs). SwiGLU-H2, Stockfish-PVS L3 & 13ms Claude Code restore.",
-   "lang": "Python",
-   "stars": 652,
-   "forks": 35,
-   "growth": 59.3,
-   "hn_points": 436,
-   "hn_comments": 193,
-   "hn_url": "https://news.ycombinator.com/item?id=50411961",
-   "topics": [
-    "ai-agents",
-    "apple-silicon",
-    "avx512",
-    "claude-code",
-    "cpu-inference",
-    "deepseek"
-   ],
-   "created": "2026-10-29",
-   "pushed": "2026-11-08",
-   "license": "Apache-2.0",
-   "homepage": "https://github.com/synchopate/llama-modchip#readme",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 14.798,
-   "first_seen": "2026-11-09",
-   "downloads": 107,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "graealex/WaveDudeNext",
-   "url": "https://github.com/graealex/WaveDudeNext",
-   "desc": "Interactive 2D wave optics simulator. Turn any image into a refractive scene, add sources, watch waves refract, diffract and interfere. Probes, intensity maps, video export.",
-   "lang": "C#",
-   "stars": 234,
-   "forks": 22,
-   "growth": 10.6,
-   "hn_points": 49,
-   "hn_comments": 11,
-   "hn_url": "https://news.ycombinator.com/item?id=50411083",
-   "topics": [],
-   "created": "2026-10-18",
-   "pushed": "2026-11-09",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 9.234,
-   "first_seen": "2026-11-09",
-   "downloads": 806,
-   "score": 62.4,
-   "old": true
-  },
-  {
-   "full": "OmniJev/Flide",
-   "url": "https://github.com/OmniJev/Flide",
-   "desc": "🔥🔥 The extremely fast inference engine for decision model",
-   "lang": "Python",
-   "stars": 128,
-   "forks": 6,
-   "growth": 8.0,
-   "hn_points": 57,
-   "hn_comments": 14,
-   "hn_url": "https://news.ycombinator.com/item?id=50421155",
-   "topics": [
-    "ai-agents",
-    "cuda",
-    "decision-making",
-    "deterministic-inference",
-    "gemma",
-    "inference-engine"
-   ],
-   "created": "2026-10-24",
-   "pushed": "2026-11-09",
-   "license": "Apache-2.0",
-   "homepage": "https://flide.org",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 9.125,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 61.7,
-   "old": true
-  },
-  {
-   "full": "jhaizhou-ops/S2Arm",
-   "url": "https://github.com/jhaizhou-ops/S2Arm",
-   "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
-   "lang": "C#",
-   "stars": 1349,
-   "forks": 288,
-   "growth": 1349.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "apple-silicon",
-    "arm64",
-    "game-porting",
-    "ios",
-    "ipados",
-    "macos"
-   ],
-   "created": "2026-11-08",
-   "pushed": "2026-11-09",
-   "license": "Apache-2.0",
-   "homepage": "https://github.com/jhaizhou-ops/S2Arm/releases",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.649,
-   "first_seen": "2026-11-09",
-   "downloads": 6370,
-   "score": 58.4,
-   "old": true
-  },
-  {
-   "full": "google-deepmind/mujoco",
-   "url": "https://github.com/google-deepmind/mujoco",
-   "desc": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-   "lang": "C++",
-   "stars": 16720,
-   "forks": 1970,
-   "growth": 579.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "mujoco",
-    "physics",
-    "robotics"
-   ],
-   "created": "2021-08-27",
-   "pushed": "2026-11-09",
-   "license": "Apache-2.0",
-   "homepage": "https://mujoco.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.308,
-   "first_seen": "2026-11-09",
-   "downloads": 139690,
-   "score": 56.1,
-   "old": true
-  },
-  {
-   "full": "anthropics/claude-quickstarts",
-   "url": "https://github.com/anthropics/claude-quickstarts",
-   "desc": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-   "lang": "Python",
-   "stars": 19734,
-   "forks": 3294,
-   "growth": 560.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2024-08-29",
-   "pushed": "2026-11-06",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.308,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 56.1,
-   "old": true
-  },
-  {
-   "full": "kobaltgit/StatCraft",
-   "url": "https://github.com/kobaltgit/StatCraft",
-   "desc": "High-performance, memory-safe, and open-source statistical analysis package in 100% pure Safe Rust",
-   "lang": "Rust",
-   "stars": 39,
-   "forks": 1,
-   "growth": 3.2,
-   "hn_points": 29,
-   "hn_comments": 49,
-   "hn_url": "https://news.ycombinator.com/item?id=50411522",
-   "topics": [
-    "ai-agent",
-    "analytics",
-    "biostatistics",
-    "computing",
-    "data-analysis",
-    "data-science"
-   ],
-   "created": "2026-10-28",
-   "pushed": "2026-11-08",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 7.831,
-   "first_seen": "2026-11-09",
-   "downloads": 62,
-   "score": 52.9,
-   "old": true
-  },
-  {
-   "full": "ruvnet/RuView",
-   "url": "https://github.com/ruvnet/RuView",
-   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-   "lang": "Rust",
-   "stars": 103158,
-   "forks": 13386,
-   "growth": 203.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "claude",
-    "claude-code",
-    "esp32",
-    "firmware",
-    "home-assistant",
-    "home-automation"
-   ],
-   "created": "2025-06-07",
-   "pushed": "2026-11-09",
-   "license": "MIT",
-   "homepage": "https://ruv.io",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.627,
-   "first_seen": "2026-11-09",
-   "downloads": 740,
-   "score": 51.5,
-   "old": true
-  },
-  {
-   "full": "huamidev/GestaltX",
-   "url": "https://github.com/huamidev/GestaltX",
-   "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
-   "lang": "Swift",
-   "stars": 572,
-   "forks": 255,
-   "growth": 572.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-09",
-   "pushed": "2026-11-09",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.621,
-   "first_seen": "2026-11-09",
-   "downloads": 3588,
-   "score": 51.5,
-   "old": true
-  },
-  {
-   "full": "OpenCut-app/OpenCut",
-   "url": "https://github.com/OpenCut-app/OpenCut",
-   "desc": "The open-source CapCut alternative",
-   "lang": "TypeScript",
-   "stars": 97886,
-   "forks": 9763,
-   "growth": 201.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "editor",
-    "oss",
-    "videoeditor"
-   ],
-   "created": "2025-06-22",
-   "pushed": "2026-09-24",
-   "license": "MIT",
-   "homepage": "https://opencut.app",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.607,
-   "first_seen": "2026-11-09",
-   "downloads": 2067,
-   "score": 51.4,
-   "old": true
-  },
-  {
-   "full": "DIYgod/pinky",
-   "url": "https://github.com/DIYgod/pinky",
-   "desc": "Let AI agents use your phone, with you in the loop.",
-   "lang": "Go",
-   "stars": 1276,
-   "forks": 134,
-   "growth": 425.3,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-06",
-   "pushed": "2026-11-09",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.486,
-   "first_seen": "2026-11-09",
-   "downloads": 3446,
-   "score": 50.6,
-   "old": true
-  },
-  {
-   "full": "garrytan/gbrain",
-   "url": "https://github.com/garrytan/gbrain",
-   "desc": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
-   "lang": "TypeScript",
-   "stars": 31867,
-   "forks": 4746,
-   "growth": 215.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-04-05",
-   "pushed": "2026-11-09",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.449,
-   "first_seen": "2026-11-09",
-   "downloads": 326,
-   "score": 50.3,
-   "old": true
-  },
-  {
-   "full": "PaladinSmash84/aida-64-extreme",
-   "url": "https://github.com/PaladinSmash84/aida-64-extreme",
-   "desc": "AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for advanced LLM training and deployment in isolated local...",
-   "lang": "",
-   "stars": 403,
-   "forks": 0,
-   "growth": 403.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "aida64",
-    "aida64-extreme-compatibility-check",
-    "aida64-extreme-detailed-reporting",
-    "aida64-extreme-hardware-diagnostics",
-    "aida64-extreme-setup",
-    "aida64-extreme-system-information"
-   ],
-   "created": "2026-11-08",
-   "pushed": "2026-11-08",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.202,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 48.7,
-   "old": true
-  },
-  {
-   "full": "tidain/YunX-Desktop",
-   "url": "https://github.com/tidain/YunX-Desktop",
-   "desc": "YunX（云析）的官方 windows 桌面端",
-   "lang": "Kotlin",
-   "stars": 3711,
-   "forks": 260,
-   "growth": 226.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-09-05",
-   "pushed": "2026-11-04",
-   "license": "AGPL-3.0",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.069,
-   "first_seen": "2026-11-09",
-   "downloads": 181818,
-   "score": 47.8,
-   "old": true
-  },
-  {
-   "full": "opensandbox-group/OpenSandbox",
-   "url": "https://github.com/opensandbox-group/OpenSandbox",
-   "desc": "Secure, Fast, and Extensible Sandbox runtime for AI agents.",
-   "lang": "Python",
-   "stars": 16751,
-   "forks": 1580,
-   "growth": 159.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "aaif",
-    "ai",
-    "ai-agent",
-    "ai-infra",
-    "kubernetes",
-    "sandbox"
-   ],
-   "created": "2025-12-17",
-   "pushed": "2026-11-09",
-   "license": "Apache-2.0",
-   "homepage": "https://open-sandbox.ai",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.02,
-   "first_seen": "2026-11-09",
-   "downloads": 638,
-   "score": 47.4,
-   "old": true
-  },
-  {
-   "full": "anthropics/claude-plugins-official",
-   "url": "https://github.com/anthropics/claude-plugins-official",
-   "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-   "lang": "Python",
-   "stars": 46539,
-   "forks": 4851,
-   "growth": 129.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "claude-code",
-    "mcp",
-    "skills"
-   ],
-   "created": "2025-11-20",
-   "pushed": "2026-11-08",
-   "license": "Apache-2.0",
-   "homepage": "https://code.claude.com/docs/en/plugins",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.017,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 47.4,
-   "old": true
-  },
-  {
-   "full": "IainKay/ram-altman",
-   "url": "https://github.com/IainKay/ram-altman",
-   "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-   "lang": "Shell",
-   "stars": 1093,
-   "forks": 26,
-   "growth": 273.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "bash",
-    "cron",
-    "dram",
-    "email",
-    "humor",
-    "linux"
-   ],
-   "created": "2026-11-05",
-   "pushed": "2026-11-06",
-   "license": "Unlicense",
-   "homepage": "https://ram-altman.lol",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.014,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 47.4,
-   "old": true
-  },
-  {
-   "full": "vercel-labs/json-render",
-   "url": "https://github.com/vercel-labs/json-render",
-   "desc": "The Generative UI framework",
-   "lang": "TypeScript",
-   "stars": 19482,
-   "forks": 1032,
-   "growth": 149.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-01-14",
-   "pushed": "2026-11-06",
-   "license": "Apache-2.0",
-   "homepage": "https://json-render.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.986,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 47.2,
-   "old": true
-  },
-  {
-   "full": "Oldcircle/geo-sleuth",
-   "url": "https://github.com/Oldcircle/geo-sleuth",
-   "desc": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
-   "lang": "Python",
-   "stars": 6665,
-   "forks": 818,
-   "growth": 181.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "computer-vision",
-    "cursor"
-   ],
-   "created": "2026-09-18",
-   "pushed": "2026-11-05",
-   "license": "MIT",
-   "homepage": "",
-   "src": [],
-   "buzz": 6.965,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 47.1,
-   "old": true
-  },
-  {
-   "full": "jamesondh/chimera-vocal-synth",
-   "url": "https://github.com/jamesondh/chimera-vocal-synth",
-   "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-   "lang": "Rust",
-   "stars": 944,
-   "forks": 112,
-   "growth": 236.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-05",
-   "pushed": "2026-11-09",
-   "license": "MIT",
-   "homepage": "https://chimera-vocal-synth.vercel.app",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.838,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 46.2,
-   "old": true
-  },
-  {
-   "full": "lxe/phoneuse",
-   "url": "https://github.com/lxe/phoneuse",
-   "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-   "lang": "Python",
-   "stars": 504,
-   "forks": 50,
-   "growth": 252.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-07",
-   "pushed": "2026-11-09",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.778,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 45.8,
-   "old": true
-  },
-  {
-   "full": "hummingbot/hummingbot",
-   "url": "https://github.com/hummingbot/hummingbot",
-   "desc": "Open source software that helps you create and deploy high-frequency crypto trading bots",
-   "lang": "Python",
-   "stars": 21103,
-   "forks": 5133,
-   "growth": 99.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "algotrading",
-    "arbitrage",
-    "backtesting",
-    "binance",
-    "bitcoin"
-   ],
-   "created": "2019-04-02",
-   "pushed": "2026-11-09",
-   "license": "Apache-2.0",
-   "homepage": "https://hummingbot.org",
-   "src": [
-    "trending"
-   ],
-   "buzz": 6.597,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 44.6,
-   "old": true
-  },
-  {
-   "full": "janestreet/agent_skills",
-   "url": "https://github.com/janestreet/agent_skills",
-   "desc": "Agent skills",
-   "lang": "",
-   "stars": 1069,
-   "forks": 60,
-   "growth": 178.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-03",
-   "pushed": "2026-11-03",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.583,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 44.5,
-   "old": true
-  },
-  {
-   "full": "vsmutok/FuckCaptcha",
-   "url": "https://github.com/vsmutok/FuckCaptcha",
-   "desc": "Open field guide to 39 CAPTCHA types: identification signals, free and open-source bypass methods, and paid alternatives. Includes a searchable web version.",
-   "lang": "HTML",
-   "stars": 121,
-   "forks": 12,
-   "growth": 0.0,
-   "hn_points": 44,
-   "hn_comments": 12,
-   "hn_url": "https://news.ycombinator.com/item?id=50415078",
-   "topics": [
-    "anti-bot",
-    "arkose",
-    "awesome",
-    "awesome-list",
-    "bot-detection",
-    "captcha"
-   ],
-   "created": "2024-11-19",
-   "pushed": "2026-11-08",
-   "license": "CC0-1.0",
-   "homepage": "https://vsmutok.github.io/FuckCaptcha/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 6.555,
-   "first_seen": "2026-11-09",
-   "downloads": 0,
-   "score": 44.3,
-   "old": true
-  },
-  {
-   "full": "TooonyChen/finallyshell",
-   "url": "https://github.com/TooonyChen/finallyshell",
-   "desc": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-   "lang": "Go",
-   "stars": 412,
-   "forks": 39,
-   "growth": 206.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "finalshell",
-    "libghostty",
-    "mygo-ui",
-    "ssh",
-    "ssh-client",
-    "terminal"
-   ],
-   "created": "2026-11-07",
-   "pushed": "2026-11-09",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.537,
-   "first_seen": "2026-11-09",
-   "downloads": 1264,
-   "score": 44.2,
    "old": true
   }
  ]
