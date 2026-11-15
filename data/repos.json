@@ -1,8 +1,939 @@
 {
- "date": "2026-11-14",
- "generated": "2026-11-14T11:42+00:00",
- "model": "",
+ "date": "2026-11-15",
+ "generated": "2026-11-15T12:10+00:00",
+ "model": "gemini-flash-latest",
  "items": [
+  {
+   "full": "Vaibhaav-Tiwari/deepseek-v3-jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "desc": "DeepSeek V3 (MLA, DeepSeekMoE, aux-loss-free balancing, MTP) in 190 lines of pure JAX, trained on a MacBook Air. Write-up: vaibhaav.in/writing/deepseek-v3-jax",
+   "lang": "Python",
+   "stars": 169,
+   "forks": 14,
+   "growth": 84.5,
+   "hn_points": 241,
+   "hn_comments": 23,
+   "hn_url": "https://news.ycombinator.com/item?id=50497589",
+   "topics": [],
+   "created": "2026-11-13",
+   "pushed": "2026-11-15",
+   "license": "MIT",
+   "homepage": "https://vaibhaav.in/writing/deepseek-v3-jax/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 13.334,
+   "first_seen": "2026-11-15",
+   "downloads": 113,
+   "score": 100.0
+  },
+  {
+   "full": "paul-nameless/agweb",
+   "url": "https://github.com/paul-nameless/agweb",
+   "desc": " A browser built for agents - no focus stealing, a tiny footprint, all tabs in one view.",
+   "lang": "Swift",
+   "stars": 209,
+   "forks": 6,
+   "growth": 52.2,
+   "hn_points": 100,
+   "hn_comments": 30,
+   "hn_url": "https://news.ycombinator.com/item?id=50497147",
+   "topics": [],
+   "created": "2026-11-11",
+   "pushed": "2026-11-14",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 11.956,
+   "first_seen": "2026-11-15",
+   "downloads": 58,
+   "score": 89.7
+  },
+  {
+   "full": "Tthanh2k6/turbo-browser-mcp",
+   "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+   "desc": "High-speed Playwright MCP server with multi-tab batching, compact delta DOM snapshots, React/Shadow DOM/iframe form filling, disk file uploads, and submit guards",
+   "lang": "JavaScript",
+   "stars": 68,
+   "forks": 4,
+   "growth": 68.0,
+   "hn_points": 38,
+   "hn_comments": 7,
+   "hn_url": "https://news.ycombinator.com/item?id=50503930",
+   "topics": [],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 10.309,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "score": 77.3
+  },
+  {
+   "full": "toppatronweave/ai--manus2.0",
+   "url": "https://github.com/toppatronweave/ai--manus2.0",
+   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "lang": "",
+   "stars": 665,
+   "forks": 5,
+   "growth": 665.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.802,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Önálló feladatvégző AI-ügynök rendszer",
+    "mit_csinal": "Ez a rendszer egy autonóm AI-ügynök, amely képes saját maga kódot írni, futtatni és böngészőt irányítani feladatok elvégzéséhez. Utasításra végiglátogat weboldalakat, adatokat gyűjt, űrlapokat tölt ki vagy kisebb szkripteket hajt végre elszigetelt környezetben. A háttérben dolgozva igyekszik levenni a repetitív digitális teendőket a válladról.",
+    "mire_jo": "Automatizálhatsz vele hétköznapi feladatokat, vagy ötletet meríthetsz belőle saját autonóm AI-ügynökeid megépítéséhez.",
+    "kategoria": "AI",
+    "telefonrol": "részben",
+    "egyezes": 85,
+    "miert": "Közvetlenül az autonóm AI-ügynökökre és a mindennapi feladatok gépi megoldására fókuszál, ami a legfontosabb érdeklődési köröd."
+   },
+   "score": 74.4
+  },
+  {
+   "full": "IRS-Public/direct-file",
+   "url": "https://github.com/IRS-Public/direct-file",
+   "desc": "Direct File",
+   "lang": "JavaScript",
+   "stars": 4719,
+   "forks": 1383,
+   "growth": 0.0,
+   "hn_points": 166,
+   "hn_comments": 101,
+   "hn_url": "https://news.ycombinator.com/item?id=50499083",
+   "topics": [],
+   "created": "2025-05-19",
+   "pushed": "2026-06-11",
+   "license": "",
+   "homepage": "https://directfile.irs.gov",
+   "src": [
+    "hn"
+   ],
+   "buzz": 9.683,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "score": 72.6
+  },
+  {
+   "full": "dream-num/univer",
+   "url": "https://github.com/dream-num/univer",
+   "desc": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+   "lang": "TypeScript",
+   "stars": 25209,
+   "forks": 2308,
+   "growth": 495.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "board",
+    "collaboration",
+    "doc",
+    "docx",
+    "excel",
+    "offce365"
+   ],
+   "created": "2022-09-29",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "https://univer.ai",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.234,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Beágyazható irodai csomag AI támogatással",
+    "mit_csinal": "Egy webre épülő irodai szoftvercsomag, amely táblázatokat és dokumentumszerkesztőt biztosít. Lehetővé teszi a valós idejű közös munkát, miközben a felület közvetlenül összeköthető mesterséges intelligencia ügynökökkel is.",
+    "mire_jo": "Saját projektjeidbe építhetsz be vele testreszabható táblázat- vagy szövegszerkesztőt, amit AI-val is vezérelhetsz.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 78,
+    "miert": "Népszerű, kiválóan bővíthető eszköz AI-ügynök integrációval, bár elsősorban nem Androidra készült."
+   },
+   "score": 71.5
+  },
+  {
+   "full": "trackersnailgrip/GitHub-Copilot-app",
+   "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 666,
+   "forks": 12,
+   "growth": 666.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.803,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "GitHub Copilot asztali fejlesztői ügynök",
+    "mit_csinal": "Ez az asztali szoftver egy felületre gyűjti össze a szoftverfejlesztési feladatokat és a hozzájuk rendelt AI-ügynököket. Képes a háttérben párhuzamosan kódhibákat vizsgálni, módosításokat tesztelni és pull requesteket előkészíteni elszigetelt környezetekben. Segítségével több feladatot hajthatsz végre anélkül, hogy kézzel kellene váltogatnod a terminálablakok között.",
+    "mire_jo": "Közvetlenül felgyorsíthatod vele a saját GitHub-projektjeid kódolását párhuzamosan dolgozó AI-ügynökökkel.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Tökéletesen passzol a fejlesztői munkáidhoz és az AI-ügynökök iránti érdeklődésedhez, de PC-s asztali környezetet igényel."
+   },
+   "score": 71.4
+  },
+  {
+   "full": "TradesmanRecord/GitHub-Copilot-app",
+   "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 665,
+   "forks": 12,
+   "growth": 665.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.802,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "GitHub Copilot asztali ügynök központ",
+    "mit_csinal": "Ez az alkalmazás önálló AI-ügynökök segítségével kezeli a GitHub repókban felmerülő programozási teendőket. Lehetővé teszi, hogy a mesterséges intelligencia önállóan javítson hibákat és készítsen változtatásokat különálló munkakörnyezetekben. Egyetlen vizuális felületen követheted és irányíthatod az ügynökök előrehaladását.",
+    "mire_jo": "Saját fejlesztéseid automatizálására és GitHub Actions-közeli feladataid felügyeletére használhatod a számítógépeden.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Kifejezetten a GitHubos fejlesztési folyamataidat támogatja önálló AI-ügynökökkel, ami telitalálat az érdeklődésednek."
+   },
+   "score": 71.4
+  },
+  {
+   "full": "TurkeyDesignate/GitHub-Copilot-app",
+   "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 664,
+   "forks": 387,
+   "growth": 664.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.8,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Munkafolyamat-kezelő AI-ügynök asztali alkalmazás",
+    "mit_csinal": "Egy asztali alkalmazás, amely mesterséges intelligencia ügynökökkel automatizálja a szoftverfejlesztési feladatokat a GitHub repókban. Különálló munkakörnyezetekben futtatja a feladatokat a kódolástól a hibajavításig és kód-átvizsgálásig.",
+    "mire_jo": "Önállóan dolgozó AI-ügynökökre bízhatsz hibajavításokat és rutinfeladatokat a saját GitHub repóidban.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Kifejezetten illik az AI-ügynökök iránti érdeklődésedhez és a fejlesztői munkádhoz, bár kizárólag PC-s környezetet igényel."
+   },
+   "score": 71.4
+  },
+  {
+   "full": "TurquoiseConsultant/GitHub-Copilot-app",
+   "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 664,
+   "forks": 263,
+   "growth": 664.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.8,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "GitHub AI-ügynök asztali vezérlőközpont",
+    "mit_csinal": "Ez az eszköz egy asztali felületet nyújt GitHub-alapú szoftverfejlesztési feladatok AI-ügynökökkel történő elvégzésére. Az ügynökök párhuzamosan tudnak dolgozni hibajavításokon, kódváltoztatásokon és pull requesteken.",
+    "mire_jo": "Párhuzamos AI-ügynököket futtathatsz a kódolási feladatok gyorsítására és ellenőrzésére a projektjeidben.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Pontosan lefedi az autonóm kódoló AI-eszközök iránti igényedet, de telefonról nem érhető el."
+   },
+   "score": 71.4
+  },
+  {
+   "full": "TrapBladesmith/GitHub-Copilot-app",
+   "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 664,
+   "forks": 12,
+   "growth": 664.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.8,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "AI-ügynököket futtató fejlesztői asztali szoftver",
+    "mit_csinal": "Az alkalmazás egy központi felületen teszi lehetővé párhuzamos AI-ügynökök indítását és felügyeletét a repóidban. Elszeparált git munkakörnyezetben készíti elő a változtatásokat közvetlenül pull requestekig.",
+    "mire_jo": "Használhatod a meglévő projektjeid automatizált továbbfejlesztésére és hibakeresésére önálló AI-asszisztensekkel.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 80,
+    "miert": "Erősen illeszkedik a fejlesztői AI-ügynökökkel kapcsolatos terveidhez, viszont csak számítógépen működtethető."
+   },
+   "score": 71.4
+  },
+  {
+   "full": "matheuzgomes/gawain",
+   "url": "https://github.com/matheuzgomes/gawain",
+   "desc": "Find every missing type hint in your Python code, in milliseconds.",
+   "lang": "Rust",
+   "stars": 31,
+   "forks": 0,
+   "growth": 10.3,
+   "hn_points": 56,
+   "hn_comments": 33,
+   "hn_url": "https://news.ycombinator.com/item?id=50504072",
+   "topics": [
+    "cli",
+    "code-quality",
+    "developer-tools",
+    "linter",
+    "pre-commit",
+    "pyrefly"
+   ],
+   "created": "2026-11-12",
+   "pushed": "2026-11-13",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 9.383,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "score": 70.4
+  },
+  {
+   "full": "topapothecarycanal/ai--manus2.0",
+   "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "lang": "",
+   "stars": 666,
+   "forks": 12,
+   "growth": 666.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.803,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Autonóm böngésző- és kódkezelő AI-ügynök",
+    "mit_csinal": "Ez a projekt egy olyan mesterséges intelligencia ügynök leírását adja, amely önállóan képes feladatokat végezni. Képes kódokat futtatni, weboldalakon űrlapokat kitölteni és adatokat gyűjteni felhasználói beavatkozás nélkül. A folyamatokat egy elzárt környezetben hajtja végre.",
+    "mire_jo": "Inspirációt és ötleteket adhat saját feladatautomatizáló AI-ügynökök építéséhez és vezérléséhez.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 65,
+    "miert": "A felvázolt autonóm AI-ügynök témája pont vág az érdeklődésedbe, de a repó felépítése promóciós jellegű másolatra utal."
+   },
+   "score": 62.4
+  },
+  {
+   "full": "trackboatwrightplan/GitHub-Copilot-app",
+   "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 672,
+   "forks": 12,
+   "growth": 672.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.814,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Asztali Copilot fejlesztői ügynök felület",
+    "mit_csinal": "Egy asztali vezérlőközpont, amely GitHub Copilot ügynökökkel végeztet programozási munkát a háttérben. Segít felderíteni a hibákat, önállóan elkészíti a javításokat, és párhuzamos környezetekben dolgozik a kódon.",
+    "mire_jo": "Kipróbálhatod, hogyan tudnak autonóm AI-ügynökök párhuzamosan kódolni és Pull Requesteket készíteni a saját projektjeidben.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 60,
+    "miert": "Az AI-ügynökös fejlesztés témája telitalálat, de ez a repó egy gyanús másolat a hivatalos Copilot appról."
+   },
+   "score": 59.4
+  },
+  {
+   "full": "TrapAccountant/GitHub-Copilot-app",
+   "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 670,
+   "forks": 12,
+   "growth": 670.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.811,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Asztali munkaállomás AI-ügynökös fejlesztéshez",
+    "mit_csinal": "Ez az alkalmazás a fejlesztési feladatok koordinálására szolgál, ahol mesterséges intelligencia ügynökök dolgoznak önállóan a kódbázison. Egyszerre több feladaton tudnak dolgozni elkülönített környezetben anélkül, hogy összezavarnák a munkádat.",
+    "mire_jo": "Automatizált, több ügynökös fejlesztési munkafolyamatokat tesztelhetsz vele közvetlenül a GitHub-tárolóidon.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 60,
+    "miert": "Nagyon jól vág az AI-alapú fejlesztési érdeklődésedbe, viszont a projekt nem a hivatalos forrásból származik."
+   },
+   "score": 59.4
+  },
+  {
+   "full": "Topkiflare74/ai--manus2.0",
+   "url": "https://github.com/Topkiflare74/ai--manus2.0",
+   "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+   "lang": "",
+   "stars": 678,
+   "forks": 5,
+   "growth": 678.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "ai-sdk",
+    "anthropic",
+    "chatbot",
+    "function-calling"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.825,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Önálló böngészős és kódoló AI-ügynök",
+    "mit_csinal": "Egy olyan mesterséges intelligencia rendszer, amely képes önállóan kódokat futtatni és böngészőt irányítani a háttérben. Képes weboldalakat bejárni, űrlapokat kitölteni és többlépéses feladatokat emberi beavatkozás nélkül elvégezni.",
+    "mire_jo": "Kipróbálhatod vele az önműködő böngészős automatizációt és az AI-ügynökök által vezérelt feladatvégzést.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 55,
+    "miert": "A téma kifejezetten illik az érdeklődésedhez, de a tároló gyanús másolatnak és promóciós próbálkozásnak tűnik."
+   },
+   "score": 56.5
+  },
+  {
+   "full": "toppatronweave/GitHub-Copilot-app",
+   "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+   "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+   "lang": "",
+   "stars": 666,
+   "forks": 309,
+   "growth": 666.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "adminlte",
+    "agent-skills",
+    "ai",
+    "awesome",
+    "chatgpt",
+    "copilot"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.803,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Asztali környezet AI-fejlesztői munkához",
+    "mit_csinal": "A leírás szerint egy olyan asztali alkalmazás, amely párhuzamos AI-ügynökökkel segít a GitHub repók kódjának írásában és javításában. Összefogja a feladatokat, a hibajegyeket és az ügynökök munkáját egyetlen felületen. Különálló munkakörnyezetekben dolgozik, így elkerülhetők az ütközések.",
+    "mire_jo": "Fejlesztési munkafolyamatok automatizálására és AI-ügynökök párhuzamos felügyeletére lehetne alkalmas.",
+    "kategoria": "AI",
+    "telefonrol": "nem",
+    "egyezes": 55,
+    "miert": "A fejlesztést segítő AI-ügynökök témája nagyon találó, ám maga a repó nem hivatalos és megtévesztő forrásnak tűnik."
+   },
+   "score": 56.4
+  },
+  {
+   "full": "Torusdrasocket/IPTV_Player_2.0",
+   "url": "https://github.com/Torusdrasocket/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 665,
+   "forks": 12,
+   "growth": 665.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.802,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Többplatformos IPTV médialejátszó alkalmazás",
+    "mit_csinal": "Az alkalmazás élő televíziós adások és internetes videóstreamelés lejátszására szolgál. Támogatja az M3U lejátszási listákat, a műsorújságokat és a közösségi forrásokat több különböző felületen.",
+    "mire_jo": "Hasznos hétköznapi appként használhatod online TV-adások és műsorok nézésére PC-n vagy Android eszközön.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 45,
+    "miert": "Hétköznapi streaming eszköz Android támogatással, de nem kapcsolódik az AI vagy a képelemzési érdeklődésedhez."
+   },
+   "score": 50.4
+  },
+  {
+   "full": "TowerStalker/IPTV_Player_2.0",
+   "url": "https://github.com/TowerStalker/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 665,
+   "forks": 0,
+   "growth": 665.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.802,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Többplatformos IPTV médialejátszó alkalmazás",
+    "mit_csinal": "Az alkalmazás élő televíziós csatornák és stream adások megtekintését teszi lehetővé. Segítségével M3U listákat és elektronikus műsorújságokat kezelhetsz egy egységes felületen.",
+    "mire_jo": "Saját lejátszási listáiddal használhatod internetes tévézésre számítógépen vagy Androidon.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 45,
+    "miert": "Bár praktikus hétköznapi médialejátszó, távol áll a fejlesztési és AI-ügynök fókuszodtól."
+   },
+   "score": 50.4
+  },
+  {
+   "full": "WarriorRemember/IPTV_Player_2.0",
+   "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 673,
+   "forks": 12,
+   "growth": 673.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.816,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Többplatformos ingyenes IPTV lejátszó szoftver",
+    "mit_csinal": "Egy online televíziós adások lejátszására alkalmas program, amely kezeli a népszerű lejátszási listákat és műsorújságokat. Különböző eszközökön biztosít hozzáférést a nemzetközi és ingyenes csatornákhoz.",
+    "mire_jo": "Hétköznapi tévézésre és műsorok lejátszására használhatod a saját eszközeiden, beleértve az Androidot is.",
+    "kategoria": "eszköz",
+    "telefonrol": "nem",
+    "egyezes": 40,
+    "miert": "Bár hasznos hétköznapi app lehet és Androidra is létezik, a repó tartalma gyanús, megbízhatatlan forrásnak tűnik."
+   },
+   "score": 47.4
+  },
+  {
+   "full": "TurquoiseDetective/IPTV_Player_2.0",
+   "url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 669,
+   "forks": 12,
+   "growth": 669.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.809,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Ingyenes IPTV és stream lejátszó",
+    "mit_csinal": "Online tévécsatornák és videós lejátszási listák megtekintésére alkalmas szoftver. Segítségével közvetlenül játszhatók le különféle élő adások több platformon. A leírás szerint asztali gépeken és Android eszközökön egyaránt fut.",
+    "mire_jo": "Médiafolyamok lejátszására és tesztelésére használható Androidon vagy számítógépen.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 35,
+    "miert": "Bár van Androidos vonatkozása, ez egy nem túl megbízható forrásból származó multimédiás lejátszó, ami távol áll a fejlesztési érdeklődésedtől."
+   },
+   "score": 44.4
+  },
+  {
+   "full": "tornadonovicewhirl40/IPTV_Player_2.0",
+   "url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 669,
+   "forks": 12,
+   "growth": 669.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.809,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Média- és tévécsatorna lejátszó alkalmazás",
+    "mit_csinal": "Különböző forrásokból származó M3U lejátszási listákat kezelő program. Támogatja a műsorújságok beolvasását és az élő csatornák közvetítését. Elérhető asztali operációs rendszerekre és Androidra is.",
+    "mire_jo": "IPTV hálózatok és stream linkek kipróbálására használható telefonon vagy tévéokosítón.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 30,
+    "miert": "Ugyanannak a gyanús IPTV alkalmazásnak a másolata, amely nem nyújt hasznosítható alapot saját fejlesztésekhez."
+   },
+   "score": 41.4
+  },
+  {
+   "full": "WattBeetleLearn/IPTV_Player_2.0",
+   "url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 667,
+   "forks": 12,
+   "growth": 667.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.805,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Többplatformos élő adás lejátszó",
+    "mit_csinal": "Ez a program internetes televízióadások és videólisták egyszerű megnyitását teszi lehetővé. Külön beállítások nélkül segít internetes adások gyors megtekintésében. Asztali gépen és Androidon is használható.",
+    "mire_jo": "Online közvetítések és videós adatfolyamok egyszerű megtekintésére alkalmas.",
+    "kategoria": "Android",
+    "telefonrol": "igen",
+    "egyezes": 30,
+    "miert": "Teljes klónja a korábbi IPTV repóknak, fejlesztési vagy AI szempontból semmilyen értéket nem képvisel."
+   },
+   "score": 41.4
+  },
+  {
+   "full": "Trapbraneedle/IPTV_Player_2.0",
+   "url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 666,
+   "forks": 12,
+   "growth": 666.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.803,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Ingyenes IPTV és tévé lejátszó",
+    "mit_csinal": "Ez az alkalmazás internetes tévéadások és videós közvetítések lejátszására szolgál különféle eszközökön. Képes M3U lejátszási listákat kezelni és műsorújságot megjeleníteni. Egyszerű felületen teszi elérhetővé a különféle ingyenes közvetítéseket.",
+    "mire_jo": "Kipróbálhatod online tévéadások és adásfolyamok megtekintésére PC-n vagy Androidos készüléken.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 25,
+    "miert": "Bár hétköznapi appként érdekes lehet és említi az Androidot, nem kapcsolódik az AI-hoz és a fejlesztési projektjeidhez."
+   },
+   "score": 38.4
+  },
+  {
+   "full": "Titanlushrink/IPTV_Player_2.0",
+   "url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
+   "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+   "lang": "Rust",
+   "stars": 665,
+   "forks": 12,
+   "growth": 665.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "dash",
+    "ip-tv",
+    "iptv",
+    "iptv-channels",
+    "iptv-m3u8",
+    "iptv-player"
+   ],
+   "created": "2026-11-14",
+   "pushed": "2026-11-15",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.802,
+   "first_seen": "2026-11-15",
+   "downloads": 0,
+   "ai": {
+    "cim": "Többplatformos ingyenes IPTV lejátszó app",
+    "mit_csinal": "Ez a program internetes televíziós csatornák és videós listák megnyitását teszi lehetővé asztali gépeken és telefonokon. Felismeri a népszerű lejátszási listákat, kezeli az elektronikus műsorújságot és támogatja a közvetlen streamelést. Célja, hogy egyszerűbbé tegye az élő adások elérését.",
+    "mire_jo": "Használhatod hagyományos tévéadások és videostream-listák lejátszására számítógépen vagy Androidon.",
+    "kategoria": "eszköz",
+    "telefonrol": "részben",
+    "egyezes": 25,
+    "miert": "Nem kapcsolódik a mesterséges intelligenciához vagy kódoláshoz, csupán egy általános médiafogyasztó segédprogram."
+   },
+   "score": 38.4
+  },
   {
    "full": "ggml-org/ggml",
    "url": "https://github.com/ggml-org/ggml",
@@ -27,7 +958,8 @@
    "buzz": 10.23,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "basetenlabs/deepseek-ultrafast",
@@ -52,7 +984,8 @@
    "buzz": 9.187,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 89.8
+   "score": 89.8,
+   "old": true
   },
   {
    "full": "lonewolf-im/lonewolf",
@@ -83,7 +1016,8 @@
    "buzz": 8.382,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 81.9
+   "score": 81.9,
+   "old": true
   },
   {
    "full": "Christ10-8/reflota",
@@ -108,7 +1042,8 @@
    "buzz": 8.329,
    "first_seen": "2026-11-14",
    "downloads": 14,
-   "score": 81.4
+   "score": 81.4,
+   "old": true
   },
   {
    "full": "deepseek-ai/chat-demo",
@@ -132,7 +1067,8 @@
    "buzz": 7.976,
    "first_seen": "2026-11-14",
    "downloads": 836,
-   "score": 78.0
+   "score": 78.0,
+   "old": true
   },
   {
    "full": "tradermonty/claude-trading-skills",
@@ -156,7 +1092,8 @@
    "buzz": 7.962,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 77.8
+   "score": 77.8,
+   "old": true
   },
   {
    "full": "opencoredev/islandcn",
@@ -187,7 +1124,8 @@
    "buzz": 7.548,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 73.8
+   "score": 73.8,
+   "old": true
   },
   {
    "full": "faizfahmi77/ScanDot",
@@ -216,7 +1154,8 @@
    "buzz": 7.285,
    "first_seen": "2026-11-14",
    "downloads": 20,
-   "score": 71.2
+   "score": 71.2,
+   "old": true
   },
   {
    "full": "duwqijlk/muse-protocol",
@@ -240,7 +1179,8 @@
    "buzz": 6.959,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 68.0
+   "score": 68.0,
+   "old": true
   },
   {
    "full": "rivet-dev/open-orange",
@@ -271,7 +1211,8 @@
    "buzz": 6.735,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 65.8
+   "score": 65.8,
+   "old": true
   },
   {
    "full": "makepad/relax",
@@ -295,7 +1236,8 @@
    "buzz": 6.387,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 62.4
+   "score": 62.4,
+   "old": true
   },
   {
    "full": "adriadam10/mkw-recomp",
@@ -319,7 +1261,8 @@
    "buzz": 6.255,
    "first_seen": "2026-11-14",
    "downloads": 50990,
-   "score": 61.1
+   "score": 61.1,
+   "old": true
   },
   {
    "full": "linknimiball1974/ai-texture-forge",
@@ -350,7 +1293,8 @@
    "buzz": 6.183,
    "first_seen": "2026-11-14",
    "downloads": 636,
-   "score": 60.4
+   "score": 60.4,
+   "old": true
   },
   {
    "full": "abhigyanpatwari/GitNexus",
@@ -374,7 +1318,8 @@
    "buzz": 6.05,
    "first_seen": "2026-11-14",
    "downloads": 58,
-   "score": 59.1
+   "score": 59.1,
+   "old": true
   },
   {
    "full": "shanliuling/dsh-image-gen",
@@ -405,7 +1350,8 @@
    "buzz": 6.026,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 58.9
+   "score": 58.9,
+   "old": true
   },
   {
    "full": "TeamNewPipe/NewPipe",
@@ -434,7 +1380,8 @@
    "buzz": 6.015,
    "first_seen": "2026-11-14",
    "downloads": 900960,
-   "score": 58.8
+   "score": 58.8,
+   "old": true
   },
   {
    "full": "lidge-jun/opencodex",
@@ -465,7 +1412,8 @@
    "buzz": 5.973,
    "first_seen": "2026-11-14",
    "downloads": 89640,
-   "score": 58.4
+   "score": 58.4,
+   "old": true
   },
   {
    "full": "alexeyw/lot-map",
@@ -496,7 +1444,8 @@
    "buzz": 5.915,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 57.8
+   "score": 57.8,
+   "old": true
   },
   {
    "full": "op7418/guizang-game-skill",
@@ -527,7 +1476,8 @@
    "buzz": 5.891,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 57.6
+   "score": 57.6,
+   "old": true
   },
   {
    "full": "failsafe-security/artex",
@@ -551,7 +1501,8 @@
    "buzz": 5.808,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 56.8
+   "score": 56.8,
+   "old": true
   },
   {
    "full": "MSNightmare/SignDrop",
@@ -575,7 +1526,8 @@
    "buzz": 5.724,
    "first_seen": "2026-11-14",
    "downloads": 912,
-   "score": 56.0
+   "score": 56.0,
+   "old": true
   },
   {
    "full": "realcodebear/saltline-fable-5.2",
@@ -599,7 +1551,8 @@
    "buzz": 5.567,
    "first_seen": "2026-11-14",
    "downloads": 0,
-   "score": 54.4
+   "score": 54.4,
+   "old": true
   },
   {
    "full": "xiaoerofficial021-collab/FlowHMR-Windows",
@@ -623,7 +1576,8 @@
    "buzz": 5.475,
    "first_seen": "2026-11-14",
    "downloads": 8779,
-   "score": 53.5
+   "score": 53.5,
+   "old": true
   },
   {
    "full": "usememos/memos",
@@ -652,7 +1606,8 @@
    "buzz": 5.393,
    "first_seen": "2026-11-14",
    "downloads": 26849,
-   "score": 52.7
+   "score": 52.7,
+   "old": true
   },
   {
    "full": "amir1376/ab-download-manager",
@@ -683,7 +1638,8 @@
    "buzz": 5.375,
    "first_seen": "2026-11-14",
    "downloads": 895625,
-   "score": 52.5
+   "score": 52.5,
+   "old": true
   },
   {
    "full": "hyperionaidev/smolmaxxing",
