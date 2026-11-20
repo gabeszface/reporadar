@@ -1,8 +1,725 @@
 {
- "date": "2026-11-19",
- "generated": "2026-11-19T12:55+00:00",
+ "date": "2026-11-20",
+ "generated": "2026-11-20T13:02+00:00",
  "model": "",
  "items": [
+  {
+   "full": "openjdk/jdk",
+   "url": "https://github.com/openjdk/jdk",
+   "desc": "JDK main-line development https://openjdk.org/projects/jdk",
+   "lang": "Java",
+   "stars": 23552,
+   "forks": 6616,
+   "growth": 0.0,
+   "hn_points": 438,
+   "hn_comments": 123,
+   "hn_url": "https://news.ycombinator.com/item?id=50558906",
+   "topics": [
+    "java",
+    "jvm",
+    "openjdk"
+   ],
+   "created": "2018-09-17",
+   "pushed": "2026-11-20",
+   "license": "GPL-2.0",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 11.243,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "onlook-dev/onlook",
+   "url": "https://github.com/onlook-dev/onlook",
+   "desc": "The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers and Visual Engineers to design with Real Code.",
+   "lang": "TypeScript",
+   "stars": 27539,
+   "forks": 2165,
+   "growth": 0.0,
+   "hn_points": 120,
+   "hn_comments": 83,
+   "hn_url": "https://news.ycombinator.com/item?id=50562320",
+   "topics": [
+    "ai",
+    "astryx",
+    "claude-code",
+    "codex",
+    "cursor",
+    "design"
+   ],
+   "created": "2024-06-25",
+   "pushed": "2026-11-20",
+   "license": "Apache-2.0",
+   "homepage": "https://onlook.com",
+   "src": [
+    "hn"
+   ],
+   "buzz": 9.572,
+   "first_seen": "2026-11-20",
+   "downloads": 744005,
+   "score": 85.1
+  },
+  {
+   "full": "HKUDS/CLI-Anything",
+   "url": "https://github.com/HKUDS/CLI-Anything",
+   "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+   "lang": "Python",
+   "stars": 60987,
+   "forks": 5525,
+   "growth": 774.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-03-08",
+   "pushed": "2026-11-20",
+   "license": "Apache-2.0",
+   "homepage": "https://clianything.cc/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.857,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 78.8
+  },
+  {
+   "full": "zhouxiaoka/autoclip",
+   "url": "https://github.com/zhouxiaoka/autoclip",
+   "desc": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+   "lang": "Python",
+   "stars": 11861,
+   "forks": 1983,
+   "growth": 983.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agent",
+    "ai-video-editor",
+    "content-repurposing",
+    "desktop-app",
+    "douyin",
+    "instagram-reels"
+   ],
+   "created": "2025-07-08",
+   "pushed": "2026-11-20",
+   "license": "MIT",
+   "homepage": "https://zhouxiaoka.github.io/autoclip_intro/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.768,
+   "first_seen": "2026-11-20",
+   "downloads": 45992,
+   "score": 78.0
+  },
+  {
+   "full": "heygen-com/hyperframes",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "desc": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+   "lang": "TypeScript",
+   "stars": 87263,
+   "forks": 8119,
+   "growth": 616.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "animation",
+    "claude-code",
+    "ffmpeg",
+    "framework"
+   ],
+   "created": "2026-03-10",
+   "pushed": "2026-11-20",
+   "license": "Apache-2.0",
+   "homepage": "https://hyperframes.heygen.com",
+   "src": [],
+   "buzz": 8.701,
+   "first_seen": "2026-11-20",
+   "downloads": 1074,
+   "score": 77.4
+  },
+  {
+   "full": "bookwjitchieni1986/blender-ai-mcp-addon",
+   "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+   "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+   "lang": "",
+   "stars": 1014,
+   "forks": 1,
+   "growth": 1014.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "ai-assistant",
+    "blender",
+    "blender-addon",
+    "blender-ai",
+    "blender-automation"
+   ],
+   "created": "2026-11-19",
+   "pushed": "2026-11-19",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.307,
+   "first_seen": "2026-11-20",
+   "downloads": 781,
+   "score": 73.9
+  },
+  {
+   "full": "iamajmeena/neonclipping",
+   "url": "https://github.com/iamajmeena/neonclipping",
+   "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+   "lang": "Python",
+   "stars": 923,
+   "forks": 37,
+   "growth": 923.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "clipping",
+    "ffmpeg",
+    "shorts",
+    "video",
+    "whisper",
+    "yt-dlp"
+   ],
+   "created": "2026-11-19",
+   "pushed": "2026-11-20",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.194,
+   "first_seen": "2026-11-20",
+   "downloads": 4266,
+   "score": 72.9
+  },
+  {
+   "full": "Tracer-Cloud/opensre",
+   "url": "https://github.com/Tracer-Cloud/opensre",
+   "desc": "The open-source agent for CI/CD reliability.",
+   "lang": "Python",
+   "stars": 13361,
+   "forks": 1914,
+   "growth": 465.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "alerting",
+    "ci-cd",
+    "cli",
+    "datadog",
+    "devops",
+    "gitlab-ci"
+   ],
+   "created": "2026-01-13",
+   "pushed": "2026-11-20",
+   "license": "Apache-2.0",
+   "homepage": "https://opensre.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.044,
+   "first_seen": "2026-11-20",
+   "downloads": 1055,
+   "score": 71.5
+  },
+  {
+   "full": "herdrdev/herdr",
+   "url": "https://github.com/herdrdev/herdr",
+   "desc": "the runtime your coding agents live on",
+   "lang": "Rust",
+   "stars": 51994,
+   "forks": 4210,
+   "growth": 227.1,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli"
+   ],
+   "created": "2026-03-27",
+   "pushed": "2026-11-19",
+   "license": "Apache-2.0",
+   "homepage": "https://herdr.dev",
+   "src": [],
+   "buzz": 7.602,
+   "first_seen": "2026-11-20",
+   "downloads": 980351,
+   "score": 67.6
+  },
+  {
+   "full": "nginx/nginx",
+   "url": "https://github.com/nginx/nginx",
+   "desc": "The official NGINX Open Source repository.",
+   "lang": "C",
+   "stars": 32466,
+   "forks": 8426,
+   "growth": 246.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "content-cache",
+    "http",
+    "http2",
+    "http3",
+    "https",
+    "load-balancer"
+   ],
+   "created": "2015-06-23",
+   "pushed": "2026-11-18",
+   "license": "BSD-2-Clause",
+   "homepage": "https://nginx.org/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.587,
+   "first_seen": "2026-11-20",
+   "downloads": 20470,
+   "score": 67.5
+  },
+  {
+   "full": "Predidit/Kazumi",
+   "url": "https://github.com/Predidit/Kazumi",
+   "desc": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+   "lang": "Dart",
+   "stars": 43252,
+   "forks": 1490,
+   "growth": 225.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "cross-platform",
+    "danmaku",
+    "flutter",
+    "ios",
+    "linux-desktop"
+   ],
+   "created": "2024-05-09",
+   "pushed": "2026-11-20",
+   "license": "GPL-3.0",
+   "homepage": "https://kazumi.app",
+   "src": [],
+   "buzz": 7.555,
+   "first_seen": "2026-11-20",
+   "downloads": 1592421,
+   "score": 67.2
+  },
+  {
+   "full": "MSNightmare/FastUnlock",
+   "url": "https://github.com/MSNightmare/FastUnlock",
+   "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+   "lang": "",
+   "stars": 487,
+   "forks": 75,
+   "growth": 487.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-19",
+   "pushed": "2026-11-19",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.428,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 66.1
+  },
+  {
+   "full": "ollama/ollama",
+   "url": "https://github.com/ollama/ollama",
+   "desc": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+   "lang": "Go",
+   "stars": 187731,
+   "forks": 19182,
+   "growth": 135.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "deepseek",
+    "gemma",
+    "glm",
+    "go",
+    "golang",
+    "gpt-oss"
+   ],
+   "created": "2023-06-26",
+   "pushed": "2026-11-19",
+   "license": "MIT",
+   "homepage": "https://ollama.com",
+   "src": [],
+   "buzz": 7.341,
+   "first_seen": "2026-11-20",
+   "downloads": 14949694,
+   "score": 65.3
+  },
+  {
+   "full": "0marContreras/gta6recomp",
+   "url": "https://github.com/0marContreras/gta6recomp",
+   "desc": "A GTA VI PC Port",
+   "lang": "",
+   "stars": 736,
+   "forks": 45,
+   "growth": 368.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-18",
+   "pushed": "2026-11-18",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.231,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 64.3
+  },
+  {
+   "full": "FlashML-org/FreeVideo",
+   "url": "https://github.com/FlashML-org/FreeVideo",
+   "desc": "Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.",
+   "lang": "Python",
+   "stars": 3604,
+   "forks": 492,
+   "growth": 248.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "diffusion-models",
+    "inference",
+    "minimax-h3",
+    "video-generation"
+   ],
+   "created": "2026-09-13",
+   "pushed": "2026-11-19",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.155,
+   "first_seen": "2026-11-20",
+   "downloads": 174931,
+   "score": 63.6
+  },
+  {
+   "full": "haziqahmedqasmi/PeakCut",
+   "url": "https://github.com/haziqahmedqasmi/PeakCut",
+   "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+   "lang": "Python",
+   "stars": 1466,
+   "forks": 478,
+   "growth": 269.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-14",
+   "pushed": "2026-11-20",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.057,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 62.8
+  },
+  {
+   "full": "browser-use/browser-use",
+   "url": "https://github.com/browser-use/browser-use",
+   "desc": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+   "lang": "Python",
+   "stars": 121585,
+   "forks": 13593,
+   "growth": 105.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "ai-tools",
+    "browser-agent",
+    "browser-automation",
+    "browser-use",
+    "cdp"
+   ],
+   "created": "2024-10-31",
+   "pushed": "2026-11-20",
+   "license": "MIT",
+   "homepage": "https://browser-use.com",
+   "src": [],
+   "buzz": 7.005,
+   "first_seen": "2026-11-20",
+   "downloads": 6599,
+   "score": 62.3
+  },
+  {
+   "full": "phone-harness/phone-harness",
+   "url": "https://github.com/phone-harness/phone-harness",
+   "desc": "let your agent control your phone",
+   "lang": "Python",
+   "stars": 5277,
+   "forks": 554,
+   "growth": 174.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "ai",
+    "automation",
+    "developer-tools",
+    "mobile-ai",
+    "mobile-development"
+   ],
+   "created": "2026-08-07",
+   "pushed": "2026-11-20",
+   "license": "MIT",
+   "homepage": "phone-harness.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.879,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 61.2
+  },
+  {
+   "full": "microsoft/ai-agents-for-beginners",
+   "url": "https://github.com/microsoft/ai-agents-for-beginners",
+   "desc": "18 Lessons to Get Started Building AI Agents",
+   "lang": "Jupyter Notebook",
+   "stars": 80571,
+   "forks": 26336,
+   "growth": 99.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-rag",
+    "ai-agents",
+    "ai-agents-framework",
+    "autogen"
+   ],
+   "created": "2024-11-28",
+   "pushed": "2026-11-17",
+   "license": "MIT",
+   "homepage": "https://aka.ms/ai-agents-beginners",
+   "src": [],
+   "buzz": 6.869,
+   "first_seen": "2026-11-20",
+   "downloads": 0,
+   "score": 61.1
+  },
+  {
+   "full": "immich-app/immich",
+   "url": "https://github.com/immich-app/immich",
+   "desc": "High performance self-hosted photo and video management solution.",
+   "lang": "TypeScript",
+   "stars": 119710,
+   "forks": 7664,
+   "growth": 86.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "backup-tool",
+    "flutter",
+    "google-photos",
+    "google-photos-alternative",
+    "javascript",
+    "mobile-app"
+   ],
+   "created": "2022-02-03",
+   "pushed": "2026-11-20",
+   "license": "AGPL-3.0",
+   "homepage": "https://immich.app",
+   "src": [],
+   "buzz": 6.804,
+   "first_seen": "2026-11-20",
+   "downloads": 474518,
+   "score": 60.5
+  },
+  {
+   "full": "langgenius/dify",
+   "url": "https://github.com/langgenius/dify",
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+   "lang": "Python",
+   "stars": 161563,
+   "forks": 25543,
+   "growth": 72.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "automation"
+   ],
+   "created": "2023-04-12",
+   "pushed": "2026-11-20",
+   "license": "",
+   "homepage": "https://dify.ai",
+   "src": [],
+   "buzz": 6.689,
+   "first_seen": "2026-11-20",
+   "downloads": 30910,
+   "score": 59.5
+  },
+  {
+   "full": "rukamori/ArchiveTune",
+   "url": "https://github.com/rukamori/ArchiveTune",
+   "desc": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+   "lang": "Kotlin",
+   "stars": 8549,
+   "forks": 374,
+   "growth": 123.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android-application",
+    "android-studio",
+    "foss",
+    "jetpack-compose",
+    "kotlin",
+    "material-design"
+   ],
+   "created": "2025-09-01",
+   "pushed": "2026-11-20",
+   "license": "GPL-3.0",
+   "homepage": "https://archivetune.miuka.moe",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.631,
+   "first_seen": "2026-11-20",
+   "downloads": 1023223,
+   "score": 59.0
+  },
+  {
+   "full": "OpenHands/OpenHands",
+   "url": "https://github.com/OpenHands/OpenHands",
+   "desc": "🙌 OpenHands: AI-Driven Development",
+   "lang": "TypeScript",
+   "stars": 93893,
+   "forks": 12571,
+   "growth": 74.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools"
+   ],
+   "created": "2024-03-13",
+   "pushed": "2026-11-20",
+   "license": "MIT",
+   "homepage": "https://openhands.dev",
+   "src": [],
+   "buzz": 6.607,
+   "first_seen": "2026-11-20",
+   "downloads": 8514,
+   "score": 58.8
+  },
+  {
+   "full": "Lemxy/WinRust",
+   "url": "https://github.com/Lemxy/WinRust",
+   "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
+   "lang": "Rust",
+   "stars": 595,
+   "forks": 29,
+   "growth": 198.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-17",
+   "pushed": "2026-11-20",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.573,
+   "first_seen": "2026-11-20",
+   "downloads": 1919,
+   "score": 58.5
+  },
+  {
+   "full": "bannedbook/fanqiang",
+   "url": "https://github.com/bannedbook/fanqiang",
+   "desc": "翻墙-科学上网",
+   "lang": "Kotlin",
+   "stars": 57970,
+   "forks": 8851,
+   "growth": 76.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "brook",
+    "daze",
+    "fanqiang",
+    "goflyway",
+    "lightsocks",
+    "proxy"
+   ],
+   "created": "2015-01-14",
+   "pushed": "2026-11-11",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 6.544,
+   "first_seen": "2026-11-20",
+   "downloads": 33507,
+   "score": 58.2
+  },
   {
    "full": "eklavya-raj/gta6-uefi",
    "url": "https://github.com/eklavya-raj/gta6-uefi",
@@ -26,7 +743,8 @@
    "buzz": 10.014,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "microsoft/markitdown",
@@ -57,7 +775,8 @@
    "buzz": 8.705,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 86.9
+   "score": 86.9,
+   "old": true
   },
   {
    "full": "HKUDS/DeepTutor",
@@ -86,7 +805,8 @@
    "buzz": 8.646,
    "first_seen": "2026-11-19",
    "downloads": 34659,
-   "score": 86.3
+   "score": 86.3,
+   "old": true
   },
   {
    "full": "gylive/google-ultra",
@@ -110,7 +830,8 @@
    "buzz": 8.638,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 86.3
+   "score": 86.3,
+   "old": true
   },
   {
    "full": "Ri4dH/failtrace",
@@ -142,7 +863,8 @@
    "buzz": 8.62,
    "first_seen": "2026-11-19",
    "downloads": 36,
-   "score": 86.1
+   "score": 86.1,
+   "old": true
   },
   {
    "full": "awesome-selfhosted/awesome-selfhosted",
@@ -171,7 +893,8 @@
    "buzz": 8.36,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 83.5
+   "score": 83.5,
+   "old": true
   },
   {
    "full": "blader/humanizer",
@@ -200,7 +923,8 @@
    "buzz": 8.258,
    "first_seen": "2026-11-19",
    "downloads": 5418,
-   "score": 82.5
+   "score": 82.5,
+   "old": true
   },
   {
    "full": "anomalyco/opencode",
@@ -224,7 +948,8 @@
    "buzz": 8.249,
    "first_seen": "2026-11-19",
    "downloads": 936794,
-   "score": 82.4
+   "score": 82.4,
+   "old": true
   },
   {
    "full": "solidjs/solid",
@@ -255,7 +980,8 @@
    "buzz": 8.234,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 82.2
+   "score": 82.2,
+   "old": true
   },
   {
    "full": "Hut-hzf/ung220z-tool",
@@ -279,7 +1005,8 @@
    "buzz": 8.114,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 81.0
+   "score": 81.0,
+   "old": true
   },
   {
    "full": "cathrynlavery/diagram-design",
@@ -310,7 +1037,8 @@
    "buzz": 8.035,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 80.2
+   "score": 80.2,
+   "old": true
   },
   {
    "full": "mjmirza/app-store-compliance",
@@ -341,7 +1069,8 @@
    "buzz": 7.76,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 77.5
+   "score": 77.5,
+   "old": true
   },
   {
    "full": "earendil-works/pi",
@@ -365,7 +1094,8 @@
    "buzz": 7.601,
    "first_seen": "2026-11-19",
    "downloads": 752475,
-   "score": 75.9
+   "score": 75.9,
+   "old": true
   },
   {
    "full": "coreyhaines31/marketingskills",
@@ -394,7 +1124,8 @@
    "buzz": 7.473,
    "first_seen": "2026-11-19",
    "downloads": 27196,
-   "score": 74.6
+   "score": 74.6,
+   "old": true
   },
   {
    "full": "toeverything/AFFiNE",
@@ -425,7 +1156,8 @@
    "buzz": 7.386,
    "first_seen": "2026-11-19",
    "downloads": 5441,
-   "score": 73.8
+   "score": 73.8,
+   "old": true
   },
   {
    "full": "openvinotoolkit/openvino",
@@ -456,7 +1188,8 @@
    "buzz": 7.379,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 73.7
+   "score": 73.7,
+   "old": true
   },
   {
    "full": "headroomlabs-ai/headroom",
@@ -485,7 +1218,8 @@
    "buzz": 7.321,
    "first_seen": "2026-11-19",
    "downloads": 6724,
-   "score": 73.1
+   "score": 73.1,
+   "old": true
   },
   {
    "full": "rustdesk/rustdesk",
@@ -514,7 +1248,8 @@
    "buzz": 7.205,
    "first_seen": "2026-11-19",
    "downloads": 42287860,
-   "score": 71.9
+   "score": 71.9,
+   "old": true
   },
   {
    "full": "CzzzzzzJ/mdldm-maitian",
@@ -545,7 +1280,8 @@
    "buzz": 7.187,
    "first_seen": "2026-11-19",
    "downloads": 89894,
-   "score": 71.8
+   "score": 71.8,
+   "old": true
   },
   {
    "full": "n8n-io/n8n",
@@ -574,7 +1310,8 @@
    "buzz": 7.154,
    "first_seen": "2026-11-19",
    "downloads": 169,
-   "score": 71.4
+   "score": 71.4,
+   "old": true
   },
   {
    "full": "colbymchenry/codegraph",
@@ -598,7 +1335,8 @@
    "buzz": 7.089,
    "first_seen": "2026-11-19",
    "downloads": 673073,
-   "score": 70.8
+   "score": 70.8,
+   "old": true
   },
   {
    "full": "zephyr4123/snug",
@@ -629,7 +1367,8 @@
    "buzz": 7.073,
    "first_seen": "2026-11-19",
    "downloads": 2045,
-   "score": 70.6
+   "score": 70.6,
+   "old": true
   },
   {
    "full": "open-webui/open-webui",
@@ -658,7 +1397,8 @@
    "buzz": 6.958,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 69.5
+   "score": 69.5,
+   "old": true
   },
   {
    "full": "f/prompts.chat",
@@ -687,7 +1427,8 @@
    "buzz": 6.95,
    "first_seen": "2026-11-19",
    "downloads": 0,
-   "score": 69.4
+   "score": 69.4,
+   "old": true
   },
   {
    "full": "rtk-ai/rtk",
@@ -716,7 +1457,8 @@
    "buzz": 6.934,
    "first_seen": "2026-11-19",
    "downloads": 2517,
-   "score": 69.2
+   "score": 69.2,
+   "old": true
   },
   {
    "full": "jquery/jquery",
