@@ -1,8 +1,733 @@
 {
- "date": "2026-11-21",
- "generated": "2026-11-21T12:35+00:00",
+ "date": "2026-11-22",
+ "generated": "2026-11-22T12:45+00:00",
  "model": "",
  "items": [
+  {
+   "full": "ItsNotRexed/Leonida",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+   "lang": "Python",
+   "stars": 9724,
+   "forks": 744,
+   "growth": 4862.0,
+   "hn_points": 171,
+   "hn_comments": 133,
+   "hn_url": "https://news.ycombinator.com/item?id=50595168",
+   "topics": [],
+   "created": "2026-11-20",
+   "pushed": "2026-11-22",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 18.462,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "EL4CTEO/fast-anything",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+   "lang": "Rust",
+   "stars": 708,
+   "forks": 43,
+   "growth": 708.0,
+   "hn_points": 52,
+   "hn_comments": 32,
+   "hn_url": "https://news.ycombinator.com/item?id=50596155",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "developer-tools"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://www.npmjs.com/package/@el4cteo/fast-anything",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.04,
+   "first_seen": "2026-11-22",
+   "downloads": 97,
+   "score": 76.0
+  },
+  {
+   "full": "ShinMegamiBoson/lookatmyquant",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "desc": "A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size",
+   "lang": "Python",
+   "stars": 425,
+   "forks": 19,
+   "growth": 19.3,
+   "hn_points": 482,
+   "hn_comments": 121,
+   "hn_url": "https://news.ycombinator.com/item?id=50591853",
+   "topics": [],
+   "created": "2026-10-31",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://lookatmyquant.pages.dev",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 13.56,
+   "first_seen": "2026-11-22",
+   "downloads": 209,
+   "score": 73.4
+  },
+  {
+   "full": "tamnd/riemann-handbook",
+   "url": "https://github.com/tamnd/riemann-handbook",
+   "desc": "The Riemann Handbook: the proof of the Riemann Hypothesis in tamnd/riemann-lean, written as mathematics, as PDF and EPUB",
+   "lang": "Python",
+   "stars": 35,
+   "forks": 2,
+   "growth": 35.0,
+   "hn_points": 63,
+   "hn_comments": 28,
+   "hn_url": "https://news.ycombinator.com/item?id=50596664",
+   "topics": [],
+   "created": "2026-11-22",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://riemann.tamnd.com",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 10.638,
+   "first_seen": "2026-11-22",
+   "downloads": 1100,
+   "score": 57.6
+  },
+  {
+   "full": "DietrichGebert/ponytail",
+   "url": "https://github.com/DietrichGebert/ponytail",
+   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+   "lang": "JavaScript",
+   "stars": 196641,
+   "forks": 11087,
+   "growth": 859.2,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules"
+   ],
+   "created": "2026-06-12",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://ponytail.dev",
+   "src": [],
+   "buzz": 9.195,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 49.8
+  },
+  {
+   "full": "Leonxlnx/taste-skill",
+   "url": "https://github.com/Leonxlnx/taste-skill",
+   "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+   "lang": "JavaScript",
+   "stars": 119911,
+   "forks": 8034,
+   "growth": 612.9,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "anti-slop",
+    "claude-code",
+    "codex",
+    "cursor"
+   ],
+   "created": "2026-02-19",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://tasteskill.dev",
+   "src": [],
+   "buzz": 8.759,
+   "first_seen": "2026-11-22",
+   "downloads": 1545,
+   "score": 47.4
+  },
+  {
+   "full": "omonkeyz/xbox-emulator",
+   "url": "https://github.com/omonkeyz/xbox-emulator",
+   "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+   "lang": "Rust",
+   "stars": 1039,
+   "forks": 56,
+   "growth": 1039.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.336,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 45.2
+  },
+  {
+   "full": "cheaper-inference/OmniRoute",
+   "url": "https://github.com/cheaper-inference/OmniRoute",
+   "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
+   "lang": "TypeScript",
+   "stars": 89508,
+   "forks": 13836,
+   "growth": 315.6,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "a2a",
+    "ai-agents",
+    "ai-gateway",
+    "anthropic",
+    "claude",
+    "claude-code"
+   ],
+   "created": "2026-02-13",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://omniroute.online",
+   "src": [],
+   "buzz": 8.038,
+   "first_seen": "2026-11-22",
+   "downloads": 539825,
+   "score": 43.5
+  },
+  {
+   "full": "sebaandrada-cell/PcapAnalyzer",
+   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+   "desc": "Free, self-hosted pcap analyzer with 27 problem detectors and AI investigation",
+   "lang": "Python",
+   "stars": 144,
+   "forks": 1,
+   "growth": 0.0,
+   "hn_points": 127,
+   "hn_comments": 18,
+   "hn_url": "https://news.ycombinator.com/item?id=50594132",
+   "topics": [
+    "fastapi",
+    "network-troubleshooting",
+    "packet-analysis",
+    "pcap",
+    "tshark",
+    "wireshark"
+   ],
+   "created": "2026-10-21",
+   "pushed": "2026-11-21",
+   "license": "Apache-2.0",
+   "homepage": "https://pcap-analyzer-seven.vercel.app",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.996,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 43.3
+  },
+  {
+   "full": "ai-job-search-dev/ai-job-search",
+   "url": "https://github.com/ai-job-search-dev/ai-job-search",
+   "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+   "lang": "Python",
+   "stars": 72987,
+   "forks": 23371,
+   "growth": 307.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agents",
+    "career",
+    "claude-code",
+    "cover-letter",
+    "cv"
+   ],
+   "created": "2026-03-18",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "",
+   "src": [],
+   "buzz": 7.972,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 43.2
+  },
+  {
+   "full": "R0Y00/Xbox2Windows",
+   "url": "https://github.com/R0Y00/Xbox2Windows",
+   "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+   "lang": "Python",
+   "stars": 1132,
+   "forks": 107,
+   "growth": 566.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "d3d12",
+    "directx-raytracing",
+    "scarlett",
+    "static-recompilation",
+    "windows",
+    "xbox"
+   ],
+   "created": "2026-11-20",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.747,
+   "first_seen": "2026-11-22",
+   "downloads": 2104,
+   "score": 42.0
+  },
+  {
+   "full": "opokukopoku/gta-6-pc-release",
+   "url": "https://github.com/opokukopoku/gta-6-pc-release",
+   "desc": "GTA 6 PC Release: Full Access, Zero Hassle",
+   "lang": "HTML",
+   "stars": 443,
+   "forks": 0,
+   "growth": 443.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "gta6-cover-art",
+    "gta6-cover-art-01",
+    "gta6-disk-space",
+    "gta6-online",
+    "gta6-pc",
+    "gta6-preload"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.315,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 39.6
+  },
+  {
+   "full": "sybil-solutions/skill-distill",
+   "url": "https://github.com/sybil-solutions/skill-distill",
+   "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+   "lang": "Python",
+   "stars": 427,
+   "forks": 37,
+   "growth": 427.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-21",
+   "pushed": "2026-11-21",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.271,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 39.4
+  },
+  {
+   "full": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+   "url": "https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+   "desc": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "lang": "Jupyter Notebook",
+   "stars": 350,
+   "forks": 56,
+   "growth": 350.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "2026",
+    "ableton-live-12",
+    "all",
+    "autotune-pro",
+    "daw",
+    "daw-2026"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "https://kyle-millerx2098t3.github.io/daw-synth-fl-studio-2026-producer-portable-x64/",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.033,
+   "first_seen": "2026-11-22",
+   "downloads": 8,
+   "score": 38.1
+  },
+  {
+   "full": "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+   "url": "https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
+   "desc": "Discord & Local Uncensored AI Discord Activity serial-utility, Quest Auto-Completer & Badge Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "lang": "Jupyter Notebook",
+   "stars": 342,
+   "forks": 52,
+   "growth": 342.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "activity",
+    "auto",
+    "badge",
+    "booster",
+    "completer",
+    "cuda-portable"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "https://antonhall-x91s9.github.io/discord-local-uncensored-ai-activity-utility-quest-auto-po/",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.005,
+   "first_seen": "2026-11-22",
+   "downloads": 7,
+   "score": 37.9
+  },
+  {
+   "full": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+   "url": "https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
+   "desc": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "lang": "Jupyter Notebook",
+   "stars": 342,
+   "forks": 49,
+   "growth": 342.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ballistic-calculator",
+    "external-overlay",
+    "lead-indicator",
+    "mod",
+    "outline",
+    "realistic"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "https://danx1905k8.github.io/war-thunder-realistic-tank-outline-thermal-portable-x64/",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.005,
+   "first_seen": "2026-11-22",
+   "downloads": 7,
+   "score": 37.9
+  },
+  {
+   "full": "CETPROAR/rob-run-ares-enhancer",
+   "url": "https://github.com/CETPROAR/rob-run-ares-enhancer",
+   "desc": "Rob Run Ares Enhancer - Elevate Your Gameplay",
+   "lang": "HTML",
+   "stars": 340,
+   "forks": 0,
+   "growth": 340.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "rob-run-cheat-menu",
+    "rob-run-esp-tool",
+    "rob-run-hack-tool",
+    "rob-run-infinity-money",
+    "rob-run-internal",
+    "rob-run-menu-2026"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.998,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 37.9
+  },
+  {
+   "full": "leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+   "url": "https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
+   "desc": "GTA 6 Vice City PS5 Remote Play 60FPS FrameGen Enhancer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "lang": "Jupyter Notebook",
+   "stars": 340,
+   "forks": 47,
+   "growth": 340.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "60fps",
+    "dx12",
+    "enhancer",
+    "frame-generation",
+    "framegen",
+    "gta-60fps"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "https://leonmiller-io01l1.github.io/gta-6-vice-city-ps5-remote-play-60fps-portable-x64/",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.998,
+   "first_seen": "2026-11-22",
+   "downloads": 35,
+   "score": 37.9
+  },
+  {
+   "full": "juniordroid/better-discord-client",
+   "url": "https://github.com/juniordroid/better-discord-client",
+   "desc": "Better Discord Client: Remastered Desktop Experience for Modders",
+   "lang": "HTML",
+   "stars": 339,
+   "forks": 0,
+   "growth": 339.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.995,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 37.9
+  },
+  {
+   "full": "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+   "url": "https://github.com/markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
+   "desc": "ShadPS4 Bloodborne PC 60FPS Patch, Vertex Explosion Fix & SysModules Pack: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "lang": "Jupyter Notebook",
+   "stars": 339,
+   "forks": 56,
+   "growth": 339.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "60fps",
+    "60fps-patch",
+    "bloodborne-pc",
+    "explosion",
+    "fix",
+    "pack"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "https://markdevx1901r4.github.io/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl/",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.995,
+   "first_seen": "2026-11-22",
+   "downloads": 6,
+   "score": 37.9
+  },
+  {
+   "full": "darthvader097br-ctrl/acronis-standalone-bundle",
+   "url": "https://github.com/darthvader097br-ctrl/acronis-standalone-bundle",
+   "desc": "Acronis Bundle: Modular Desktop Suite for Integrated System Management",
+   "lang": "HTML",
+   "stars": 339,
+   "forks": 0,
+   "growth": 339.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "acronis-crack-2026",
+    "acronis-cracked",
+    "acronis-download-2026",
+    "acronis-download-free",
+    "acronis-free-2026",
+    "acronis-free-download"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.995,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 37.9
+  },
+  {
+   "full": "nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
+   "url": "https://github.com/nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
+   "desc": "Samsung & Android mtp-csc Toolkit UnlockTool Portable Loader — Xiaomi HyperOS 2.0 & Auth service-helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
+   "lang": "Jupyter Notebook",
+   "stars": 339,
+   "forks": 32,
+   "growth": 339.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "auth",
+    "helper",
+    "hyperos",
+    "hyperos-bootloader",
+    "loader",
+    "mtk-helper"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "https://nickcode-01e6.github.io/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port/",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.995,
+   "first_seen": "2026-11-22",
+   "downloads": 6,
+   "score": 37.9
+  },
+  {
+   "full": "bojieli/ai-agent-book",
+   "url": "https://github.com/bojieli/ai-agent-book",
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "lang": "Python",
+   "stars": 59057,
+   "forks": 6933,
+   "growth": 102.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "agent-memory",
+    "ai-agent",
+    "book",
+    "coding-agent",
+    "context-engineering"
+   ],
+   "created": "2025-09-09",
+   "pushed": "2026-11-22",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [],
+   "buzz": 6.832,
+   "first_seen": "2026-11-22",
+   "downloads": 204,
+   "score": 37.0
+  },
+  {
+   "full": "leanprover-community/riemann-hypothesis",
+   "url": "https://github.com/leanprover-community/riemann-hypothesis",
+   "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+   "lang": "Lean",
+   "stars": 517,
+   "forks": 110,
+   "growth": 258.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-20",
+   "pushed": "2026-11-22",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.809,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 36.9
+  },
+  {
+   "full": "coollabsio/coolify",
+   "url": "https://github.com/coollabsio/coolify",
+   "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+   "lang": "PHP",
+   "stars": 66350,
+   "forks": 6011,
+   "growth": 94.6,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "coolify",
+    "databases",
+    "deployment",
+    "docker",
+    "docker-compose",
+    "inertiajs"
+   ],
+   "created": "2021-01-25",
+   "pushed": "2026-11-21",
+   "license": "Apache-2.0",
+   "homepage": "https://coolify.io",
+   "src": [],
+   "buzz": 6.78,
+   "first_seen": "2026-11-22",
+   "downloads": 0,
+   "score": 36.7
+  },
   {
    "full": "tristanbuckmaster/navier-stokes",
    "url": "https://github.com/tristanbuckmaster/navier-stokes",
@@ -26,7 +751,8 @@
    "buzz": 15.415,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "bigcrimping/floppy3.5",
@@ -51,7 +777,8 @@
    "buzz": 11.152,
    "first_seen": "2026-11-21",
    "downloads": 13,
-   "score": 72.3
+   "score": 72.3,
+   "old": true
   },
   {
    "full": "diggerhq/opencomputer",
@@ -75,7 +802,8 @@
    "buzz": 8.361,
    "first_seen": "2026-11-21",
    "downloads": 199,
-   "score": 54.2
+   "score": 54.2,
+   "old": true
   },
   {
    "full": "github/spec-kit",
@@ -106,7 +834,8 @@
    "buzz": 8.037,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 52.1
+   "score": 52.1,
+   "old": true
   },
   {
    "full": "hatsunemiku-ai/google-one-tools",
@@ -130,7 +859,8 @@
    "buzz": 7.763,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 50.4
+   "score": 50.4,
+   "old": true
   },
   {
    "full": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
@@ -154,7 +884,8 @@
    "buzz": 6.804,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 44.1
+   "score": 44.1,
+   "old": true
   },
   {
    "full": "youhunwl/TVAPP",
@@ -183,7 +914,8 @@
    "buzz": 6.777,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 44.0
+   "score": 44.0,
+   "old": true
   },
   {
    "full": "hesreallyhim/awesome-claude-code",
@@ -212,7 +944,8 @@
    "buzz": 6.614,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 42.9
+   "score": 42.9,
+   "old": true
   },
   {
    "full": "agentscope-ai/agentscope",
@@ -243,7 +976,8 @@
    "buzz": 6.349,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 41.2
+   "score": 41.2,
+   "old": true
   },
   {
    "full": "Genymobile/scrcpy",
@@ -272,7 +1006,8 @@
    "buzz": 6.342,
    "first_seen": "2026-11-21",
    "downloads": 10608146,
-   "score": 41.1
+   "score": 41.1,
+   "old": true
   },
   {
    "full": "twentyhq/twenty",
@@ -303,7 +1038,8 @@
    "buzz": 6.332,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 41.1
+   "score": 41.1,
+   "old": true
   },
   {
    "full": "siliconjungle/shapeshift-labs-ink-studio",
@@ -327,7 +1063,8 @@
    "buzz": 6.267,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 40.7
+   "score": 40.7,
+   "old": true
   },
   {
    "full": "odoo/odoo",
@@ -358,7 +1095,8 @@
    "buzz": 6.176,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 40.1
+   "score": 40.1,
+   "old": true
   },
   {
    "full": "getpaseo/paseo",
@@ -387,7 +1125,8 @@
    "buzz": 6.116,
    "first_seen": "2026-11-21",
    "downloads": 3679855,
-   "score": 39.7
+   "score": 39.7,
+   "old": true
   },
   {
    "full": "sickn33/agentic-awesome-skills",
@@ -416,7 +1155,8 @@
    "buzz": 6.056,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 39.3
+   "score": 39.3,
+   "old": true
   },
   {
    "full": "SWE-agent/mini-swe-agent",
@@ -447,7 +1187,8 @@
    "buzz": 6.045,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 39.2
+   "score": 39.2,
+   "old": true
   },
   {
    "full": "replit/datacat",
@@ -478,7 +1219,8 @@
    "buzz": 6.031,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 39.1
+   "score": 39.1,
+   "old": true
   },
   {
    "full": "mastra-ai/mastra",
@@ -509,7 +1251,8 @@
    "buzz": 5.992,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 38.9
+   "score": 38.9,
+   "old": true
   },
   {
    "full": "vllm-project/vllm",
@@ -538,7 +1281,8 @@
    "buzz": 5.935,
    "first_seen": "2026-11-21",
    "downloads": 1022708,
-   "score": 38.5
+   "score": 38.5,
+   "old": true
   },
   {
    "full": "wshobson/agents",
@@ -569,7 +1313,8 @@
    "buzz": 5.87,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 38.1
+   "score": 38.1,
+   "old": true
   },
   {
    "full": "0xkaka/homeport",
@@ -593,7 +1338,8 @@
    "buzz": 5.838,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "JunkFood02/Seal",
@@ -624,7 +1370,8 @@
    "buzz": 5.781,
    "first_seen": "2026-11-21",
    "downloads": 6761187,
-   "score": 37.5
+   "score": 37.5,
+   "old": true
   },
   {
    "full": "SukiSU-Nova/SukiSU-Nova",
@@ -648,7 +1395,8 @@
    "buzz": 5.75,
    "first_seen": "2026-11-21",
    "downloads": 23419,
-   "score": 37.3
+   "score": 37.3,
+   "old": true
   },
   {
    "full": "unclecode/crawl4ai",
@@ -677,7 +1425,8 @@
    "buzz": 5.742,
    "first_seen": "2026-11-21",
    "downloads": 0,
-   "score": 37.2
+   "score": 37.2,
+   "old": true
   },
   {
    "full": "N3urda/hongguoTV",
@@ -701,7 +1450,8 @@
    "buzz": 5.618,
    "first_seen": "2026-11-21",
    "downloads": 30071,
-   "score": 36.4
+   "score": 36.4,
+   "old": true
   },
   {
    "full": "openjdk/jdk",
@@ -2183,811 +2933,6 @@
    "first_seen": "2026-11-19",
    "downloads": 2517,
    "score": 69.2,
-   "old": true
-  },
-  {
-   "full": "jquery/jquery",
-   "url": "https://github.com/jquery/jquery",
-   "desc": "jQuery JavaScript Library",
-   "lang": "JavaScript",
-   "stars": 59979,
-   "forks": 20696,
-   "growth": 268.0,
-   "hn_points": 334,
-   "hn_comments": 175,
-   "hn_url": "https://news.ycombinator.com/item?id=50537156",
-   "topics": [
-    "jquery"
-   ],
-   "created": "2009-04-03",
-   "pushed": "2026-11-17",
-   "license": "MIT",
-   "homepage": "https://jquery.com",
-   "src": [
-    "trending",
-    "hn"
-   ],
-   "buzz": 16.84,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "rohitg00/ai-engineering-from-scratch",
-   "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-   "desc": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
-   "lang": "Python",
-   "stars": 79429,
-   "forks": 14177,
-   "growth": 273.8,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agents",
-    "ai",
-    "ai-agents",
-    "ai-engineering",
-    "computer-vision",
-    "course"
-   ],
-   "created": "2026-03-18",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://aiengineeringfromscratch.com",
-   "src": [],
-   "buzz": 7.873,
-   "first_seen": "2026-11-18",
-   "downloads": 51381,
-   "ai": {
-    "cim": "AI-mérnökség és ügynöképítés az alapoktól",
-    "mit_csinal": "Gyakorlati leckéken és miniprojekteken keresztül tanítja meg a mesterséges intelligencia belső működését. Nem rejt el mindent kész keretrendszerek mögé, hanem egyszerű Python kódokkal építtet fel ügynököket és keresőrendszereket. Magyar nyelvű leírásokkal és kódoló ügynök integrációval is rendelkezik.",
-    "mire_jo": "AI-ügynökök, keresőmotorok és látómodellek működésének megértésére és saját projektekbe történő lefejlesztésére.",
-    "kategoria": "AI",
-    "telefonrol": "igen",
-    "egyezes": 92,
-    "miert": "Tökéletesen fedi az AI-ügynökök és gépi látás iránti érdeklődést, ráadásul böngészőből és magyarul is olvasható."
-   },
-   "score": 73.9,
-   "old": true
-  },
-  {
-   "full": "JuliusBrussee/caveman",
-   "url": "https://github.com/JuliusBrussee/caveman",
-   "desc": "why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.",
-   "lang": "Go",
-   "stars": 121193,
-   "forks": 7083,
-   "growth": 254.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "anthropic",
-    "caveman",
-    "claude",
-    "claude-code",
-    "llm"
-   ],
-   "created": "2026-04-04",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "https://docs.caveman.so/caveman",
-   "src": [],
-   "buzz": 7.885,
-   "first_seen": "2026-11-18",
-   "downloads": 606708,
-   "ai": {
-    "cim": "Költségcsökkentő tömörítő kódoló AI ügynökökhöz",
-    "mit_csinal": "Lényegretörővé és röviddé alakítja a kódoló mesterséges intelligenciák válaszait és az eszközök kimeneteit. Ezzel drasztikusan csökkenti a felhasznált tokenek számát, miközben a generált kód minősége változatlan marad. Proxyként működik, így a meglévő fejlesztői AI-ügynökök elé köthető.",
-    "mire_jo": "AI-kódoló ügynökök API-költségeinek és válaszidejének radikális lefaragására fejlesztés közben.",
-    "kategoria": "AI",
-    "telefonrol": "nem",
-    "egyezes": 88,
-    "miert": "Kifejezetten az AI-ügynökök hatékonyságát növelő, azonnal beépíthető és használható praktikus eszköz."
-   },
-   "score": 71.5,
-   "old": true
-  },
-  {
-   "full": "RunanywhereAI/trnrt",
-   "url": "https://github.com/RunanywhereAI/trnrt",
-   "desc": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
-   "lang": "Python",
-   "stars": 1629,
-   "forks": 22,
-   "growth": 85.7,
-   "hn_points": 50,
-   "hn_comments": 7,
-   "hn_url": "https://news.ycombinator.com/item?id=50533270",
-   "topics": [
-    "aws",
-    "glm",
-    "inference",
-    "llm",
-    "llm-serving",
-    "megakernels"
-   ],
-   "created": "2026-10-30",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 11.492,
-   "first_seen": "2026-11-18",
-   "downloads": 10,
-   "score": 68.2,
-   "old": true
-  },
-  {
-   "full": "morluto/rea",
-   "url": "https://github.com/morluto/rea",
-   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-   "lang": "TypeScript",
-   "stars": 467441,
-   "forks": 114318,
-   "growth": 4614.4,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai",
-    "android",
-    "claude-code",
-    "cli",
-    "cpp"
-   ],
-   "created": "2026-04-14",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://rea.tools",
-   "src": [],
-   "buzz": 11.048,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 65.6,
-   "old": true
-  },
-  {
-   "full": "astral-sh/uv",
-   "url": "https://github.com/astral-sh/uv",
-   "desc": "An extremely fast Python package and project manager, written in Rust.",
-   "lang": "Rust",
-   "stars": 92127,
-   "forks": 3898,
-   "growth": 260.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "packaging",
-    "python",
-    "resolver",
-    "uv"
-   ],
-   "created": "2023-10-02",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "https://docs.astral.sh/uv",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.851,
-   "first_seen": "2026-11-18",
-   "downloads": 142285220,
-   "ai": {
-    "cim": "Rendkívül gyors Python csomagkezelő eszköz",
-    "mit_csinal": "Egyetlen villámgyors programmal váltja ki a pipet, poetryt és egyéb elterjedt Python környezetkezelőket. Másodpercek töredéke alatt telepíti a függőségeket, kezeli a Python verziókat és futtatja a szkripteket. Rustban íródott, ezért nagyságrendekkel gyorsabb a hagyományos eszközöknél.",
-    "mire_jo": "Pythonos AI szkriptek villámgyors futtatására gépen vagy GitHub Actions automatizációk gyorsítására.",
-    "kategoria": "eszköz",
-    "telefonrol": "részben",
-    "egyezes": 75,
-    "miert": "Python és GitHub Actions projektek alapvető felgyorsítására kiváló modern eszköz."
-   },
-   "score": 63.6,
-   "old": true
-  },
-  {
-   "full": "affaan-m/ECC",
-   "url": "https://github.com/affaan-m/ECC",
-   "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-   "lang": "JavaScript",
-   "stars": 306061,
-   "forks": 45044,
-   "growth": 1109.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "anthropic",
-    "claude",
-    "claude-code",
-    "developer-tools",
-    "llm"
-   ],
-   "created": "2026-01-18",
-   "pushed": "2026-11-17",
-   "license": "MIT",
-   "homepage": "https://ecc.tools",
-   "src": [
-    "trending"
-   ],
-   "buzz": 9.538,
-   "first_seen": "2026-11-18",
-   "downloads": 103005,
-   "score": 56.6,
-   "old": true
-  },
-  {
-   "full": "deepseek-ai/deepseek-harness",
-   "url": "https://github.com/deepseek-ai/deepseek-harness",
-   "desc": "DeepSeek Harness: Everything is a Plugin.",
-   "lang": "TypeScript",
-   "stars": 283424,
-   "forks": 35146,
-   "growth": 983.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "cordis",
-    "dsh",
-    "dsh-plugin"
-   ],
-   "created": "2026-08-13",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://deepseek.com/harness",
-   "src": [],
-   "buzz": 9.403,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 55.8,
-   "old": true
-  },
-  {
-   "full": "Apakottur/unref",
-   "url": "https://github.com/Apakottur/unref",
-   "desc": "Find unreferenced Python code",
-   "lang": "Rust",
-   "stars": 51,
-   "forks": 1,
-   "growth": 7.3,
-   "hn_points": 35,
-   "hn_comments": 9,
-   "hn_url": "https://news.ycombinator.com/item?id=50517410",
-   "topics": [
-    "code-quality",
-    "dead-code",
-    "linter",
-    "python",
-    "ruff",
-    "static-analysis"
-   ],
-   "created": "2026-11-11",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 8.126,
-   "first_seen": "2026-11-18",
-   "downloads": 28,
-   "ai": {
-    "cim": "Gyors fel nem használt kódkereső",
-    "mit_csinal": "Megkeresi a felesleges, sehol sem használt kódrészleteket a Python projektekben. Rust nyelven készült, így rendkívül gyorsan képes átvizsgálni akár hatalmas kódbázisokat is. Zökkenőmentesen illeszkedik a népszerű Ruff lintelemző mellé.",
-    "mire_jo": "Pythonos AI vagy backend projektek kódjának automatikus tisztítására GitHub Actions munkafolyamatokban.",
-    "kategoria": "eszköz",
-    "telefonrol": "részben",
-    "egyezes": 60,
-    "miert": "Python kódok takarítására és CI-be integrálásra kitűnő, bár önmagában nem AI vagy mobilos technológia."
-   },
-   "score": 55.3,
-   "old": true
-  },
-  {
-   "full": "sveltejs/svelte",
-   "url": "https://github.com/sveltejs/svelte",
-   "desc": "web development for the rest of us",
-   "lang": "JavaScript",
-   "stars": 89645,
-   "forks": 6199,
-   "growth": 694.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "compiler",
-    "template",
-    "ui"
-   ],
-   "created": "2016-11-20",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://svelte.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.825,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 52.4,
-   "old": true
-  },
-  {
-   "full": "DeanChensj/jiangshan-map",
-   "url": "https://github.com/DeanChensj/jiangshan-map",
-   "desc": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-   "lang": "JavaScript",
-   "stars": 7793,
-   "forks": 941,
-   "growth": 991.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ancient-china",
-    "cartography",
-    "china-map",
-    "chinese-history",
-    "classical-chinese-poetry",
-    "digital-humanities"
-   ],
-   "created": "2026-07-23",
-   "pushed": "2026-11-18",
-   "license": "GPL-3.0",
-   "homepage": "https://deanchen.me/jiangshan-map/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.692,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 51.6,
-   "old": true
-  },
-  {
-   "full": "erkamyaman/rust-anything",
-   "url": "https://github.com/erkamyaman/rust-anything",
-   "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
-   "lang": "Rust",
-   "stars": 2475,
-   "forks": 198,
-   "growth": 1237.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "cli",
-    "code-migration",
-    "codex",
-    "ffi"
-   ],
-   "created": "2026-11-16",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://www.npmjs.com/package/rust-anything",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.685,
-   "first_seen": "2026-11-18",
-   "downloads": 653,
-   "score": 51.6,
-   "old": true
-  },
-  {
-   "full": "thedotmack/claude-mem",
-   "url": "https://github.com/thedotmack/claude-mem",
-   "desc": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-   "lang": "TypeScript",
-   "stars": 118136,
-   "forks": 10265,
-   "growth": 548.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "ai-memory",
-    "anthropic",
-    "artificial-intelligence",
-    "chromadb"
-   ],
-   "created": "2025-08-31",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "https://claude-mem.ai",
-   "src": [],
-   "buzz": 8.644,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 51.3,
-   "old": true
-  },
-  {
-   "full": "harry0703/MoneyPrinterTurbo",
-   "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-   "desc": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-   "lang": "Python",
-   "stars": 144350,
-   "forks": 23168,
-   "growth": 379.4,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-video-generator",
-    "content-creation",
-    "ffmpeg",
-    "instagram-reels",
-    "llm",
-    "python"
-   ],
-   "created": "2024-03-11",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [],
-   "buzz": 8.317,
-   "first_seen": "2026-11-18",
-   "downloads": 144445,
-   "score": 49.4,
-   "old": true
-  },
-  {
-   "full": "tt-a1i/archify",
-   "url": "https://github.com/tt-a1i/archify",
-   "desc": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
-   "lang": "JavaScript",
-   "stars": 97639,
-   "forks": 6665,
-   "growth": 401.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "architecture-diagram",
-    "claude-code",
-    "claude-skills",
-    "codex"
-   ],
-   "created": "2026-04-15",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "https://archify.si",
-   "src": [],
-   "buzz": 8.295,
-   "first_seen": "2026-11-18",
-   "downloads": 44771,
-   "score": 49.3,
-   "old": true
-  },
-  {
-   "full": "firecrawl/firecrawl",
-   "url": "https://github.com/firecrawl/firecrawl",
-   "desc": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
-   "lang": "TypeScript",
-   "stars": 202775,
-   "forks": 10622,
-   "growth": 329.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "ai-crawler",
-    "ai-scraping",
-    "ai-search",
-    "crawler"
-   ],
-   "created": "2024-04-15",
-   "pushed": "2026-11-18",
-   "license": "AGPL-3.0",
-   "homepage": "https://firecrawl.dev",
-   "src": [],
-   "buzz": 8.243,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 48.9,
-   "old": true
-  },
-  {
-   "full": "Immortal-Protocols/lastbook",
-   "url": "https://github.com/Immortal-Protocols/lastbook",
-   "desc": "Offline knowledge AI, maps and videos for survival and rebuilding",
-   "lang": "Python",
-   "stars": 1987,
-   "forks": 264,
-   "growth": 829.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-12",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "lastbook.org",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.24,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 48.9,
-   "old": true
-  },
-  {
-   "full": "NousResearch/hermes-agent",
-   "url": "https://github.com/NousResearch/hermes-agent",
-   "desc": "The agent that grows with you",
-   "lang": "Python",
-   "stars": 264389,
-   "forks": 59670,
-   "growth": 310.3,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-agent",
-    "ai-agents",
-    "anthropic",
-    "chatgpt",
-    "claude"
-   ],
-   "created": "2025-07-22",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://hermes-agent.nousresearch.com",
-   "src": [],
-   "buzz": 8.238,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 48.9,
-   "old": true
-  },
-  {
-   "full": "paperclipai/paperclip",
-   "url": "https://github.com/paperclipai/paperclip",
-   "desc": "The open-source app everyone uses to manage agents at work",
-   "lang": "TypeScript",
-   "stars": 114705,
-   "forks": 19037,
-   "growth": 344.4,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "acpx",
-    "agent-orchestration",
-    "agent-skills",
-    "agentic-ai",
-    "ai-agents",
-    "ai-engineering"
-   ],
-   "created": "2026-03-02",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://paperclip.ing",
-   "src": [],
-   "buzz": 8.175,
-   "first_seen": "2026-11-18",
-   "downloads": 3942,
-   "score": 48.5,
-   "old": true
-  },
-  {
-   "full": "getarcaneapp/arcane",
-   "url": "https://github.com/getarcaneapp/arcane",
-   "desc": "Modern Docker Management, Designed for Everyone",
-   "lang": "Go",
-   "stars": 9598,
-   "forks": 531,
-   "growth": 547.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "compose",
-    "container-management",
-    "containers",
-    "docker",
-    "docker-compose",
-    "docker-management"
-   ],
-   "created": "2025-04-19",
-   "pushed": "2026-11-18",
-   "license": "BSD-3-Clause",
-   "homepage": "https://getarcane.app",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.14,
-   "first_seen": "2026-11-18",
-   "downloads": 14921,
-   "ai": {
-    "cim": "Modern Docker és konténer kezelő felület",
-    "mit_csinal": "Egy letisztult felületet biztosít a Docker konténerek és Compose fájlok kezeléséhez. Segítségével könnyen átláthatók, elindíthatók és leállíthatók a futó konténerek. Kifejezetten úgy tervezték, hogy bárki számára egyszerűen kezelhető legyen.",
-    "mire_jo": "Saját szerveren vagy fejlesztői gépen futó háttérszolgáltatások kényelmes, böngészős menedzselésére.",
-    "kategoria": "eszköz",
-    "telefonrol": "részben",
-    "egyezes": 45,
-    "miert": "Hasznos fejlesztői eszköz konténerekhez, de kevésbé kapcsolódik az AI vagy Android projektekhez."
-   },
-   "score": 46.3,
-   "old": true
-  },
-  {
-   "full": "ansible/ansible",
-   "url": "https://github.com/ansible/ansible",
-   "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
-   "lang": "Python",
-   "stars": 71504,
-   "forks": 24472,
-   "growth": 251.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ansible",
-    "python"
-   ],
-   "created": "2012-03-06",
-   "pushed": "2026-11-17",
-   "license": "GPL-3.0",
-   "homepage": "https://www.ansible.com/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.765,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 46.1,
-   "old": true
-  },
-  {
-   "full": "XiaoYouChR/Ghost-Downloader-3",
-   "url": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
-   "desc": "The only downloader you need. 下载器的集大成者。",
-   "lang": "Python",
-   "stars": 11953,
-   "forks": 751,
-   "growth": 356.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "async",
-    "asyncio",
-    "bittorent",
-    "bt",
-    "cross-platform",
-    "download-manager"
-   ],
-   "created": "2023-08-16",
-   "pushed": "2026-11-18",
-   "license": "GPL-3.0",
-   "homepage": "https://gd.xychr.com/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.756,
-   "first_seen": "2026-11-18",
-   "downloads": 76824,
-   "score": 46.1,
-   "old": true
-  },
-  {
-   "full": "home-assistant/core",
-   "url": "https://github.com/home-assistant/core",
-   "desc": ":house_with_garden: Open source home automation that puts local control and privacy first.",
-   "lang": "Python",
-   "stars": 92344,
-   "forks": 39361,
-   "growth": 231.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "asyncio",
-    "hacktoberfest",
-    "home-automation",
-    "internet-of-things",
-    "iot",
-    "mqtt"
-   ],
-   "created": "2013-09-17",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "https://www.home-assistant.io",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.733,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 45.9,
-   "old": true
-  },
-  {
-   "full": "appwrite/appwrite",
-   "url": "https://github.com/appwrite/appwrite",
-   "desc": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-   "lang": "TypeScript",
-   "stars": 58132,
-   "forks": 5876,
-   "growth": 239.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "appwrite",
-    "backend",
-    "backend-as-a-service",
-    "docker",
-    "firebase"
-   ],
-   "created": "2019-04-08",
-   "pushed": "2026-11-18",
-   "license": "BSD-3-Clause",
-   "homepage": "https://appwrite.io",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.675,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 45.6,
-   "old": true
-  },
-  {
-   "full": "ethanplusai/sellbird",
-   "url": "https://github.com/ethanplusai/sellbird",
-   "desc": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
-   "lang": "Python",
-   "stars": 6415,
-   "forks": 1328,
-   "growth": 358.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agent",
-    "autonomous-agent",
-    "claude",
-    "claude-code",
-    "codex",
-    "cold-email"
-   ],
-   "created": "2026-03-12",
-   "pushed": "2026-11-18",
-   "license": "AGPL-3.0",
-   "homepage": "https://sellbird.ai",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.637,
-   "first_seen": "2026-11-18",
-   "downloads": 0,
-   "score": 45.4,
    "old": true
   }
  ]
