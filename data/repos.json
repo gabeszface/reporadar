@@ -1,8 +1,730 @@
 {
- "date": "2026-11-22",
- "generated": "2026-11-22T12:45+00:00",
+ "date": "2026-11-23",
+ "generated": "2026-11-23T14:24+00:00",
  "model": "",
  "items": [
+  {
+   "full": "AFK-surf/xnulinux",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+   "lang": "Objective-C++",
+   "stars": 1118,
+   "forks": 37,
+   "growth": 372.7,
+   "hn_points": 453,
+   "hn_comments": 196,
+   "hn_url": "https://news.ycombinator.com/item?id=50607261",
+   "topics": [],
+   "created": "2026-11-20",
+   "pushed": "2026-11-23",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 16.782,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "os6/nospeaker",
+   "url": "https://github.com/os6/nospeaker",
+   "desc": "make your macbook's trackpad talk using its haptic motor",
+   "lang": "Swift",
+   "stars": 992,
+   "forks": 53,
+   "growth": 992.0,
+   "hn_points": 46,
+   "hn_comments": 17,
+   "hn_url": "https://news.ycombinator.com/item?id=50610318",
+   "topics": [
+    "haptics",
+    "macos",
+    "swift",
+    "trackpad"
+   ],
+   "created": "2026-11-22",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://x.com/codycollier",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.057,
+   "first_seen": "2026-11-23",
+   "downloads": 2955,
+   "score": 83.8
+  },
+  {
+   "full": "gulivan/worker755",
+   "url": "https://github.com/gulivan/worker755",
+   "desc": "A browser game where an AI manager thinks you are its subagent. Play at worker755.com",
+   "lang": "TypeScript",
+   "stars": 195,
+   "forks": 7,
+   "growth": 16.2,
+   "hn_points": 341,
+   "hn_comments": 82,
+   "hn_url": "https://news.ycombinator.com/item?id=50599762",
+   "topics": [],
+   "created": "2026-11-11",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "https://worker755.com",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 12.673,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 75.5
+  },
+  {
+   "full": "mjwsolo/localcode",
+   "url": "https://github.com/mjwsolo/localcode",
+   "desc": "Agentic coding. Local models. On your Mac.",
+   "lang": "C++",
+   "stars": 127,
+   "forks": 2,
+   "growth": 0.0,
+   "hn_points": 66,
+   "hn_comments": 18,
+   "hn_url": "https://news.ycombinator.com/item?id=50604540",
+   "topics": [],
+   "created": "2026-04-05",
+   "pushed": "2026-11-22",
+   "license": "Apache-2.0",
+   "homepage": "https://mjwsolo.github.io/localcode/",
+   "src": [
+    "hn"
+   ],
+   "buzz": 7.194,
+   "first_seen": "2026-11-23",
+   "downloads": 29,
+   "score": 42.9
+  },
+  {
+   "full": "Stirling-Tools/Stirling-PDF",
+   "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+   "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+   "lang": "TypeScript",
+   "stars": 97289,
+   "forks": 9397,
+   "growth": 81.9,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "docker",
+    "hacktoberfest",
+    "java",
+    "pdf",
+    "pdf-converter",
+    "pdf-editor"
+   ],
+   "created": "2023-01-27",
+   "pushed": "2026-11-23",
+   "license": "",
+   "homepage": "https://stirling.com",
+   "src": [],
+   "buzz": 6.715,
+   "first_seen": "2026-11-23",
+   "downloads": 601537,
+   "score": 40.0
+  },
+  {
+   "full": "w01fb0ss/PiBot",
+   "url": "https://github.com/w01fb0ss/PiBot",
+   "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+   "lang": "TypeScript",
+   "stars": 477,
+   "forks": 67,
+   "growth": 238.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "ai-agent",
+    "ai-agents",
+    "ai-assistant",
+    "android",
+    "automation"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "Apache-2.0",
+   "homepage": "https://pibot.space",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.712,
+   "first_seen": "2026-11-23",
+   "downloads": 216,
+   "score": 40.0
+  },
+  {
+   "full": "INK-Q/agy-fast",
+   "url": "https://github.com/INK-Q/agy-fast",
+   "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+   "lang": "TypeScript",
+   "stars": 733,
+   "forks": 43,
+   "growth": 183.2,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agent",
+    "ai-coding",
+    "antigravity",
+    "antigravity-cli",
+    "antigravity-ide",
+    "antigravity-plugins"
+   ],
+   "created": "2026-11-19",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.536,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 38.9
+  },
+  {
+   "full": "sshkeda/minecraft-server-on-orange-cloud",
+   "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
+   "desc": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
+   "lang": "TypeScript",
+   "stars": 410,
+   "forks": 9,
+   "growth": 205.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "bun",
+    "cloudflare",
+    "cloudflare-containers",
+    "cloudflare-workers",
+    "durable-objects",
+    "effect"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-21",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.532,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 38.9
+  },
+  {
+   "full": "realdody/americas-recomp",
+   "url": "https://github.com/realdody/americas-recomp",
+   "desc": "",
+   "lang": "",
+   "stars": 561,
+   "forks": 87,
+   "growth": 187.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-20",
+   "pushed": "2026-11-23",
+   "license": "GPL-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.503,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 38.7
+  },
+  {
+   "full": "BerriAI/litellm",
+   "url": "https://github.com/BerriAI/litellm",
+   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+   "lang": "Python",
+   "stars": 63761,
+   "forks": 13493,
+   "growth": 72.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-gateway",
+    "anthropic",
+    "azure-openai",
+    "bedrock",
+    "gateway",
+    "langchain"
+   ],
+   "created": "2023-07-27",
+   "pushed": "2026-11-23",
+   "license": "",
+   "homepage": "https://docs.litellm.ai/docs/",
+   "src": [],
+   "buzz": 6.503,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 38.7
+  },
+  {
+   "full": "danielwh2/sprite-stacking",
+   "url": "https://github.com/danielwh2/sprite-stacking",
+   "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+   "lang": "HTML",
+   "stars": 587,
+   "forks": 46,
+   "growth": 169.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "claude-code",
+    "codex",
+    "cursor",
+    "fake-3d",
+    "gamedev"
+   ],
+   "created": "2026-11-20",
+   "pushed": "2026-11-21",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.411,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 38.2
+  },
+  {
+   "full": "ThreatDefence/agentic-attack-detections",
+   "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+   "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
+   "lang": "Python",
+   "stars": 519,
+   "forks": 105,
+   "growth": 173.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agentic-ai",
+    "ai-security",
+    "blue-team",
+    "defender-xdr",
+    "detection-engineering",
+    "ioc"
+   ],
+   "created": "2026-11-20",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "https://threatdefence.com/article/artex-agentic-attack-framework-detection-hunting",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.41,
+   "first_seen": "2026-11-23",
+   "downloads": 306,
+   "score": 38.2
+  },
+  {
+   "full": "infiniflow/ragflow",
+   "url": "https://github.com/infiniflow/ragflow",
+   "desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+   "lang": "Go",
+   "stars": 94590,
+   "forks": 11370,
+   "growth": 60.1,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-harness",
+    "agent-native-database",
+    "agentic-ai",
+    "agentic-retrieval",
+    "agentic-search",
+    "ai"
+   ],
+   "created": "2023-12-12",
+   "pushed": "2026-11-23",
+   "license": "Apache-2.0",
+   "homepage": "https://ragflow.io",
+   "src": [],
+   "buzz": 6.405,
+   "first_seen": "2026-11-23",
+   "downloads": 14949,
+   "score": 38.2
+  },
+  {
+   "full": "langchain-ai/langchain",
+   "url": "https://github.com/langchain-ai/langchain",
+   "desc": "The agent engineering platform.",
+   "lang": "Python",
+   "stars": 149989,
+   "forks": 25160,
+   "growth": 54.6,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "deepagents"
+   ],
+   "created": "2022-10-17",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "https://docs.langchain.com/langchain/",
+   "src": [],
+   "buzz": 6.402,
+   "first_seen": "2026-11-23",
+   "downloads": 142,
+   "score": 38.1
+  },
+  {
+   "full": "2dust/v2rayNG",
+   "url": "https://github.com/2dust/v2rayNG",
+   "desc": "A V2Ray client for Android, support Xray core and v2fly core",
+   "lang": "Kotlin",
+   "stars": 66404,
+   "forks": 8719,
+   "growth": 61.1,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "proxy",
+    "shadowsocks",
+    "socks5",
+    "trojan",
+    "v2fly"
+   ],
+   "created": "2019-05-15",
+   "pushed": "2026-11-23",
+   "license": "GPL-3.0",
+   "homepage": "https://v2rayng.2dust.link",
+   "src": [],
+   "buzz": 6.349,
+   "first_seen": "2026-11-23",
+   "downloads": 1593019,
+   "score": 37.8
+  },
+  {
+   "full": "ItsNotRexed/Hookshot",
+   "url": "https://github.com/ItsNotRexed/Hookshot",
+   "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+   "lang": "C++",
+   "stars": 489,
+   "forks": 12,
+   "growth": 163.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-20",
+   "pushed": "2026-11-22",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.339,
+   "first_seen": "2026-11-23",
+   "downloads": 2235,
+   "score": 37.8
+  },
+  {
+   "full": "icitycode/capcut-for-windows",
+   "url": "https://github.com/icitycode/capcut-for-windows",
+   "desc": "CapCut for Windows: Visual Video Editing and Screen Recording Workflow",
+   "lang": "HTML",
+   "stars": 348,
+   "forks": 0,
+   "growth": 174.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "capcut-activated",
+    "capcut-crack-2026",
+    "capcut-cracked-2026",
+    "capcut-exe",
+    "capcut-for-free"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.336,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.8
+  },
+  {
+   "full": "xikhar/papercraft",
+   "url": "https://github.com/xikhar/papercraft",
+   "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
+   "lang": "JavaScript",
+   "stars": 348,
+   "forks": 34,
+   "growth": 174.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-21",
+   "pushed": "2026-11-21",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.336,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.8
+  },
+  {
+   "full": "vinujak/phantom-blade-zero-modifier",
+   "url": "https://github.com/vinujak/phantom-blade-zero-modifier",
+   "desc": "Phantom Blade Zero Modifier: God Mode, Infinite Health, One-Hit Kill Trainer for Windows",
+   "lang": "HTML",
+   "stars": 340,
+   "forks": 0,
+   "growth": 170.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "overlay",
+    "phantom-blade-zero",
+    "phantom-blade-zero-2026",
+    "phantom-blade-zero-mod",
+    "phantom-blade-zero-mod-menu",
+    "phantom-blade-zero-trainer"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.308,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "Dhruv2710-hub/cellebrite-ufed",
+   "url": "https://github.com/Dhruv2710-hub/cellebrite-ufed",
+   "desc": "Cellebrite UFED: Complete Forensic Suite with Full Toolset, Ready to Run",
+   "lang": "HTML",
+   "stars": 340,
+   "forks": 0,
+   "growth": 170.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "cellebrite",
+    "cellebrite-2026",
+    "cellebrite-crack",
+    "cellebrite-free",
+    "cellebrite-setup"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.308,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "dillithdillith4-cell/autodesk-cfd",
+   "url": "https://github.com/dillithdillith4-cell/autodesk-cfd",
+   "desc": "Autodesk CFD Desktop Setup: Full Computational Fluid Dynamics Toolkit",
+   "lang": "HTML",
+   "stars": 340,
+   "forks": 1,
+   "growth": 170.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "cfd-simulation",
+    "cfd-toolbox",
+    "cfdtool-toolbox",
+    "desktop",
+    "developer-tools"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.308,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "Adabi0304/studioonepro7-release",
+   "url": "https://github.com/Adabi0304/studioonepro7-release",
+   "desc": "Studioonepro7 Release: Complete Desktop Suite with All Features Included",
+   "lang": "HTML",
+   "stars": 339,
+   "forks": 0,
+   "growth": 169.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "presonus-2026",
+    "presonus-studio-one-pro"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.305,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "Urvee003/bloxshade-for-roblox",
+   "url": "https://github.com/Urvee003/bloxshade-for-roblox",
+   "desc": "BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls",
+   "lang": "HTML",
+   "stars": 339,
+   "forks": 0,
+   "growth": 169.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "automation",
+    "desktop",
+    "developer-tools",
+    "open-source",
+    "python",
+    "scripts"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.305,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+   "url": "https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro",
+   "desc": "Ashampoo WinOptimizer Pro: Advanced Windows Tuning and System Optimization Suite",
+   "lang": "HTML",
+   "stars": 339,
+   "forks": 0,
+   "growth": 169.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ashampoo-gmbh",
+    "ashampoo-uninstaller-install-setup-windows-2026",
+    "ashampoo-winoptimizer-system-clea",
+    "ashampoo-winoptimizer-windows",
+    "automation",
+    "clean-up"
+   ],
+   "created": "2026-11-21",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.305,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "huggingface/transformers",
+   "url": "https://github.com/huggingface/transformers",
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+   "lang": "Python",
+   "stars": 169401,
+   "forks": 35276,
+   "growth": 44.8,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "audio",
+    "deep-learning",
+    "deepseek",
+    "gemma",
+    "glm",
+    "hacktoberfest"
+   ],
+   "created": "2018-10-29",
+   "pushed": "2026-11-23",
+   "license": "Apache-2.0",
+   "homepage": "https://huggingface.co/transformers",
+   "src": [],
+   "buzz": 6.232,
+   "first_seen": "2026-11-23",
+   "downloads": 0,
+   "score": 37.1
+  },
   {
    "full": "ItsNotRexed/Leonida",
    "url": "https://github.com/ItsNotRexed/Leonida",
@@ -26,7 +748,8 @@
    "buzz": 18.462,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "EL4CTEO/fast-anything",
@@ -58,7 +781,8 @@
    "buzz": 14.04,
    "first_seen": "2026-11-22",
    "downloads": 97,
-   "score": 76.0
+   "score": 76.0,
+   "old": true
   },
   {
    "full": "ShinMegamiBoson/lookatmyquant",
@@ -83,7 +807,8 @@
    "buzz": 13.56,
    "first_seen": "2026-11-22",
    "downloads": 209,
-   "score": 73.4
+   "score": 73.4,
+   "old": true
   },
   {
    "full": "tamnd/riemann-handbook",
@@ -108,7 +833,8 @@
    "buzz": 10.638,
    "first_seen": "2026-11-22",
    "downloads": 1100,
-   "score": 57.6
+   "score": 57.6,
+   "old": true
   },
   {
    "full": "DietrichGebert/ponytail",
@@ -137,7 +863,8 @@
    "buzz": 9.195,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 49.8
+   "score": 49.8,
+   "old": true
   },
   {
    "full": "Leonxlnx/taste-skill",
@@ -166,7 +893,8 @@
    "buzz": 8.759,
    "first_seen": "2026-11-22",
    "downloads": 1545,
-   "score": 47.4
+   "score": 47.4,
+   "old": true
   },
   {
    "full": "omonkeyz/xbox-emulator",
@@ -190,7 +918,8 @@
    "buzz": 8.336,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 45.2
+   "score": 45.2,
+   "old": true
   },
   {
    "full": "cheaper-inference/OmniRoute",
@@ -219,7 +948,8 @@
    "buzz": 8.038,
    "first_seen": "2026-11-22",
    "downloads": 539825,
-   "score": 43.5
+   "score": 43.5,
+   "old": true
   },
   {
    "full": "sebaandrada-cell/PcapAnalyzer",
@@ -250,7 +980,8 @@
    "buzz": 7.996,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 43.3
+   "score": 43.3,
+   "old": true
   },
   {
    "full": "ai-job-search-dev/ai-job-search",
@@ -279,7 +1010,8 @@
    "buzz": 7.972,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 43.2
+   "score": 43.2,
+   "old": true
   },
   {
    "full": "R0Y00/Xbox2Windows",
@@ -310,7 +1042,8 @@
    "buzz": 7.747,
    "first_seen": "2026-11-22",
    "downloads": 2104,
-   "score": 42.0
+   "score": 42.0,
+   "old": true
   },
   {
    "full": "opokukopoku/gta-6-pc-release",
@@ -341,7 +1074,8 @@
    "buzz": 7.315,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 39.6
+   "score": 39.6,
+   "old": true
   },
   {
    "full": "sybil-solutions/skill-distill",
@@ -365,7 +1099,8 @@
    "buzz": 7.271,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 39.4
+   "score": 39.4,
+   "old": true
   },
   {
    "full": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
@@ -396,7 +1131,8 @@
    "buzz": 7.033,
    "first_seen": "2026-11-22",
    "downloads": 8,
-   "score": 38.1
+   "score": 38.1,
+   "old": true
   },
   {
    "full": "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
@@ -427,7 +1163,8 @@
    "buzz": 7.005,
    "first_seen": "2026-11-22",
    "downloads": 7,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
@@ -458,7 +1195,8 @@
    "buzz": 7.005,
    "first_seen": "2026-11-22",
    "downloads": 7,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "CETPROAR/rob-run-ares-enhancer",
@@ -489,7 +1227,8 @@
    "buzz": 6.998,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
@@ -520,7 +1259,8 @@
    "buzz": 6.998,
    "first_seen": "2026-11-22",
    "downloads": 35,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "juniordroid/better-discord-client",
@@ -551,7 +1291,8 @@
    "buzz": 6.995,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
@@ -582,7 +1323,8 @@
    "buzz": 6.995,
    "first_seen": "2026-11-22",
    "downloads": 6,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "darthvader097br-ctrl/acronis-standalone-bundle",
@@ -613,7 +1355,8 @@
    "buzz": 6.995,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
@@ -644,7 +1387,8 @@
    "buzz": 6.995,
    "first_seen": "2026-11-22",
    "downloads": 6,
-   "score": 37.9
+   "score": 37.9,
+   "old": true
   },
   {
    "full": "bojieli/ai-agent-book",
@@ -673,7 +1417,8 @@
    "buzz": 6.832,
    "first_seen": "2026-11-22",
    "downloads": 204,
-   "score": 37.0
+   "score": 37.0,
+   "old": true
   },
   {
    "full": "leanprover-community/riemann-hypothesis",
@@ -697,7 +1442,8 @@
    "buzz": 6.809,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 36.9
+   "score": 36.9,
+   "old": true
   },
   {
    "full": "coollabsio/coolify",
@@ -726,7 +1472,8 @@
    "buzz": 6.78,
    "first_seen": "2026-11-22",
    "downloads": 0,
-   "score": 36.7
+   "score": 36.7,
+   "old": true
   },
   {
    "full": "tristanbuckmaster/navier-stokes",
@@ -2193,746 +2940,6 @@
    "first_seen": "2026-11-20",
    "downloads": 33507,
    "score": 58.2,
-   "old": true
-  },
-  {
-   "full": "eklavya-raj/gta6-uefi",
-   "url": "https://github.com/eklavya-raj/gta6-uefi",
-   "desc": "",
-   "lang": "C",
-   "stars": 22,
-   "forks": 1,
-   "growth": 22.0,
-   "hn_points": 49,
-   "hn_comments": 48,
-   "hn_url": "https://news.ycombinator.com/item?id=50553192",
-   "topics": [],
-   "created": "2026-11-18",
-   "pushed": "2026-11-18",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 10.014,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "microsoft/markitdown",
-   "url": "https://github.com/microsoft/markitdown",
-   "desc": "Python tool for converting files and office documents to Markdown.",
-   "lang": "Python",
-   "stars": 196883,
-   "forks": 14910,
-   "growth": 526.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "autogen",
-    "autogen-extension",
-    "langchain",
-    "markdown",
-    "microsoft-office",
-    "openai"
-   ],
-   "created": "2024-11-13",
-   "pushed": "2026-11-07",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.705,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 86.9,
-   "old": true
-  },
-  {
-   "full": "HKUDS/DeepTutor",
-   "url": "https://github.com/HKUDS/DeepTutor",
-   "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-   "lang": "Python",
-   "stars": 60692,
-   "forks": 7348,
-   "growth": 627.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agents",
-    "ai-tutor",
-    "clawbot",
-    "cli-tool",
-    "deepresearch",
-    "interactive-learning"
-   ],
-   "created": "2025-12-28",
-   "pushed": "2026-11-18",
-   "license": "Apache-2.0",
-   "homepage": "http://arxiv.org/abs/2604.26962",
-   "src": [],
-   "buzz": 8.646,
-   "first_seen": "2026-11-19",
-   "downloads": 34659,
-   "score": 86.3,
-   "old": true
-  },
-  {
-   "full": "gylive/google-ultra",
-   "url": "https://github.com/gylive/google-ultra",
-   "desc": "",
-   "lang": "Python",
-   "stars": 2380,
-   "forks": 14,
-   "growth": 1190.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-17",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.638,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 86.3,
-   "old": true
-  },
-  {
-   "full": "Ri4dH/failtrace",
-   "url": "https://github.com/Ri4dH/failtrace",
-   "desc": "Stop guessing why CI failed. Reproduce it locally.",
-   "lang": "Go",
-   "stars": 24,
-   "forks": 0,
-   "growth": 24.0,
-   "hn_points": 28,
-   "hn_comments": 5,
-   "hn_url": "https://news.ycombinator.com/item?id=50554941",
-   "topics": [
-    "ci",
-    "cli",
-    "debugging",
-    "developer-tools",
-    "github-actions",
-    "golang"
-   ],
-   "created": "2026-11-18",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 8.62,
-   "first_seen": "2026-11-19",
-   "downloads": 36,
-   "score": 86.1,
-   "old": true
-  },
-  {
-   "full": "awesome-selfhosted/awesome-selfhosted",
-   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
-   "lang": "",
-   "stars": 338523,
-   "forks": 15892,
-   "growth": 333.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "awesome",
-    "awesome-list",
-    "cloud",
-    "free-software",
-    "hosting",
-    "privacy"
-   ],
-   "created": "2015-06-01",
-   "pushed": "2026-11-17",
-   "license": "",
-   "homepage": "https://awesome-selfhosted.net/",
-   "src": [],
-   "buzz": 8.36,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 83.5,
-   "old": true
-  },
-  {
-   "full": "blader/humanizer",
-   "url": "https://github.com/blader/humanizer",
-   "desc": "Agent skill that removes signs of AI-generated writing from text",
-   "lang": "Python",
-   "stars": 71059,
-   "forks": 5569,
-   "growth": 412.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-humanizer",
-    "ai-writing",
-    "chatgpt",
-    "claude",
-    "claude-code"
-   ],
-   "created": "2026-01-18",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "https://skills.sh/blader/humanizer",
-   "src": [],
-   "buzz": 8.258,
-   "first_seen": "2026-11-19",
-   "downloads": 5418,
-   "score": 82.5,
-   "old": true
-  },
-  {
-   "full": "anomalyco/opencode",
-   "url": "https://github.com/anomalyco/opencode",
-   "desc": "The open source coding agent.",
-   "lang": "TypeScript",
-   "stars": 227950,
-   "forks": 30931,
-   "growth": 323.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2025-04-30",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "https://opencode.ai",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.249,
-   "first_seen": "2026-11-19",
-   "downloads": 936794,
-   "score": 82.4,
-   "old": true
-  },
-  {
-   "full": "solidjs/solid",
-   "url": "https://github.com/solidjs/solid",
-   "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-   "lang": "TypeScript",
-   "stars": 36750,
-   "forks": 1193,
-   "growth": 459.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "declarative",
-    "fine-grained",
-    "javascript",
-    "jsx",
-    "performance",
-    "proxies"
-   ],
-   "created": "2018-04-24",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "https://solidjs.com",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.234,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 82.2,
-   "old": true
-  },
-  {
-   "full": "Hut-hzf/ung220z-tool",
-   "url": "https://github.com/Hut-hzf/ung220z-tool",
-   "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-   "lang": "Python",
-   "stars": 1611,
-   "forks": 383,
-   "growth": 762.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-15",
-   "pushed": "2026-11-15",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.114,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 81.0,
-   "old": true
-  },
-  {
-   "full": "cathrynlavery/diagram-design",
-   "url": "https://github.com/cathrynlavery/diagram-design",
-   "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-   "lang": "HTML",
-   "stars": 68367,
-   "forks": 4599,
-   "growth": 332.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "codex",
-    "data-visualization",
-    "diagrams",
-    "drawio"
-   ],
-   "created": "2026-04-16",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "https://diagramdesign.dev",
-   "src": [
-    "trending"
-   ],
-   "buzz": 8.035,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 80.2,
-   "old": true
-  },
-  {
-   "full": "mjmirza/app-store-compliance",
-   "url": "https://github.com/mjmirza/app-store-compliance",
-   "desc": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-   "lang": "Shell",
-   "stars": 1500,
-   "forks": 114,
-   "growth": 542.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "accessibility",
-    "ai-agents",
-    "android",
-    "app-review-guidelines",
-    "app-store",
-    "app-store-connect"
-   ],
-   "created": "2026-06-06",
-   "pushed": "2026-11-15",
-   "license": "",
-   "homepage": "https://mjmirza.github.io/app-store-compliance/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.76,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 77.5,
-   "old": true
-  },
-  {
-   "full": "earendil-works/pi",
-   "url": "https://github.com/earendil-works/pi",
-   "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-   "lang": "TypeScript",
-   "stars": 122865,
-   "forks": 15852,
-   "growth": 191.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2025-08-09",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.601,
-   "first_seen": "2026-11-19",
-   "downloads": 752475,
-   "score": 75.9,
-   "old": true
-  },
-  {
-   "full": "coreyhaines31/marketingskills",
-   "url": "https://github.com/coreyhaines31/marketingskills",
-   "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-   "lang": "JavaScript",
-   "stars": 61384,
-   "forks": 8949,
-   "growth": 193.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "ai-seo",
-    "claude",
-    "claude-code",
-    "claude-code-plugin"
-   ],
-   "created": "2026-01-15",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "https://marketing-skills.com",
-   "src": [],
-   "buzz": 7.473,
-   "first_seen": "2026-11-19",
-   "downloads": 27196,
-   "score": 74.6,
-   "old": true
-  },
-  {
-   "full": "toeverything/AFFiNE",
-   "url": "https://github.com/toeverything/AFFiNE",
-   "desc": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
-   "lang": "TypeScript",
-   "stars": 74813,
-   "forks": 5544,
-   "growth": 170.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "app",
-    "crdt",
-    "editor",
-    "electron",
-    "knowledge-base",
-    "markdown"
-   ],
-   "created": "2022-07-31",
-   "pushed": "2026-11-18",
-   "license": "",
-   "homepage": "https://affine.pro",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.386,
-   "first_seen": "2026-11-19",
-   "downloads": 5441,
-   "score": 73.8,
-   "old": true
-  },
-  {
-   "full": "openvinotoolkit/openvino",
-   "url": "https://github.com/openvinotoolkit/openvino",
-   "desc": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-   "lang": "C++",
-   "stars": 11458,
-   "forks": 3611,
-   "growth": 246.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "computer-vision",
-    "deep-learning",
-    "deploy-ai",
-    "diffusion-models",
-    "generative-ai"
-   ],
-   "created": "2018-10-15",
-   "pushed": "2026-11-19",
-   "license": "Apache-2.0",
-   "homepage": "https://docs.openvino.ai",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.379,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 73.7,
-   "old": true
-  },
-  {
-   "full": "headroomlabs-ai/headroom",
-   "url": "https://github.com/headroomlabs-ai/headroom",
-   "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-   "lang": "Python",
-   "stars": 80135,
-   "forks": 6283,
-   "growth": 157.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "ai",
-    "anthropic",
-    "claude-code",
-    "compression",
-    "context-engineering"
-   ],
-   "created": "2026-01-07",
-   "pushed": "2026-11-19",
-   "license": "Apache-2.0",
-   "homepage": "https://docs.headroomlabs.ai/docs",
-   "src": [],
-   "buzz": 7.321,
-   "first_seen": "2026-11-19",
-   "downloads": 6724,
-   "score": 73.1,
-   "old": true
-  },
-  {
-   "full": "rustdesk/rustdesk",
-   "url": "https://github.com/rustdesk/rustdesk",
-   "desc": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-   "lang": "Rust",
-   "stars": 130201,
-   "forks": 20921,
-   "growth": 126.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "anydesk",
-    "dart",
-    "flatpak",
-    "flutter",
-    "flutter-apps"
-   ],
-   "created": "2020-09-28",
-   "pushed": "2026-11-19",
-   "license": "AGPL-3.0",
-   "homepage": "https://rustdesk.com",
-   "src": [],
-   "buzz": 7.205,
-   "first_seen": "2026-11-19",
-   "downloads": 42287860,
-   "score": 71.9,
-   "old": true
-  },
-  {
-   "full": "CzzzzzzJ/mdldm-maitian",
-   "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-   "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-   "lang": "JavaScript",
-   "stars": 1530,
-   "forks": 466,
-   "growth": 304.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "chrome-extension",
-    "creator-tools",
-    "dashboard",
-    "feishu",
-    "social-media"
-   ],
-   "created": "2026-11-14",
-   "pushed": "2026-11-18",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.187,
-   "first_seen": "2026-11-19",
-   "downloads": 89894,
-   "score": 71.8,
-   "old": true
-  },
-  {
-   "full": "n8n-io/n8n",
-   "url": "https://github.com/n8n-io/n8n",
-   "desc": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-   "lang": "TypeScript",
-   "stars": 211379,
-   "forks": 61587,
-   "growth": 109.1,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "apis",
-    "automation",
-    "cli",
-    "data-flow",
-    "development"
-   ],
-   "created": "2019-06-22",
-   "pushed": "2026-11-19",
-   "license": "",
-   "homepage": "https://n8n.io",
-   "src": [],
-   "buzz": 7.154,
-   "first_seen": "2026-11-19",
-   "downloads": 169,
-   "score": 71.4,
-   "old": true
-  },
-  {
-   "full": "colbymchenry/codegraph",
-   "url": "https://github.com/colbymchenry/codegraph",
-   "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-   "lang": "TypeScript",
-   "stars": 78065,
-   "forks": 5207,
-   "growth": 125.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-01-18",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "https://colbymchenry.github.io/codegraph/",
-   "src": [
-    "trending"
-   ],
-   "buzz": 7.089,
-   "first_seen": "2026-11-19",
-   "downloads": 673073,
-   "score": 70.8,
-   "old": true
-  },
-  {
-   "full": "zephyr4123/snug",
-   "url": "https://github.com/zephyr4123/snug",
-   "desc": "让远程 Mac 在任意设备上获得原生级体验。专为 UU远程 打造的显示与触控增强：手机、平板、电脑各有专属屏幕，画面铺满、字号随屏，原生触屏手势，App 资源库。Make UU Remote native on any device: a dedicated screen for every phone, tablet and computer, with native touch gestures and an App Library.",
-   "lang": "Swift",
-   "stars": 1077,
-   "forks": 82,
-   "growth": 291.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "gestures",
-    "ipad",
-    "iphone",
-    "macos",
-    "macos-app"
-   ],
-   "created": "2026-11-13",
-   "pushed": "2026-11-19",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.073,
-   "first_seen": "2026-11-19",
-   "downloads": 2045,
-   "score": 70.6,
-   "old": true
-  },
-  {
-   "full": "open-webui/open-webui",
-   "url": "https://github.com/open-webui/open-webui",
-   "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-   "lang": "Svelte",
-   "stars": 159081,
-   "forks": 23108,
-   "growth": 94.8,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "llm",
-    "llm-ui",
-    "llm-webui",
-    "llms",
-    "mcp"
-   ],
-   "created": "2023-10-06",
-   "pushed": "2026-11-18",
-   "license": "",
-   "homepage": "https://openwebui.com",
-   "src": [],
-   "buzz": 6.958,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 69.5,
-   "old": true
-  },
-  {
-   "full": "f/prompts.chat",
-   "url": "https://github.com/f/prompts.chat",
-   "desc": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-   "lang": "MDX",
-   "stars": 177876,
-   "forks": 22678,
-   "growth": 92.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "artificial-intelligence",
-    "awesome-list",
-    "chatgpt",
-    "chatgpt-prompts",
-    "claude"
-   ],
-   "created": "2022-12-05",
-   "pushed": "2026-11-19",
-   "license": "",
-   "homepage": "https://prompts.chat",
-   "src": [],
-   "buzz": 6.95,
-   "first_seen": "2026-11-19",
-   "downloads": 0,
-   "score": 69.4,
-   "old": true
-  },
-  {
-   "full": "rtk-ai/rtk",
-   "url": "https://github.com/rtk-ai/rtk",
-   "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-   "lang": "Rust",
-   "stars": 87153,
-   "forks": 5598,
-   "growth": 104.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agentic-coding",
-    "ai-coding",
-    "anthropic",
-    "claude-code",
-    "cli",
-    "command-line-tool"
-   ],
-   "created": "2026-01-22",
-   "pushed": "2026-11-19",
-   "license": "Apache-2.0",
-   "homepage": "https://www.rtk-ai.app",
-   "src": [],
-   "buzz": 6.934,
-   "first_seen": "2026-11-19",
-   "downloads": 2517,
-   "score": 69.2,
    "old": true
   }
  ]
