@@ -1,8 +1,728 @@
 {
- "date": "2026-11-25",
- "generated": "2026-11-25T14:13+00:00",
+ "date": "2026-11-26",
+ "generated": "2026-11-26T14:03+00:00",
  "model": "",
  "items": [
+  {
+   "full": "lsernau/grh-lean",
+   "url": "https://github.com/lsernau/grh-lean",
+   "desc": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
+   "lang": "Lean",
+   "stars": 744,
+   "forks": 78,
+   "growth": 744.0,
+   "hn_points": 489,
+   "hn_comments": 280,
+   "hn_url": "https://news.ycombinator.com/item?id=50648050",
+   "topics": [],
+   "created": "2026-11-25",
+   "pushed": "2026-11-25",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 17.625,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "alesha-pro/llm.asm",
+   "url": "https://github.com/alesha-pro/llm.asm",
+   "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+   "lang": "Assembly",
+   "stars": 1060,
+   "forks": 154,
+   "growth": 1060.0,
+   "hn_points": 182,
+   "hn_comments": 40,
+   "hn_url": "https://news.ycombinator.com/item?id=50648365",
+   "topics": [
+    "assembly",
+    "avx2",
+    "bare-metal",
+    "llm",
+    "machine-learning",
+    "nasm"
+   ],
+   "created": "2026-11-25",
+   "pushed": "2026-11-25",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 16.097,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 91.3
+  },
+  {
+   "full": "google-research/google-research",
+   "url": "https://github.com/google-research/google-research",
+   "desc": "Google Research",
+   "lang": "Jupyter Notebook",
+   "stars": 39507,
+   "forks": 8536,
+   "growth": 0.0,
+   "hn_points": 495,
+   "hn_comments": 359,
+   "hn_url": "https://news.ycombinator.com/item?id=50642086",
+   "topics": [
+    "ai",
+    "machine-learning",
+    "research"
+   ],
+   "created": "2018-10-04",
+   "pushed": "2026-11-26",
+   "license": "Apache-2.0",
+   "homepage": "https://research.google",
+   "src": [
+    "hn"
+   ],
+   "buzz": 11.919,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 67.6
+  },
+  {
+   "full": "intel/intel-one-mono",
+   "url": "https://github.com/intel/intel-one-mono",
+   "desc": "Intel One Mono font repository",
+   "lang": "",
+   "stars": 10456,
+   "forks": 347,
+   "growth": 0.0,
+   "hn_points": 183,
+   "hn_comments": 105,
+   "hn_url": "https://news.ycombinator.com/item?id=50653667",
+   "topics": [],
+   "created": "2023-04-11",
+   "pushed": "2026-11-04",
+   "license": "OFL-1.1",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 9.974,
+   "first_seen": "2026-11-26",
+   "downloads": 212251,
+   "score": 56.6
+  },
+  {
+   "full": "Ebony-Vinyl/dsh-our-free-model",
+   "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+   "desc": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+   "lang": "JavaScript",
+   "stars": 87829,
+   "forks": 2488,
+   "growth": 1401.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agents",
+    "deepseek",
+    "deepseek-harness",
+    "developer-tools",
+    "dsh",
+    "dsh-plugin"
+   ],
+   "created": "2026-09-24",
+   "pushed": "2026-11-26",
+   "license": "",
+   "homepage": "",
+   "src": [],
+   "buzz": 9.523,
+   "first_seen": "2026-11-26",
+   "downloads": 53860,
+   "score": 54.0
+  },
+  {
+   "full": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+   "lang": "Python",
+   "stars": 75483,
+   "forks": 6656,
+   "growth": 755.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "artificial-intelligence",
+    "automation",
+    "bot",
+    "command-line",
+    "data-science"
+   ],
+   "created": "2026-01-23",
+   "pushed": "2026-11-26",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.874,
+   "first_seen": "2026-11-26",
+   "downloads": 3809,
+   "score": 50.3
+  },
+  {
+   "full": "avatarmanz/VIctory-7900XTX",
+   "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+   "desc": "Goal: an Xbox Series title (your own dump) at a stable 30+ fps on PC without ray tracing, then higher. Porting, not emulating: renderer patches + ahead-of-time shaders, RX 7900 XTX first. No game files.",
+   "lang": "Rust",
+   "stars": 1591,
+   "forks": 461,
+   "growth": 1591.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-25",
+   "pushed": "2026-11-26",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.847,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 50.2
+  },
+  {
+   "full": "umbradev315/ffmpeg-video-audio-converter",
+   "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+   "desc": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+   "lang": "Kotlin",
+   "stars": 551,
+   "forks": 0,
+   "growth": 183.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "audio-converter",
+    "audio-encoding",
+    "audio-processing",
+    "batch-processing",
+    "desktop-app",
+    "ffmpeg"
+   ],
+   "created": "2026-11-23",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.481,
+   "first_seen": "2026-11-26",
+   "downloads": 16,
+   "score": 36.8
+  },
+  {
+   "full": "click6067-ship-it/token-tv",
+   "url": "https://github.com/click6067-ship-it/token-tv",
+   "desc": "Turn a ~$5 AliExpress clock into pixel pets for Claude Code and Codex. They react to your agents and keep your usage limits in sight. No firmware flashing.",
+   "lang": "Python",
+   "stars": 145,
+   "forks": 18,
+   "growth": 0.0,
+   "hn_points": 48,
+   "hn_comments": 4,
+   "hn_url": "https://news.ycombinator.com/item?id=50642300",
+   "topics": [
+    "claude-code",
+    "claude-code-plugin",
+    "codex",
+    "desk-clock",
+    "desk-pet",
+    "geekmagic"
+   ],
+   "created": "2026-10-02",
+   "pushed": "2026-11-24",
+   "license": "MIT",
+   "homepage": "https://click6067-ship-it.github.io/token-tv/",
+   "src": [
+    "hn"
+   ],
+   "buzz": 6.311,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 35.8
+  },
+  {
+   "full": "qier222/YesPlayMusic",
+   "url": "https://github.com/qier222/YesPlayMusic",
+   "desc": "A better-looking desktop music player for local files, media servers, and plugins. For macOS, Windows and Linux.",
+   "lang": "C",
+   "stars": 33750,
+   "forks": 4674,
+   "growth": 39.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "desktop-app",
+    "emby",
+    "flutter",
+    "javascript",
+    "jellyfin",
+    "linux"
+   ],
+   "created": "2020-10-09",
+   "pushed": "2026-11-26",
+   "license": "GPL-3.0",
+   "homepage": "https://yesplaymusic.0xtangerine.com",
+   "src": [],
+   "buzz": 5.774,
+   "first_seen": "2026-11-26",
+   "downloads": 2099264,
+   "score": 32.8
+  },
+  {
+   "full": "ClickHouse/ClickHouse",
+   "url": "https://github.com/ClickHouse/ClickHouse",
+   "desc": "ClickHouse® is a real-time analytics database management system",
+   "lang": "C++",
+   "stars": 51160,
+   "forks": 9329,
+   "growth": 31.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "analytics",
+    "big-data",
+    "clickhouse",
+    "cloud-native",
+    "cpp"
+   ],
+   "created": "2016-06-02",
+   "pushed": "2026-11-26",
+   "license": "Apache-2.0",
+   "homepage": "https://clickhouse.com",
+   "src": [],
+   "buzz": 5.634,
+   "first_seen": "2026-11-26",
+   "downloads": 9806,
+   "score": 32.0
+  },
+  {
+   "full": "team-spotube/spotube",
+   "url": "https://github.com/team-spotube/spotube",
+   "desc": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+   "lang": "Kotlin",
+   "stars": 50960,
+   "forks": 2427,
+   "growth": 30.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "android-client",
+    "android-music-player",
+    "desktop-client",
+    "fdroid",
+    "flutter"
+   ],
+   "created": "2021-02-14",
+   "pushed": "2026-11-26",
+   "license": "AGPL-3.0",
+   "homepage": "https://spotube.org/",
+   "src": [],
+   "buzz": 5.602,
+   "first_seen": "2026-11-26",
+   "downloads": 2803583,
+   "score": 31.8
+  },
+  {
+   "full": "rikkahub/rikkahub",
+   "url": "https://github.com/rikkahub/rikkahub",
+   "desc": "RikkaHub is an Android APP that supports for multiple LLM providers.",
+   "lang": "Kotlin",
+   "stars": 9228,
+   "forks": 944,
+   "growth": 41.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent",
+    "android",
+    "app",
+    "chatgpt",
+    "deepseek",
+    "gemini"
+   ],
+   "created": "2025-03-11",
+   "pushed": "2026-11-26",
+   "license": "AGPL-3.0",
+   "homepage": "https://rikka-ai.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.564,
+   "first_seen": "2026-11-26",
+   "downloads": 61103,
+   "score": 31.6
+  },
+  {
+   "full": "bendlang/bend",
+   "url": "https://github.com/bendlang/bend",
+   "desc": "Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh",
+   "lang": "TypeScript",
+   "stars": 25903,
+   "forks": 828,
+   "growth": 33.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "bend",
+    "cuda",
+    "dependent-types",
+    "gpu",
+    "metal",
+    "parallel"
+   ],
+   "created": "2023-08-29",
+   "pushed": "2026-11-24",
+   "license": "Apache-2.0",
+   "homepage": "https://bend-lang.com",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.559,
+   "first_seen": "2026-11-26",
+   "downloads": 200465,
+   "score": 31.5
+  },
+  {
+   "full": "google-ai-edge/mediapipe",
+   "url": "https://github.com/google-ai-edge/mediapipe",
+   "desc": "Cross-platform, customizable ML solutions for live and streaming media.",
+   "lang": "C++",
+   "stars": 37873,
+   "forks": 6253,
+   "growth": 29.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "audio-processing",
+    "c-plus-plus",
+    "calculator",
+    "computer-vision",
+    "deep-learning"
+   ],
+   "created": "2019-06-13",
+   "pushed": "2026-11-25",
+   "license": "Apache-2.0",
+   "homepage": "https://ai.google.dev/edge/mediapipe",
+   "src": [],
+   "buzz": 5.51,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 31.3
+  },
+  {
+   "full": "yuliskov/SmartTube",
+   "url": "https://github.com/yuliskov/SmartTube",
+   "desc": "Browse media content with your own rules on Android TV",
+   "lang": "Java",
+   "stars": 36667,
+   "forks": 2357,
+   "growth": 29.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "android-tv",
+    "android-tv-box",
+    "java",
+    "kotlin",
+    "retrofit2"
+   ],
+   "created": "2020-07-28",
+   "pushed": "2026-11-24",
+   "license": "MIT",
+   "homepage": "https://smarttubeapp.github.io",
+   "src": [],
+   "buzz": 5.503,
+   "first_seen": "2026-11-26",
+   "downloads": 266945,
+   "score": 31.2
+  },
+  {
+   "full": "karakeep-app/karakeep",
+   "url": "https://github.com/karakeep-app/karakeep",
+   "desc": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+   "lang": "TypeScript",
+   "stars": 30867,
+   "forks": 1679,
+   "growth": 30.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "bookmark-manager",
+    "bookmarks",
+    "bookmarks-manager",
+    "nextjs",
+    "react-native",
+    "read-it-later"
+   ],
+   "created": "2024-02-06",
+   "pushed": "2026-11-25",
+   "license": "AGPL-3.0",
+   "homepage": "https://karakeep.com",
+   "src": [],
+   "buzz": 5.501,
+   "first_seen": "2026-11-26",
+   "downloads": 0,
+   "score": 31.2
+  },
+  {
+   "full": "siyuan-note/siyuan",
+   "url": "https://github.com/siyuan-note/siyuan",
+   "desc": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
+   "lang": "TypeScript",
+   "stars": 47411,
+   "forks": 3138,
+   "growth": 27.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agentic-ai",
+    "ai-agent",
+    "knowledge-base",
+    "local-first",
+    "markdown",
+    "mcp"
+   ],
+   "created": "2020-08-30",
+   "pushed": "2026-11-26",
+   "license": "AGPL-3.0",
+   "homepage": "https://b3log.org/siyuan",
+   "src": [],
+   "buzz": 5.486,
+   "first_seen": "2026-11-26",
+   "downloads": 103990,
+   "score": 31.1
+  },
+  {
+   "full": "GopeedLab/gopeed",
+   "url": "https://github.com/GopeedLab/gopeed",
+   "desc": "  A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+   "lang": "Go",
+   "stars": 28008,
+   "forks": 1822,
+   "growth": 30.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "bittorrent",
+    "cross-platform",
+    "download-manger",
+    "downloader",
+    "downloadmanager"
+   ],
+   "created": "2019-04-21",
+   "pushed": "2026-11-26",
+   "license": "GPL-3.0",
+   "homepage": "https://gopeed.com",
+   "src": [],
+   "buzz": 5.482,
+   "first_seen": "2026-11-26",
+   "downloads": 1311111,
+   "score": 31.1
+  },
+  {
+   "full": "Significant-Gravitas/AutoGPT",
+   "url": "https://github.com/Significant-Gravitas/AutoGPT",
+   "desc": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+   "lang": "Python",
+   "stars": 188200,
+   "forks": 45831,
+   "growth": 18.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "claude"
+   ],
+   "created": "2023-03-16",
+   "pushed": "2026-11-26",
+   "license": "",
+   "homepage": "https://agpt.co",
+   "src": [],
+   "buzz": 5.373,
+   "first_seen": "2026-11-26",
+   "downloads": 14,
+   "score": 30.5
+  },
+  {
+   "full": "apache/airflow",
+   "url": "https://github.com/apache/airflow",
+   "desc": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+   "lang": "Python",
+   "stars": 47685,
+   "forks": 18405,
+   "growth": 23.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "airflow",
+    "apache",
+    "apache-airflow",
+    "automation",
+    "dag",
+    "data-engineering"
+   ],
+   "created": "2015-04-13",
+   "pushed": "2026-11-26",
+   "license": "Apache-2.0",
+   "homepage": "https://airflow.apache.org/",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.333,
+   "first_seen": "2026-11-26",
+   "downloads": 5912,
+   "score": 30.3
+  },
+  {
+   "full": "onyx-dot-app/onyx",
+   "url": "https://github.com/onyx-dot-app/onyx",
+   "desc": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+   "lang": "Python",
+   "stars": 33562,
+   "forks": 4773,
+   "growth": 24.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-chat",
+    "chatgpt",
+    "chatui",
+    "enterprise-search",
+    "gen-ai"
+   ],
+   "created": "2023-04-27",
+   "pushed": "2026-11-26",
+   "license": "",
+   "homepage": "https://onyx.app",
+   "src": [],
+   "buzz": 5.303,
+   "first_seen": "2026-11-26",
+   "downloads": 5724,
+   "score": 30.1
+  },
+  {
+   "full": "zhayujie/CowAgent",
+   "url": "https://github.com/zhayujie/CowAgent",
+   "desc": "Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.",
+   "lang": "Python",
+   "stars": 48090,
+   "forks": 10452,
+   "growth": 22.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "ai-agent",
+    "ai-agents",
+    "chatgpt-on-wechat",
+    "claude",
+    "claude-code"
+   ],
+   "created": "2022-08-07",
+   "pushed": "2026-11-26",
+   "license": "MIT",
+   "homepage": "https://cowagent.ai",
+   "src": [],
+   "buzz": 5.292,
+   "first_seen": "2026-11-26",
+   "downloads": 3388,
+   "score": 30.0
+  },
+  {
+   "full": "google-ai-edge/gallery",
+   "url": "https://github.com/google-ai-edge/gallery",
+   "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+   "lang": "Kotlin",
+   "stars": 25478,
+   "forks": 2856,
+   "growth": 24.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2025-03-31",
+   "pushed": "2026-11-25",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.248,
+   "first_seen": "2026-11-26",
+   "downloads": 106351,
+   "score": 29.8
+  },
+  {
+   "full": "netdata/netdata",
+   "url": "https://github.com/netdata/netdata",
+   "desc": "Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations",
+   "lang": "Go",
+   "stars": 81653,
+   "forks": 6744,
+   "growth": 18.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "anomaly-detection",
+    "dashboard",
+    "data-visualization",
+    "database",
+    "devops"
+   ],
+   "created": "2013-06-17",
+   "pushed": "2026-11-26",
+   "license": "GPL-3.0",
+   "homepage": "https://www.netdata.cloud",
+   "src": [],
+   "buzz": 5.206,
+   "first_seen": "2026-11-26",
+   "downloads": 396093,
+   "score": 29.5
+  },
   {
    "full": "sous-labs/songe",
    "url": "https://github.com/sous-labs/songe",
@@ -33,7 +753,8 @@
    "buzz": 15.609,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "xoxorwr/pw-loudness-eq",
@@ -58,7 +779,8 @@
    "buzz": 11.385,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 72.9
+   "score": 72.9,
+   "old": true
   },
   {
    "full": "samcorcos/legatum",
@@ -83,7 +805,8 @@
    "buzz": 11.222,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 71.9
+   "score": 71.9,
+   "old": true
   },
   {
    "full": "fxceless/victory-fork",
@@ -107,7 +830,8 @@
    "buzz": 9.514,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 61.0
+   "score": 61.0,
+   "old": true
   },
   {
    "full": "xcl-dev/xcl",
@@ -136,7 +860,8 @@
    "buzz": 9.198,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 58.9
+   "score": 58.9,
+   "old": true
   },
   {
    "full": "Zettrox/ztrx",
@@ -160,7 +885,8 @@
    "buzz": 8.734,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 56.0
+   "score": 56.0,
+   "old": true
   },
   {
    "full": "Belobug/VIctory-Belobug-AMD",
@@ -184,7 +910,8 @@
    "buzz": 8.464,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 54.2
+   "score": 54.2,
+   "old": true
   },
   {
    "full": "Indigo-0167/universal-game-mod-manager",
@@ -215,7 +942,8 @@
    "buzz": 7.913,
    "first_seen": "2026-11-25",
    "downloads": 12,
-   "score": 50.7
+   "score": 50.7,
+   "old": true
   },
   {
    "full": "Umbra9179/clipboard-history-manager-windows",
@@ -246,7 +974,8 @@
    "buzz": 7.88,
    "first_seen": "2026-11-25",
    "downloads": 17,
-   "score": 50.5
+   "score": 50.5,
+   "old": true
   },
   {
    "full": "solv4626/steam-achievement-manager-windows",
@@ -277,7 +1006,8 @@
    "buzz": 7.672,
    "first_seen": "2026-11-25",
    "downloads": 11,
-   "score": 49.2
+   "score": 49.2,
+   "old": true
   },
   {
    "full": "zero5122/offline-file-converter-windows",
@@ -308,7 +1038,8 @@
    "buzz": 7.669,
    "first_seen": "2026-11-25",
    "downloads": 22,
-   "score": 49.1
+   "score": 49.1,
+   "old": true
   },
   {
    "full": "kai415-debug/ffmpeg-video-audio-converter",
@@ -339,7 +1070,8 @@
    "buzz": 7.627,
    "first_seen": "2026-11-25",
    "downloads": 11,
-   "score": 48.9
+   "score": 48.9,
+   "old": true
   },
   {
    "full": "rowanbyte3329/stardew-valley-mod-manager",
@@ -370,7 +1102,8 @@
    "buzz": 7.433,
    "first_seen": "2026-11-25",
    "downloads": 13,
-   "score": 47.6
+   "score": 47.6,
+   "old": true
   },
   {
    "full": "olive527/steam-library-manager-windows",
@@ -401,7 +1134,8 @@
    "buzz": 7.21,
    "first_seen": "2026-11-25",
    "downloads": 10,
-   "score": 46.2
+   "score": 46.2,
+   "old": true
   },
   {
    "full": "Nebula4207/av1-video-encoder-gui",
@@ -432,7 +1166,8 @@
    "buzz": 7.145,
    "first_seen": "2026-11-25",
    "downloads": 14,
-   "score": 45.8
+   "score": 45.8,
+   "old": true
   },
   {
    "full": "Basil0879/steam-game-idler",
@@ -463,7 +1198,8 @@
    "buzz": 7.14,
    "first_seen": "2026-11-25",
    "downloads": 8,
-   "score": 45.7
+   "score": 45.7,
+   "old": true
   },
   {
    "full": "mawlicious/bo3mac",
@@ -488,7 +1224,8 @@
    "buzz": 6.934,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 44.4
+   "score": 44.4,
+   "old": true
   },
   {
    "full": "Developing-Gamer/agent-sim",
@@ -519,7 +1256,8 @@
    "buzz": 6.398,
    "first_seen": "2026-11-25",
    "downloads": 936,
-   "score": 41.0
+   "score": 41.0,
+   "old": true
   },
   {
    "full": "google-gemini/gemini-cli",
@@ -548,7 +1286,8 @@
    "buzz": 6.212,
    "first_seen": "2026-11-25",
    "downloads": 1909,
-   "score": 39.8
+   "score": 39.8,
+   "old": true
   },
   {
    "full": "aaif-goose/goose",
@@ -575,7 +1314,8 @@
    "buzz": 6.16,
    "first_seen": "2026-11-25",
    "downloads": 315228,
-   "score": 39.5
+   "score": 39.5,
+   "old": true
   },
   {
    "full": "langchain-ai/langgraph",
@@ -604,7 +1344,8 @@
    "buzz": 6.016,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 38.5
+   "score": 38.5,
+   "old": true
   },
   {
    "full": "hatchet-dev/brickie",
@@ -635,7 +1376,8 @@
    "buzz": 6.01,
    "first_seen": "2026-11-25",
    "downloads": 8,
-   "score": 38.5
+   "score": 38.5,
+   "old": true
   },
   {
    "full": "langfuse/langfuse",
@@ -664,7 +1406,8 @@
    "buzz": 5.892,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 37.7
+   "score": 37.7,
+   "old": true
   },
   {
    "full": "croffasia/itsaplan",
@@ -695,7 +1438,8 @@
    "buzz": 5.687,
    "first_seen": "2026-11-25",
    "downloads": 0,
-   "score": 36.4
+   "score": 36.4,
+   "old": true
   },
   {
    "full": "ente/ente",
@@ -724,7 +1468,8 @@
    "buzz": 5.676,
    "first_seen": "2026-11-25",
    "downloads": 48804,
-   "score": 36.4
+   "score": 36.4,
+   "old": true
   },
   {
    "full": "mikuta0407/win4wine",
@@ -2184,756 +2929,6 @@
    "first_seen": "2026-11-23",
    "downloads": 0,
    "score": 37.1,
-   "old": true
-  },
-  {
-   "full": "ItsNotRexed/Leonida",
-   "url": "https://github.com/ItsNotRexed/Leonida",
-   "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
-   "lang": "Python",
-   "stars": 9724,
-   "forks": 744,
-   "growth": 4862.0,
-   "hn_points": 171,
-   "hn_comments": 133,
-   "hn_url": "https://news.ycombinator.com/item?id=50595168",
-   "topics": [],
-   "created": "2026-11-20",
-   "pushed": "2026-11-22",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 18.462,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "EL4CTEO/fast-anything",
-   "url": "https://github.com/EL4CTEO/fast-anything",
-   "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
-   "lang": "Rust",
-   "stars": 708,
-   "forks": 43,
-   "growth": 708.0,
-   "hn_points": 52,
-   "hn_comments": 32,
-   "hn_url": "https://news.ycombinator.com/item?id=50596155",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude-code",
-    "claude-code-plugin",
-    "codex",
-    "developer-tools"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://www.npmjs.com/package/@el4cteo/fast-anything",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 14.04,
-   "first_seen": "2026-11-22",
-   "downloads": 97,
-   "score": 76.0,
-   "old": true
-  },
-  {
-   "full": "ShinMegamiBoson/lookatmyquant",
-   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "desc": "A quantization compiler that delivers 12× lower KL than Q4_K_M at the same file size",
-   "lang": "Python",
-   "stars": 425,
-   "forks": 19,
-   "growth": 19.3,
-   "hn_points": 482,
-   "hn_comments": 121,
-   "hn_url": "https://news.ycombinator.com/item?id=50591853",
-   "topics": [],
-   "created": "2026-10-31",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://lookatmyquant.pages.dev",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 13.56,
-   "first_seen": "2026-11-22",
-   "downloads": 209,
-   "score": 73.4,
-   "old": true
-  },
-  {
-   "full": "tamnd/riemann-handbook",
-   "url": "https://github.com/tamnd/riemann-handbook",
-   "desc": "The Riemann Handbook: the proof of the Riemann Hypothesis in tamnd/riemann-lean, written as mathematics, as PDF and EPUB",
-   "lang": "Python",
-   "stars": 35,
-   "forks": 2,
-   "growth": 35.0,
-   "hn_points": 63,
-   "hn_comments": 28,
-   "hn_url": "https://news.ycombinator.com/item?id=50596664",
-   "topics": [],
-   "created": "2026-11-22",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://riemann.tamnd.com",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 10.638,
-   "first_seen": "2026-11-22",
-   "downloads": 1100,
-   "score": 57.6,
-   "old": true
-  },
-  {
-   "full": "DietrichGebert/ponytail",
-   "url": "https://github.com/DietrichGebert/ponytail",
-   "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-   "lang": "JavaScript",
-   "stars": 196641,
-   "forks": 11087,
-   "growth": 859.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "claude",
-    "claude-code",
-    "claude-code-plugin",
-    "cursor-rules"
-   ],
-   "created": "2026-06-12",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://ponytail.dev",
-   "src": [],
-   "buzz": 9.195,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 49.8,
-   "old": true
-  },
-  {
-   "full": "Leonxlnx/taste-skill",
-   "url": "https://github.com/Leonxlnx/taste-skill",
-   "desc": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
-   "lang": "JavaScript",
-   "stars": 119911,
-   "forks": 8034,
-   "growth": 612.9,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "ai-agents",
-    "anti-slop",
-    "claude-code",
-    "codex",
-    "cursor"
-   ],
-   "created": "2026-02-19",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://tasteskill.dev",
-   "src": [],
-   "buzz": 8.759,
-   "first_seen": "2026-11-22",
-   "downloads": 1545,
-   "score": 47.4,
-   "old": true
-  },
-  {
-   "full": "omonkeyz/xbox-emulator",
-   "url": "https://github.com/omonkeyz/xbox-emulator",
-   "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-   "lang": "Rust",
-   "stars": 1039,
-   "forks": 56,
-   "growth": 1039.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 8.336,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 45.2,
-   "old": true
-  },
-  {
-   "full": "cheaper-inference/OmniRoute",
-   "url": "https://github.com/cheaper-inference/OmniRoute",
-   "desc": "Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors",
-   "lang": "TypeScript",
-   "stars": 89508,
-   "forks": 13836,
-   "growth": 315.6,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "a2a",
-    "ai-agents",
-    "ai-gateway",
-    "anthropic",
-    "claude",
-    "claude-code"
-   ],
-   "created": "2026-02-13",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://omniroute.online",
-   "src": [],
-   "buzz": 8.038,
-   "first_seen": "2026-11-22",
-   "downloads": 539825,
-   "score": 43.5,
-   "old": true
-  },
-  {
-   "full": "sebaandrada-cell/PcapAnalyzer",
-   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-   "desc": "Free, self-hosted pcap analyzer with 27 problem detectors and AI investigation",
-   "lang": "Python",
-   "stars": 144,
-   "forks": 1,
-   "growth": 0.0,
-   "hn_points": 127,
-   "hn_comments": 18,
-   "hn_url": "https://news.ycombinator.com/item?id=50594132",
-   "topics": [
-    "fastapi",
-    "network-troubleshooting",
-    "packet-analysis",
-    "pcap",
-    "tshark",
-    "wireshark"
-   ],
-   "created": "2026-10-21",
-   "pushed": "2026-11-21",
-   "license": "Apache-2.0",
-   "homepage": "https://pcap-analyzer-seven.vercel.app",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.996,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 43.3,
-   "old": true
-  },
-  {
-   "full": "ai-job-search-dev/ai-job-search",
-   "url": "https://github.com/ai-job-search-dev/ai-job-search",
-   "desc": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-   "lang": "Python",
-   "stars": 72987,
-   "forks": 23371,
-   "growth": 307.7,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai",
-    "ai-agents",
-    "career",
-    "claude-code",
-    "cover-letter",
-    "cv"
-   ],
-   "created": "2026-03-18",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "",
-   "src": [],
-   "buzz": 7.972,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 43.2,
-   "old": true
-  },
-  {
-   "full": "R0Y00/Xbox2Windows",
-   "url": "https://github.com/R0Y00/Xbox2Windows",
-   "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
-   "lang": "Python",
-   "stars": 1132,
-   "forks": 107,
-   "growth": 566.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "d3d12",
-    "directx-raytracing",
-    "scarlett",
-    "static-recompilation",
-    "windows",
-    "xbox"
-   ],
-   "created": "2026-11-20",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.747,
-   "first_seen": "2026-11-22",
-   "downloads": 2104,
-   "score": 42.0,
-   "old": true
-  },
-  {
-   "full": "opokukopoku/gta-6-pc-release",
-   "url": "https://github.com/opokukopoku/gta-6-pc-release",
-   "desc": "GTA 6 PC Release: Full Access, Zero Hassle",
-   "lang": "HTML",
-   "stars": 443,
-   "forks": 0,
-   "growth": 443.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "gta6-cover-art",
-    "gta6-cover-art-01",
-    "gta6-disk-space",
-    "gta6-online",
-    "gta6-pc",
-    "gta6-preload"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.315,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 39.6,
-   "old": true
-  },
-  {
-   "full": "sybil-solutions/skill-distill",
-   "url": "https://github.com/sybil-solutions/skill-distill",
-   "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
-   "lang": "Python",
-   "stars": 427,
-   "forks": 37,
-   "growth": 427.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-21",
-   "pushed": "2026-11-21",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.271,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 39.4,
-   "old": true
-  },
-  {
-   "full": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
-   "url": "https://github.com/kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
-   "desc": "DAW & Synth Studio Suite FL Studio 2026.1 Producer All-Plugins Edition Runtime: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-   "lang": "Jupyter Notebook",
-   "stars": 350,
-   "forks": 56,
-   "growth": 350.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "2026",
-    "ableton-live-12",
-    "all",
-    "autotune-pro",
-    "daw",
-    "daw-2026"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "https://kyle-millerx2098t3.github.io/daw-synth-fl-studio-2026-producer-portable-x64/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.033,
-   "first_seen": "2026-11-22",
-   "downloads": 8,
-   "score": 38.1,
-   "old": true
-  },
-  {
-   "full": "antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
-   "url": "https://github.com/antonhall-x91s9/discord-local-uncensored-ai-activity-utility-quest-auto-po",
-   "desc": "Discord & Local Uncensored AI Discord Activity serial-utility, Quest Auto-Completer & Badge Booster: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-   "lang": "Jupyter Notebook",
-   "stars": 342,
-   "forks": 52,
-   "growth": 342.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "activity",
-    "auto",
-    "badge",
-    "booster",
-    "completer",
-    "cuda-portable"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "https://antonhall-x91s9.github.io/discord-local-uncensored-ai-activity-utility-quest-auto-po/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.005,
-   "first_seen": "2026-11-22",
-   "downloads": 7,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
-   "url": "https://github.com/danx1905k8/war-thunder-realistic-tank-outline-thermal-portable-x64",
-   "desc": "War Thunder Realistic Tank Outline & Thermal Sight Mod: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-   "lang": "Jupyter Notebook",
-   "stars": 342,
-   "forks": 49,
-   "growth": 342.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ballistic-calculator",
-    "external-overlay",
-    "lead-indicator",
-    "mod",
-    "outline",
-    "realistic"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "https://danx1905k8.github.io/war-thunder-realistic-tank-outline-thermal-portable-x64/",
-   "src": [
-    "új"
-   ],
-   "buzz": 7.005,
-   "first_seen": "2026-11-22",
-   "downloads": 7,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "CETPROAR/rob-run-ares-enhancer",
-   "url": "https://github.com/CETPROAR/rob-run-ares-enhancer",
-   "desc": "Rob Run Ares Enhancer - Elevate Your Gameplay",
-   "lang": "HTML",
-   "stars": 340,
-   "forks": 0,
-   "growth": 340.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "rob-run-cheat-menu",
-    "rob-run-esp-tool",
-    "rob-run-hack-tool",
-    "rob-run-infinity-money",
-    "rob-run-internal",
-    "rob-run-menu-2026"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.998,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
-   "url": "https://github.com/leonmiller-io01l1/gta-6-vice-city-ps5-remote-play-60fps-portable-x64",
-   "desc": "GTA 6 Vice City PS5 Remote Play 60FPS FrameGen Enhancer: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-   "lang": "Jupyter Notebook",
-   "stars": 340,
-   "forks": 47,
-   "growth": 340.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "60fps",
-    "dx12",
-    "enhancer",
-    "frame-generation",
-    "framegen",
-    "gta-60fps"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "https://leonmiller-io01l1.github.io/gta-6-vice-city-ps5-remote-play-60fps-portable-x64/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.998,
-   "first_seen": "2026-11-22",
-   "downloads": 35,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "juniordroid/better-discord-client",
-   "url": "https://github.com/juniordroid/better-discord-client",
-   "desc": "Better Discord Client: Remastered Desktop Experience for Modders",
-   "lang": "HTML",
-   "stars": 339,
-   "forks": 0,
-   "growth": 339.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "desktop",
-    "developer-tools",
-    "open-source",
-    "python",
-    "scripts"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.995,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
-   "url": "https://github.com/markdevx1901r4/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl",
-   "desc": "ShadPS4 Bloodborne PC 60FPS Patch, Vertex Explosion Fix & SysModules Pack: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-   "lang": "Jupyter Notebook",
-   "stars": 339,
-   "forks": 56,
-   "growth": 339.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "60fps",
-    "60fps-patch",
-    "bloodborne-pc",
-    "explosion",
-    "fix",
-    "pack"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "https://markdevx1901r4.github.io/shadps4-bloodborne-pc-60fps-patch-vertex-explosion-portabl/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.995,
-   "first_seen": "2026-11-22",
-   "downloads": 6,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "darthvader097br-ctrl/acronis-standalone-bundle",
-   "url": "https://github.com/darthvader097br-ctrl/acronis-standalone-bundle",
-   "desc": "Acronis Bundle: Modular Desktop Suite for Integrated System Management",
-   "lang": "HTML",
-   "stars": 339,
-   "forks": 0,
-   "growth": 339.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "acronis-crack-2026",
-    "acronis-cracked",
-    "acronis-download-2026",
-    "acronis-download-free",
-    "acronis-free-2026",
-    "acronis-free-download"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.995,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
-   "url": "https://github.com/nickcode-01e6/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port",
-   "desc": "Samsung & Android mtp-csc Toolkit UnlockTool Portable Loader — Xiaomi HyperOS 2.0 & Auth service-helper: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-   "lang": "Jupyter Notebook",
-   "stars": 339,
-   "forks": 32,
-   "growth": 339.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "auth",
-    "helper",
-    "hyperos",
-    "hyperos-bootloader",
-    "loader",
-    "mtk-helper"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "https://nickcode-01e6.github.io/samsung-android-mtp-unlocktool-portable-loader-xiaomi-port/",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.995,
-   "first_seen": "2026-11-22",
-   "downloads": 6,
-   "score": 37.9,
-   "old": true
-  },
-  {
-   "full": "bojieli/ai-agent-book",
-   "url": "https://github.com/bojieli/ai-agent-book",
-   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-   "lang": "Python",
-   "stars": 59057,
-   "forks": 6933,
-   "growth": 102.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "agent-memory",
-    "ai-agent",
-    "book",
-    "coding-agent",
-    "context-engineering"
-   ],
-   "created": "2025-09-09",
-   "pushed": "2026-11-22",
-   "license": "Apache-2.0",
-   "homepage": "",
-   "src": [],
-   "buzz": 6.832,
-   "first_seen": "2026-11-22",
-   "downloads": 204,
-   "score": 37.0,
-   "old": true
-  },
-  {
-   "full": "leanprover-community/riemann-hypothesis",
-   "url": "https://github.com/leanprover-community/riemann-hypothesis",
-   "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
-   "lang": "Lean",
-   "stars": 517,
-   "forks": 110,
-   "growth": 258.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-20",
-   "pushed": "2026-11-22",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.809,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 36.9,
-   "old": true
-  },
-  {
-   "full": "coollabsio/coolify",
-   "url": "https://github.com/coollabsio/coolify",
-   "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
-   "lang": "PHP",
-   "stars": 66350,
-   "forks": 6011,
-   "growth": 94.6,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "coolify",
-    "databases",
-    "deployment",
-    "docker",
-    "docker-compose",
-    "inertiajs"
-   ],
-   "created": "2021-01-25",
-   "pushed": "2026-11-21",
-   "license": "Apache-2.0",
-   "homepage": "https://coolify.io",
-   "src": [],
-   "buzz": 6.78,
-   "first_seen": "2026-11-22",
-   "downloads": 0,
-   "score": 36.7,
    "old": true
   }
  ]
