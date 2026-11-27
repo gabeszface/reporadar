@@ -1,8 +1,730 @@
 {
- "date": "2026-11-26",
- "generated": "2026-11-26T14:03+00:00",
+ "date": "2026-11-27",
+ "generated": "2026-11-27T14:00+00:00",
  "model": "",
  "items": [
+  {
+   "full": "gary23w/f-ck_data_brokers",
+   "url": "https://github.com/gary23w/f-ck_data_brokers",
+   "desc": "fck_data_brokers.py is a free, open-source Python script that sends opt-out and deletion requests to data brokers on your behalf.",
+   "lang": "Python",
+   "stars": 506,
+   "forks": 23,
+   "growth": 506.0,
+   "hn_points": 240,
+   "hn_comments": 52,
+   "hn_url": "https://news.ycombinator.com/item?id=50658191",
+   "topics": [
+    "ccpa",
+    "cli",
+    "data-brokers",
+    "data-deletion",
+    "gdpr",
+    "lgpd"
+   ],
+   "created": "2026-11-26",
+   "pushed": "2026-11-27",
+   "license": "MIT",
+   "homepage": "https://agent.garrettstimpson.ca/remove",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 15.644,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 100.0
+  },
+  {
+   "full": "antonpictures/youtube-punisher",
+   "url": "https://github.com/antonpictures/youtube-punisher",
+   "desc": "YouTube Ad Blocker - Chrome / Browser Extension",
+   "lang": "JavaScript",
+   "stars": 223,
+   "forks": 3,
+   "growth": 55.8,
+   "hn_points": 447,
+   "hn_comments": 528,
+   "hn_url": "https://news.ycombinator.com/item?id=50657530",
+   "topics": [
+    "ad-blocker",
+    "ad-blocker-extension",
+    "ad-skipper",
+    "anti-ad",
+    "chrome-extension",
+    "manifest-v3"
+   ],
+   "created": "2026-11-23",
+   "pushed": "2026-11-26",
+   "license": "MIT",
+   "homepage": "https://georgeanton.com/youtube-ad-punisher.html",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 14.955,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 95.6
+  },
+  {
+   "full": "openai/math",
+   "url": "https://github.com/openai/math",
+   "desc": "",
+   "lang": "Lean",
+   "stars": 18537,
+   "forks": 2044,
+   "growth": 81.2,
+   "hn_points": 180,
+   "hn_comments": 49,
+   "hn_url": "https://news.ycombinator.com/item?id=50644980",
+   "topics": [],
+   "created": "2026-10-06",
+   "pushed": "2026-11-25",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "hn"
+   ],
+   "buzz": 14.177,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 90.6
+  },
+  {
+   "full": "samueleverett01/bss-permanent-separations",
+   "url": "https://github.com/samueleverett01/bss-permanent-separations",
+   "desc": "NP_R ≠ PAR_R, Σ2^R ≠ PAR_R, BIP_R ≠ PAR_R via the permanent (BSS model). Mostly AI-written; Lean formalized",
+   "lang": "Lean",
+   "stars": 18,
+   "forks": 0,
+   "growth": 18.0,
+   "hn_points": 131,
+   "hn_comments": 159,
+   "hn_url": "https://news.ycombinator.com/item?id=50657059",
+   "topics": [],
+   "created": "2026-11-26",
+   "pushed": "2026-11-26",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 11.423,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 73.0
+  },
+  {
+   "full": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "desc": "An agentic skills framework & software development methodology that works.",
+   "lang": "Shell",
+   "stars": 327976,
+   "forks": 29130,
+   "growth": 916.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai",
+    "brainstorming",
+    "coding",
+    "obra",
+    "sdlc",
+    "skills"
+   ],
+   "created": "2025-10-09",
+   "pushed": "2026-11-26",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 9.361,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 59.8
+  },
+  {
+   "full": "eisenzopf/rvoip",
+   "url": "https://github.com/eisenzopf/rvoip",
+   "desc": "Open-source Rust SIP/VoIP stack: SIP, WebRTC, SRTP and AI voice agents behind one API. RFC 7502-benchmarked.",
+   "lang": "Rust",
+   "stars": 469,
+   "forks": 39,
+   "growth": 0.0,
+   "hn_points": 143,
+   "hn_comments": 34,
+   "hn_url": "https://news.ycombinator.com/item?id=50658632",
+   "topics": [
+    "ai-agents",
+    "real-time-communication",
+    "rfc7502",
+    "rtp",
+    "rust",
+    "sbc"
+   ],
+   "created": "2025-04-01",
+   "pushed": "2026-11-27",
+   "license": "MIT",
+   "homepage": "https://crates.io/crates/rvoip",
+   "src": [
+    "hn"
+   ],
+   "buzz": 8.616,
+   "first_seen": "2026-11-27",
+   "downloads": 155,
+   "score": 55.1
+  },
+  {
+   "full": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+   "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
+   "desc": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
+   "lang": "C++",
+   "stars": 1065,
+   "forks": 0,
+   "growth": 1065.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "acrylic",
+    "aero",
+    "aeroglass",
+    "blur",
+    "cplusplus",
+    "cpp"
+   ],
+   "created": "2026-11-26",
+   "pushed": "2026-11-26",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.366,
+   "first_seen": "2026-11-27",
+   "downloads": 19,
+   "score": 53.5
+  },
+  {
+   "full": "nexu-io/opengame",
+   "url": "https://github.com/nexu-io/opengame",
+   "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+   "lang": "TypeScript",
+   "stars": 1840,
+   "forks": 300,
+   "growth": 920.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agent-skills",
+    "ai-agents",
+    "ai-game-generator",
+    "claude-code",
+    "codex",
+    "deepseek"
+   ],
+   "created": "2026-11-25",
+   "pushed": "2026-11-27",
+   "license": "Apache-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.329,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 53.2
+  },
+  {
+   "full": "rxliuli/sim-drop",
+   "url": "https://github.com/rxliuli/sim-drop",
+   "desc": "Drag files into iOS simulators from the Finder sidebar",
+   "lang": "Swift",
+   "stars": 47,
+   "forks": 1,
+   "growth": 4.3,
+   "hn_points": 48,
+   "hn_comments": 10,
+   "hn_url": "https://news.ycombinator.com/item?id=50657070",
+   "topics": [],
+   "created": "2026-11-16",
+   "pushed": "2026-11-26",
+   "license": "GPL-3.0",
+   "homepage": "https://rxliuli.com/project/sim-drop/",
+   "src": [
+    "új",
+    "hn"
+   ],
+   "buzz": 8.066,
+   "first_seen": "2026-11-27",
+   "downloads": 39,
+   "score": 51.6
+  },
+  {
+   "full": "superdesigndev/treg",
+   "url": "https://github.com/superdesigndev/treg",
+   "desc": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+   "lang": "Python",
+   "stars": 9691,
+   "forks": 1001,
+   "growth": 501.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "agents",
+    "api-keys",
+    "cli",
+    "credentials",
+    "developer-tools",
+    "dsh-plugin"
+   ],
+   "created": "2026-07-15",
+   "pushed": "2026-11-27",
+   "license": "",
+   "homepage": "https://treg.to",
+   "src": [
+    "trending"
+   ],
+   "buzz": 8.054,
+   "first_seen": "2026-11-27",
+   "downloads": 17621,
+   "score": 51.5
+  },
+  {
+   "full": "DoubleGhosty/cool_fox",
+   "url": "https://github.com/DoubleGhosty/cool_fox",
+   "desc": "cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wine/Vulkan fixes, FPS unlock, Port 5 CBV",
+   "lang": "Rust",
+   "stars": 809,
+   "forks": 453,
+   "growth": 809.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-26",
+   "pushed": "2026-11-27",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 8.036,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 51.4
+  },
+  {
+   "full": "Reukix/Reloc",
+   "url": "https://github.com/Reukix/Reloc",
+   "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
+   "lang": "Swift",
+   "stars": 1266,
+   "forks": 239,
+   "growth": 633.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-25",
+   "pushed": "2026-11-27",
+   "license": "AGPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.881,
+   "first_seen": "2026-11-27",
+   "downloads": 5017,
+   "score": 50.4
+  },
+  {
+   "full": "0x1A6C1A9Y/focus-clock",
+   "url": "https://github.com/0x1A6C1A9Y/focus-clock",
+   "desc": "Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose à la fois.",
+   "lang": "HTML",
+   "stars": 549,
+   "forks": 3,
+   "growth": 549.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-11-26",
+   "pushed": "2026-11-26",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.572,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 48.4
+  },
+  {
+   "full": "cursor/plugins",
+   "url": "https://github.com/cursor/plugins",
+   "desc": "Cursor plugin specification and official plugins",
+   "lang": "TypeScript",
+   "stars": 19915,
+   "forks": 2200,
+   "growth": 242.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [],
+   "created": "2026-01-23",
+   "pushed": "2026-11-26",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 7.473,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 47.8
+  },
+  {
+   "full": "ZigZagBoi1/ScarlettPort",
+   "url": "https://github.com/ZigZagBoi1/ScarlettPort",
+   "desc": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
+   "lang": "Rust",
+   "stars": 989,
+   "forks": 126,
+   "growth": 329.7,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "amd",
+    "compatibility-layer",
+    "d3d12",
+    "directx12",
+    "dxil",
+    "game-port"
+   ],
+   "created": "2026-11-24",
+   "pushed": "2026-11-27",
+   "license": "",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 7.181,
+   "first_seen": "2026-11-27",
+   "downloads": 13573,
+   "score": 45.9
+  },
+  {
+   "full": "Moh4696/inkworks-skill",
+   "url": "https://github.com/Moh4696/inkworks-skill",
+   "desc": "Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an engineering sheet.",
+   "lang": "JavaScript",
+   "stars": 513,
+   "forks": 52,
+   "growth": 256.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "3d",
+    "agent-skills",
+    "claude-code",
+    "education",
+    "explainer",
+    "threejs"
+   ],
+   "created": "2026-11-25",
+   "pushed": "2026-11-25",
+   "license": "MIT",
+   "homepage": "https://x.com/exploraX_",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.799,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 43.5
+  },
+  {
+   "full": "zortos293/XSEmu",
+   "url": "https://github.com/zortos293/XSEmu",
+   "desc": "Experimental Xbox Series X|S (GDK) title runner for Windows, built on the XCL translation layer: D3D12.X to D3D12, RDNA2 shaders to DXIL.",
+   "lang": "Rust",
+   "stars": 826,
+   "forks": 58,
+   "growth": 206.5,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "compatibility-layer",
+    "d3d12",
+    "dxil",
+    "emulator",
+    "gdk",
+    "hlsl"
+   ],
+   "created": "2026-11-23",
+   "pushed": "2026-11-27",
+   "license": "GPL-2.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.679,
+   "first_seen": "2026-11-27",
+   "downloads": 2048,
+   "score": 42.7
+  },
+  {
+   "full": "ProjectLeonidaL/leonida",
+   "url": "https://github.com/ProjectLeonidaL/leonida",
+   "desc": "Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through static recompilation.",
+   "lang": "Rust",
+   "stars": 531,
+   "forks": 81,
+   "growth": 177.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "community-driven",
+    "gta6",
+    "gta6-pc",
+    "gtavi",
+    "leonida",
+    "open-source"
+   ],
+   "created": "2026-11-24",
+   "pushed": "2026-11-27",
+   "license": "GPL-3.0",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.437,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 41.1
+  },
+  {
+   "full": "peak85-sketch/stardew-valley-mod-manager",
+   "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+   "desc": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles.",
+   "lang": "C#",
+   "stars": 509,
+   "forks": 0,
+   "growth": 127.2,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "avaloniaui",
+    "cross-platform",
+    "csharp",
+    "desktop",
+    "desktop-application",
+    "dotnet"
+   ],
+   "created": "2026-11-23",
+   "pushed": "2026-11-23",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "új"
+   ],
+   "buzz": 6.101,
+   "first_seen": "2026-11-27",
+   "downloads": 22,
+   "score": 39.0
+  },
+  {
+   "full": "flutter/flutter",
+   "url": "https://github.com/flutter/flutter",
+   "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+   "lang": "Dart",
+   "stars": 181567,
+   "forks": 32027,
+   "growth": 35.3,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "app-framework",
+    "cross-platform",
+    "dart",
+    "dart-platform",
+    "desktop"
+   ],
+   "created": "2015-03-06",
+   "pushed": "2026-11-27",
+   "license": "BSD-3-Clause",
+   "homepage": "https://flutter.dev",
+   "src": [],
+   "buzz": 6.014,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 38.4
+  },
+  {
+   "full": "Developer-Y/cs-video-courses",
+   "url": "https://github.com/Developer-Y/cs-video-courses",
+   "desc": "List of Computer Science courses with video lectures.",
+   "lang": "",
+   "stars": 85002,
+   "forks": 11672,
+   "growth": 36.4,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "algorithms",
+    "bioinformatics",
+    "computational-biology",
+    "computational-physics",
+    "computer-architecture",
+    "computer-science"
+   ],
+   "created": "2016-10-21",
+   "pushed": "2026-11-24",
+   "license": "",
+   "homepage": "",
+   "src": [],
+   "buzz": 5.893,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 37.7
+  },
+  {
+   "full": "samuelgursky/davinci-resolve-mcp",
+   "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+   "desc": "MCP server integration for DaVinci Resolve Studio",
+   "lang": "Python",
+   "stars": 4450,
+   "forks": 506,
+   "growth": 66.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "blackmagic",
+    "blackmagic-design",
+    "blackmagicdesign",
+    "davinci-resolve",
+    "davinciresolve",
+    "mcp"
+   ],
+   "created": "2025-03-18",
+   "pushed": "2026-11-27",
+   "license": "MIT",
+   "homepage": "",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.885,
+   "first_seen": "2026-11-27",
+   "downloads": 0,
+   "score": 37.6
+  },
+  {
+   "full": "tianma-if/edgeever",
+   "url": "https://github.com/tianma-if/edgeever",
+   "desc": "AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker.",
+   "lang": "TypeScript",
+   "stars": 3639,
+   "forks": 1882,
+   "growth": 58.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "ai-agent",
+    "cloudflare",
+    "cloudflare-workers",
+    "diagrams",
+    "docker",
+    "evernote"
+   ],
+   "created": "2026-06-26",
+   "pushed": "2026-11-27",
+   "license": "AGPL-3.0",
+   "homepage": "https://edgeever.org",
+   "src": [
+    "trending"
+   ],
+   "buzz": 5.717,
+   "first_seen": "2026-11-27",
+   "downloads": 55584,
+   "score": 36.5
+  },
+  {
+   "full": "sxyazi/yazi",
+   "url": "https://github.com/sxyazi/yazi",
+   "desc": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+   "lang": "Rust",
+   "stars": 43697,
+   "forks": 1081,
+   "growth": 28.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "asyncio",
+    "cli",
+    "command-line",
+    "concurrency",
+    "cross-platform"
+   ],
+   "created": "2023-07-08",
+   "pushed": "2026-11-22",
+   "license": "MIT",
+   "homepage": "https://yazi-rs.github.io",
+   "src": [],
+   "buzz": 5.504,
+   "first_seen": "2026-11-27",
+   "downloads": 692683,
+   "score": 35.2
+  },
+  {
+   "full": "DioxusLabs/dioxus",
+   "url": "https://github.com/DioxusLabs/dioxus",
+   "desc": "Fullstack app framework for web, desktop, and mobile.",
+   "lang": "Rust",
+   "stars": 39948,
+   "forks": 1996,
+   "growth": 18.0,
+   "hn_points": 0,
+   "hn_comments": 0,
+   "hn_url": "",
+   "topics": [
+    "android",
+    "css",
+    "desktop",
+    "html",
+    "ios",
+    "native"
+   ],
+   "created": "2021-01-15",
+   "pushed": "2026-11-27",
+   "license": "Apache-2.0",
+   "homepage": "https://dioxuslabs.com",
+   "src": [],
+   "buzz": 5.064,
+   "first_seen": "2026-11-27",
+   "downloads": 309540,
+   "score": 32.4
+  },
   {
    "full": "lsernau/grh-lean",
    "url": "https://github.com/lsernau/grh-lean",
@@ -26,7 +748,8 @@
    "buzz": 17.625,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 100.0
+   "score": 100.0,
+   "old": true
   },
   {
    "full": "alesha-pro/llm.asm",
@@ -58,7 +781,8 @@
    "buzz": 16.097,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 91.3
+   "score": 91.3,
+   "old": true
   },
   {
    "full": "google-research/google-research",
@@ -86,7 +810,8 @@
    "buzz": 11.919,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 67.6
+   "score": 67.6,
+   "old": true
   },
   {
    "full": "intel/intel-one-mono",
@@ -110,7 +835,8 @@
    "buzz": 9.974,
    "first_seen": "2026-11-26",
    "downloads": 212251,
-   "score": 56.6
+   "score": 56.6,
+   "old": true
   },
   {
    "full": "Ebony-Vinyl/dsh-our-free-model",
@@ -139,7 +865,8 @@
    "buzz": 9.523,
    "first_seen": "2026-11-26",
    "downloads": 53860,
-   "score": 54.0
+   "score": 54.0,
+   "old": true
   },
   {
    "full": "mvanhorn/last30days-skill",
@@ -170,7 +897,8 @@
    "buzz": 8.874,
    "first_seen": "2026-11-26",
    "downloads": 3809,
-   "score": 50.3
+   "score": 50.3,
+   "old": true
   },
   {
    "full": "avatarmanz/VIctory-7900XTX",
@@ -194,7 +922,8 @@
    "buzz": 8.847,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 50.2
+   "score": 50.2,
+   "old": true
   },
   {
    "full": "umbradev315/ffmpeg-video-audio-converter",
@@ -225,7 +954,8 @@
    "buzz": 6.481,
    "first_seen": "2026-11-26",
    "downloads": 16,
-   "score": 36.8
+   "score": 36.8,
+   "old": true
   },
   {
    "full": "click6067-ship-it/token-tv",
@@ -256,7 +986,8 @@
    "buzz": 6.311,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 35.8
+   "score": 35.8,
+   "old": true
   },
   {
    "full": "qier222/YesPlayMusic",
@@ -285,7 +1016,8 @@
    "buzz": 5.774,
    "first_seen": "2026-11-26",
    "downloads": 2099264,
-   "score": 32.8
+   "score": 32.8,
+   "old": true
   },
   {
    "full": "ClickHouse/ClickHouse",
@@ -314,7 +1046,8 @@
    "buzz": 5.634,
    "first_seen": "2026-11-26",
    "downloads": 9806,
-   "score": 32.0
+   "score": 32.0,
+   "old": true
   },
   {
    "full": "team-spotube/spotube",
@@ -343,7 +1076,8 @@
    "buzz": 5.602,
    "first_seen": "2026-11-26",
    "downloads": 2803583,
-   "score": 31.8
+   "score": 31.8,
+   "old": true
   },
   {
    "full": "rikkahub/rikkahub",
@@ -374,7 +1108,8 @@
    "buzz": 5.564,
    "first_seen": "2026-11-26",
    "downloads": 61103,
-   "score": 31.6
+   "score": 31.6,
+   "old": true
   },
   {
    "full": "bendlang/bend",
@@ -405,7 +1140,8 @@
    "buzz": 5.559,
    "first_seen": "2026-11-26",
    "downloads": 200465,
-   "score": 31.5
+   "score": 31.5,
+   "old": true
   },
   {
    "full": "google-ai-edge/mediapipe",
@@ -434,7 +1170,8 @@
    "buzz": 5.51,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 31.3
+   "score": 31.3,
+   "old": true
   },
   {
    "full": "yuliskov/SmartTube",
@@ -463,7 +1200,8 @@
    "buzz": 5.503,
    "first_seen": "2026-11-26",
    "downloads": 266945,
-   "score": 31.2
+   "score": 31.2,
+   "old": true
   },
   {
    "full": "karakeep-app/karakeep",
@@ -492,7 +1230,8 @@
    "buzz": 5.501,
    "first_seen": "2026-11-26",
    "downloads": 0,
-   "score": 31.2
+   "score": 31.2,
+   "old": true
   },
   {
    "full": "siyuan-note/siyuan",
@@ -521,7 +1260,8 @@
    "buzz": 5.486,
    "first_seen": "2026-11-26",
    "downloads": 103990,
-   "score": 31.1
+   "score": 31.1,
+   "old": true
   },
   {
    "full": "GopeedLab/gopeed",
@@ -550,7 +1290,8 @@
    "buzz": 5.482,
    "first_seen": "2026-11-26",
    "downloads": 1311111,
-   "score": 31.1
+   "score": 31.1,
+   "old": true
   },
   {
    "full": "Significant-Gravitas/AutoGPT",
@@ -579,7 +1320,8 @@
    "buzz": 5.373,
    "first_seen": "2026-11-26",
    "downloads": 14,
-   "score": 30.5
+   "score": 30.5,
+   "old": true
   },
   {
    "full": "apache/airflow",
@@ -610,7 +1352,8 @@
    "buzz": 5.333,
    "first_seen": "2026-11-26",
    "downloads": 5912,
-   "score": 30.3
+   "score": 30.3,
+   "old": true
   },
   {
    "full": "onyx-dot-app/onyx",
@@ -639,7 +1382,8 @@
    "buzz": 5.303,
    "first_seen": "2026-11-26",
    "downloads": 5724,
-   "score": 30.1
+   "score": 30.1,
+   "old": true
   },
   {
    "full": "zhayujie/CowAgent",
@@ -668,7 +1412,8 @@
    "buzz": 5.292,
    "first_seen": "2026-11-26",
    "downloads": 3388,
-   "score": 30.0
+   "score": 30.0,
+   "old": true
   },
   {
    "full": "google-ai-edge/gallery",
@@ -692,7 +1437,8 @@
    "buzz": 5.248,
    "first_seen": "2026-11-26",
    "downloads": 106351,
-   "score": 29.8
+   "score": 29.8,
+   "old": true
   },
   {
    "full": "netdata/netdata",
@@ -721,7 +1467,8 @@
    "buzz": 5.206,
    "first_seen": "2026-11-26",
    "downloads": 396093,
-   "score": 29.5
+   "score": 29.5,
+   "old": true
   },
   {
    "full": "sous-labs/songe",
@@ -2182,753 +2929,6 @@
    "first_seen": "2026-11-24",
    "downloads": 0,
    "score": 42.5,
-   "old": true
-  },
-  {
-   "full": "AFK-surf/xnulinux",
-   "url": "https://github.com/AFK-surf/xnulinux",
-   "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-   "lang": "Objective-C++",
-   "stars": 1118,
-   "forks": 37,
-   "growth": 372.7,
-   "hn_points": 453,
-   "hn_comments": 196,
-   "hn_url": "https://news.ycombinator.com/item?id=50607261",
-   "topics": [],
-   "created": "2026-11-20",
-   "pushed": "2026-11-23",
-   "license": "",
-   "homepage": "",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 16.782,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 100.0,
-   "old": true
-  },
-  {
-   "full": "os6/nospeaker",
-   "url": "https://github.com/os6/nospeaker",
-   "desc": "make your macbook's trackpad talk using its haptic motor",
-   "lang": "Swift",
-   "stars": 992,
-   "forks": 53,
-   "growth": 992.0,
-   "hn_points": 46,
-   "hn_comments": 17,
-   "hn_url": "https://news.ycombinator.com/item?id=50610318",
-   "topics": [
-    "haptics",
-    "macos",
-    "swift",
-    "trackpad"
-   ],
-   "created": "2026-11-22",
-   "pushed": "2026-11-22",
-   "license": "MIT",
-   "homepage": "https://x.com/codycollier",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 14.057,
-   "first_seen": "2026-11-23",
-   "downloads": 2955,
-   "score": 83.8,
-   "old": true
-  },
-  {
-   "full": "gulivan/worker755",
-   "url": "https://github.com/gulivan/worker755",
-   "desc": "A browser game where an AI manager thinks you are its subagent. Play at worker755.com",
-   "lang": "TypeScript",
-   "stars": 195,
-   "forks": 7,
-   "growth": 16.2,
-   "hn_points": 341,
-   "hn_comments": 82,
-   "hn_url": "https://news.ycombinator.com/item?id=50599762",
-   "topics": [],
-   "created": "2026-11-11",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "https://worker755.com",
-   "src": [
-    "új",
-    "hn"
-   ],
-   "buzz": 12.673,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 75.5,
-   "old": true
-  },
-  {
-   "full": "mjwsolo/localcode",
-   "url": "https://github.com/mjwsolo/localcode",
-   "desc": "Agentic coding. Local models. On your Mac.",
-   "lang": "C++",
-   "stars": 127,
-   "forks": 2,
-   "growth": 0.0,
-   "hn_points": 66,
-   "hn_comments": 18,
-   "hn_url": "https://news.ycombinator.com/item?id=50604540",
-   "topics": [],
-   "created": "2026-04-05",
-   "pushed": "2026-11-22",
-   "license": "Apache-2.0",
-   "homepage": "https://mjwsolo.github.io/localcode/",
-   "src": [
-    "hn"
-   ],
-   "buzz": 7.194,
-   "first_seen": "2026-11-23",
-   "downloads": 29,
-   "score": 42.9,
-   "old": true
-  },
-  {
-   "full": "Stirling-Tools/Stirling-PDF",
-   "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-   "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-   "lang": "TypeScript",
-   "stars": 97289,
-   "forks": 9397,
-   "growth": 81.9,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "docker",
-    "hacktoberfest",
-    "java",
-    "pdf",
-    "pdf-converter",
-    "pdf-editor"
-   ],
-   "created": "2023-01-27",
-   "pushed": "2026-11-23",
-   "license": "",
-   "homepage": "https://stirling.com",
-   "src": [],
-   "buzz": 6.715,
-   "first_seen": "2026-11-23",
-   "downloads": 601537,
-   "score": 40.0,
-   "old": true
-  },
-  {
-   "full": "w01fb0ss/PiBot",
-   "url": "https://github.com/w01fb0ss/PiBot",
-   "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-   "lang": "TypeScript",
-   "stars": 477,
-   "forks": 67,
-   "growth": 238.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent",
-    "ai-agent",
-    "ai-agents",
-    "ai-assistant",
-    "android",
-    "automation"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "Apache-2.0",
-   "homepage": "https://pibot.space",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.712,
-   "first_seen": "2026-11-23",
-   "downloads": 216,
-   "score": 40.0,
-   "old": true
-  },
-  {
-   "full": "INK-Q/agy-fast",
-   "url": "https://github.com/INK-Q/agy-fast",
-   "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
-   "lang": "TypeScript",
-   "stars": 733,
-   "forks": 43,
-   "growth": 183.2,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-agent",
-    "ai-coding",
-    "antigravity",
-    "antigravity-cli",
-    "antigravity-ide",
-    "antigravity-plugins"
-   ],
-   "created": "2026-11-19",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.536,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 38.9,
-   "old": true
-  },
-  {
-   "full": "sshkeda/minecraft-server-on-orange-cloud",
-   "url": "https://github.com/sshkeda/minecraft-server-on-orange-cloud",
-   "desc": "Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing.",
-   "lang": "TypeScript",
-   "stars": 410,
-   "forks": 9,
-   "growth": 205.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "bun",
-    "cloudflare",
-    "cloudflare-containers",
-    "cloudflare-workers",
-    "durable-objects",
-    "effect"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-21",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.532,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 38.9,
-   "old": true
-  },
-  {
-   "full": "realdody/americas-recomp",
-   "url": "https://github.com/realdody/americas-recomp",
-   "desc": "",
-   "lang": "",
-   "stars": 561,
-   "forks": 87,
-   "growth": 187.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-20",
-   "pushed": "2026-11-23",
-   "license": "GPL-2.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.503,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 38.7,
-   "old": true
-  },
-  {
-   "full": "BerriAI/litellm",
-   "url": "https://github.com/BerriAI/litellm",
-   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-   "lang": "Python",
-   "stars": 63761,
-   "forks": 13493,
-   "growth": 72.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ai-gateway",
-    "anthropic",
-    "azure-openai",
-    "bedrock",
-    "gateway",
-    "langchain"
-   ],
-   "created": "2023-07-27",
-   "pushed": "2026-11-23",
-   "license": "",
-   "homepage": "https://docs.litellm.ai/docs/",
-   "src": [],
-   "buzz": 6.503,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 38.7,
-   "old": true
-  },
-  {
-   "full": "danielwh2/sprite-stacking",
-   "url": "https://github.com/danielwh2/sprite-stacking",
-   "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-   "lang": "HTML",
-   "stars": 587,
-   "forks": 46,
-   "growth": 169.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-skills",
-    "claude-code",
-    "codex",
-    "cursor",
-    "fake-3d",
-    "gamedev"
-   ],
-   "created": "2026-11-20",
-   "pushed": "2026-11-21",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.411,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 38.2,
-   "old": true
-  },
-  {
-   "full": "ThreatDefence/agentic-attack-detections",
-   "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-   "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Suricata, Zeek, YARA, Splunk, Elastic, STIX 2.1.",
-   "lang": "Python",
-   "stars": 519,
-   "forks": 105,
-   "growth": 173.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agentic-ai",
-    "ai-security",
-    "blue-team",
-    "defender-xdr",
-    "detection-engineering",
-    "ioc"
-   ],
-   "created": "2026-11-20",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "https://threatdefence.com/article/artex-agentic-attack-framework-detection-hunting",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.41,
-   "first_seen": "2026-11-23",
-   "downloads": 306,
-   "score": 38.2,
-   "old": true
-  },
-  {
-   "full": "infiniflow/ragflow",
-   "url": "https://github.com/infiniflow/ragflow",
-   "desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
-   "lang": "Go",
-   "stars": 94590,
-   "forks": 11370,
-   "growth": 60.1,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agent-harness",
-    "agent-native-database",
-    "agentic-ai",
-    "agentic-retrieval",
-    "agentic-search",
-    "ai"
-   ],
-   "created": "2023-12-12",
-   "pushed": "2026-11-23",
-   "license": "Apache-2.0",
-   "homepage": "https://ragflow.io",
-   "src": [],
-   "buzz": 6.405,
-   "first_seen": "2026-11-23",
-   "downloads": 14949,
-   "score": 38.2,
-   "old": true
-  },
-  {
-   "full": "langchain-ai/langchain",
-   "url": "https://github.com/langchain-ai/langchain",
-   "desc": "The agent engineering platform.",
-   "lang": "Python",
-   "stars": 149989,
-   "forks": 25160,
-   "growth": 54.6,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "agents",
-    "ai",
-    "ai-agents",
-    "anthropic",
-    "chatgpt",
-    "deepagents"
-   ],
-   "created": "2022-10-17",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "https://docs.langchain.com/langchain/",
-   "src": [],
-   "buzz": 6.402,
-   "first_seen": "2026-11-23",
-   "downloads": 142,
-   "score": 38.1,
-   "old": true
-  },
-  {
-   "full": "2dust/v2rayNG",
-   "url": "https://github.com/2dust/v2rayNG",
-   "desc": "A V2Ray client for Android, support Xray core and v2fly core",
-   "lang": "Kotlin",
-   "stars": 66404,
-   "forks": 8719,
-   "growth": 61.1,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "android",
-    "proxy",
-    "shadowsocks",
-    "socks5",
-    "trojan",
-    "v2fly"
-   ],
-   "created": "2019-05-15",
-   "pushed": "2026-11-23",
-   "license": "GPL-3.0",
-   "homepage": "https://v2rayng.2dust.link",
-   "src": [],
-   "buzz": 6.349,
-   "first_seen": "2026-11-23",
-   "downloads": 1593019,
-   "score": 37.8,
-   "old": true
-  },
-  {
-   "full": "ItsNotRexed/Hookshot",
-   "url": "https://github.com/ItsNotRexed/Hookshot",
-   "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
-   "lang": "C++",
-   "stars": 489,
-   "forks": 12,
-   "growth": 163.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-20",
-   "pushed": "2026-11-22",
-   "license": "GPL-3.0",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.339,
-   "first_seen": "2026-11-23",
-   "downloads": 2235,
-   "score": 37.8,
-   "old": true
-  },
-  {
-   "full": "icitycode/capcut-for-windows",
-   "url": "https://github.com/icitycode/capcut-for-windows",
-   "desc": "CapCut for Windows: Visual Video Editing and Screen Recording Workflow",
-   "lang": "HTML",
-   "stars": 348,
-   "forks": 0,
-   "growth": 174.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "capcut-activated",
-    "capcut-crack-2026",
-    "capcut-cracked-2026",
-    "capcut-exe",
-    "capcut-for-free"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.336,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.8,
-   "old": true
-  },
-  {
-   "full": "xikhar/papercraft",
-   "url": "https://github.com/xikhar/papercraft",
-   "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
-   "lang": "JavaScript",
-   "stars": 348,
-   "forks": 34,
-   "growth": 174.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [],
-   "created": "2026-11-21",
-   "pushed": "2026-11-21",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.336,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.8,
-   "old": true
-  },
-  {
-   "full": "vinujak/phantom-blade-zero-modifier",
-   "url": "https://github.com/vinujak/phantom-blade-zero-modifier",
-   "desc": "Phantom Blade Zero Modifier: God Mode, Infinite Health, One-Hit Kill Trainer for Windows",
-   "lang": "HTML",
-   "stars": 340,
-   "forks": 0,
-   "growth": 170.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "overlay",
-    "phantom-blade-zero",
-    "phantom-blade-zero-2026",
-    "phantom-blade-zero-mod",
-    "phantom-blade-zero-mod-menu",
-    "phantom-blade-zero-trainer"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.308,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.6,
-   "old": true
-  },
-  {
-   "full": "Dhruv2710-hub/cellebrite-ufed",
-   "url": "https://github.com/Dhruv2710-hub/cellebrite-ufed",
-   "desc": "Cellebrite UFED: Complete Forensic Suite with Full Toolset, Ready to Run",
-   "lang": "HTML",
-   "stars": 340,
-   "forks": 0,
-   "growth": 170.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "cellebrite",
-    "cellebrite-2026",
-    "cellebrite-crack",
-    "cellebrite-free",
-    "cellebrite-setup"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.308,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.6,
-   "old": true
-  },
-  {
-   "full": "dillithdillith4-cell/autodesk-cfd",
-   "url": "https://github.com/dillithdillith4-cell/autodesk-cfd",
-   "desc": "Autodesk CFD Desktop Setup: Full Computational Fluid Dynamics Toolkit",
-   "lang": "HTML",
-   "stars": 340,
-   "forks": 1,
-   "growth": 170.0,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "cfd-simulation",
-    "cfd-toolbox",
-    "cfdtool-toolbox",
-    "desktop",
-    "developer-tools"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.308,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.6,
-   "old": true
-  },
-  {
-   "full": "Adabi0304/studioonepro7-release",
-   "url": "https://github.com/Adabi0304/studioonepro7-release",
-   "desc": "Studioonepro7 Release: Complete Desktop Suite with All Features Included",
-   "lang": "HTML",
-   "stars": 339,
-   "forks": 0,
-   "growth": 169.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "desktop",
-    "developer-tools",
-    "open-source",
-    "presonus-2026",
-    "presonus-studio-one-pro"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.305,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.6,
-   "old": true
-  },
-  {
-   "full": "Urvee003/bloxshade-for-roblox",
-   "url": "https://github.com/Urvee003/bloxshade-for-roblox",
-   "desc": "BloxShade for Roblox: Desktop Enhancement Suite with Shader Controls",
-   "lang": "HTML",
-   "stars": 339,
-   "forks": 0,
-   "growth": 169.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "automation",
-    "desktop",
-    "developer-tools",
-    "open-source",
-    "python",
-    "scripts"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.305,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.6,
-   "old": true
-  },
-  {
-   "full": "yrf15gamin-pixel/ashampoo-winoptimizer-pro",
-   "url": "https://github.com/yrf15gamin-pixel/ashampoo-winoptimizer-pro",
-   "desc": "Ashampoo WinOptimizer Pro: Advanced Windows Tuning and System Optimization Suite",
-   "lang": "HTML",
-   "stars": 339,
-   "forks": 0,
-   "growth": 169.5,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "ashampoo-gmbh",
-    "ashampoo-uninstaller-install-setup-windows-2026",
-    "ashampoo-winoptimizer-system-clea",
-    "ashampoo-winoptimizer-windows",
-    "automation",
-    "clean-up"
-   ],
-   "created": "2026-11-21",
-   "pushed": "2026-11-23",
-   "license": "MIT",
-   "homepage": "",
-   "src": [
-    "új"
-   ],
-   "buzz": 6.305,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.6,
-   "old": true
-  },
-  {
-   "full": "huggingface/transformers",
-   "url": "https://github.com/huggingface/transformers",
-   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
-   "lang": "Python",
-   "stars": 169401,
-   "forks": 35276,
-   "growth": 44.8,
-   "hn_points": 0,
-   "hn_comments": 0,
-   "hn_url": "",
-   "topics": [
-    "audio",
-    "deep-learning",
-    "deepseek",
-    "gemma",
-    "glm",
-    "hacktoberfest"
-   ],
-   "created": "2018-10-29",
-   "pushed": "2026-11-23",
-   "license": "Apache-2.0",
-   "homepage": "https://huggingface.co/transformers",
-   "src": [],
-   "buzz": 6.232,
-   "first_seen": "2026-11-23",
-   "downloads": 0,
-   "score": 37.1,
    "old": true
   }
  ]
